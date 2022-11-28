@@ -13,4 +13,6 @@ links:
         url: /who-we-are/Our-Code-Of-Conduct/sss
   - title: The Hua Yi Experience
     url: /the-huayi-experience/aa
-    sublinks: []
+    sublinks:
+      - title: A Passionate Learner
+        url: /the-huayi-experience/aa
