@@ -58,9 +58,9 @@ description: ""
 |:---:|---|---|---|
 | 22-1A<br><br>**_(Fortius)_** | Mr Yazid<br><br>Mrs Shernice Chia | [yazid\_hussein@schools.gov.sg](mailto:yazid_hussein@schools.gov.sg)<br><br>[goh\_chin\_hwee@schools.gov.sg](mailto:goh_chin_hwee@schools.gov.sg) | 312<br><br>333 |
 | 22-1B<br><br>**_(Latius)_** | Ms Tok Peilin<br><br>Ms Caroline Tracy | [tok\_peilin@schools.gov.sg](mailto:tok_peilin@schools.gov.sg)<br><br>[caroline\_tracy@schools.gov.sg](mailto:caroline_tracy@schools.gov.sg) | 309<br><br>332 |
-| 22-1C<br><br>_**(Altius)**_ | Mr Chong Kai Qin<br><br>Ms Lee Hui Ling |  |  |
-| 22-1D<br><br>**_(Diutius)_** | Mdm Adlin Ratini<br><br>Mr Benjamin Lim |  |  |
-| 22-1E<br><br>_**(Citius)**_ | Mr Lim Gim Siong<br><br>Mdm Nur Syahirah |  |  |
+| 22-1C<br><br>_**(Altius)**_ | Mr Chong Kai Qin<br><br>Ms Lee Hui Ling | [chong\_kai\_qin@schools.gov.sg](mailto:chong_kai_qin@schools.gov.sg)<br><br>[lee\_hui\_ling@schools.gov.sg](mailto:lee_hui_ling@schools.gov.sg) | 320<br><br>303 |
+| 22-1D<br><br>**_(Diutius)_** | Mdm Adlin Ratini<br><br>Mr Benjamin Lim | [adlin\_ratini\_anwar@schools.gov.sg](mailto:adlin_ratini_anwar@schools.gov.sg)<br><br>[kang\_yong\_benjamin\_lim@schools.gov.sg](mailto:kang_yong_benjamin_lim@schools.gov.sg) | 301<br><br>320 |
+| 22-1E<br><br>_**(Citius)**_ | Mr Lim Gim Siong<br><br>Mdm Nur Syahirah | [lim\_gim\_siong@schools.gov.sg](mailto:lim_gim_siong@schools.gov.sg)<br><br>[nur\_syahirah\_ahmad@schools.gov.sg](mailto:nur_syahirah_ahmad@schools.gov.sg) | 303<br><br>325 |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
