@@ -2,7 +2,6 @@ collections:
   staff-departments:
     output: true
     order:
-      - Staff By Departments/Character & Citizenship Education Committee.md
       - Staff By Departments/.keep
       - Staff By Departments/Staff (by Departments).md
       - Staff By Departments/School Management Committee.md
@@ -14,3 +13,4 @@ collections:
       - Staff By Departments/Craft & Technology.md
       - Staff By Departments/PE n CCA n Aesthetics.md
       - Staff By Departments/Infocomm Technology.md
+      - Staff By Departments/Character & Citizenship Education Committee.md
