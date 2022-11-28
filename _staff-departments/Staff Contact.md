@@ -86,13 +86,7 @@ description: ""
 | 20-3B<br><br>**_(Diutius)_** | Mdm Adillah<br><br>Mr See Chee Wah | [adillah\_mustafa@schools.gov.sg](mailto:adillah_mustafa@schools.gov.sg)<br><br>[see\_chee\_wah@schools.gov.sg](mailto:see_chee_wah@schools.gov.sg) | 327<br><br>316 |
 | 20-3C<br><br>**_(Fortius)_** | Mdm Nurul Dini<br><br>Ms Chan Siming<br><br>Mdm Keh Hwee Peng | [nurul\_dini\_abdul\_rahim@schools.gov.sg](mailto:nurul_dini_abdul_rahim@schools.gov.sg)<br><br>[siming\_chan@schools.gov.sg](mailto:siming_chan@schools.gov.sg)<br><br>[keh\_hwee\_peng@schools.gov.sg](mailto:keh_hwee_peng@schools.gov.sg) | 317<br><br>301<br><br>300 |
 | 20-3D<br><br>**_(Latius)_** | Ms Tan Ka Shin<br><br>Ms Zahrah | [tan\_ka\_shin@schools.gov.sg](mailto:tan_ka_shin@schools.gov.sg)<br><br>[zahrah\_hatraby@schools.gov.sg](mailto:zahrah_hatraby@schools.gov.sg) | 314<br><br>324 |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 20-3E<br><br>**_(Diutius)_** | Mdm Siti Ismalina<br><br>Ms Tan Wan Kiang | [siti\_ismalina\_ismail@schools.gov.sg](mailto:siti_ismalina_ismail@schools.gov.sg)<br><br>[tan\_wan\_kiang@schools.gov.sg](mailto:tan_wan_kiang@schools.gov.sg) | 314<br><br>335 |
+| 20-3F<br><br>**_(Fortius)_** | Mr Bibek Ray Chaudhuri<br><br>Ms Shen Yuanyuan | [bibek\_ray\_chaudhuri@schools.gov.sg](mailto:bibek_ray_chaudhuri@schools.gov.sg)<br><br>[shen\_yuanyuan@schools.gov.sg](mailto:shen_yuanyuan@schools.gov.sg) | 327<br><br>324 |
+| 20-3G<br><br>**_(Altius)_** | Mr Seah Jim Chew<br><br>Ms Serene Hiew | [seah\_jim\_chew@schools.gov.sg](mailto:seah_jim_chew@schools.gov.sg)<br><br>[serene\_hiew\_xue-en@schools.gov.sg](mailto:serene_hiew_xue-en@schools.gov.sg) | 324<br><br>307 |
 |  |  |  |  |
