@@ -80,6 +80,22 @@ third_nav_title: CCAs
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660147.jpeg">
 </a></p> <br clear=left>
 
-### 
+### Clubs & Societies
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660205.jpeg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660214.jpeg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660225.jpeg">
+</a></p> <br clear=left>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660238.jpeg">
+</a></p> <br clear=left>
 
 #### CCA Schedule
