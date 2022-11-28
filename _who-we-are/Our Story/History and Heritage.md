@@ -37,6 +37,12 @@ First two GCMSs commence classes. These were Hua Yi (华义政府华文中学) a
 
 These three government-run Chinese middle schools provide education from the secondary to pre-university level and are established to prevent student unrest. This also marks the beginning of a new era in Singapore’s education, as prior to this, Chinese middle schools were established by the Chinese community to promote culture and retain heritage.  
 
-Hua Yi is initially set up in an English primary school at Fowlie Road, with more than 40 staff and 578 students.
+Hua Yi is initially set up in an English primary school at Fowlie Road, with more than 40 staff and 578 students.<br clear=left><br><br>
 
 <img src="/images/december.png" style="width:49%" align=right>
+
+**December**<br>
+The first batch of 76 students graduates with the High School Certificate from Hua Yi.
+
+#### Year 1957
+
