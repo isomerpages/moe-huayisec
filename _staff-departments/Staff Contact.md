@@ -53,3 +53,20 @@ description: ""
 |  |  |  |  |
 
 #### Secondary 1 Form Teachers
+
+| Designation | Name | Email Address | Extension No. |
+|:---:|---|---|---|
+| 22-1A<br><br>**_(Fortius)_** | Mr Yazid<br><br>Mrs Shernice Chia | [yazid\_hussein@schools.gov.sg](mailto:yazid_hussein@schools.gov.sg)<br><br>[goh\_chin\_hwee@schools.gov.sg](mailto:goh_chin_hwee@schools.gov.sg) | 312<br><br>333 |
+| 22-1B<br><br>**_(Latius)_** | Ms Tok Peilin<br><br>Ms Caroline Tracy | [tok\_peilin@schools.gov.sg](mailto:tok_peilin@schools.gov.sg)<br><br>[caroline\_tracy@schools.gov.sg](mailto:caroline_tracy@schools.gov.sg) | 309<br><br>332 |
+| 22-1C<br><br>_**(Altius)**_ | Mr Chong Kai Qin<br><br>Ms Lee Hui Ling |  |  |
+| 22-1D<br><br>**_(Diutius)_** | Mdm Adlin Ratini<br><br>Mr Benjamin Lim |  |  |
+| 22-1E<br><br>_**(Citius)**_ | Mr Lim Gim Siong<br><br>Mdm Nur Syahirah |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
