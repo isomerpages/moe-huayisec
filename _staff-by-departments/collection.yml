@@ -2,6 +2,7 @@ collections:
   staff-by-departments:
     output: true
     order:
+      - Staff (by Departments)/Staff (by Departments).md
       - Staff (by Departments)/.keep
       - School Management Committee.md
       - English.md
