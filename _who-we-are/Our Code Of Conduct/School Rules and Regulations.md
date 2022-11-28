@@ -195,3 +195,48 @@ Students who may be absent due to any of the above reasons should consult the sc
 4 \.  No recording in any form (audio or video) is permitted. Recording is allowed only if the explicit consent of the school administration and the persons involved is obtained.  
 
 5 \.  Students found using their mobile phones/PLDs inappropriately, or having those items ringing, beeping, etc. during curriculum time, will be dealt with as follows:
+
+| Frequency | Action to be taken |
+|:---:|---|
+| 1 – 2 times | Mobile phones/PLDs to be confiscated **until 5pm on the day of confiscation**. |
+| 3 times and more | Mobile phones/personal learning devices to be confiscated for **1 week**. |
+|  |  |
+
+6 \.  Confiscated mobile phones and personal learning devices will be kept in a secured location in the General Office.
+
+#### Use of School Facilities
+
+##### General Guidelines
+
+1 \.  There should be no removal of furniture or equipment without the approval of the Operations Manager.  
+
+2 \.  Students are to report all damaged items or fixtures within and outside of the classroom to the Operations Manager.  
+
+3 \.  Students are prohibited from putting up posters or notices on any walled surface unless permission has been granted by the Operations Manager.  
+
+4 \.  Students should always help to conserve electricity and water. The use of recycling bins is encouraged to foster a green environment.  
+
+5 \.  School property must be used responsibly and handled with care.  
+   
+6 \.  Staff rooms are out-of-bounds to all students. Students should use the intercom system outside the staff room to contact their teachers.
+
+**School Canteen**<br>
+1 \.  Students must queue up in an orderly manner for their food and drinks.  
+
+2 \.  Cutleries are to be returned to their proper receptacles after each meal.  
+
+3 \.  Students must make sure that the cutlery for Halal food is separated from the cutlery for non-Halal food.  
+
+4 \.  Students are to ensure that there is no littering and spilling of food items in the canteen. This is to ensure meals are consumed in a clean environment.  
+
+5 \.  No food or drinks should be consumed outside the perimeters of the canteen unless permission has been obtained from the school authority.
+
+**Special Rooms**<br>
+1 \.  The special rooms are out of bounds at all times except when students are attending lessons conducted at these venues. Students should assemble quietly and in an orderly manner outside the relevant rooms while waiting for the teacher to give instructions for the lesson.  
+
+2 \.  The school will spare no effort in ensuring the safety of the students by suspending students who persistently violate the rules on responsible behaviour in special rooms.
+
+**Sports Facilities**<br>
+1 \.  Students are free to utilise any of the school’s facilities as long as permission for the use of sports-related facilities has been granted by the Head of Physical Education and CCA.  
+
+2 \.  Physical activities must be carried out only in sports areas, namely the school field, hall, gymnasium, quadrangle and Indoor Sports Hall.
