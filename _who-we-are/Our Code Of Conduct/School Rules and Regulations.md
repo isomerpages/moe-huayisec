@@ -406,6 +406,38 @@ Students will receive demerit points and disciplinary consequences for offences 
 *   Suspension
 *   Caning
 
+| **OFFENCES** | **DESCRIPTIONS** | **POINTS** | 
+|:---:|---|---|
+| **DAMAGE OF PROPERTY** |  |  |  
+| Arson | Planting of explosives or setting of property on fire, whether attempted or actual | 10 |  
+| Vandalism | Wilful and malicious destruction of school or personal property, writing of graffiti | 10 |  
+|  |  |  |  
 
+**OTHER ACTIONS**
 
+*   Parents informed
+*   Restitution
+*   Service to school
+*   Suspension
+*   Caning
+*   Police action
 
+| **OFFENCES** | **DESCRIPTIONS** | **POINTS** |
+|:---:|---|---|
+| **OTHER SERIOUS OFFENCES** |  |  |
+| Assault |Violent attack against person(s), regardless of injury  | 10 |
+| Fighting | Confrontation between individuals or opposing groups in which each attempt to harm or gain power over the other, as with bodily force or weapons | 10 |
+| Gangsterism | Gang assault threat/harassment/extortion, whether actual or attempted | 10 |
+| Pornography | Consumption/possession/distribution/sale of pornographic materials | 10 |
+| Possession of weapons | Possession of weapons that may be used in a crime | 10 |
+| Substance abuse | Use/possession/distribution/sale of alcohol, drugs, inhalants | 10 |
+| Other serious offences that do not fall in above categories | The nature of these offences would be so serious that they may cause physical harm to person(s) or smear the reputation of person(s) or institution(s), etc. | 10 |
+|  |  |  |
+
+**OTHER ACTIONS**
+
+*   Parents informed
+*   Detention
+*   Suspension
+*   Caning
+*   Police action
