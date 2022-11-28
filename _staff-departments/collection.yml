@@ -1,4 +1,5 @@
 collections:
   staff-departments:
     output: true
-    order: []
+    order:
+      - Staff (by Departments).md
