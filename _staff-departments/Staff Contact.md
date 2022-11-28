@@ -104,3 +104,23 @@ description: ""
 | 19-4G<br><br>**_(Citius)_** | Ms Chong Hui Min<br><br>Ms Ong Chi Yen | [chong\_hui\_min\_a@schools.gov.sg](mailto:chong_hui_min_a@schools.gov.sg)<br><br>[ong\_chi\_yen@schools.gov.sg](mailto:ong_chi_yen@schools.gov.sg) | 335<br><br>300 |
 | 18-5A<br><br>**_(Fortius)_** | Mr Daniel Soh<br><br>Mdm Jennifer Yee | [soh\_fu\_quan@schools.gov.sg](mailto:soh_fu_quan@schools.gov.sg)<br><br>[yee\_yin\_fong@schools.gov.sg](mailto:yee_yin_fong@schools.gov.sg) | 327<br><br>309 |
 |  |  |  |  |
+
+#### Executive and Administrative Staff
+
+| Designation | Name | Email Address | Extension No. |
+|:---:|---|---|---|
+| Administration Manager | Mdm Rajeshwari | [rajeshwari\_rajamanikam@schools.gov.sg](mailto:rajeshwari_rajamanikam@schools.gov.sg) | 104 |
+| Administration Manager (ICT) | Mdm Nur Zaheera Bte Abdul Rahim | [nur\_zaheera@schools.gov.sg](mailto:nur_zaheera@schools.gov.sg) | 106 |
+| Operations Manager | Mr Goh Ngian Wa | [goh\_ngian\_wa@schools.gov.sg](mailto:goh_ngian_wa@schools.gov.sg) | 105 |
+| Corporate Support Officer | Mdm Malvimder Kaur | [malvimder\_kaur@schools.gov.sg](mailto:malvimder_kaur@schools.gov.sg) | 100 |
+| Corporate Support Officer | Mdm Asiah | [asiah\_suni@schools.gov.sg](mailto:asiah_suni@schools.gov.sg) | 101 |
+| Corporate Support Officer | Mr Selva Ganesan | [selva\_ganesan\_selva\_segaran@schools.gov.sg](mailto:selva_ganesan_selva_segaran@schools.gov.sg) | 102 |
+| Desktop Engineer | Mr Zulfadli | [g-ncs3226sde@ncs.com.sg](mailto:g-ncs3226sde@ncs.com.sg) | NA |
+| Librarian | Mdm Junaina Jumari | NA | 401 |
+| Senior School Counsellor | Mdm June Chen | [chen\_yee\_sing\_june@schools.gov.sg](mailto:chen_yee_sing_june@schools.gov.sg) | 201 |
+| Senior Special Educational  Needs Officer | Mr Andrew Tang Wing Hong | [andrew\_tang\_wing\_hong@schools.gov.sg](mailto:andrew_tang_wing_hong@schools.gov.sg) | 400 |
+| Technical Support Officer | Mr Tham Chee Yong | [tham\_chee\_yong@schools.gov.sg](mailto:tham_chee_yong@schools.gov.sg) | 400 |
+| Technical Support Officer | Mr Mazlan B Tapar | [mazlan\_b\_tapar@schools.gov.sg](mailto:mazlan_b_tapar@schools.gov.sg) | 400 |
+| Technical Support Officer | Mr Kuek Chee Beng | [kuek\_chee\_beng@schools.gov.sg](mailto:kuek_chee_beng@schools.gov.sg) | 403 |
+| Technical Support Officer | Mr Mohd Asyraf B Mohd Kassim | [mohamed\_asyraf\_mohamed\_kassim@schools.gov.sg](mailto:mohamed_asyraf_mohamed_kassim@schools.gov.sg) | 403 |
+|  |  |  |  |
