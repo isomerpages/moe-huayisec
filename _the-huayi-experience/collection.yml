@@ -2,7 +2,6 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - Independent Learning Day.md
       - Academic Achievement.md
       - Department Programmes/.keep
       - Department Programmes/Department Programmes.md
@@ -16,3 +15,4 @@ collections:
       - Department Programmes/Character and Citizenship Education Department.md
       - Department Programmes/Information Technology Department.md
       - Personalised Digital Learning Programme (PDLP).md
+      - Independent Learning Day.md
