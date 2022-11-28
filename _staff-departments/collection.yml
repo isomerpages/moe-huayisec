@@ -2,4 +2,5 @@ collections:
   staff-departments:
     output: true
     order:
+      - Staff (By Departments)/.keep
       - Staff (by Departments).md
