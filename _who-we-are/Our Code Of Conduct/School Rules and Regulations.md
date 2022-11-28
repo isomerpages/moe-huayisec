@@ -164,3 +164,34 @@ Students who may be absent due to any of the above reasons should consult the sc
 7 \.  The school reserves the right to confiscate accessories deemed inappropriate by the school. Student may also be requested to purchase a new set of uniform or shoes if their attire does not meet the school’s standards.  
 
 8 \.  The school reserves the right to discipline any student found with tattoos and/or body piercings. Disciplinary action may include suspension.
+
+**Classroom Expectations**<br>
+1 \.  Classrooms are used for the purpose of learning only.  
+
+2 \.  Each class should take personal responsibility for the cleanliness and neatness of the classroom.  
+
+3 \.  Students are not allowed to consume food and drinks in the classroom or at any location other than the canteen and other areas designated for food consumption.  
+
+4 \.  Students are expected to adhere to the GAMES approach at the start of every lesson so that effective learning can take place in the classrooms.
+
+|  |  |
+|:---:|---|
+| **G**reet | Stand and greet teachers. |
+| **A**ttendance | Attend all lessons on time. |
+| **M**obile devices | Keep your mobile phones in the bag. Use your PLDs only for learning. |
+| **E**nvironment | Ensure a clean and conducive classroom environment. |
+| **S**tart | Be ready to start learning. |
+|  |  |
+
+5 \.  Students should also observe discipline and orderliness during and between lessons.
+
+**Use of Mobile Phones/Electronic Devices**<br>
+1 \.  Students should not use their mobile phones/personal learning devices (PLDs) during school activities, lessons and CCAs, unless permission is given.  
+
+2 \.  Students are to abide by the Acceptable Use Policy when using their personal learning devices (refer to [Personalised Digital Learning Programme (PDLP)]**INSERT ISOMER SITE** section)  
+
+3 \.  Charging of mobile phones/personal learning devices using school facilities is not allowed without permission.  
+
+4 \.  No recording in any form (audio or video) is permitted. Recording is allowed only if the explicit consent of the school administration and the persons involved is obtained.  
+
+5 \.  Students found using their mobile phones/PLDs inappropriately, or having those items ringing, beeping, etc. during curriculum time, will be dealt with as follows:
