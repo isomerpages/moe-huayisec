@@ -335,3 +335,77 @@ Students can be awarded merit points for good behaviour or socially responsible 
 | Achieving good performance as a class in level or school activities | 1 |
 | Inspiring others to display good behaviour or performance | 1 |
 |  |  |
+
+##### Demerit Points
+
+All students are empowered to make responsible choices aligned with the school values. At the same time, students can expect to face disciplinary consequences if they choose to behave irresponsibly or violate school rules.  
+  
+Students will receive demerit points and disciplinary consequences for offences committed in accordance with the Table of Offences below:
+
+| **OFFENCES** | **DESCRIPTIONS** | **POINTS** |
+|:---:|---|---|
+| **ATTENDANCE** |  |  |
+| Late-coming |Late arrival at school without a valid reason  | NA |
+| Truancy | Complete absence from school on a school day without a valid reason | NA |
+| Skipping CCA | Complete absence from CCA without a valid reason | NA |
+| Skipping classes | Absence from lessons without a valid reason despite being present for school | 1 |
+| Leaving school grounds without permission | Leaving of school grounds after reporting but before the end of the school session without approval | 2 |
+|  |  |  |
+
+**OTHER ACTIONS**
+
+*   Parents informed
+*   Warning
+*   Detention
+*   Suspension
+*   Barred from taking examination
+
+| **OFFENCES** | **DESCRIPTIONS** | **POINTS** |
+|:---:|---|---|
+| **MISCONDUCT** |  |  |
+| Improper attire & grooming | Not in keeping with school rules on attire, hairdo, jewellery, etc. | 1 |
+| Not doing assignments | Not turning in class work, homework, project work, etc. without a valid reason | 1 |
+| Inappropriate use of mobile phones/PLDs | Use of mobile phones or PLDs for non-learning purposes during lessons and CCAs without first seeking the teachers’ permission | 2 |
+| Littering | Dropping or leaving of rubbish in school premises or public places | 2 |
+| Disruptive behaviour | Act or conduct which interferes with the smooth running of class or school events | 2 |
+| Mischief | Act or conduct that causes trouble or disturbance in school premises or public spaces | 3 |
+| Abetment of a serious offence | Failing to report, or provide truthful information on the commission of a serious offence to the school authorities | 3 |
+|  |  |  |
+
+**OTHER ACTIONS**
+
+*   Parents informed
+*   Warning
+*   Detention
+*   Suspension
+*   Confiscation of item
+
+| **OFFENCES** | **DESCRIPTIONS** | **POINTS** | **OTHER ACTIONS** |
+|:---:|---|---|---|
+| **MISCONDUCT** |  |  |  |
+| Cheating in tests/exams | Disregard for exam regulations, possession of notes, copying from others, allowing others to copy or tampering with marks | 3 |*   Parents informed<br>*   Warning<br>*   Detention<br>*   Zero mark awarded |
+| Forgery | Forging of signatures, medical certificates, consent forms, etc. with the intention to deceive | 3 | *   Warning<br>*   Detention<br>*   Parents informed<br>*   Suspension |
+| Smoking | Use/possession/distribution/sale of cigarettes or other tobacco-related products | 3 | *   Parents informed<br>*   Smoking cessation counselling<br>*   Suspension<br>*   Relevant authorities notified |
+|  |  |  |  |
+
+| **OFFENCES** | **DESCRIPTIONS** | **POINTS** |
+|:---:|---|---|
+| **MISCONDUCT** |  |  |
+| Gambling | Use of money in games, betting, etc. | 5 |
+| Theft | Stealing of school property or property belonging to others |5  |
+| Defiance and rudeness | Display of rudeness and disrespect to others | 5 |
+| Bullying | Hurting, frightening or intimidation of others | 5 |
+| Abuse of technology/Non-compliance with PDLP Acceptable Use Policy | Offensive comments on social media/Improper, unlawful or inappropriate use of information communication and technology tools, e.g. computer, personal learning device, mobile phone, etc. | 5 |
+|  |  |  |
+
+**OTHER ACTIONS**
+
+*   Parents informed
+*   Detention
+*   Confiscation of item
+*   Suspension
+*   Caning
+
+
+
+
