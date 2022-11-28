@@ -53,15 +53,15 @@ third_nav_title: CCAs
 ### Visual & Performing Arts
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659895.jpeg">
+<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660000.jpeg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659905.jpeg">
+<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660011.jpeg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659913.jpeg">
+<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660021.jpeg">
 </a></p> <br clear=left>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
