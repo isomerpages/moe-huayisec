@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academic Achievement.md
-      - Department Programmes/Mother Tongue Department.md
       - Department Programmes/.keep
       - Department Programmes/Department Programmes.md
       - Department Programmes/English Department.md
@@ -12,3 +11,4 @@ collections:
       - Department Programmes/Humanities Department.md
       - Department Programmes/Physical Education Department.md
       - Department Programmes/Craft and Technology Department.md
+      - Department Programmes/Mother Tongue Department.md
