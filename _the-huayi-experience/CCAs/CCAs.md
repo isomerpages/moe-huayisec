@@ -129,16 +129,11 @@ third_nav_title: CCAs
 
 |  CCA |  Training Days |  Time |  Venue |
 |:---:|---|---|---|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| **Show Choir** | Tuesday (Vocals)<br><br>Wednesday (Dance) | 3:15 – 6:15 pm<br><br>3:15 – 6:15 pm | AVA Room (Blk A, Level 3, A3-06)<br><br>Dance Studio (Blk A, Level 3, A3-05) |
+| **Concert Band** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Band Room  <br>(Blk G, Level 3, G3-02) |
+| **Cultural Dance** | Tuesday<br><br>Wednesday | 3:15 – 6:15 pm<br><br>3:15 – 6:15 pm | Dance Studio (Blk A, Level 3, A3-05)<br><br>Staff training Room (Blk A, Level 4, A4-05) |
+| **Modern Dance** | Monday<br><br>Thursday | 3:15 – 6:15 pm<br><br>3:15 – 6:15 pm | Dance Studio (Blk A, Level 3, A3-05)<br><br>Seminar Room 4 (Blk D, Level 3, D3-02) |
+| **Guzheng Ensemble** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | AVA Rm  <br>(Blk A, Level 3, A3-06) |
+| **Chinese Language, Drama and Debate** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | iDesign Hub (Blk A, Level 3, A3-06) |
+| **English Language, Drama and Debate** | Monday (Drama)<br><br>Wednesday (Drama and Debate) | 3:15 – 6:15 pm<br><br>3:15 – 6:15 pm | Seminar Room 1 (Blk C, Level 4, C4-04)<br><br>Seminar Room 7 (Blk E, Level 4, E4-02) |
 |  |  |  |  |
