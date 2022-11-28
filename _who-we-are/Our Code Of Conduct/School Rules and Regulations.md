@@ -240,3 +240,30 @@ Students who may be absent due to any of the above reasons should consult the sc
 1 \.  Students are free to utilise any of the school’s facilities as long as permission for the use of sports-related facilities has been granted by the Head of Physical Education and CCA.  
 
 2 \.  Physical activities must be carried out only in sports areas, namely the school field, hall, gymnasium, quadrangle and Indoor Sports Hall.
+
+##### Socially Appropriate Behaviour
+
+1 \.  Students are to conduct themselves well at all times. Courtesy and respect must be given to all concerned.  
+
+2 \.  The school takes a serious view of acts that can tarnish the good name of the school. Thus, students are expected to behave in a respectable manner both within the school and in public.  
+
+3 \.  Students are to reflect the school’s spirit when the school gathers to support a school event and applaud when appropriate. No jeering should be displayed during performances and competitions.
+
+##### Personal Belongings & Property
+
+1 \.  It is the responsibility of students to look after their personal belongings and not leave their valuables unattended in school.  
+
+2 \.  Students are not encouraged to bring valuables or large sums of money to school.  
+
+3 \.  All property found on the school premises should be handed over to the General Office immediately.
+
+##### School Security
+
+Students must cooperate and report all suspicious characters within the school premises to the General Office without delay.  
+
+1 \.  All students must take personal responsibility for the safekeeping of their personal belongings.  
+
+2 \.  All students are not allowed to have in their possession any personal sharp-pointed/sharp-edged tools (e.g. penknives) or weapons. They are also not allowed to bring any weapon or weapon-like item which is used or intended to be used to cause harm to others.
+
+##### Physical Education Lessons
+
