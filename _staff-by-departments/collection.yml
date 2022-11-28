@@ -2,6 +2,7 @@ collections:
   staff-by-departments:
     output: true
     order:
+      - Mathematics.md
       - Science.md
       - Humanities.md
       - Craft & Technology.md
