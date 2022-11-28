@@ -120,3 +120,5 @@ Our candidates from the Secondary Four Express course had also done well in a nu
 | % with 5 or more subject passes | 94% |
 | % eligible for courses in Institute of Technical Education | 100% |
 |  |  |
+
+Our candidates from the Secondary Four Normal (Academic) course had done well in Art Syllabus (A), Chinese Language, Humanities (Social Studies/Geography), Humanities (Social Studies/Literature), Malay Language, Mathematics Syllabus (A) with at least **90% or more passes.** Subjects namely, Additional Mathematics, Design & Technology, Humanities (Social Studies/History), English Language and Tamil Language had attained **100% passes**. Candidates from Secondary Four Normal (Technical) course had done well in Computer Applications, Elements of Office Administration, English Language, Mathematics Syllabus (T), Science Syllabus (T) which had **90% or more passes** while Basic Chinese Language, Basic Malay Language, Basic Tamil Language and Design & Technology had attained **100% passes**.
