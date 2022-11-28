@@ -2,5 +2,6 @@ collections:
   physical-sports:
     output: true
     order:
+      - Basketball.md
       - Volleyball.md
       - Badminton.md
