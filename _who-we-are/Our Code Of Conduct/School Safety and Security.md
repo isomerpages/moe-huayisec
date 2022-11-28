@@ -17,5 +17,5 @@ Hua Yi Secondary School is a safe and secure school for teaching and learning fo
 3 \.  **School Safety & Security Mission**<br>
 To engender a culture of safety, safe practices and security consciousness in members of the school including our partners for all activities conducted by Hua Yi Secondary School.  
       
-4 \.  **School Safety & Security Policy**
+4 \.  **School Safety & Security Policy**<br>
 Hua Yi is committed to ensuring a safe, secure, healthy and accident-free environment for all staff, students and partners.
