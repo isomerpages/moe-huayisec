@@ -2,8 +2,6 @@ collections:
   who-we-are:
     output: true
     order:
-      - Our Code Of Conduct/School Safety and Security.md
-      - Our Code Of Conduct/.keep
       - Our Identity/.keep
       - Our Identity/Principal's Message.md
       - Our Identity/Vision, Mission, Values.md
@@ -13,3 +11,5 @@ collections:
       - Our Story/.keep
       - Our Story/History and Heritage.md
       - Our People/.keep
+      - Our Code Of Conduct/.keep
+      - Our Code Of Conduct/School Safety and Security.md
