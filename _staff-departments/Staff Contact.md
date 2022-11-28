@@ -61,12 +61,6 @@ description: ""
 | 22-1C<br><br>_**(Altius)**_ | Mr Chong Kai Qin<br><br>Ms Lee Hui Ling | [chong\_kai\_qin@schools.gov.sg](mailto:chong_kai_qin@schools.gov.sg)<br><br>[lee\_hui\_ling@schools.gov.sg](mailto:lee_hui_ling@schools.gov.sg) | 320<br><br>303 |
 | 22-1D<br><br>**_(Diutius)_** | Mdm Adlin Ratini<br><br>Mr Benjamin Lim | [adlin\_ratini\_anwar@schools.gov.sg](mailto:adlin_ratini_anwar@schools.gov.sg)<br><br>[kang\_yong\_benjamin\_lim@schools.gov.sg](mailto:kang_yong_benjamin_lim@schools.gov.sg) | 301<br><br>320 |
 | 22-1E<br><br>_**(Citius)**_ | Mr Lim Gim Siong<br><br>Mdm Nur Syahirah | [lim\_gim\_siong@schools.gov.sg](mailto:lim_gim_siong@schools.gov.sg)<br><br>[nur\_syahirah\_ahmad@schools.gov.sg](mailto:nur_syahirah_ahmad@schools.gov.sg) | 303<br><br>325 |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 22-1F<br><br>**_(Altius)_** | Ms Wendy Ng<br><br>Mr Khoo Wei Lun Edwin | [ng\_wei\_ling\_wendy@schools.gov.sg](mailto:ng_wei_ling_wendy@schools.gov.sg)<br><br>[khoo\_wei\_lun\_edwin@schools.gov.sg](mailto:khoo_wei_lun_edwin@schools.gov.sg) | 319<br><br>324 |
+| 22-1G<br><br>**_(Latius)_** | Ms Norhayati<br><br>Mr Oliver Ong | [norhayati\_mohamed\_jasni@schools.gov.sg](mailto:bibek_ray_chaudhuri@schools.gov.sg)<br><br>[ong\_tzuen\_wee\_oliver@schools.gov.sg](mailto:ong_tzuen_wee_oliver@schools.gov.sg) | 330<br><br>323 |
 |  |  |  |  |
