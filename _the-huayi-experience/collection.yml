@@ -2,8 +2,6 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - CCAs/CCAs.md
-      - CCAs/.keep
       - Academic Achievement.md
       - Department Programmes/.keep
       - Department Programmes/Department Programmes.md
@@ -16,6 +14,8 @@ collections:
       - Department Programmes/Mother Tongue Department.md
       - Department Programmes/Character and Citizenship Education Department.md
       - Department Programmes/Information Technology Department.md
+      - CCAs/.keep
+      - CCAs/CCAs.md
       - Personalised Digital Learning Programme (PDLP).md
       - Independent Learning Day.md
       - Level Programmes.md
