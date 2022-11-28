@@ -2,9 +2,9 @@ collections:
   staff-departments:
     output: true
     order:
-      - Staff By Departments/Mathematics.md
       - Staff By Departments/.keep
       - Staff By Departments/Staff (by Departments).md
       - Staff By Departments/School Management Committee.md
       - Staff By Departments/English.md
       - Staff By Departments/Mother Tongue.md
+      - Staff By Departments/Mathematics.md
