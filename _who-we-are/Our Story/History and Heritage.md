@@ -14,6 +14,7 @@ Before its independence in 1965, Singapore was a British colony. Britain surrend
 
 **13 May**<br>
 Students hold a demonstration against the National Service Ordinance. They march to Government House (Istana Negara) to lodge their protest.
+<br clear=left>
 
 ##### Year 1956
 
@@ -95,4 +96,3 @@ Due to the progressive increase in student intake, Hua Yi is shifted to a new, w
 <br clear=right>
 
 #### Year 1985
-
