@@ -267,3 +267,47 @@ Students must cooperate and report all suspicious characters within the school p
 
 ##### Physical Education Lessons
 
+<img src="/images/PE Lesson.jpg" style="width:85%">
+
+1 \.  The attire for physical education lessons is the school PE T-shirt and black shorts with the letters ‘HYSS’ embroidered in red.  
+
+2 \.  Students must wear the stipulated PE attire during PE lessons without fail. CCA jerseys and shorts should not be worn during PE lessons. Recalcitrant students who fail to wear the stipulated PE attire will be dealt with according to the school rules.  
+
+3 \.  Students will change into their PE attire only during PE lessons. Students with PE lessons before breaks must change back into their school uniform for their lessons after the break.  
+
+4 \.  Students who are exempted from physical activities or are physically unfit to participate in PE lessons must show a valid medical certificate (M.C.) to the PE teacher. The PE teacher will assign them duties such as timekeeper, recorder and helper for setting up and retrieval of PE equipment. They will be advised to bring along reading materials as well.  
+
+5 \.  Students who are unwell but without a valid M.C. must still change into their PE attire and report for lesson as per normal. However, they could be exempted from physical activities.  
+
+6 \.  All students are encouraged to keep their valuables with their PE teachers at the beginning of the lesson. The valuables will be kept by their PE teachers and returned at the end of the lesson.  
+
+7 \.  Students who wish to borrow any PE equipment after school from their PE teachers will exchange their student pass for the equipment. Upon return of the equipment, PE teachers will return students their pass.  
+
+8 \.  Students will be given at least one water-break by their PE teachers during each PE lesson. It will take place after every 20-25 minutes depending on the intensity of the physical activities. The Class Chairperson will assist the PE teachers to gather the students after the water-break.
+
+##### Conduct Grading
+
+At the end of each semester, students will be awarded a Conduct Grade. The Conduct Grade is a representation of a student’s conduct and behaviour throughout the year and is awarded at the end of each term.
+
+The criteria to determine the conduct grade received by a student comprise attendance for School and Co-Curricular Activities (CCAs), as well as the Merit and Demerit System (MDS).  
+
+A conduct grade of ‘Fair’ and ‘Poor’ at the end of the year will affect a student’s eligibility for MOE Edusave awards.
+
+| **Conduct Grade  <br>(Lowest of A, B and C)** | **School Attendance (A)** | **CCA Attendance (B)** | **MDS (C)** |
+|:---:|---|---|---|
+| Excellent | Minimum 95% | Minimum 95% | 80 and above |
+| Very Good | Minimum 95% | Minimum 90% | 75 – 79 |
+|Good  | Minimum 85% | Minimum 75% | 65 – 74 |
+| Fair | 75 – 84% | 50 – 74% | 55 – 64 |
+| Poor | Less than 75% | Less than 50% | 54 and below |
+|  |  |  |  |
+
+##### School & CCA Attendance
+
+Attendance and punctuality for school and CCA is essential to a student’s learning and character development.
+
+For conduct grading, school attendance includes % days a student attends school punctually, and absence from school for medical reasons and supported with a valid M.C..
+
+Similarly, CCA attendance includes % days a student attends CCA punctually and absence from CCA for medical reasons and supported with a valid M.C..
+
+Late-coming or absence from school or CCA that is not supported with a valid M.C. will lead to lower conduct grades being awarded.
