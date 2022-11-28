@@ -32,16 +32,9 @@ description: ""
 | SH ICT | Ms Ong Chi Yen | [ong\_chi\_yen@schools.gov.sg](mailto:ong_chi_yen@schools.gov.sg) | 313 |
 | SH PE CCA | Mr Lim Kok Sing | [lim\_kok\_sing@schools.gov.sg](mailto:lim_kok_sing@schools.gov.sg) | 307 |
 | SH English Literature | Ms Kuek Shao Zhen | [kuek\_shao\_zhen@schools.gov.sg](mailto:kuek_shao_zhen@schools.gov.sg) | 309 |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| SH Chemistry | Ms Tok Peilin | [tok\_peilin@schools.gov.sg](mailto:tok_peilin@schools.gov.sg) | 309 |
+| SH Maths | Ms Khoo Ling Shirlynn | [khoo\_ling\_shirlynn@schools.gov.sg](mailto:khoo_ling_shirlynn@schools.gov.sg) | 313 |
+| SH Student Leadership | Ms O Ming Fen | [o\_ming\_fen@schools.gov.sg](mailto:o_ming_fen@schools.gov.sg) | 306 |
+| SH Student Well-Being | Ms Chan Siming | [siming\_\_chan@schools.gov.sg](mailto:siming_chan@schools.gov.sg) | 303 |
+| SH Student Management (Covering) | Ms Lee Taojing | [lee\_taojing@schools.gov.sg](mailto:lee_taojing@schools.gov.sg) | 320 |
 |  |  |  |  |
