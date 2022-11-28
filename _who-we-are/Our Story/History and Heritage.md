@@ -46,3 +46,23 @@ The first batch of 76 students graduates with the High School Certificate from H
 
 #### Year 1957
 
+**April**<br>
+Hua Yi is relocated to Monk’s Hill Primary School at Winstedt Road. Its enrolment increases to 1,240, and it becomes the GCMS with the largest enrolment.
+
+**Mid-December**<br>
+Hua Yi moves to a new campus at Margaret Drive, Queenstown.
+
+<img src="/images/1957.jpg" style="width:85%">
+
+#### Year 1958
+
+<img src="/images/1958.jpg" style="width:49%" align=left>
+
+**17 May**<br>
+Campus is inaugurated by Mr Mohamed Sidik, then-Assistant Minister of Education. In his inauguration speech, he highlights that Hua Yi is the first Chinese middle school established by the government (Straits Times, 18 May 1958). Classes begin in early 1958.
+
+Over time, the school expands with the addition of new facilities to the original building, to cater to the growing needs of the students. Hua Yi GCMS rises to become a premier Chinese school, together with Dunman High and River Valley High, excelling at both academics and sports.
+
+#### Year 1969
+
+<img src="/images/1969.jpg" style="width:49%" align=left>
