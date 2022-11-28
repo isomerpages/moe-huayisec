@@ -92,3 +92,7 @@ Hua Yi begins English classes, is renamed “Hua Yi Secondary School”, and cea
 Due to the progressive increase in student intake, Hua Yi is shifted to a new, well-equipped campus at Depot Road, with the first underground shooting range in Singapore.<br><br><br><br>
 
 <img src="/images/MAR 1983_2.jpg" style="width:49%" align=right>
+<br clear=right>
+
+#### Year 1985
+
