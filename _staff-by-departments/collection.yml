@@ -2,6 +2,7 @@ collections:
   staff-by-departments:
     output: true
     order:
+      - Staff (by Departments)/Executive & Administrative Staff.md
       - Staff (by Departments)/PE n CCA n Aesthetics.md
       - Staff (by Departments)/Science.md
       - Staff (by Departments)/English.md
