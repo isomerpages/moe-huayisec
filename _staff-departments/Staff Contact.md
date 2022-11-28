@@ -100,12 +100,7 @@ description: ""
 | 19-4C<br><br>**_(Latius)_** | Mr Leow Guan Sin<br><br>Mdm Cheu Siew Lan | [leow\_guan\_sin@schools.gov.sg](mailto:leow_guan_sin@schools.gov.sg)<br><br>[cheu\_siew\_lan@schools.gov.sg](mailto:cheu_siew_lan@schools.gov.sg) | 321<br><br>320 |
 | 19-4D<br><br>**_(Fortius)_** | Ms Tham Yunbing<br><br>Ms Low Xuan Yin | [tham\_yunbing@schools.gov.sg](mailto:tham_yunbing@schools.gov.sg)<br><br>[low\_xuan\_yin@schools.gov.sg](mailto:low_xuan_yin@schools.gov.sg) | 327<br><br>309 |
 | 19-4E<br><br>**_(Altius)_** | Mrs Lynette Loh<br><br>Mr Ting Pin Sing | [goh\_li\_yen\_lynette@schools.gov.sg](mailto:goh_li_yen_lynette@schools.gov.sg)<br><br>[ting\_pin\_sing@schools.gov.sg](mailto:ting_pin_sing@schools.gov.sg) | 327<br><br>328 |
-| 19-4F<br><br>**_(Diutius)_** |  |  |  |
-| 19-4G<br><br>**_(Citius)_** |  |  |  |
-| 18-5A<br><br>**_(Fortius)_** |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 19-4F<br><br>**_(Diutius)_** | Ms M Durgashree<br><br>Mdm Noor Liyana | [m\_durga\_shree@schools.gov.sg](mailto:m_durga_shree@schools.gov.sg)<br><br>[noor\_liyana\_manhuri@schools.gov.sg](mailto:noor_liyana_manhuri@schools.gov.sg) | 331<br><br>328 |
+| 19-4G<br><br>**_(Citius)_** | Ms Chong Hui Min<br><br>Ms Ong Chi Yen | [chong\_hui\_min\_a@schools.gov.sg](mailto:chong_hui_min_a@schools.gov.sg)<br><br>[ong\_chi\_yen@schools.gov.sg](mailto:ong_chi_yen@schools.gov.sg) | 335<br><br>300 |
+| 18-5A<br><br>**_(Fortius)_** | Mr Daniel Soh<br><br>Mdm Jennifer Yee | [soh\_fu\_quan@schools.gov.sg](mailto:soh_fu_quan@schools.gov.sg)<br><br>[yee\_yin\_fong@schools.gov.sg](mailto:yee_yin_fong@schools.gov.sg) | 327<br><br>309 |
 |  |  |  |  |
