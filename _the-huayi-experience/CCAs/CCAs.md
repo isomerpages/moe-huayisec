@@ -65,19 +65,21 @@ third_nav_title: CCAs
 </a></p> <br clear=left>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659895.jpeg">
+<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660072.jpeg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659905.jpeg">
+<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660079.jpeg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659913.jpeg">
+<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660088.jpeg">
 </a></p> <br clear=left>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659682.jpeg">
+<img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660147.jpeg">
 </a></p> <br clear=left>
+
+### 
 
 #### CCA Schedule
