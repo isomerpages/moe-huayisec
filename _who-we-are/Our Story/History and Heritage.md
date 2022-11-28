@@ -96,3 +96,55 @@ Due to the progressive increase in student intake, Hua Yi is shifted to a new, w
 <br clear=right>
 
 #### Year 1985
+
+<img src="/images/26 APR 1985_1.jpg" style="width:49%" align=right>
+
+**26 April**<br>
+Campus is inaugurated by then-Member of Parliament for Telok Blangah, Dr Koh Lam Son.
+<br clear=right>
+
+<img src="/images/26 APR 1985_2.jpg" style="width:49%" align=left>
+<br clear=left>
+
+#### Year 1987
+
+**End-1987**<br>
+Students of the last batch of Chinese-medium classes graduate at Secondary 5.
+
+#### Year 1988
+
+Hua Yi becomes an ordinary secondary school, with English as the medium of instruction and Mother Tongue as a second language.
+
+#### Year 1990s
+
+Hua Yi’s enrolment declines due to an ageing population and inconvenient public transportation in the vicinity, reaching a low of around 200 students in 1999, with the school facing impending closure.
+
+#### Year 1999
+
+<img src="/images/End-1999.jpg" style="width:49%" align=left>
+
+**End-1999**<br>
+The Ministry of Education moves Hua Yi to a densely populated area at Jurong West Street 42
+<br clear=left>
+
+#### Year 2000
+
+**3 January**<br>
+Nine Secondary 1 classes commence. Part of the school’s staff is selected by the Ministry of Education to start Westwood Secondary School, which then occupies a classroom block in Hua Yi’s premises and shares the rest of the school’s facilities.
+
+#### Year 2001
+
+Hua Yi moves to its own campus approximately 2.4 km away at Jurong West Street 25.
+
+#### Year 2002
+
+<img src="/images/29 June 2002_1.jpg" style="width:49%" align=left>
+
+**29 June**<br>
+Campus is inaugurated by then-Minister of the Prime Minister's Office and Member of Parliament for Jurong GRC, Mr Lim Boon Heng.
+<br clear=left>
+
+<img src="/images/29 June 2002_2.jpg" style="width:49%" align=right>
+<br clear=right>
+
+Over the past 60 years, since it first started in 1956, Hua Yi Secondary School (HYSS) has seen five different campuses, with improving facilities and a wealth of historical information. HYSS aims to cultivate and nurture subsequent generations of Hua Yians to be lifelong learners, responsible citizens and having a sense of pride in its rich history and heritage, especially in its original Chinese roots, and to live up to the name of “Hua Yi”.
