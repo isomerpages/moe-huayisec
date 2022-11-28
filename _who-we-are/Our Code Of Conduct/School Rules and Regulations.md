@@ -74,3 +74,93 @@ Students who may be absent due to any of the above reasons should consult the sc
 1 \.  A student must inform his/her Form Teacher if he/she needs to leave the school premises during school hours.  
 
 2 \.  A parent/guardian should accompany a student home after registering with the General Office.
+
+#### Attire and Grooming
+
+##### Uniform
+
+1 \.  Students are to wear the prescribed full uniform every Monday.  
+
+2 \.  Short-sleeved plain white shirt is worn for boys and blouse for girls. The breast pocket on the left should be embroidered with the words ‘Hua Yi’ in blue.  
+
+3 \.  Shirt or blouse must be properly buttoned and the uniform should be smartly worn at all times. Shirt sleeves must not be folded.  
+
+4 \.  Plain white shorts is worn for lower secondary boys and long white pants for upper secondary boys. Pants must cover the ankle and socks. Unauthorised tailoring of pants is not allowed.  
+
+5 \.  Light blue skirt is worn for girls. The hem of the skirt must not be above the knee-cap.  
+
+6 \.  Any unauthorised modification to the uniform is not allowed.  
+
+7 \.  The school collar badge must be worn on the left collar.  
+
+8 \.  Student leaders are to wear their name tags above the left breast pocket of their shirt or blouse. They are not required to wear collar badges.  
+ 
+9 \.  Shoes worn should be white-based with white laces. Any brand/icon/stripes that adorn the shoes should be kept to a maximum of one colour.  
+
+10 \.  School shoes should be worn with plain white socks covering the ankles. Slippers or sandals are not allowed.
+
+<img src="/images/Uniform.jpg" style="width:85%">
+
+##### Polo-Tee Uniform
+
+1 \.  Students may wear the prescribed polo-tee with the respective uniform bottoms from Tuesday to Friday.  
+
+2 \.  Only the topmost button of the polo-tee may be unbuttoned. Sleeves must not be folded.  
+
+3 \.  Student leaders are to wear their name tags above the crest on the polo-tee uniform.
+
+<img src="/images/Polo Tee Uniform.jpg" style="width:85%">
+
+##### Hairstyle
+
+**For Boys:**<br>
+1 \.  Hair is to be kept clean, neat and short.  
+
+2 \.  Hair at the front must be above both eyebrows AT ALL TIMES. When combed downwards, it should not cover the eyes.  
+
+3 \.  Hair at the back should not touch the collar. There should be a distinct and gradual slope. The slope should not be stepped or undercut.  
+
+4 \.  Hair at the crown must not be too thick or bushy.  
+
+5 \.  Hair at the sides must not touch the ears. Sideburns must be short.  
+
+6 \.  Hair should not incorporate any inappropriate, outlandish or extreme styles.  
+
+7 \.  Hair must also be of its natural colour and should not be dyed, tinted or permed.  
+
+8 \.  Boys should be clean shaven. No beard or moustache are allowed.
+
+<img src="/images/Hair_boy.jpg" style="width:85%">
+
+**For Girls:** <br>
+1 \.  Girls with hair of shoulder length or longer must tie it up neatly. Only plain hair accessories may be used.  
+
+2 \.  Hair at the front must be above both eyebrows AT ALL TIMES. When combed downwards, it should not cover the eyes.  
+
+3 \.  Hair products are to be used only to keep the hair neat and in place.  
+
+4 \.  They are not meant to create fancy designs like spiky hair.  
+
+5 \.  Hair must be of its natural colour and should not be dyed or tinted.  
+
+6 \.  Hair should not incorporate any inappropriate, outlandish or extreme styles.
+
+<img src="/images/Hair_Girl.jpg" style="width:85%">
+
+##### Other Guidelines on Attire and Grooming
+
+1 \.  Ties are to be worn every Monday. Students should knot their ties neatly at the first button of their uniform.  
+
+2 \.  Accessories deemed inappropriate by the school should not be worn by students. This includes earrings, chokers, and neck/wrist chains etc.  
+
+3 \.  Tinted contact lenses are not allowed to be worn.  
+
+4 \.  Girls are allowed to wear one pair of ear studs or ear sticks on the ear lobes which should be transparent, black, white, gold or silver in colour. The diameter of the studs should not exceed 0.5 cm.  
+
+5 \.  Boys are not allowed to wear ear studs or ear sticks.  
+
+6 \.  Students must not have long or painted nails and must not wear cosmetics or make-up.  
+
+7 \.  The school reserves the right to confiscate accessories deemed inappropriate by the school. Student may also be requested to purchase a new set of uniform or shoes if their attire does not meet the school’s standards.  
+
+8 \.  The school reserves the right to discipline any student found with tattoos and/or body piercings. Disciplinary action may include suspension.
