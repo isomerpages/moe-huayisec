@@ -2,6 +2,7 @@ collections:
   staff-by-departments:
     output: true
     order:
+      - Staff (by Departments)/School Management Committee.md
       - Staff (by Departments)/Mathematics.md
       - Staff (by Departments)/Craft & Technology.md
       - Staff (by Departments)/Character & Citizenship Education Committee.md
