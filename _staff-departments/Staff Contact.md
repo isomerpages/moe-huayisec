@@ -38,3 +38,16 @@ description: ""
 | SH Student Well-Being | Ms Chan Siming | [siming\_\_chan@schools.gov.sg](mailto:siming_chan@schools.gov.sg) | 303 |
 | SH Student Management (Covering) | Ms Lee Taojing | [lee\_taojing@schools.gov.sg](mailto:lee_taojing@schools.gov.sg) | 320 |
 |  |  |  |  |
+
+#### Teacher Leaders
+
+| Designation | Name | Email Address | Extension No. |
+|:---:|---|---|---|
+| Lead Teacher (Art) | Mdm Keh Hwee Peng | [keh\_hwee\_peng@schools.gov.sg](mailto:keh_hwee_peng@schools.gov.sg) | 318 |
+| Lead Teacher (EL) | Ms Caroline Tracy | [caroline\_tracy@schools.gov.sg](mailto:caroline_tracy@schools.gov.sg) | 332 |
+| Senior Teacher (Mathematics) | Ms Lee Hui Ling | [lee\_hui\_ling@schools.gov.sg](mailto:lee_hui_ling@schools.gov.sg) | 335 |
+| Senior Teacher (Social Studies) | Mdm Adlin Ratini | [adlin\_ratini\_anwar@schools.gov.sg](mailto:adlin_ratini_anwar@schools.gov.sg) | 328 |
+| Senior Teacher (CCE) | Mr Edwin Khoo | [khoo\_wei\_lun\_edwin@schools.gov.sg](mailto:khoo_wei_lun_edwin@schools.gov.sg) | 303 |
+| Senior Teacher (Geography) | Mrs Shernice Chia | [goh\_chin\_hwee@schools.gov.sg](mailto:goh_chin_hwee@schools.gov.sg) | 303 |
+| Senior Teacher (Biology) | Mrs Eleanor Chen | [eleanor\_teng\_kah\_hwee@schools.gov.sg](mailto:eleanor_teng_kah_hwee@schools.gov.sg) | 302 |
+|  |  |  |  |
