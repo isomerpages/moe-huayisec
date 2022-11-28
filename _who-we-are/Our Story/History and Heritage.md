@@ -65,4 +65,30 @@ Over time, the school expands with the addition of new facilities to the origina
 
 #### Year 1969
 
-<img src="/images/1969.jpg" style="width:49%" align=left>
+<img src="/images/1969.jpg" style="width:40%" align=left>
+
+**15 August**<br>
+Tree planting is conducted by founding Prime Minister Mr Lee Kuan Yew at Margaret Drive campus, who is accompanied by then-Principal, Mdm Huang Shu Fen. 
+<br clear=left>
+
+#### Year 1970s
+
+Hua Yi's enrolment reaches 2,207 students, and is considered one of the top 10 secondary schools in Singapore.
+
+#### Year 1978
+
+**Late 1978**<br>
+The government introduces the Special Assistance Plan, to preserve Chinese secondary schools with good traditional values and to cultivate bilingual talents. Unfortunately, Hua Yi is not among the nine schools selected for the Plan.
+
+#### Year 1979
+
+Hua Yi begins English classes, is renamed “Hua Yi Secondary School”, and ceases the enrolment of pre-university students.
+
+#### Year 1983
+
+<img src="/images/MAR 1983_1.jpg" style="width:49%" align=left>
+
+**March**<br>
+Due to the progressive increase in student intake, Hua Yi is shifted to a new, well-equipped campus at Depot Road, with the first underground shooting range in Singapore.<br><br><br><br>
+
+<img src="/images/MAR 1983_2.jpg" style="width:49%" align=right>
