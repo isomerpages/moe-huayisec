@@ -2,9 +2,9 @@ collections:
   who-we-are:
     output: true
     order:
-      - Our Identity/House System.md
       - Our Identity/.keep
       - Our Identity/Principal's Message.md
       - Our Identity/Vision, Mission, Values.md
       - Our Identity/Student Outcomes.md
       - Our Identity/School Crest, School Song.md
+      - Our Identity/House System.md
