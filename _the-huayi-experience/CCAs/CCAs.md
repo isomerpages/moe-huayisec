@@ -137,3 +137,14 @@ third_nav_title: CCAs
 | **Chinese Language, Drama and Debate** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | iDesign Hub (Blk A, Level 3, A3-06) |
 | **English Language, Drama and Debate** | Monday (Drama)<br><br>Wednesday (Drama and Debate) | 3:15 – 6:15 pm<br><br>3:15 – 6:15 pm | Seminar Room 1 (Blk C, Level 4, C4-04)<br><br>Seminar Room 7 (Blk E, Level 4, E4-02) |
 |  |  |  |  |
+
+##### D. CLUBS & SOCIETIES
+
+|  CCA |  Training Days |  Time |  Venue |
+|:---:|---|---|---|
+| **Art and Crafts Club** | Wednesday | 3:15 – 6:15 pm | Art Room 1  <br>(Blk F, Level 2, F2-04) |
+| **Nutrition & Food Science Club** | Monday | 3:15 – 6:15 pm | Cookery Room 1  <br>(Blk F, Level 1, F1-03) |
+| **InfoComm Technology Club** | Wednesday | 3:15 – 6:15 pm | Computer Lab 1 & 2  <br>(Blk F, Level 3, F3-04 & F3-05) |
+| **Singapore Youth Flying Club**<br><br>Click _**[HERE](http://www.syfc.sg/)**_ to access the main SYFC website. | Wednesday | 3:15 – 6:15 pm | Seminar Room 8 (Blk F, level 4, F4-02) |
+|  |  |  |  |
+
