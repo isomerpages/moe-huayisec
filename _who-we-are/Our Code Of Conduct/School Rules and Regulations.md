@@ -311,3 +311,27 @@ For conduct grading, school attendance includes % days a student attends school 
 Similarly, CCA attendance includes % days a student attends CCA punctually and absence from CCA for medical reasons and supported with a valid M.C..
 
 Late-coming or absence from school or CCA that is not supported with a valid M.C. will lead to lower conduct grades being awarded.
+
+#### Merit & Demerit System
+
+Every student begins each year with a benchmark of 75 points, which is equivalent to a “Very Good” conduct grade. Merit points will raise the benchmark and demerit points will reduce it. Every teacher can award merit and demerit points to deserving students.
+
+##### Merit Points
+
+Students can be awarded merit points for good behaviour or socially responsible acts such as those specified below:
+
+| **COMMENDABLE ACTIONS** | **POINTS** |
+|:---:|---|
+| **BENEVOLENCE** |  |
+| Displaying a consistently high level of courtesy or respect towards others | 1 |
+| Going out of the way to help a schoolmate, staff or member of public | 1 |
+| **JUSTICE** |  |
+| Reporting or stopping offensive behaviour | 1 |
+| Displaying acts of bravery or public spiritedness | 1 |
+| **WISDOM** |  |
+| Demonstrating a consistently high level of responsibility towards self and others | 1 |
+| Putting in consistent effort to improve behaviour or performance | 1 |
+| **TOGETHERNESS** |  |
+| Achieving good performance as a class in level or school activities | 1 |
+| Inspiring others to display good behaviour or performance | 1 |
+|  |  |
