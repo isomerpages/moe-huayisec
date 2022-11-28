@@ -46,3 +46,26 @@ The table below shows candidates from the Secondary 4 Normal Academic course who
 | Music | 100% |
 | Science (Chemistry / Biology) | 100% |
 |  |  |
+
+##### 2021 GCE 'N' Level Examination Result
+
+80 candidates from the Secondary 4 Normal (Academic) course and 38 candidates from the Secondary 4 Normal (Technical) course sat for the 2020 GCE N-Level Examinations and their performance were as follow:
+
+**Secondary Four Normal (Academic)**
+
+|  |  |
+|:---:|---|
+| % with 5 or more subject passes | 87.5% |
+| % eligible for 5 Normal (Academic) | 93.0% |
+| % eligible for Direct-Entry Scheme to Polytechnic Programme (DPP) | 58.8% |
+| % eligible for Polytechnic Foundation Programme (PFP) | 18.75% |
+|  |  |
+
+**Secondary Four Normal (Technical)**
+
+|  |  |
+|:---:|---|
+| % with 5 or more subject passes | 97.4% |
+| % eligible for courses in Institute of Technical Education | 100% |
+|  |  |
+
