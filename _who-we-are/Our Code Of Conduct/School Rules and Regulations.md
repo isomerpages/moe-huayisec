@@ -52,3 +52,25 @@ Students who may be absent due to any of the above reasons should consult the sc
 7 \.  Letters from a parent/guardian will be considered on a case-by-case basis in determining whether an absent student can re-sit for weighted assessments that they missed.  
 
 8 \.  Students who are absent for summative reviews will not be allowed to re-sit for the paper. Students who are absent without M.C. for a summative review will be awarded a zero mark.
+
+#### Movement
+
+##### Leaving class during lessons
+
+1 \.  If the need arises, a student can leave the class after obtaining the teacher’s permission.  
+
+2 \.  The Class Chairperson or Vice-Chairperson should account for the presence/absence of his/her classmates during lessons by entering the details into the Class Diary. Subject teachers will check the entries and initial against the slot for that teaching period.  
+
+3 \.  A student who does not need to attend any lesson during curriculum time should engage in self-study during his/her free periods at the designated study areas.
+
+##### Movement between lessons
+
+1 \.  Students should line up in two rows and walk in a brisk and orderly manner to the venue for the next lesson.  
+    
+2 \.  A student is not allowed to detour to other areas of the school without first obtaining permission from the teacher of the next lesson.
+
+##### Leaving school premises during school hours
+
+1 \.  A student must inform his/her Form Teacher if he/she needs to leave the school premises during school hours.  
+
+2 \.  A parent/guardian should accompany a student home after registering with the General Office.
