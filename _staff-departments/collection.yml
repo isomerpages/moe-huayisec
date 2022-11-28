@@ -1,5 +1,0 @@
-collections:
-  staff-departments:
-    output: true
-    order:
-      - Staff By Departments/.keep
