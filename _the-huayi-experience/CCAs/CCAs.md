@@ -148,3 +148,8 @@ third_nav_title: CCAs
 | **Singapore Youth Flying Club**<br><br>Click _**[HERE](http://www.syfc.sg/)**_ to access the main SYFC website. | Wednesday | 3:15 – 6:15 pm | Seminar Room 8 (Blk F, level 4, F4-02) |
 |  |  |  |  |
 
+**Useful links** <br>
+[LEAPS 2.0 Press Release](http:/#) **PAGE NOT FOUND**<br>
+[LEAPS 2.0 Document](http:/#) **PAGE NOT FOUND**<br>
+[Singapore Schools Sports Council](http:/#)**PAGE NOT FOUND** <br>
+[School Sports](http:/#)**PAGE NOT FOUND**
