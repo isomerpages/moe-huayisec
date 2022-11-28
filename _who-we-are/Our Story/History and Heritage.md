@@ -29,7 +29,7 @@ The sit-in persists and the government subsequently closes the two Chinese schoo
 <img src="/images/14october.png" style="width:49%" align=right><br>
 
 **14 October**<br>
-Hua Yi is officially founded, with Mr Wang Hou Ren as its founding principal. It becomes one of the first Chinese secondary schools set up by the government.<br><br><br><br>
+Hua Yi is officially founded, with Mr Wang Hou Ren as its founding principal. It becomes one of the first Chinese secondary schools set up by the government.<br clear=right><br><br>
 
 <img src="/images/16october.png" style="width:49%" align=left>
 
