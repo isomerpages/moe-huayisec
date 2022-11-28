@@ -99,3 +99,37 @@ third_nav_title: CCAs
 </a></p> <br clear=left>
 
 #### CCA Schedule
+
+##### A. PHYSICAL SPORTS
+
+|  CCA |  Training Days |  Time |  Venue |
+|:---:|---|---|---|
+| **Badminton (Boys)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Centrestage |
+| **Badminton (Girls)** | Tuesday<br>Thursday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Centrestage |
+| **Basketball (Boys)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Basketball Court |
+| **Track & Field (Boys/Girls)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | School Field |
+| **\*\*Volleyball (Girls)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Arena |
+| **Football (Boys)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | School Field |
+| **\*Netball (Girls)** | Wednesday<br>Friday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Quadrangle |
+| **Floorball (Boys)** | Tuesday<br>Thursday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Arena |
+|  |  |  |  |
+
+**_\*Trainings on Wednesday and Friday on Odd Weeks Only_**
+
+##### B. UNIFORMED GROUPS
+
+|  CCA |  Training Days |  Time |  Venue |
+|:---:|---|---|---|
+| **NCC - Land (Boys)** |  |  |  |
+| **NPCC (Boys & Girls)** |  |  |  |
+| **Red Cross Youth (Boys & Girls)** |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
