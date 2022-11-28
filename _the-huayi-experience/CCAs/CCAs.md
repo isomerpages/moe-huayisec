@@ -120,9 +120,18 @@ third_nav_title: CCAs
 
 |  CCA |  Training Days |  Time |  Venue |
 |:---:|---|---|---|
-| **NCC - Land (Boys)** |  |  |  |
-| **NPCC (Boys & Girls)** |  |  |  |
-| **Red Cross Youth (Boys & Girls)** |  |  |  |
+| **NCC - Land (Boys)** | Wednesday | 3:15 – 6:15 pm | 3A Classroom (Blk E) & Quadrangle |
+| **NPCC (Boys & Girls)** | Wednesday | 3:15 – 6:15 pm | 3C Classroom (Blk E) & Quadrangle |
+| **Red Cross Youth (Boys & Girls)** | Wednesday | 3:15 – 6:15 pm | 3F Classroom (Blk D) & Quadrangle |
+|  |  |  |  |
+
+##### C. VISUAL & PERFORMING ARTS
+
+|  CCA |  Training Days |  Time |  Venue |
+|:---:|---|---|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
