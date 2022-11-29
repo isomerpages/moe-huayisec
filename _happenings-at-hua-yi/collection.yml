@@ -1,4 +1,5 @@
 collections:
   happenings-at-hua-yi:
     output: true
-    order: []
+    order:
+      - Calendar of Events.md
