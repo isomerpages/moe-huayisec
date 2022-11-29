@@ -2,12 +2,12 @@ collections:
   who-we-are:
     output: true
     order:
-      - History and Heritage.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Student Outcomes.md
       - School Crest, School Song.md
       - House System.md
+      - History and Heritage.md
       - Our People/.keep
       - Our Code Of Conduct/.keep
       - Our Code Of Conduct/School Safety and Security.md
