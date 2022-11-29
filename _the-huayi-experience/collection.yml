@@ -2,7 +2,6 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - Applied Learning Programme (ALP).md
       - Academic Achievement.md
       - Department Programmes/.keep
       - Department Programmes/Department Programmes.md
@@ -21,3 +20,4 @@ collections:
       - Level Programmes.md
       - Learning Festival.md
       - Student Success Stories.md
+      - Applied Learning Programme (ALP).md
