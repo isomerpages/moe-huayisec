@@ -2,7 +2,6 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - Learning for Life Programme (LLP).md
       - Academic Achievement.md
       - Department Programmes/.keep
       - Department Programmes/Department Programmes.md
@@ -22,3 +21,4 @@ collections:
       - Learning Festival.md
       - Student Success Stories.md
       - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
