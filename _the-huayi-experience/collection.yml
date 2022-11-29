@@ -2,7 +2,6 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - Environmental Education.md
       - Academic Achievement.md
       - Department Programmes/.keep
       - Department Programmes/Department Programmes.md
@@ -24,3 +23,4 @@ collections:
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Values in Action (VIA).md
+      - Environmental Education.md
