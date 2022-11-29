@@ -2,9 +2,9 @@ collections:
   the-hua-yi-community:
     output: true
     order:
-      - Our Partners/Strategic Partners.md
-      - Our Partners/International Partner Schools.md
       - Our Partners/.keep
+      - Our Partners/International Partner Schools.md
+      - Our Partners/Strategic Partners.md
       - School Advisory Commitee.md
       - Parent Support Group.md
       - Alumni.md
