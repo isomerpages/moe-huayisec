@@ -2,7 +2,6 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - Cultural Studies Programme.md
       - Academic Achievement.md
       - Department Programmes/.keep
       - Department Programmes/Department Programmes.md
@@ -27,3 +26,4 @@ collections:
       - Environmental Education.md
       - Student Leadership.md
       - House Programme.md
+      - Cultural Studies Programme.md
