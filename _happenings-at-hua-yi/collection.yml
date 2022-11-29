@@ -2,4 +2,5 @@ collections:
   happenings-at-hua-yi:
     output: true
     order:
+      - Snapshots @ Hua Yi.md
       - Calendar of Events.md
