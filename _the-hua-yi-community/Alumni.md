@@ -18,11 +18,11 @@ The&nbsp;HYAS&nbsp;seeks to: <br>
 
 |  |  |
 |:---:|---|
-| Honorary President |  |
-| President |  |
-| Vice-President |  |
-| Vice-President |  |
-| Secretary |  |
-| Assistant Secretary |  |
-| Members |  |
+| Honorary President | Lee Chin Beng, Benny |
+| President | Michael S Chia |
+| Vice-President | Lee Ching Ann, Francis |
+| Vice-President | Ng Bee Hoon |
+| Secretary | Tan Boon Kee, Anston |
+| Assistant Secretary | Heng Cher Siew Diana |
+| Members | Goh Choon Geok<br>Ho Kin Huat<br>Joanne Soo<br>Koh Chye Koon<br>Lee Whye Fang<br>Lim Kai Xin Jasmine<br>Lim Lay Fui<br>Ng Chin Yong<br>Pong Cheong Lye<br>See Kwee Hoon<br>Tay Lee Meng<br>Tan Siang Huat, Eddie<br>Teo Chang Pin<br>Tng Say Beng<br>Wong Kah Hock<br>Yeo Kong Tai<br>Yeo Liu Cheh<br>Chua Boon Mei<br>Chua Poh Tin |
 |  |  |
