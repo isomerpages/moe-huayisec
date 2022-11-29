@@ -3,20 +3,19 @@ title: CCAs
 permalink: /the-huayi-experience/CCAs/ccas/
 description: ""
 ---
-
 ## CCAs
 
 ### Physical Sports
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/physical-sports/vb/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659458.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/physical-sports/badminton/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659466.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/physical-sports/bball/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659474.jpeg">
 </a></p> <br clear=left>
 
