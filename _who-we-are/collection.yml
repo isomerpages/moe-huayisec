@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - COVID19 Measures.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Student Outcomes.md
