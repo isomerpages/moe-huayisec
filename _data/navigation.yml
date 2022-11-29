@@ -60,3 +60,14 @@ links:
         url: /the-huayi-experience/td/
       - title: Student Success Stories
         url: /the-huayi-experience/stud-ss/
+  - title: The Hua Yi Community
+    url: /permalink
+    sublinks:
+      - title: School Advisory Commitee
+        url: /permalink
+      - title: Parent Support Group
+        url: /permalink
+      - title: Alumni
+        url: /permalink
+      - title: Our Partners
+        url: /permalink
