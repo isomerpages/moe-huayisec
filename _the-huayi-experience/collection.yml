@@ -2,7 +2,6 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - House Programme.md
       - Academic Achievement.md
       - Department Programmes/.keep
       - Department Programmes/Department Programmes.md
@@ -26,3 +25,4 @@ collections:
       - Values in Action (VIA).md
       - Environmental Education.md
       - Student Leadership.md
+      - House Programme.md
