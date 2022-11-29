@@ -1,4 +1,5 @@
 collections:
   the-hua-yi-community:
     output: true
-    order: []
+    order:
+      - School Advisory Commitee.md
