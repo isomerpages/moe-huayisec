@@ -2,7 +2,6 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - Student Success Stories.md
       - Academic Achievement.md
       - Department Programmes/.keep
       - Department Programmes/Department Programmes.md
@@ -20,3 +19,4 @@ collections:
       - Independent Learning Day.md
       - Level Programmes.md
       - Learning Festival.md
+      - Student Success Stories.md
