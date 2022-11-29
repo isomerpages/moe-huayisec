@@ -2,5 +2,6 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - Talent Areas/.keep
       - Introduction.md
       - Talent Areas.md
