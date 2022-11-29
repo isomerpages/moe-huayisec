@@ -2,7 +2,6 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - Student Leadership.md
       - Academic Achievement.md
       - Department Programmes/.keep
       - Department Programmes/Department Programmes.md
@@ -25,3 +24,4 @@ collections:
       - Learning for Life Programme (LLP).md
       - Values in Action (VIA).md
       - Environmental Education.md
+      - Student Leadership.md
