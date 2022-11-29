@@ -2,6 +2,7 @@ collections:
   happenings-at-hua-yi:
     output: true
     order:
+      - Direct School Admission/.keep
       - Calendar of Events.md
       - Snapshots @ Hua Yi.md
       - Merchandise Sale.md
