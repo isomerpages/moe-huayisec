@@ -2,7 +2,6 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - Talent Development.md
       - Academic Achievement.md
       - Department Programmes/.keep
       - Department Programmes/Department Programmes.md
@@ -28,3 +27,4 @@ collections:
       - Student Leadership.md
       - House Programme.md
       - Cultural Studies Programme.md
+      - Talent Development.md
