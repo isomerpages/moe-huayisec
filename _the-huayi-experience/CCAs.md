@@ -81,19 +81,19 @@ description: ""
 
 ### Clubs & Societies
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/clubs-n-societies/anc/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660205.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/clubs-n-societies/ic/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660214.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/clubs-n-societies/syfc/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660225.jpeg">
 </a></p> <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/clubs-n-societies/nfsc/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660238.jpeg">
 </a></p> <br clear=left>
 
