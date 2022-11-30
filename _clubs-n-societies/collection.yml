@@ -2,5 +2,6 @@ collections:
   clubs-n-societies:
     output: true
     order:
+      - Singapore Youth Flying Club.md
       - Arts and Crafts Club.md
       - Infocomm Club.md
