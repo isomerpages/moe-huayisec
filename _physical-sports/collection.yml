@@ -2,9 +2,9 @@ collections:
   physical-sports:
     output: true
     order:
-      - Netball.md
       - Volleyball.md
       - Badminton.md
       - Basketball.md
       - Floorball.md
       - Football.md
+      - Netball.md
