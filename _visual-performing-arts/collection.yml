@@ -2,4 +2,5 @@ collections:
   visual-performing-arts:
     output: true
     order:
+      - Cultural Dance Society.md
       - Show Choir.md
