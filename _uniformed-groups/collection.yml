@@ -2,5 +2,6 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - National Cadet Corps.md
       - Red Cross Youth.md
       - National Police Cadet Corps.md
