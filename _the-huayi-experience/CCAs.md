@@ -37,15 +37,15 @@ description: ""
 
 ### Uniformed Groups
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/uniformed-groups/rcy/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659895.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/uniformed-groups/npcc/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659905.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/uniformed-groups/ncc/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669659913.jpeg">
 </a></p> <br clear=left>
 
