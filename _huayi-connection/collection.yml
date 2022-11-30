@@ -1,0 +1,4 @@
+collections:
+  huayi-connection:
+    output: true
+    order: []
