@@ -2,6 +2,7 @@ collections:
   visual-performing-arts:
     output: true
     order:
+      - Guzheng Ensemble.md
       - Show Choir.md
       - Cultural Dance Society.md
       - Concert Band.md
