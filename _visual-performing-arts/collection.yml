@@ -1,4 +1,5 @@
 collections:
   visual-performing-arts:
     output: true
-    order: []
+    order:
+      - Show Choir.md
