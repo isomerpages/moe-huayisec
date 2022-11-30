@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Introduction.md
-      - Talent Areas/Student Leadership.md
       - Talent Areas/.keep
       - Talent Areas/Talent Areas.md
       - Talent Areas/Performing Arts.md
       - Talent Areas/Physical Sports.md
+      - Talent Areas/Student Leadership.md
       - Application Process.md
