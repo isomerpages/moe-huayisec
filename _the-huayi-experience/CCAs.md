@@ -51,31 +51,31 @@ description: ""
 
 ### Visual & Performing Arts
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/visual-performing-arts/sc/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660000.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/visual-performing-arts/cds/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660011.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/visual-performing-arts/cb/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660021.jpeg">
 </a></p> <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/visual-performing-arts/ge/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660072.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/visual-performing-arts/md/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660079.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/visual-performing-arts/cldds/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660088.jpeg">
 </a></p> <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/visual-performing-arts/eldds/">
 <img style="width:25%;margin-right:15px;" align=left src="/images/photo1669660147.jpeg">
 </a></p> <br clear=left>
 
