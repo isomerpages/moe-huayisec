@@ -73,3 +73,11 @@ If your child has applied to two talent areas in a school, the school will make 
 By submitting the school preference, you have agreed for your child to commit to the DSA school that is allocated to them. If your child is successfully admitted via DSASec, they will not be allowed to transfer to another school or participate in Secondary 1 posting to opt for secondary schools after the release of PSLE results.  
   
 If you do not wish your child to commit to the DSA school, you should not submit any school preference during the School Preference Submission.
+
+**16 \. My child only received one Wait List (WL) offer. Should my child still submit the preference since the chance of getting into that school may be quite slim?**  
+Your child can submit his/her preference if he/she is still keen on admitting to the school via DSA-Sec. If the school has enough remaining DSA-Sec places after the other students given Confirmed Offer have made their choices, your child will be allocated to the school provided that his/her PSLE results qualify him/her for an academic course offered by the school.  
+  
+If your child is successfully admitted, he/she will not be allowed to transfer to another school after the release of PSLE results or participate in Secondary 1 Posting to opt for secondary schools.  
+  
+**17 \. What should I do if my child’s application is unsuccessful in the DSASec?**  
+If your child is currently studying in a MOE school and unsuccessful in the DSA-Sec, they will participate in the centralised S1 Posting.
