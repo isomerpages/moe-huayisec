@@ -36,3 +36,22 @@ The information will be keyed into the system which will be reflected in your CC
   
 Thank you for making a difference to the community!
 
+##### [Counselling Information](/files/Student%20handbook%202022_Counselling%20info%20June12.pdf)
+
+##### Traffic Safety Measures
+
+#### FAS Application Form and Pamphlet
+
+*   **[FAS Application Form](https://go.gov.sg/moe-efas)**
+
+##### **[Application Form for Leave of Absence](https://form.gov.sg/60c010245259b6001101815d)**
+
+##### NTUC Insurance Portal – **[Online Claim Submission](https://studentgpa.incomegroupins.com.sg/#/)** , [Pamphlet](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf)
+
+##### VIA Volunteering Opportunities
+
+##### **[Online Library Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/huayisec)**
+
+
+
+##### **[Advanced Elective Module (AEM) Portal](https://aem.moe.gov.sg/)**
