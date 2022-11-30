@@ -2,7 +2,7 @@ collections:
   huayi-connection:
     output: true
     order:
-      - Contact Us.md
       - For Parents.md
       - For Students.md
       - For Staff.md
+      - Contact Us.md
