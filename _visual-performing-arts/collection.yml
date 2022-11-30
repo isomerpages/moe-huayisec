@@ -2,9 +2,9 @@ collections:
   visual-performing-arts:
     output: true
     order:
-      - Chinese Cultural Society (CLDDS).md
       - Show Choir.md
       - Cultural Dance Society.md
       - Concert Band.md
       - Guzheng Ensemble.md
       - Modern Dance.md
+      - Chinese Cultural Society (CLDDS).md
