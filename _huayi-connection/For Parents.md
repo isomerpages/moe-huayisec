@@ -64,4 +64,26 @@ description: ""
 
 <p><a href="https://www.msf.gov.sg/Pages/default.aspx">
 <img style="width:25%" align=left src="/images/photo1669827763.jpeg">
-</a></p>
+</a></p><br clear=left>
+
+##### **[GCE ‘N’ & ‘O’ Level Syllabuses](https://www.seab.gov.sg/)**
+
+#### MOE’s New Parents In Education Website
+
+**Positive Parenting Programme (Triple P)** by the Ministry of Social and Family Development (MSF) and Parenting Support Provider (PSP), Thye Hua Kwan (THK) Family Services Division
+
+For more information, email [PSP\_Jurong@thkmc.org.sg](mailto:PSP_Jurong@thkmc.org.sg) or contact Thye Hua Kwan (THK) Family Service Centre @ Jurong at 6747 7514.
+
+#### EDUCATION AND CAREER GUIDE
+
+##### Parents’ Guide: **[Journeying with Our Children, Supporting Their Aspirations](https://www.moe.gov.sg/microsites/ecg-parent-guide/index.html)** PAGE NOT FOUND
+
+##### **[The Next Step Forward: Navigating Your Education and Career Pathways](https://www.moe.gov.sg/microsites/next-step-forward/index.html)** PAGE NOT FOUND
+
+#### CYBERWELLNESS
+
+##### Article: **[Safeguarding your child online](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)**
+
+##### Parents in Education Website – **Cyberwellness Resources**
+
+##### Article: **[Suicide Games and Online Media: What Should Parents Do?](https://www.schoolbag.edu.sg/story/suicide-games-and-online-media-what-should-parents-do?utm_source=tr.im&utm_medium=no_referer&utm_campaign=tr.im%2F1yNMt&utm_content=direct_input)**
