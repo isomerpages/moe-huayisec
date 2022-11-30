@@ -2,6 +2,6 @@ collections:
   huayi-connection:
     output: true
     order:
-      - For Staff.md
       - For Parents.md
       - For Students.md
+      - For Staff.md
