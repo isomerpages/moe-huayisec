@@ -52,6 +52,6 @@ Thank you for making a difference to the community!
 
 ##### **[Online Library Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/huayisec)**
 
-
+##### [School Uniform Ordering Information](/files/SchoolUniformOrderInfo.pdf)
 
 ##### **[Advanced Elective Module (AEM) Portal](https://aem.moe.gov.sg/)**
