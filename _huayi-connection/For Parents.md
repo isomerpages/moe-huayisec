@@ -48,3 +48,20 @@ description: ""
 
 ##### **[Advanced Elective Module (AEM) Portal](https://aem.moe.gov.sg/)**
 
+#### PARENTS GATEWAY APP
+
+**REQUIRE JACKSON'S INPUT YOUTUBE VIDEO**
+
+#### USEFUL RESOURCES
+
+<p><a href="https://www.schoolbag.edu.sg/">
+<img style="width:25%" align=left src="/images/photo1669827722.jpeg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%" align=left src="/images/HYSS PSG Logo.jpg">
+</a></p>
+
+<p><a href="https://www.msf.gov.sg/Pages/default.aspx">
+<img style="width:25%" align=left src="/images/photo1669827763.jpeg">
+</a></p>
