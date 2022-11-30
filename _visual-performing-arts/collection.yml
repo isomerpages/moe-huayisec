@@ -2,10 +2,10 @@ collections:
   visual-performing-arts:
     output: true
     order:
-      - English Language Drama and Debate Society (ELDDS).md
       - Show Choir.md
       - Cultural Dance Society.md
       - Concert Band.md
       - Guzheng Ensemble.md
       - Modern Dance.md
       - Chinese Cultural Society (CLDDS).md
+      - English Language Drama and Debate Society (ELDDS).md
