@@ -14,7 +14,7 @@ description: ""
 * **[Semester 1 Class Timetable (Odd Week/Even Week)](/sem1-timetable/)**
 * **[Sexuality Education Programme](https://huayisec-moe-edu-sg-admin.cwp.sg/others/sexuality-education-programme)** link isomer later
 * **[Staff Contact Hours](/latest-updates/sch/)**
-* **[Merchandise Sale](https://huayisec.moe.edu.sg/happenings-at-hua-yi/merchandise-sale)** link isomer later
+* **[Merchandise Sale](/happenings-at-hua-yi/ms/)**
 * **[Hua Yi Secondary School – West Stories](/files/Annex%20E.pdf)**
 * **[Hua Yi Secondary School National Day Music Video 2019](https://www.youtube.com/watch?v=6yJGX6-zAvQ&feature=youtu.be)**
 * **[COVID Updates](https://huayisec.moe.edu.sg/who-we-are/our-code-of-conduct/covid-19-measures)** link isomer later
