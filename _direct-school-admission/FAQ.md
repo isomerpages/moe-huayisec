@@ -82,7 +82,8 @@ If your child is successfully admitted, he/she will not be allowed to transfer t
 **17 \. What should I do if my child’s application is unsuccessful in the DSASec?**  
 If your child is currently studying in a MOE school and unsuccessful in the DSA-Sec, they will participate in the centralised S1 Posting.
 
-**18 \. For more information you may refer to the following links to the MOE webpage on DSA:**[Direct School Admission (DSA-Sec) | Ministry of Education](https://www.moe.gov.sg/secondary/dsa)  
+**18 \. For more information you may refer to the following links to the MOE webpage on DSA:**
+[Direct School Admission (DSA-Sec) | Ministry of Education](https://www.moe.gov.sg/secondary/dsa)  
   
 **MOE DSA-Sec FAQ:**  
 [Ministry of Education (MOE)](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Search=dsa&Category=0&Mesid=5504608) **PAGE ERROR**
