@@ -34,4 +34,9 @@ sections:
       url: /latest-updates/latest/
       image: /images/photo1669998419.jpeg
       alt: Image alt text
+  - infobar:
+      title: THE HUA YI FAMILY
+      description: What does it feel like to be part of the Hua Yi family?
+      button: click here to view
+      url: d
 ---
