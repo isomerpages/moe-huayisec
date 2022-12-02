@@ -172,3 +172,6 @@ There are structured programmes and remedial lessons to support these students.
 | **Physical sports**<br>1.  Badminton (Boys/Girls) (DSA)<br><br>2.  Basketball (Boys) (DSA)<br><br>3.  Volleyball (Girls) (DSA)<br><br>4.  Track & Field (Boys/Girls) **(DSA)**<br><br>5.  Football (Boys)<br><br>6.  Netball (Girls)<br><br>7.  Floorball (Boys/Girls) | **Uniformed groups**<br>1.  NCC (Boys)<br><br>2.  NPCC (Boys/Girls)<br><br>3.  Red Cross Youth |
 | **Visual & Performing Arts**<br>1.  Show Choir (DSA)<br><br>2.  Concert Band (DSA)<br><br>3.  Cultural Dance (DSA)<br><br>4.  Modern Dance (DSA)<br><br>5.  Guzheng Ensemble (DSA)<br><br>6.  Chinese Language Drama and Debate Society (CLDDS) (DSA)<br><br>7.  English Literary Drama and Debate Society (ELDDS) (DSA) | **Clubs & Societies**<br>1.  Art & Craft Club (DSA)<br><br>2.  Info-comm Club<br><br>3.  Nutrition and Food Science Club<br><br>4.  Singapore Youth Flying Club |
 |  |  |
+
+**2 \.  My child is interested in XYZ CCA, can the school offer that? Can my child take up external CCA activities instead of the CCAs offered in school?**<br>
+Please email [hyss@moe.edu.sg](mailto:hyss@moe.edu.sg) and your queries will be directed to the HOD (PE & CCA).
