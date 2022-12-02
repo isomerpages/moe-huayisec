@@ -95,3 +95,12 @@ The Sec 3s having a go at their class’s Domino Challenge. They certainly displ
 #### Start-it-Right - Suminagashi Art
 
 Sec 2s and their vibrant and colourful Suminagashi art pieces. Students dabbling in the ancient Japanese marbling art and finishing off with a meaningful quote on their final product.
+
+<img src="/images/SIR - Suminagashi Art.jpeg" style="width:85%">
+
+#### Start-it-Right - Bonsai Handover Ceremony
+
+Sec 1s adopting a Bonsai plant that was previously cared for by their sec 2 seniors. Also featuring a parents’ painting piece, from the ceremony, on the hopes dreams for their child, from the Bonsai plant.
+
+<img src="/images/Bonsai Programme.jpeg" style="width:85%">
+
