@@ -31,5 +31,5 @@ sections:
   - infobar:
       title: LATEST UPDATES
       button: CLICK HERE TO VIEW MORE
-      url: D
+      url: /latest-updates/latest/
 ---
