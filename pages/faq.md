@@ -52,3 +52,20 @@ Jurong East, Lakeside & Chinese Garden MRT
 #### School and Departmental Programmes
 
 **1 \. What are the subjects offered in your school?**
+
+| Lower Secondary | Upper Secondary |
+|:---:|---|
+| **Express & Normal (Academic)**<br><br>**Examinable Subjects:**<br><br>English Language<br>Mother Tongue<br>Mathematics<br>Science<br>History<br>Geography<br>Literature<br>Art<br>Food and Consumer Education<br>Design and Technology <br><br>**Non-Examinable Subjects:**<br><br>Character and Citizenship Education<br>Physical Education<br>Music | **Express & Normal (Academic)**<br><br>**Compulsory Subjects:**<br><br>English Language, Mother Tongue and Mathematics\*, Humanities\* and a Science\* subject. <br><br>\*Additional Mathematics is offered to students with interest and aptitude<br><br>\*Science includes Pure Chemistry /Biology /Physics and Combined Science<br><br>\*Humanities (Social Studies + Geography/ History/ Literature)<br><br>\*Full Humanities (Full Geography/ History /Literature)<br><br>D&T, Art, Higher Art, FCE, and POA are offered based on students’ needs and school resources.<br><br>**Non-Examinable Subjects:** <br><br>Character and Citizenship Education<br>Physical Education |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
