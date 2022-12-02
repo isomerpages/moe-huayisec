@@ -79,6 +79,6 @@ All user data which is collected by MOE will be stored in secure servers managed
   
  Parents/guardians will be purchasing the PLD directly from the vendor, not MOE. This is pursuant to a bulk tender agreement between MOE and the vendor. The tender documents set out the full terms and conditions of such a purchase, and can be found at this website: [https://go.gov.sg/pldtermsandconditions](https://go.gov.sg/pldtermsandconditions) **PDF NOT FOUND**
  
- #### References
+#### References
 
 **REQUIRE JACKSON'S INPUT YOUTUBE VIDEO**
