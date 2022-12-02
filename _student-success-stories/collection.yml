@@ -1,0 +1,4 @@
+collections:
+  student-success-stories:
+    output: true
+    order: []
