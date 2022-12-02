@@ -23,6 +23,6 @@ description: ""
 
 **REQUIRE JACKSON'S INPUT YOUTUBE VIDEO**
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/faq/">
 <img style="width:40%" src="/images/photo1669992237.jpeg">
 </a></p>
