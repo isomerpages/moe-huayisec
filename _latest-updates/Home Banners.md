@@ -13,12 +13,7 @@ description: ""
 | **Benevolence**<br>Last update: 8 Nov 2021, 10:29am<br><img src="/images/8ca748545_328.jpg" style="width:66%"> | **Display Period**<br><br>**Start** : 2019-06-25 10:00:00  <br>**End**   : 2021-11-05 10:00:00 |
 | [EmpatheticContributors](/the-huayi-experience/alp/)<br>Last update: 8 Nov 2021, 10:28am<br><img src="/images/7a9c7dc5f_471.jpg" style="width:66%"> |  **Display Period**<br>Permanently<br><br>Develop the willingness to help others by stepping forward to make a difference<br><br>[\[click for more\]](/the-huayi-experience/alp/)|
 | [PassionateLearners](/the-huayi-experience/aa/)<br>Last update: 8 Nov 2021, 10:29am<br><img src="/images/280467e05_472.jpg" style="width:66%"> | **Display Period**<br>Permanently<br><br>Embark on a journey designed to uncover your potential and prepare you for a life of learning.<br><br>[\[click for more\]](/the-huayi-experience/aa/) |
-| **Justice**<br>Last update: 8 Nov 2021, 10:30am<br><img src="/images/47adb6f7d_327.jpg" style="width:66%"> |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| **Justice**<br>Last update: 8 Nov 2021, 10:30am<br><img src="/images/47adb6f7d_327.jpg" style="width:66%"> | **Display Period**<br><br>**Start** : 2019-06-25 10:00:00  <br>**End**   : 2021-11-05 10:00:00 |
+| **Wisdom**<br>Last update: 8 Nov 2021, 10:30am<br><img src="/images/c262031ac_325.jpg" style="width:66%"> | **Display Period**<br><br>**Start** : 2019-06-25 10:00:00  <br>**End**   : 2021-11-05 10:00:00 |
+| **Togetherness**<br>Last update: 8 Nov 2021, 10:30am<br><img src="/images/f643f0686_326.jpg" style="width:66%"> | **Display Period**<br><br>**Start** : 2019-06-25 10:00:00  <br>**End**   : 2021-11-05 10:00:00 |
 |  |  |
