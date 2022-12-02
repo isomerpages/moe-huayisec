@@ -58,3 +58,100 @@ Jurong East, Lakeside & Chinese Garden MRT
 | **Express & Normal (Academic)**<br><br>**Examinable Subjects:**<br><br>English Language<br>Mother Tongue<br>Mathematics<br>Science<br>History<br>Geography<br>Literature<br>Art<br>Food and Consumer Education<br>Design and Technology <br><br>**Non-Examinable Subjects:**<br><br>Character and Citizenship Education<br>Physical Education<br>Music | **Express & Normal (Academic)**<br><br>**Compulsory Subjects:**<br><br>English Language, Mother Tongue and Mathematics\*, Humanities\* and a Science\* subject. <br><br>\*Additional Mathematics is offered to students with interest and aptitude<br><br>\*Science includes Pure Chemistry /Biology /Physics and Combined Science<br><br>\*Humanities (Social Studies + Geography/ History/ Literature)<br><br>\*Full Humanities (Full Geography/ History /Literature)<br><br>D&T, Art, Higher Art, FCE, and POA are offered based on students’ needs and school resources.<br><br>**Non-Examinable Subjects:** <br><br>Character and Citizenship Education<br>Physical Education |
 | **Normal (Technical)**<br><br>**Examinable Subjects:**<br><br>English Language<br>Basic Mother Tongue<br>Mathematics<br>Science<br>Food and Consumer Education<br>Design and Technology<br>Computer Applications<br>Art <br><br>**Non-Examinable Subjects:**<br><br>Social Studies<br>Character and Citizenship Education<br>Physical Education<br>Music | **Normal (Technical)**<br><br>**Compulsory Subjects:**<br><br>English Language<br>Basic Mother Tongue<br>Mathematics<br>Science<br>Computer Applications<br><br>**Non-Examinable Subjects:**<br><br>Social Studies<br>Character and Citizenship Education<br>Physical Education  |
 |  |  |
+
+**2 \.  What is Hua Yi’s strategy for Blended Learning?**<br>Our school has started an Independent Learning day for our blended learning. Independent Learning Day happens every other Friday. Through this new blended learning curriculum, that combines online and face-to-face learning, students create new knowledge through interdisciplinary projects.
+
+**3 \.  How will the Personal Device be implemented in Hua Yi?**<br>
+Each student will have a personal iPad, with applications that have been curated to ensure that the blended learning experience is a fulfilling one for them. All Secondary 1 students will be getting their iPads at the beginning of 2022.
+
+**4 \.  How will Full Subject-Based Banding (FSBB) look like in Hua Yi?**<br>In 2021, we have integrated the Normal Academic and Normal Technical stream. The integration of both streams is Hua Yi’s first step towards Full Subject-Based Banding (FSBB) in 2022 as we celebrate the unique strengths and diversity of our students.
+
+(a) How does FSBB work?
+*   When FSBB is fully implemented, students from the Express, Normal (Academic), and Normal (Technical) streams will be merged into a single course of study.
+*   All students will attend the same Common Curriculum lessons, but they will go to different classes for the SBB lessons. During SBB lessons, students are offered in ability-banded classes - Express, N(A), and N(T). They will get to interact with other students from another class.
+
+The Common Curriculum comprises the following subjects:
+*   Art;
+*   Character and Citizenship Education (CCE);
+*   Design & Technology;
+*   Food and Consumer Education (FCE);
+*   Music;
+*   Physical Education (PE)
+
+and the SBB subjects offered comprises the following subjects:  
+*   English Language;
+*   Mother Tongue Languages;
+*   Mathematics;
+*   Science;
+*   Geography;
+*   History;
+*   Literature in English
+
+**5 \.  Does the school offer SBB?**<br>Hua Yi currently offers Subject-Based Banding (SBB) for English, Mother Tongues, Mathematics, Science, Humanities subjects (Geography and History) and Literature in English. Further information and details about SBB in Hua Yi will be shared during the Secondary 1 Registration event in December.
+
+**6 \.  What is ALP and/ or LLP about?**<br>Some of the highlights of Hua Yi in terms of learning programmes and opportunities given to students can be found in the brochure.
+
+**ALP:** Hua Yi’s Applied Learning Programme (ALP) aims to prepare our students for the challenges in this digital age.
+
+The programme will nurture the Joy of Learning in students. Students will work with their peers to generate solutions to real life problems and in the process, their creativity, communication skills and confidence will be developed. 
+
+*   Students will get the opportunity to apply what they learn in English Language, Design & Technology, ICT, Science and Character and Citizenship Education (CCE).
+*   Students will work on topics related to Health Science and Healthcare Technologies. 
+
+**LLP:** Hua Yi Secondary’s Learning for Life Programme (LLP) focuses on Community Youth Leadership (CYL). The LLP aims to help students develop life skills and values. Through this, students will discover their strengths, interests and talents. CYL focuses on providing students with opportunities to lead in serving the community and developing them as leaders of empathy.
+
+*   Tier 1: The students will learn about the Leadership Challenge Module - Model the Way, Enable Others to Act, Encourage the Heart, Inspire a Shared Vision and Challenge the Process.
+*   Tier 2: Through selection, appointment and training, students are nurtured to develop their leadership skills and they will be stretched to develop their potential in one of four leadership groups (Student Council, One Advocates, Class Leaders Committee, and CCA Leaders).
+*   Tier 3: Very capable student leaders will be nominated to attend a Tier 3 leadership programme, which will prepare them to take on greater challenges beyond the school. Student leaders will also be provided with opportunities to apply their knowledge and skills.
+
+**7 \.  What after-school engagement programmes are available in your school?**<br>Hua Yi offers a wide range of after-school engagement programmes to help students develop critical soft-skills such as:
+
+*   Youth Venture (partnership with Lakeside Family Service Centre)
+*   An 8-month adventure-themed based programme to develop and build character and resilience.
+*   Habitudes (partnership with Halogen Foundation)
+*   A programme to help students discover their strengths through powerful image-based learning.
+*   Mindfulness (partnership with Brahm Centre)
+*   A programme to teach students techniques to improve their ability to focus and regulation of emotions.
+*   LEAD (partnership with CampVision)
+*   A 6-month self-leadership programme that partners students with working professionals to learn leadership and communication skills from global executive coaches.
+
+Hangout @ Hua Yi is run by our school’s learning mentor, Mr Hilman, and is a vibrant space equipped with a variety of facilities and activities for students to engage in after school. Through his bubbly and endearing personality, Mr Hilman establishes a strong level of rapport with students and help inculcate in them stronger self-management skills. He is constantly innovating Hangout to make it ever more attractive for students to drop in.
+
+**8 \.  Does your school offer overseas adventure camps?**<br>Hua Yi has engaging learning programmes customised for every level, which may include overseas trips, usually for the upper secondary students.
+*   Sec 3 Level Programme to Batam
+* *  On 27 February to 1 March 2019, the Secondary Three cohort went on an overseas experience to Batam as part of their Level Programme.
+*  * The experience focused on 2 main areas: 
+-> School and cultural involvement <br>
+-> Values in Action (VIA) projects at orphanages
+    
+
+  
+
+Learning beyond the classroom serves as a way to challenge students to come out of their comfort zones, develop empathy and demonstrate team-building skills. Students also get to experience different cultures and learn to appreciate Singapore in the process.
+
+**9 \.  House System**<br>This year, Hua Yi made a major change to the way the school was structured. The school adopted a house system, with the school and student body organised by their house (Altius, Citius, Diutius, Fortius, Latius) instead of level. Taking reference from the Olympic motto, each house espouses an Olympic ideal to inspire every student and staff to give their all in the pursuit of excellence. Headed by a House Master, guided by a House Discipline Master, managed by two House Managers, and led by two House Leaders from each class, every house is a unique ecosystem by itself! This organisational move helped to strengthen the camaraderie of students from different classes across levels. It also created opportunities for a stronger house spirit to shine through in each house, as many school activities and programmes leveraged the house system to promote a spirit of friendly competition.
+
+#### HIGHER MOTHER TONGUE/ CLB/ THIRD LANGUAGE
+
+**1 \.  Can my child do HCL/ HML?**<br>
+Yes. If your child is given an option letter (form) by MOE during the collection of the PSLE result slips stating that they are eligible to read HCL/HML. If he/she is not given this option form, it means that the child is not eligible.
+
+**2 \.  If the child is not given the option form and is still interested to read HCL, they can apply in accordance to Hua Yi MTL policy for HCL:**<br>
+In Hua Yi, there will be 4 chances given for application to do HCL as long as the following criteria are met:
+
+a.  Excellent results for CL for the academic year (75% and above)<br>
+b.  Coupled with strong recommendation by subject teachers.
+    
+
+**3 \.  Does the school offer HML?**<br>
+Hua Yi does not offer HML. For students taking HML, they attend the lessons at external venues. 
+
+**4 \.  Does the school offer TL or HTL?**<br>
+Hua Yi does not offer TL. For Students doing TL or HTL, they do the subject at external venues. 
+
+**5 \.  Does the school offer CLB?**<br>
+Hua Yi does not offer CLB. Students taking CLB have their lessons at external venues.
+
+**6 \.  Can my child read a third language?**<br>
+As for 3rd language, MOE will inform eligible students concerned directly. Students will be given an option form to indicate their interest in taking up a third language.
+
