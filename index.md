@@ -22,9 +22,10 @@ sections:
           description: LLP
           url: /the-huayi-experience/llp/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: HUA YI SECONDARY SCHOOL
+      description: OPEN HOUSE 2022
+      button: Click here for more information
       alt: Image alt text
+      image: /images/MOTD 2022.jpg
+      url: /open-house-hy/
 ---
