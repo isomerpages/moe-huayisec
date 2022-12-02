@@ -28,8 +28,10 @@ sections:
       alt: Image alt text
       image: /images/MOTD 2022.jpg
       url: /open-house-hy/
-  - infobar:
-      title: LATEST UPDATES
-      button: CLICK HERE TO VIEW MORE
+  - infopic:
+      title: Latest Updates
+      button: Click here for information
       url: /latest-updates/latest/
+      image: /images/photo1669998419.jpeg
+      alt: Image alt text
 ---
