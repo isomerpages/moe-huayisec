@@ -47,3 +47,18 @@ description: ""
 7 \. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 	
 **At Hua Yi Secondary School, the following lessons from the Growing Years Programme will be taught in 2022:**
+
+**Secondary 1**<br>
+**Unit: Respectful Relationships & Safety**
+
+| **LESSONS / DURATION** | **Lesson Objectives**<br><br>**At the end of the lesson, students will be able to:** | **TIME PERIOD** |
+|:---:|---|---|
+| 1<br>(60 mins) | *   Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>*   Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>*   Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>*   Understand what dating is, and recognise that the readiness and interest in dating vary among individuals | Term 3 Week 9 |
+| 2<br>(60 mins) | *   Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Term 3 Week 10 |
+| 3<br>(60 mins) | *   Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>*   Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.) | Term 4 Week 2 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
