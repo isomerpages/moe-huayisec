@@ -124,3 +124,5 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 13 \. Parents contact the school at [hyss@moe.edu.sg](mailto:hyss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
 14 \. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+
+_information is updated as of 28 Jan 2022._
