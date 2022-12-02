@@ -57,3 +57,16 @@ Tigger 🐯 roars into HYSS
   
   
 Students were hard at work practicing their calligraphy and writing auspicious greetings to add to the classroom decorations.
+
+<img src="/images/CNY.jpeg" style="width:85%">
+
+#### Project Love
+
+Project Love is an annual project, in partnership with the Jurong Central Zone 'B' Residents' Committee.
+
+Our Advisor to Jurong GRC Grassroots Organisations (Jurong Central), Mr Xie Yao Quan, joined the Floorball team and HYSS staff to distribute the nicely decorated hampers and gifts to households in our Jurong community. Through this outreach project, our Hua Yians demonstrated shown what it is like to be an empathetic contributor, giving back to the community. 
+
+The Floorball team would like to extend a shout out to the Netball girls for the helping hand in wrapping the hampers and their heartfelt thanks to all HYSS staff for their generous support in making Project Love 2022 a huge success!
+
+<img src="/images/Project Love.jpeg" style="width:85%">
+
