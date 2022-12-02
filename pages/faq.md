@@ -155,3 +155,14 @@ Hua Yi does not offer CLB. Students taking CLB have their lessons at external ve
 **6 \.  Can my child read a third language?**<br>
 As for 3rd language, MOE will inform eligible students concerned directly. Students will be given an option form to indicate their interest in taking up a third language.
 
+#### ASSESSMENTS
+
+**1 \.  How are students assessed in your school?**
+<br>For Sec 1s: Formative assessment, no Mid-Year Exam and a summative review at the end of the year.
+
+**2 \.  Is there any support for students who cannot cope/ need more help with their studies?**<br>
+There are structured programmes and remedial lessons to support these students.
+
+#### CCA
+
+**1 \. What are the CCAs available at Hua Yi? What are the CCAs for DSA? What CCAs does Hua Yi excel in?**
