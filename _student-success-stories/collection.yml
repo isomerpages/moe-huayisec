@@ -1,4 +1,5 @@
 collections:
   student-success-stories:
     output: true
-    order: []
+    order:
+      - Student Success Stories.md
