@@ -2,5 +2,6 @@ collections:
   latest-updates:
     output: true
     order:
+      - Staff Contact Hours.md
       - "Testimonials: Hua Yi Family.md"
       - Latest Updates.md
