@@ -29,10 +29,10 @@ sections:
       image: /images/MOTD 2022.jpg
       url: /open-house-hy/
   - infopic:
-      title: Latest Updates
+      title: LATEST HAPPENING
       button: Click here for information
       url: /latest-updates/latest/
-      image: /images/photo1669998419.jpeg
+      image: /images/photo1670005642.jpeg
       alt: Image alt text
   - infobar:
       title: THE HUA YI FAMILY
