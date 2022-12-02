@@ -14,13 +14,13 @@ sections:
       key_highlights:
         - title: QUICK FACT 1
           description: PDLP
-          url: https://google.com
+          url: /the-huayi-experience/pdlp/
         - title: QUICK FACT 2
           description: ALP
-          url: https://gmail.com
+          url: /the-huayi-experience/alp/
         - title: QUICK FACT 3
           description: LLP
-          url: /privacy/
+          url: /the-huayi-experience/llp/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
