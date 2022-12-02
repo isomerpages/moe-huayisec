@@ -7,10 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
+      subtitle: RESILIENT LEADERS
+      background: /images/f9ae285f6_470.jpg
+      button: LEARN MORE
       url: /contact-us/
       key_highlights:
         - title: Highlight A
@@ -29,5 +28,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
