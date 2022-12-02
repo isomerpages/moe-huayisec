@@ -58,7 +58,7 @@ description: ""
 <img style="width:25%" align=left src="/images/photo1669827722.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/the-hua-yi-community/psg/">
 <img style="width:25%" align=left src="/images/HYSS PSG Logo.jpg">
 </a></p>
 
