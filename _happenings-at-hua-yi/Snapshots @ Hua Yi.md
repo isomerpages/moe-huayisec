@@ -70,3 +70,28 @@ The Floorball team would like to extend a shout out to the Netball girls for the
 
 <img src="/images/Project Love.jpeg" style="width:85%">
 
+#### 2021 GCE 'O' Level Results
+
+Congratulations to our Class of 2021 Sec 4 ‘O’ Level & Sec 5 'N' Level students! You have been steadfast and resilient and have put in tremendous effort to conquer the last hurdle.
+
+As you receive your results, do take the time to THANK your friends, teachers and parents for their constant encouragement and support in your education journey!
+
+Do also take time to explore your post- secondary options and always remember to Step Up, Step Out and Step Forward in all your future endeavours!
+
+<img src="/images/O Level Result.jpeg" style="width:85%">
+
+#### Start-it-Right - A visit to NTU
+
+Following My Teacher’s Footsteps to NTU. Our Sec 4s and 5s visited NTU on a tour with their Form Teachers, who also shared some of their experiences studying in a local varsity to inspire them to keep on keeping and achieve their dreams.
+
+<img src="/images/SIR Sec 4 MFTF.jpeg" style="width:85%">
+
+#### Start-it-Right - Domino Challenge
+
+The Sec 3s having a go at their class’s Domino Challenge. They certainly displayed resilience and togetherness in the process of building and toppling the structure!
+
+<img src="/images/SIR - Domino Challenge3.jpeg" style="width:85%">
+
+#### Start-it-Right - Suminagashi Art
+
+Sec 2s and their vibrant and colourful Suminagashi art pieces. Students dabbling in the ancient Japanese marbling art and finishing off with a meaningful quote on their final product.
