@@ -28,10 +28,8 @@ Our Badminton CCA supports the development of 21st Century Competencies skills 
 
 **Boys**
 
-*   **C Division: 2nd Round  
-    **National School Games (NSG) West Zone Tournament
-
-  
+*   **C Division: 2nd Round**
+    National School Games (NSG) West Zone Tournament
 
 **Girls**<br>
 *   **C Division: 1st**<br>
