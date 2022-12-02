@@ -2,11 +2,53 @@
 title: FAQ
 permalink: /faq/
 ---
+## Frequently Asked Questions
 
-### **FAQ**
+#### General Information
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+**1 \.  What time does school start?**<br>
+School starts at 7.30 a.m.  
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+**2 \.  What time does school end?**<br>
+School typically ends by 2:30 p.m. (Monday, Tuesday, Wednesday, and Thursday)<br>
+School ends at 12:30 p.m. or 1:30 p.m. (HMT students) on Friday.<br>
+CCAs are held weekly on Wednesday and Friday from 3:30 p.m. to 5:30 p.m.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+**3 \.  What are the aggregate scores required to enter Hua Yi?**<br>
+The aggregate score may change from year to year. For this year’s Sec 1s, students enter the school with a cut-off aggregate score of: 
+*   10 - 16 (Exp)  
+*   21 - 23 (NA)
+*   25 - 29 (NT)
+
+**4 \.  How are your current students’ progression to post-secondary institutions?**<br>
+Our students are taking pathways that best suit their needs and passion at the JCs, polytechnics, and ITE. Majority of our Express students are eligible for JC and almost all are eligible for polytechnic. Normal Academic students are eligible for ITE/EAE/PFP.
+
+**5 \.  How is the culture of the school?**<br>
+Since 1985, Hua Yi has transitioned into a co-educational school with English as its primary medium of instruction. Calligraphy lessons are conducted as part of the Lower Secondary Chinese curriculum to instil in students an appreciation of the Chinese culture as well as a link to Hua Yi’s heritage.
+
+**6 \.  How is the discipline of the school?**<br>
+The school takes a very strong stand on appropriate behaviour of Hua Yians.
+
+**7 \.  How can my child enter Hua Yi through DSA?**<br>
+Hua Yi welcomes prospective students with passion and talents from various fields, representing the different aspects of our holistic curriculum, to join the Hua Yi family through the Direct School Admission-Secondary (DSA-Sec) Exercise.
+
+(Refer to section on CCA below for DSA Talent Areas)
+
+**8 \.  Are the staff and students friendly?**<br>
+All staff and students of Hua Yi believe in the value of “Togetherness”. We learn and grow together in harmony regardless of the differences in our multicultural society.
+
+**9 \.  How can my child get to the school?**
+
+Our Address<br>
+60, Jurong West, Street 42, Singapore 649371
+
+Bus Services<br>
+Front gate: 49 & 334<br>
+Rear gate: 98, 98A, 99, 157, 187, 198, 335 & 502 
+
+MRT Stations<br>
+Jurong East, Lakeside & Chinese Garden MRT
+
+#### School and Departmental Programmes
+
+**1 \. What are the subjects offered in your school?**
