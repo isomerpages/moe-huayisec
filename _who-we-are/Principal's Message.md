@@ -5,7 +5,7 @@ description: ""
 ---
 ## Principal's Message
 
-<img src="/images/_TDS9459 (1).jpg" style="width:85%">
+<img src="/images/prinmsg.jpeg" style="width:85%">
 
 Happy 2022! This is a brand new year, which hopefully will bring with it more possibilities and opportunities than the last 2 years!  
   
