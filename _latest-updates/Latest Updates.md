@@ -12,7 +12,7 @@ description: ""
 * **[Traffic Safety Measures](/latest-updates/tsm/)**
 * **[Semester 1 - Letter to Parents](/sem1-letter/)**
 * **[Semester 1 Class Timetable (Odd Week/Even Week)](/sem1-timetable/)**
-* **[Sexuality Education Programme](https://huayisec-moe-edu-sg-admin.cwp.sg/others/sexuality-education-programme)** link isomer later
+* **[Sexuality Education Programme](/sex-ed/)**
 * **[Staff Contact Hours](/latest-updates/sch/)**
 * **[Merchandise Sale](/happenings-at-hua-yi/ms/)**
 * **[Hua Yi Secondary School – West Stories](/files/Annex%20E.pdf)**
