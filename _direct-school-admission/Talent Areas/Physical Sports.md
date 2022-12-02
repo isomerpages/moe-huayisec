@@ -32,7 +32,6 @@ DSA students will be given comprehensive support to develop their ability and in
 *   Participation in friendly matches with other schools upon admission to school
 
 <img src="/images/VB_v2.jpg" style="width:85%">
-
 <img src="/images/BB_v2.jpg" style="width:85%"><br>
 
 <img src="/images/eng1.jpeg" style="width:85%">
