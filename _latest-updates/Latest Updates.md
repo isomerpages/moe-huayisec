@@ -9,11 +9,11 @@ description: ""
 * **2022 Sec 2 School Leader's Talk([Briefing Slides](/files/2022-%20Webinar%20for%20Parents%20Sec%202_school%20website.pdf), [FAQ](/files/Sec%202%20Webinar%20with%20Parents%20_%20FAQ%202022.pdf))**
 * **[2022 Sec 4/5 School Leader's Talk - Briefing Slides](/files/2022%20Webinar%20for%20Parents%20Sec%204_5_For%20school%20website.pdf)**
 * **2022 Sec 1 School Leader's Talk ([Briefing Slides](https://huayisec.moe.edu.sg/qql/slot/u175/Latest%20News/2022/Sch%20Leader%20Talk/_2022%20Webinar%20With%20Sec%201%20Parents-merged.pdf) ,[FAQ](/files/_Sec%201%20FAQs.pdf)** briefing pdf exceeds 5MB
-* **[Traffic Safety Measures](https://huayisec-moe-edu-sg-admin.cwp.sg/others/traffic-safety-measures)** link isomer later
+* **[Traffic Safety Measures](/latest-updates/tsm/)**
 * **[Semester 1 - Letter to Parents](https://huayisec-moe-edu-sg-admin.cwp.sg/others/2022-semester-1-letter-to-parents)** link isomer later
 * **[Semester 1 Class Timetable (Odd Week/Even Week)](https://huayisec-moe-edu-sg-admin.cwp.sg/others/2022-semester-1-class-timetable)** link isomer later
 * **[Sexuality Education Programme](https://huayisec-moe-edu-sg-admin.cwp.sg/others/sexuality-education-programme)** link isomer later
-* **[Staff Contact Hours](https://huayisec-moe-edu-sg-admin.cwp.sg/others/staff-contact-hours)** link isomer later
+* **[Staff Contact Hours](/latest-updates/sch/)**
 * **[Merchandise Sale](https://huayisec.moe.edu.sg/happenings-at-hua-yi/merchandise-sale)** link isomer later
 * **[Hua Yi Secondary School – West Stories](/files/Annex%20E.pdf)**
 * **[Hua Yi Secondary School National Day Music Video 2019](https://www.youtube.com/watch?v=6yJGX6-zAvQ&feature=youtu.be)**
