@@ -104,3 +104,28 @@ Sec 1s adopting a Bonsai plant that was previously cared for by their sec 2 seni
 
 <img src="/images/Bonsai Programme.jpeg" style="width:85%">
 
+#### Secondary 1 Orientation Camp
+
+The Sec 1s kickstarting their secondary school life with a 2 day long orientation camp which their seniors have prepared over the year end holidays, to help familiarise themselves with the new environment and bond with their classmates.
+
+<img src="/images/Sec 1 Orientation Camp.jpeg" style="width:85%">
+
+#### 2021 GCE 'N' Level Results
+
+Congratulations to our Class of 2021 Sec 4 ‘N’ Level students! You have worked hard to pursue your dreams, and now it is time to write the next chapter of your adventure! 
+
+Here's wishing you SUCCESS in everything you do and your future endeavours! Always remember to Step Up, Step Out and Step Forward!
+
+<img src="/images/N Level Result.jpeg" style="width:85%">
+
+#### National Day Celebration (6 Aug 2021)
+
+Despite being the second year commemorating our nation’s birthday in the midst of a pandemic, Hua Yians have risen to the occasion to engage, reflect and reaffirm our Singaporean identity and bonds with fellow Singaporeans. The school witnessed a refreshed Observance Ceremony and pondered the message conveyed personally by our Minister for Education, Mr Chan Chun Sing. Other highlights included original videos creatively presented by our Show Choir, Concert Band, Malay Language Unit and Guzheng Ensemble.
+
+<img src="/images/IMG20210806100219.jpg" style="width:85%">
+
+#### Standing Together with TTSH (May 2021)
+
+Right before the recent Home-Based Learning announcement, our empathetic student leaders stepped up and modelled the school values of Benevolence and Togetherness as they penned down well-wishes to show support for the staff of Tan Tock Seng Hospital (TTSH). We at Hua Yi stand together in solidarity with the healthcare workers as they persevere in keeping Singapore safe and healthy!
+
+<img src="/images/20210517_144938.jpg" style="width:85%">
