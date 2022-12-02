@@ -94,11 +94,22 @@ description: ""
 
 | **LESSONS / DURATION** | **Lesson Objectives**<br><br>**At the end of the lesson, students will be able to:** | **TIME PERIOD** |
 |:---:|---|---|
-| 1<br>(60 mins) | *   Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>*   Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>*   Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. |  |
+| 1<br>(60 mins) | *   Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>*   Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>*   Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 3 Week 5 |
 |  |  |  |
+
+_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
+
+[_eTeens_ Programme:](https://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/files/eteens-2012.pdf)**PAGE NOT FOUND**
+
+8 \. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9 \. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Hua Yi Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+|  Topics/Lessons |  Programme Learning Objectives |  Time Period |
+|:---:|---|---|
+| **Mass Talk by HPB** **appointed vendor** | *   Awareness of the different STIs and HIV/AIDS<br>*   Modes of transmission<br>*   Modes of protection, specifically on how the condom is used<br>*   Consequences and impact of STIs/HIV | Term 3 Week 9 |
+| **Classroom-based Lesson** | *   Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 9 |
 |  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+
