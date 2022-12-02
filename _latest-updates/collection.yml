@@ -2,4 +2,5 @@ collections:
   latest-updates:
     output: true
     order:
+      - Latest Updates.md
       - "Testimonials: Hua Yi Family.md"
