@@ -2,8 +2,8 @@ collections:
   latest-updates:
     output: true
     order:
-      - Home Banners.md
       - "Testimonials: Hua Yi Family.md"
       - Latest Updates.md
       - Staff Contact Hours.md
       - Traffic Safety Measures.md
+      - Home Banners.md
