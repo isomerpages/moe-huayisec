@@ -10,16 +10,16 @@ sections:
       subtitle: RESILIENT LEADERS
       background: /images/f9ae285f6_470.jpg
       button: LEARN MORE
-      url: /contact-us/
+      url: /the-huayi-experience/sl/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: QUICK FACT 1
+          description: PDLP
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: QUICK FACT 2
+          description: ALP
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: QUICK FACT 3
+          description: LLP
           url: /privacy/
   - infobar:
       title: Infobar title
