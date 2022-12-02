@@ -129,3 +129,21 @@ Despite being the second year commemorating our nation’s birthday in the midst
 Right before the recent Home-Based Learning announcement, our empathetic student leaders stepped up and modelled the school values of Benevolence and Togetherness as they penned down well-wishes to show support for the staff of Tan Tock Seng Hospital (TTSH). We at Hua Yi stand together in solidarity with the healthcare workers as they persevere in keeping Singapore safe and healthy!
 
 <img src="/images/20210517_144938.jpg" style="width:85%">
+
+#### Student Leaders’ Investiture (18 May 2021)
+
+We can always count on our resilient leaders to challenge and seek improvement in processes. This year, our Student Leaders came up with a creative video to give recognition to the outgoing Class of 2020 and to warmly welcome the Class of 2021. As the seniors step out and hand over the baton, may our new leaders step up, step forward and rise to the occasion!
+
+<img src="/images/10 Congrats 2021 Exco - M Durga Shree.jpg" style="width:85%">
+
+#### Awards Day (10 Apr 2021)
+
+We celebrate Hua Yians’ successes and achievements as they continue to strive for excellence. This year, we had a special Awards Day which we merged with the opening of our Heritage Gallery extension. Our student leaders gave a guided tour to Ms Chang Hwee Nee, CEO of National Heritage Board, and other special guests of the level 1 walkway, all the way to the newly extended Heritage Gallery on level 3. After the opening, the school recognised the students, teachers and non-teaching staff for their successes and contributions.
+
+<img src="/images/HYSS21 Awards Day Photos 86 of 240.jpg" style="width:85%">
+
+#### Chinese New Year Celebrations (11 Feb 2021)
+
+Chinese New Year celebrations took a cosier form this year, with students enjoying the pre-recorded concert in class with their friends and teachers. The pre-recorded concert consisted of lively performances put up by KKrew and Dance Society, an educational comedy re-make of ‘Uncle Roger’ by the CLDDS, and a melodious rendition of Chinese New Year songs by our very own Hua Yi teachers. Students had fun making mandarin oranges, dabbling in calligraphy or making greeting cards!
+
+<img src="/images/cny 11feb.jpeg" style="width:85%">
