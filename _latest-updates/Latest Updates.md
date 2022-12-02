@@ -10,7 +10,7 @@ description: ""
 * **[2022 Sec 4/5 School Leader's Talk - Briefing Slides](/files/2022%20Webinar%20for%20Parents%20Sec%204_5_For%20school%20website.pdf)**
 * **2022 Sec 1 School Leader's Talk ([Briefing Slides](https://huayisec.moe.edu.sg/qql/slot/u175/Latest%20News/2022/Sch%20Leader%20Talk/_2022%20Webinar%20With%20Sec%201%20Parents-merged.pdf) ,[FAQ](/files/_Sec%201%20FAQs.pdf)** briefing pdf exceeds 5MB
 * **[Traffic Safety Measures](/latest-updates/tsm/)**
-* **[Semester 1 - Letter to Parents](https://huayisec-moe-edu-sg-admin.cwp.sg/others/2022-semester-1-letter-to-parents)** link isomer later
+* **[Semester 1 - Letter to Parents](/sem1-letter/)**
 * **[Semester 1 Class Timetable (Odd Week/Even Week)](https://huayisec-moe-edu-sg-admin.cwp.sg/others/2022-semester-1-class-timetable)** link isomer later
 * **[Sexuality Education Programme](https://huayisec-moe-edu-sg-admin.cwp.sg/others/sexuality-education-programme)** link isomer later
 * **[Staff Contact Hours](/latest-updates/sch/)**
