@@ -30,3 +30,30 @@ We were honoured to have with us Mr Michael Chia, chairman of the Hua Yi Alumni 
 We were honoured to have with us, Mr Kenny Sim, who is the chairman of the School Advisory Committee to celebrate our Hua Yians' success and achievements. Hua Yians, keep on keeping on in your strive for excellence! Congratulations to all awardees:
 
 <img src="/images/Awards Day Sec 4.jpeg" style="width:85%">
+
+#### Awards Day 2022 - 8 April 2022
+
+We came together as a school community to celebrate and recognise the many successes of our students and staff, and also to thank our other stakeholders for their continued support. Our special guest this year was Mr Xie Yao Quan, Grassroots Advisor for Jurong GRC Grassroots Organisations.
+
+<img src="/images/Awards Day.jpg" style="width:85%">
+
+#### Montage 2022
+
+After a hiatus of 2 years, we are back in action!💥 Nothing was going to stand in the way of our Hua Yians, who kept on keeping on. Despite countless setbacks, our visual and performing arts CCAs came together and rose to the occasion to put up an amazing Montage performance.
+
+<img src="/images/HYSS Montage 2022 - Photos 70 of 136.jpg" style="width:85%">
+
+#### House Day
+
+We rounded off the last day of Term 1 with our inaugural House Day!  
+  
+The House Shield, proudly sponsored by our dear Principal, Ms Gwee, will be used to mark the winning House at the end of each academic year. The winning house🥇 for the year will have their name carved into a section of the Shield to commemorate their achievement!
+
+<img src="/images/House Day.jpeg" style="width:85%">
+
+#### Chinese New Year Celebration
+
+Tigger 🐯 roars into HYSS  
+  
+  
+Students were hard at work practicing their calligraphy and writing auspicious greetings to add to the classroom decorations.
