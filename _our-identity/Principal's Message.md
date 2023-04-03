@@ -7,17 +7,35 @@ description: ""
 
 <img src="/images/prinmsg.jpeg" style="width:85%">
 
-Happy 2022! This is a brand new year, which hopefully will bring with it more possibilities and opportunities than the last 2 years!  
-  
-With our successful transition to the House System in 2021, Hua Yi now operates on a House Structure that will see all classes, across all levels allocated to the 5 Houses, namely Altius, Citius, Dutius, Fortius and Latius. Our Year Heads are the House Advisors, the Asst Year Heads, SH PE/CCA and SH/Literature, are the House Masters, and they will be assisted by a committee comprising House Discipline Masters, House Managers, and student leaders. With this House system, our students will remain in the same class for the duration they are in Hua Yi. Related to this, the class of 2022, our new Sec 1 cohort will be the first cohort to be in fully integrated classes, that is, there will not be the distinction of stream. This is also in line with Full Subject-based Banding which Hua Yi will be officially embarking on this year.  
-  
-We started with the Personalised Digital Learning Programme (PDLP for short) in 2021, and we will be continuing and expanding the programme to meet the objectives of having our students become more independent learners. Aligned to PDLP, will be a Cyberwellness Framework based on the principles of respect for self and others, safe and responsible use of technology, and positive peer influence.  
-  
-Blended Learning in Hua Yi takes the form of an Independent Learning Day (ILD) every even Friday. There will be 2 segments to each session – curriculum coverage that will be asynchronous and focusing on Joy in Learning, Ownership of Learning and ApplYing learning, and student-initiated learning, called Project Sandbox, where students will get the opportunity to pursue interests of their choice such as Sports and Fitness, Music, Art and Craft, Languages, Botany, etc. The activities are house-based, and can be pursued in school, at home, or other locations, with teachers acting as mentors and co-learners!  
-  
-The school’s theme for the year is “Keep on Keeping On”, which carries forward the themes of the previous years, and focuses on the values of resilience, perseverance and striving for excellence. In line with this, our staff and students will be having a number of conversations this year revolved around the book “The Boy, The Mole, The Fox and The Horse”. There are many lessons we can learn from the book, but perhaps let me just point out two pertinent ones. The first is that we can live courageously, be kind to ourselves and others, and to seek help when we need to. And second, we can make a difference, no matter how small or insignificant we think we are.  
-  
-These and a number of other lessons should stand us in good stead as we face the challenges of the year ahead. I wish all courage, joy, kindness and open-mindedness as we move onward in 2022.
+Hello Everyone and a Happy 2023!
 
-Ms Sandra Gwee <br>
+  
+
+2018: Venture-step by step
+
+2019: Passion made Possible
+
+2020: Purpose, Action, Endless Possibility
+
+2021: Step Up, Step Out, Step Forward
+
+2022: Keep on Keeping On!
+
+  
+
+These have been our themes over the last few years. Our focus thus far has been to exhort Hua Yians to be bold and pursue their passions, to realise that if they have their goals in mind, if purposeful action is taken, if they have the courage to step forward, and persevere despite difficulties, the possibilities are endless.
+
+Our theme for 2023 is: “We’re MAD”. Perhaps some people will think we are as we do things quite differently in Hua Yi, but that should not stop us from “**M**aking&nbsp;**A**&nbsp;**D**ifference!”. After opportunities have been given, after values have been inculcated, after skills and knowledge have been acquired, our expectation is for Hua Yians to impact the community, to make a difference to others.
+
+What are some of the key activities and programmes that have been planned for this year? Most of the whole-school, House and Level Programmes will remain, beginning with the Start-It-Right Programme. Likewise, our fortnightly Independent Learning Day (ILD, for short), which takes place every even Friday will continue. The school’s flagship Learning Festival, conducted at the end of Semesters 1 &amp; 2, will also be carried out. However, there will be some tweaks and adjustments made, either to the activities, the structure of the programme, or in the way the programme is conducted.
+
+This year we will be holding Montage and it will be an original musical performed by Hua Yians. Work on this already began at the end of 2022, and we’re looking forward to watch the performance in July at an external venue, namely the Canadian International School.
+
+Some adjustments will be made in the way we manage some of the day-to-day processes. For example, to develop our students into responsible, independent learners who are able to exercise self-discipline and manage their time constructively, we have made the decision not to send in relief when teachers are on medical leave, attending a workshop or when there is whitespace in the timetable. The students will complete assigned tasks on their own. We believe that with guidance and clear expectations being set, our students will be able to rise up to the occasion, exercise autonomy and make good use of their time.
+
+Indeed, it is our firm belief the many learning experiences that our students go through in Hua Yi, will enable them to develop their potential, inculcate in them the right values, and ultimately stead them in good stead for the future.
+
+I wish everyone a joyous and meaningful 2023.&nbsp;
+
+Ms Sandra Gwee  
 Principal
