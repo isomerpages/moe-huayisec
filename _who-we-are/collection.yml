@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Our Code of Conduct/School Rules and Regulations.md
       - Our Code of Conduct/Homework Policy.md
       - Our Code of Conduct/COVID19 Measures.md
       - Our Code of Conduct/.keep
