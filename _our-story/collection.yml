@@ -1,4 +1,5 @@
 collections:
   our-story:
     output: true
-    order: []
+    order:
+      - History and Heritage.md
