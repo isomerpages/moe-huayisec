@@ -34,7 +34,7 @@ sections:
       title: LATEST HAPPENINGS
       button: Click here for information
       url: /latest-updates/latest/
-      image: /images/photo1670005642.jpeg
+      image: /images/hua-yi-ex-banner.jpg
       alt: Image alt text
   - infobar:
       title: THE HUA YI FAMILY
