@@ -2,5 +2,6 @@ collections:
   our-code-of-conduct:
     output: true
     order:
+      - Homework Policy.md
       - School Rules and Regulations.md
       - School Safety and Security.md
