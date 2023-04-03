@@ -36,9 +36,11 @@ sections:
       url: /latest-updates/latest/
       image: /images/hua-yi-ex-banner.jpg
       alt: Image alt text
-  - infobar:
+  - infopic:
       title: THE HUA YI FAMILY
       description: What does it feel like to be part of the Hua Yi family?
-      button: click here to view
+      button: Click here to view
       url: /the-hua-yi-experience/excelling-in-life/student-success-stories
+      image: /images/family-bg.jpg
+      alt: Image alt text
 ---
