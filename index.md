@@ -4,7 +4,7 @@ title: Hua Yi Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/photo1669991329.jpeg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       subtitle: EXCELLING IN LIFE
@@ -25,14 +25,13 @@ sections:
           description: ""
           url: /the-hua-yi-experience/a-passionate-learner/academic-achievement
   - infopic:
-      title: HUA YI SECONDARY SCHOOL
-      description: OPEN HOUSE 2022
-      button: Click here for more information
+      title: QUCK FACTS ABOUT HUA YI
+      button: Click Here To Learn More
+      url: /quick-facts
+      image: /images/img_6005.jpg
       alt: Image alt text
-      image: /images/MOTD 2022.jpg
-      url: /open-house-hy/
   - infopic:
-      title: LATEST HAPPENING
+      title: LATEST HAPPENINGS
       button: Click here for information
       url: /latest-updates/latest/
       image: /images/photo1670005642.jpeg
