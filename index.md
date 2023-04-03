@@ -7,20 +7,23 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      subtitle: RESILIENT LEADERS
-      background: /images/f9ae285f6_470.jpg
+      subtitle: EXCELLING IN LIFE
+      background: /images/hua yi sec homepage.gif
       button: LEARN MORE
-      url: /the-huayi-experience/sl/
+      url: /the-hua-yi-experience/excelling-in-life/student-success-stories
       key_highlights:
-        - title: QUICK FACT 1
-          description: PDLP
-          url: /the-huayi-experience/pdlp/
-        - title: QUICK FACT 2
-          description: ALP
-          url: /the-huayi-experience/alp/
-        - title: QUICK FACT 3
-          description: LLP
-          url: /the-huayi-experience/llp/
+        - title: GLOCALISED CITIZENS
+          description: ""
+          url: /the-hua-yi-experience/a-glocalised-citizen/cultural-studies-programme
+        - title: RESILIENT LEADERS
+          description: ""
+          url: /the-hua-yi-experience/a-resilient-leader/student-leadership
+        - title: EMPATHETIC CONTRIBUTORS
+          description: ""
+          url: /the-hua-yi-experience/an-empathetic-contributor/applied-learning-programme-alp
+        - title: Passionate Learners
+          description: ""
+          url: /the-hua-yi-experience/a-passionate-learner/academic-achievement
   - infopic:
       title: HUA YI SECONDARY SCHOOL
       description: OPEN HOUSE 2022
