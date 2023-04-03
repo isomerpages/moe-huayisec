@@ -2,7 +2,7 @@ collections:
   our-code-of-conduct:
     output: true
     order:
-      - COVID19 Measures.md
-      - Homework Policy.md
-      - School Rules and Regulations.md
       - School Safety and Security.md
+      - School Rules and Regulations.md
+      - Homework Policy.md
+      - COVID19 Measures.md
