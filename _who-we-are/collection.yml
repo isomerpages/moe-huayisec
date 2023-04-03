@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Code of Conduct/.keep
-      - Our Story/History and Heritage.md
       - Our Story/.keep
       - Our Identity/.keep
       - Our Identity/Principal's Message.md
