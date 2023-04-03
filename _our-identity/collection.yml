@@ -2,5 +2,6 @@ collections:
   our-identity:
     output: true
     order:
+      - Student Outcomes.md
       - School Crest, School Song.md
       - House System.md
