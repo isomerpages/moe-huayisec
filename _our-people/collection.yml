@@ -1,5 +1,5 @@
 collections:
-  staff-by-departments:
+  our-people:
     output: true
     order:
       - Staff (by Departments)/.keep
