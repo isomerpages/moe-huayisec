@@ -2,4 +2,5 @@ collections:
   our-code-of-conduct:
     output: true
     order:
+      - School Rules and Regulations.md
       - School Safety and Security.md
