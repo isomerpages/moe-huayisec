@@ -1,4 +1,5 @@
 collections:
   our-code-of-conduct:
     output: true
-    order: []
+    order:
+      - School Safety and Security.md
