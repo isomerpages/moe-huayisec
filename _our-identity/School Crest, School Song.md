@@ -5,7 +5,7 @@ description: ""
 ---
 ## School Crest, School Song
 
-<img src="/images/crest.png" style="width:30%" align="left">
+<img src="/images/crest.png" style="width:20%" align="left">
 
 **SCHOOL CREST**<br>
 Our school badge is inscribed with the symbol of the lion and the initials of Hua Yi Secondary School. The lion, which is placed above the initials “HY”, signifies the sovereignty of our country. The school initials cradled underneath the Lion signifies the school as cultivating talents for our country.
