@@ -2,7 +2,6 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - Department Programmes/.keep
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Values in Action (VIA).md
