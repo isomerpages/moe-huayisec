@@ -6,18 +6,8 @@ third_nav_title: Staff (by Departments)
 ---
 ## English
 
-<img src="/images/English-_-Literature.jpg" style="width:85%">
+<img src="/images/english%20language%20informal.jpg" style="width:100%">
 
-From bottom to top, left to right  
-  
-##### 1st&nbsp;row
 
-_Ms Caroline Tracy, Mrs Pan-Ong Fei Eng, Ms Durga, Mr Jeffrey Ong, Ms Serene Hiew, Ms Seng Pei Sze, Mdm Liyana_  
-
-##### 2nd&nbsp;row
-
-_Mdm Quek Si Min, Ms Kuek Shao Zhen, Mdm Aneesah, Ms Marie-Therese Pang, Ms Wendy Ng, Ms Faizah_  
-
-##### 3rd&nbsp;row
-
-_Mr Bibek Ray, Mr Wong Tuck Wai, Mdm Syahirah, Ms Beverly Ang, Ms Tham Yunbing, Mr See Chee Wah_
+_Not in any order:_&nbsp;  
+_Ms Caroline Tracy, Mrs Pan-Ong Fei Eng, Ms Durga, Mr Jeffrey Ong, Mdm Norhayati, Ms Seng Pei Sze, Mdm Liyana,_&nbsp;_Mdm Quek Si Min, Ms Kuek Shao Zhen, Mdm Aneesah, Ms Wendy Ng,_&nbsp;_Mr Bibek Ray, Mr Wong Tuck Wai, Mdm Syahirah, Mr See Chee Wah &amp; Mr Huang Carson_
