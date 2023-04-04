@@ -6,14 +6,7 @@ third_nav_title: Staff (by Departments)
 ---
 ## PE/ CCA/ Aesthetics
 
-<img src="/images/PE,-CCA-_-Aesthetics.jpg" style="width:85%">
+<img src="/images/pe%20cca%20%20aesthetics%20informal.jpg" style="width:100%">
 
-From bottom to top, left to right  
-  
-##### 1st&nbsp;row
-
-_Ms O Ming Fen, Mr Rameswaran, Mr Lim Kok Sing, Mr Seo Hong Choon_  
-
-##### 2nd&nbsp;row
-
-_Ms Susanna Wee, Ms Chong Hui Min, Mdm Tan Hoe Keng, Ms Lee Taojing_
+_Not in any order:_  
+_Ms O Ming Fen, Mr Rameswaran, Mr Lim Kok Sing, Mr Seo Hong Choon,_&nbsp;_Ms Susanna Wee, Ms Chong Hui Min &amp; Ms Lee Taojing_
