@@ -6,14 +6,8 @@ third_nav_title: Staff (by Departments)
 ---
 ## Craft &amp; Technology
 
-<img src="/images/C_T.jpg" style="width:85%">
+<img src="/images/craft%20%20tech%20informal.jpg" style="width:100%">
 
-From bottom to top, left to right  
-  
-##### 1st&nbsp;row
 
-_Ms Pooja, Mr Roland Chan, Mr Joo Chan Hock, Mr Tan Kheng Wee, Mdm Anggreini, Mdm Keh Hwee Peng, Mr Tham Chee Yoong_  
-
-##### 2nd&nbsp;row
-
-_Mrs Jessica Chen, Mdm Siti Ismalina, Ms Zahrah, Mr Oliver Ong, Mr Sim Chow Meng, Ms Joan Ng, Mr Wong Wai Seng_
+_Not in any order:_&nbsp;  
+_Ms Pooja, Mr Roland Chan, Mr Joo Chan Hock, Mr Tan Kheng Wee, Mdm Anggreini, Mr Tham Chee Yoong,_&nbsp;_Mrs Jessica Chen, Mdm Siti Ismalina, Ms Zahrah, Mr Oliver Ong, Mr Sim Chow Meng, Ms Joan Ng &amp; Mr Wong Wai Seng_
