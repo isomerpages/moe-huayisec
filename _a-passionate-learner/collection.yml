@@ -1,4 +1,5 @@
 collections:
   a-passionate-learner:
     output: true
-    order: []
+    order:
+      - Learning Festival.md
