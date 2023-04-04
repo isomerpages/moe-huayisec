@@ -6,14 +6,8 @@ third_nav_title: Staff (by Departments)
 ---
 ## Mother Tongue
 
-<img src="/images/MT.jpg" style="width:85%">
+<img src="/images/mother%20tongue%20informal.jpg" style="width:100%">
 
-From bottom to top, left to right  
 
-##### 1st&nbsp;row
-
-_Mr Yazid, Mdm Angie Ng, Mdm Yong Siow Ling, Ms Zhuang Xiaojuan, Mdm Aishah, Ms Siti Aisyah_  
-
-##### 2nd&nbsp;row
-
-_Ms Teh Sieu Ching, Ms Adillah, Mdm Cheu Siew Lan, Mdm Ma Ruike, Mdm Farah, Ms Tan Wan Kiang, Ms Li Chenxu, Ms Goh Yuet Pei_
+_Not in any order:_  
+_Mr Yazid, Mdm Aishah, Ms Siti Aisyah,_&nbsp;_Ms Teh Sieu Ching, Ms Adillah, , Mdm Ma Ruike, Mdm Farah, Ms Tan Wan Kiang, Ms Low Xuan Yin, Ms Shen Yuanyuan_
