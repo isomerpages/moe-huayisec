@@ -6,18 +6,7 @@ third_nav_title: Staff (by Departments)
 ---
 ## Mathematics
 
-<img src="/images/Mathematics.jpg" style="width:85%">
+<img src="/images/mathematics%20informal.jpg" style="width:100%">
 
-From bottom to top, left to right  
-  
-##### 1st&nbsp;row
-
-_Ms Lee Hui Ling, Ms Keziah Seow, Mdm Suzanne Lye, Mr Shaheful, Mrs Lynette Loh, Ms Jasmine Tan_  
-
-##### 2nd&nbsp;row
-
-_Ms Chan Siming, Mdm Kalarani, Ms Wong Shuk Wai, Mr Beh Yong Hua, Mr Tan Chu Sing, Mr Tan Yong Hwa_  
-
-##### 3rd&nbsp;row
-
-_Mr Tan Say Chong, Mr Leow Guan Sin, Ms Ong Chi Yen, Ms Shirlynn Khoo_
+_Not in any order:_  
+ _Ms Lee Hui Ling, Ms Keziah Seow, Mdm Suzanne Lye, Mr Shaheful, Mrs Lynette Loh, Ms Jasmine Tan,_&nbsp;_Ms Chan Siming, Mdm Kalarani, Mr Beh Yong Hua, Mr Tan Chu Sing,_&nbsp;_Mr Leow Guan Sin, Ms Ong Chi Yen, Ms Shirlynn Khoo &amp; Ms Elene Phang_
