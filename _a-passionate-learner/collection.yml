@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Academic Achievement.md
+      - Departments/Mathematics Department.md
       - Departments/Humanities Department.md
       - Departments/Physical Education Department.md
       - Departments/Craft and Technology Department.md
