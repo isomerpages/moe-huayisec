@@ -6,7 +6,7 @@ third_nav_title: Staff (by Departments)
 ---
 ## School Management Comittee
 
-<img src="/images/smc%20informal.jpg" style="width:75%">
+<img src="/images/smc%20informal.jpg" style="width:100%">
 
 #### Staff in the photo (Not in any order):
 
