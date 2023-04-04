@@ -7,120 +7,583 @@ description: ""
 
 #### School Management Committee
 
-| Designation | Name | Email Address | Extension No. |
-|:---:|---|---|---|
-| Principal | Ms Sandra Gwee | [Sandra\_gwee@schools.gov.sg](mailto:Sandra_gwee@schools.gov.sg) | 108 |
-| Vice-Principal (Teaching &amp; Learning) | Mrs Catherine Chan | [Catherine\_khoo@schools.gov.sg](mailto:Catherine_khoo@schools.gov.sg) | 109 |
-| Vice-Principal (Student Development) | Mrs Celine Wong | [tan\_kay\_bin@schools.gov.sg](mailto:tan_kay_bin@schools.gov.sg) | 110 |
-| HOD CCE | Ms Seng Pei Sze | [seng\_pei\_sze@schools.gov.sg](mailto:seng_pei_sze@schools.gov.sg) | 207 |
-| HOD Craft &amp; Technology | Mr Tan Kheng Wee | [tan\_kheng\_wee@schools.gov.sg](mailto:tan_kheng_wee@schools.gov.sg) | 211 |
-| School Staff Developer | Mrs Pan-Ong Fei Eng | [pan-ong\_fei\_eng@schools.gov.sg](mailto:pan-ong_fei_eng@schools.gov.sg) | 216 |
-| HOD Humanities | Mr Kelvin Ng | [ng\_wai\_kit\_kelvin@schools.gov.sg](mailto:ng_wai_kit_kelvin@schools.gov.sg) | 218 |
-| HOD ICT | Mr Shaheful | [shaheful\_mansor@schools.gov.sg](mailto:shaheful_mansor@schools.gov.sg) | 215 |
-| HOD Mathematics | Mdm Suzanne Lye | [lye\_yoke\_pheng@schools.gov.sg](mailto:lye_yoke_pheng@schools.gov.sg) | 214 |
-| HOD PE, CCA &amp; Aesthetics | Mr Ramesh | [sivagnanam\_rameswaran@schools.gov.sg](mailto:sivagnanam_rameswaran@schools.gov.sg) | 210 |
-| HOD Science | Mr Lee Choon Kiong | [lee\_choon\_kiong@schools.gov.sg](mailto:lee_choon_kiong@schools.gov.sg) | 213 |
-| HOD Mother Tongue (Covering) | Ms Teh Sieu Ching | [teh\_sieu\_ching@schools.gov.sg](mailto:teh_sieu_ching@schools.gov.sg) | 206 |
-| HOD Student Management | Mr Koh Kah Hock | [koh\_kah\_hock@schools.gov.sg](mailto:koh_kah_hock@schools.gov.sg) | 207 |
-| HOD English Language | Mr Jeffrey Ong Siew Meng | [ong\_siew\_meng\_jeffrey@schools.gov.sg](mailto:ong_siew_meng_jeffrey@schools.gov.sg) | 212 |
-| Year Head | Mdm Quek Si Min | [quek\_si\_min@schools.gov.sg](mailto:quek_si_min@schools.gov.sg) | 309 |
-| Year Head | Mdm Chen Cailing | [chen\_cailing@schools.gov.sg](mailto:chen_cailing@schools.gov.sg) | 209 |
-| Assistant Year Head | Mdm Aishah | [aishah\_abdul\_rahman@schools.gov.sg](mailto:aishah_abdul_rahman@schools.gov.sg) | 306 |
-| Assistant Year Head | Ms Lim Mei Yee Joanna | [lim\_mei\_yee\_joanna@schools.gov.sg](mailto:lim_mei_yee_joanna@schools.gov.sg) | 310 |
-| Assistant Year Head (Covering) | Mdm Anggreini | [anggreini\_hamid@schools.gov.sg](mailto:anggreini_hamid@schools.gov.sg) | 317 |
-| SH CCE | Ms Chiang Wai Kit | [chiang\_wai\_kit@schools.gov.sg](mailto:chiang_wai_kit@schools.gov.sg) | 306 |
-| SH ICT | Ms Ong Chi Yen | [ong\_chi\_yen@schools.gov.sg](mailto:ong_chi_yen@schools.gov.sg) | 313 |
-| SH PE CCA | Mr Lim Kok Sing | [lim\_kok\_sing@schools.gov.sg](mailto:lim_kok_sing@schools.gov.sg) | 307 |
-| SH English Literature | Ms Kuek Shao Zhen | [kuek\_shao\_zhen@schools.gov.sg](mailto:kuek_shao_zhen@schools.gov.sg) | 309 |
-| SH Chemistry | Ms Tok Peilin | [tok\_peilin@schools.gov.sg](mailto:tok_peilin@schools.gov.sg) | 309 |
-| SH Maths | Ms Khoo Ling Shirlynn | [khoo\_ling\_shirlynn@schools.gov.sg](mailto:khoo_ling_shirlynn@schools.gov.sg) | 313 |
-| SH Student Leadership | Ms O Ming Fen | [o\_ming\_fen@schools.gov.sg](mailto:o_ming_fen@schools.gov.sg) | 306 |
-| SH Student Well-Being | Ms Chan Siming | [siming\_\_chan@schools.gov.sg](mailto:siming_chan@schools.gov.sg) | 303 |
-| SH Student Management (Covering) | Ms Lee Taojing | [lee\_taojing@schools.gov.sg](mailto:lee_taojing@schools.gov.sg) | 320 |
-|  |  |  |  |
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Email Address</th>
+    <th>Extension No.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Principal</td>
+    <td>Ms Sandra Gwee</td>
+    <td><a href="mailto:Sandra_gwee@schools.gov.sg">Sandra_gwee@schools.gov.sg</a></td>
+    <td>108</td>
+  </tr>
+  <tr>
+    <td>Vice-Principal (Teaching &amp; Learning)</td>
+    <td>Mrs Catherine Chan</td>
+    <td><a href="mailto:Catherine_khoo@schools.gov.sg">Catherine_khoo@schools.gov.sg</a></td>
+    <td>109</td>
+  </tr>
+  <tr>
+    <td>Vice-Principal (Student Development)</td>
+    <td>Mrs Celine Wong</td>
+    <td><a href="mailto:tan_kay_bin@schools.gov.sg">tan_kay_bin@schools.gov.sg</a></td>
+    <td>110</td>
+  </tr>
+  <tr>
+    <td>HOD CCE</td>
+    <td>Ms Seng Pei Sze</td>
+    <td><a href="mailto:seng_pei_sze@schools.gov.sg">seng_pei_sze@schools.gov.sg</a></td>
+    <td>207</td>
+  </tr>
+  <tr>
+    <td>HOD Craft &amp; Technology</td>
+    <td>Mr Tan Kheng Wee</td>
+    <td><a href="mailto:tan_kheng_wee@schools.gov.sg">tan_kheng_wee@schools.gov.sg</a></td>
+    <td>211</td>
+  </tr>
+  <tr>
+    <td>School Staff Developer</td>
+    <td>Mrs Pan-Ong Fei Eng</td>
+    <td><a href="mailto:pan-ong_fei_eng@schools.gov.sg">pan-ong_fei_eng@schools.gov.sg</a></td>
+    <td>216</td>
+  </tr>
+  <tr>
+    <td>HOD Humanities</td>
+    <td>Mr Kelvin Ng</td>
+    <td><a href="mailto:ng_wai_kit_kelvin@schools.gov.sg">ng_wai_kit_kelvin@schools.gov.sg</a></td>
+    <td>218</td>
+  </tr>
+  <tr>
+    <td>HOD ICT</td>
+    <td>Mr Shaheful</td>
+    <td><a href="mailto:shaheful_mansor@schools.gov.sg">shaheful_mansor@schools.gov.sg</a></td>
+    <td>215</td>
+  </tr>
+  <tr>
+    <td>HOD Mathematics</td>
+    <td>Mdm Suzanne Lye</td>
+    <td><a href="mailto:lye_yoke_pheng@schools.gov.sg">lye_yoke_pheng@schools.gov.sg</a></td>
+    <td>214</td>
+  </tr>
+  <tr>
+    <td>HOD PE, CCA &amp; Aesthetics</td>
+    <td>Mr Ramesh</td>
+    <td><a href="mailto:sivagnanam_rameswaran@schools.gov.sg">sivagnanam_rameswaran@schools.gov.sg</a></td>
+    <td>210</td>
+  </tr>
+  <tr>
+    <td>HOD Science</td>
+    <td>Mr Lee Choon Kiong</td>
+    <td><a href="mailto:lee_choon_kiong@schools.gov.sg">lee_choon_kiong@schools.gov.sg</a></td>
+    <td>213</td>
+  </tr>
+  <tr>
+    <td> HOD Mother Tongue </td>
+    <td>Ms Teh Sieu Ching</td>
+    <td><a href="mailto:teh_sieu_ching@schools.gov.sg">teh_sieu_ching@schools.gov.sg</a></td>
+    <td>206</td>
+  </tr>
+  <tr>
+    <td>HOD English Language</td>
+    <td>Mr Jeffrey Ong Siew Meng</td>
+    <td><a href="mailto:ong_siew_meng_jeffrey@schools.gov.sg">ong_siew_meng_jeffrey@schools.gov.sg</a></td>
+    <td>212</td>
+  </tr>
+  <tr>
+    <td>Year Head</td>
+    <td>Mdm Quek Si Min</td>
+    <td><a href="mailto:quek_si_min@schools.gov.sg">quek_si_min@schools.gov.sg</a></td>
+    <td>309</td>
+  </tr>
+  <tr>
+    <td>Year Head</td>
+    <td>Mdm Chen Cailing</td>
+    <td><a href="mailto:chen_cailing@schools.gov.sg">chen_cailing@schools.gov.sg</a></td>
+    <td>209</td>
+  </tr>
+  <tr>
+    <td>Assistant Year Head</td>
+    <td>Mdm Aishah</td>
+    <td><a href="mailto:aishah_abdul_rahman@schools.gov.sg">aishah_abdul_rahman@schools.gov.sg</a></td>
+    <td>306</td>
+  </tr>
+  <tr>
+    <td>Assistant Year Head</td>
+    <td>Ms Lim Mei Yee Joanna</td>
+    <td><a href="mailto:lim_mei_yee_joanna@schools.gov.sg">lim_mei_yee_joanna@schools.gov.sg</a></td>
+    <td>310</td>
+  </tr>
+  <tr>
+    <td>SH CCE</td>
+    <td>Ms Chiang Wai Kit</td>
+    <td><a href="mailto:chiang_wai_kit@schools.gov.sg">chiang_wai_kit@schools.gov.sg</a></td>
+    <td>306</td>
+  </tr>
+  <tr>
+    <td>SH ICT</td>
+    <td>Ms Ong Chi Yen</td>
+    <td><a href="mailto:ong_chi_yen@schools.gov.sg">ong_chi_yen@schools.gov.sg</a></td>
+    <td>313</td>
+  </tr>
+  <tr>
+    <td>SH PE CCA</td>
+    <td>Mr Lim Kok Sing</td>
+    <td><a href="mailto:lim_kok_sing@schools.gov.sg">lim_kok_sing@schools.gov.sg</a></td>
+    <td>307</td>
+  </tr>
+  <tr>
+    <td>SH English Literature</td>
+    <td>Ms Kuek Shao Zhen</td>
+    <td><a href="mailto:kuek_shao_zhen@schools.gov.sg">kuek_shao_zhen@schools.gov.sg</a></td>
+    <td>309</td>
+  </tr>
+  <tr>
+    <td>SH Chemistry</td>
+    <td>Ms Tok Peilin</td>
+    <td><a href="mailto:tok_peilin@schools.gov.sg">tok_peilin@schools.gov.sg</a></td>
+    <td>309</td>
+  </tr>
+  <tr>
+    <td>SH Maths </td>
+    <td>Ms Khoo Ling Shirlynn</td>
+    <td><a href="mailto:khoo_ling_shirlynn@schools.gov.sg">khoo_ling_shirlynn@schools.gov.sg</a></td>
+    <td>313</td>
+  </tr>
+  <tr>
+    <td>SH Student Leadership </td>
+    <td>Ms O Ming Fen</td>
+    <td><a href="mailto:o_ming_fen@schools.gov.sg">o_ming_fen@schools.gov.sg</a></td>
+    <td>306</td>
+  </tr>
+  <tr>
+    <td>SH Student Well-Being</td>
+    <td>Ms Chan Siming</td>
+    <td><a href="mailto:siming_chan@schools.gov.sg">siming__chan@schools.gov.sg</a></td>
+    <td>303</td>
+  </tr>
+  <tr>
+    <td>SH Student Management </td>
+    <td>Ms Lee Taojing</td>
+    <td><a href="mailto:lee_taojing@schools.gov.sg">lee_taojing@schools.gov.sg</a></td>
+    <td>320</td>
+  </tr>
+  <tr>
+    <td>SH Aesthetics (Covering)</td>
+    <td>Mdm Anggreini</td>
+    <td><a href="mailto:anggreini_hamid@schools.gov.sg">anggreini_hamid@schools.gov.sg</a></td>
+    <td>317</td>
+  </tr>
+  <tr>
+    <td>SH Malay Language (Covering)</td>
+    <td>Mdm Adillah</td>
+    <td><a href="mailto:adillah_mustafa@schools.gov.sg">adillah_mustafa@schools.gov.sg</a></td>
+    <td>322</td>
+  </tr>
+</tbody>
+</table>
 
 #### Teacher Leaders
 
-| Designation | Name | Email Address | Extension No. |
-|:---:|---|---|---|
-| Lead Teacher (Art) | Mdm Keh Hwee Peng | [keh\_hwee\_peng@schools.gov.sg](mailto:keh_hwee_peng@schools.gov.sg) | 318 |
-| Lead Teacher (EL) | Ms Caroline Tracy | [caroline\_tracy@schools.gov.sg](mailto:caroline_tracy@schools.gov.sg) | 332 |
-| Senior Teacher (Mathematics) | Ms Lee Hui Ling | [lee\_hui\_ling@schools.gov.sg](mailto:lee_hui_ling@schools.gov.sg) | 335 |
-| Senior Teacher (Social Studies) | Mdm Adlin Ratini | [adlin\_ratini\_anwar@schools.gov.sg](mailto:adlin_ratini_anwar@schools.gov.sg) | 328 |
-| Senior Teacher (CCE) | Mr Edwin Khoo | [khoo\_wei\_lun\_edwin@schools.gov.sg](mailto:khoo_wei_lun_edwin@schools.gov.sg) | 303 |
-| Senior Teacher (Geography) | Mrs Shernice Chia | [goh\_chin\_hwee@schools.gov.sg](mailto:goh_chin_hwee@schools.gov.sg) | 303 |
-| Senior Teacher (Biology) | Mrs Eleanor Chen | [eleanor\_teng\_kah\_hwee@schools.gov.sg](mailto:eleanor_teng_kah_hwee@schools.gov.sg) | 302 |
-|  |  |  |  |
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Email Address</th>
+    <th>Extension No.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Lead Teacher (Art)</td>
+    <td>Mdm Keh Hwee Peng</td>
+    <td><a href="mailto:keh_hwee_peng@schools.gov.sg">keh_hwee_peng@schools.gov.sg</a></td>
+    <td>318</td>
+  </tr>
+  <tr>
+    <td>Lead Teacher (EL)</td>
+    <td>Ms Caroline Tracy</td>
+    <td><a href="mailto:caroline_tracy@schools.gov.sg">caroline_tracy@schools.gov.sg</a></td>
+    <td>332</td>
+  </tr>
+  <tr>
+    <td>Senior Teacher (Mathematics)</td>
+    <td>Ms Lee Hui Ling</td>
+    <td><a href="mailto:lee_hui_ling@schools.gov.sg">lee_hui_ling@schools.gov.sg</a></td>
+    <td>335</td>
+  </tr>
+  <tr>
+    <td>Senior Teacher (Social Studies)</td>
+    <td>Mdm Adlin Ratini</td>
+    <td><a href="mailto:adlin_ratini_anwar@schools.gov.sg">adlin_ratini_anwar@schools.gov.sg</a></td>
+    <td>328</td>
+  </tr>
+  <tr>
+    <td>Senior Teacher (CCE)</td>
+    <td>Mr Edwin Khoo</td>
+    <td><a href="mailto:khoo_wei_lun_edwin@schools.gov.sg">khoo_wei_lun_edwin@schools.gov.sg</a></td>
+    <td>303</td>
+  </tr>
+  <tr>
+    <td>Senior Teacher (Geography)</td>
+    <td>Mrs Shernice Chia</td>
+    <td><a href="mailto:goh_chin_hwee@schools.gov.sg">goh_chin_hwee@schools.gov.sg</a></td>
+    <td>303</td>
+  </tr>
+  <tr>
+    <td>Senior Teacher (Biology) (Covering)</td>
+    <td>Mrs Eleanor Chen</td>
+    <td><a href="mailto:eleanor_teng_kah_hwee@schools.gov.sg">eleanor_teng_kah_hwee@schools.gov.sg</a></td>
+    <td>302</td>
+  </tr>
+</tbody>
+</table>
 
 #### Secondary 1 Form Teachers
 
-| Designation | Name | Email Address | Extension No. |
-|:---:|---|---|---|
-| 22-1A<br><br>**_(Fortius)_** | Mr Yazid<br><br>Mrs Shernice Chia | [yazid\_hussein@schools.gov.sg](mailto:yazid_hussein@schools.gov.sg)<br><br>[goh\_chin\_hwee@schools.gov.sg](mailto:goh_chin_hwee@schools.gov.sg) | 312<br><br>333 |
-| 22-1B<br><br>**_(Latius)_** | Ms Tok Peilin<br><br>Ms Caroline Tracy | [tok\_peilin@schools.gov.sg](mailto:tok_peilin@schools.gov.sg)<br><br>[caroline\_tracy@schools.gov.sg](mailto:caroline_tracy@schools.gov.sg) | 309<br><br>332 |
-| 22-1C<br><br>_**(Altius)**_ | Mr Chong Kai Qin<br><br>Ms Lee Hui Ling | [chong\_kai\_qin@schools.gov.sg](mailto:chong_kai_qin@schools.gov.sg)<br><br>[lee\_hui\_ling@schools.gov.sg](mailto:lee_hui_ling@schools.gov.sg) | 320<br><br>303 |
-| 22-1D<br><br>**_(Diutius)_** | Mdm Adlin Ratini<br><br>Mr Benjamin Lim | [adlin\_ratini\_anwar@schools.gov.sg](mailto:adlin_ratini_anwar@schools.gov.sg)<br><br>[kang\_yong\_benjamin\_lim@schools.gov.sg](mailto:kang_yong_benjamin_lim@schools.gov.sg) | 301<br><br>320 |
-| 22-1E<br><br>_**(Citius)**_ | Mr Lim Gim Siong<br><br>Mdm Nur Syahirah | [lim\_gim\_siong@schools.gov.sg](mailto:lim_gim_siong@schools.gov.sg)<br><br>[nur\_syahirah\_ahmad@schools.gov.sg](mailto:nur_syahirah_ahmad@schools.gov.sg) | 303<br><br>325 |
-| 22-1F<br><br>**_(Altius)_** | Ms Wendy Ng<br><br>Mr Khoo Wei Lun Edwin | [ng\_wei\_ling\_wendy@schools.gov.sg](mailto:ng_wei_ling_wendy@schools.gov.sg)<br><br>[khoo\_wei\_lun\_edwin@schools.gov.sg](mailto:khoo_wei_lun_edwin@schools.gov.sg) | 319<br><br>324 |
-| 22-1G<br><br>**_(Latius)_** | Ms Norhayati<br><br>Mr Oliver Ong | [norhayati\_mohamed\_jasni@schools.gov.sg](mailto:bibek_ray_chaudhuri@schools.gov.sg)<br><br>[ong\_tzuen\_wee\_oliver@schools.gov.sg](mailto:ong_tzuen_wee_oliver@schools.gov.sg) | 330<br><br>323 |
-|  |  |  |  |
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Email Address</th>
+    <th>Extension No.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>23-1A<br>(Citius)</td>
+    <td>Mr Leow Guan Sin<br>Ms Teh Sieu Ching</td>
+    <td><a href="mailto:leow_guan_sin@schools.gov.sg">leow_guan_sin@schools.gov.sg</a><br><a href="mailto:teh_sieu_ching@schools.gov.sg">teh_sieu_ching@schools.gov.sg</a></td>
+    <td>312<br>333</td>
+  </tr>
+  <tr>
+    <td>23-1B<br>(Diutius) </td>
+    <td>Mr Ting Pin Sing<br>Mr Tan Kheng Wee</td>
+    <td><a href="mailto:ting_pin_sing@schools.gov.sg">ting_pin_sing@schools.gov.sg</a><br><a href="mailto:tan_kheng_wee@schools.gov.sg">tan_kheng_wee@schools.gov.sg</a></td>
+    <td>309<br>332</td>
+  </tr>
+  <tr>
+    <td>23-1C<br>(Citius) </td>
+    <td>Ms He Tianchan<br>Mrs Lynette Loh</td>
+    <td><a href="mailto:he_tianchan@schools.gov.sg">he_tianchan@schools.gov.sg</a><br><a href="mailto:goh_li_yen_lynette@schools.gov.sg">goh_li_yen_lynette@schools.gov.sg</a></td>
+    <td>321<br>314</td>
+  </tr>
+  <tr>
+    <td>23-1D<br>(Fortius) </td>
+    <td>Mr Daniel Soh<br>Ms Tan Li Ming</td>
+    <td><a href="mailto:soh_fu_quan@schools.gov.sg">soh_fu_quan@schools.gov.sg</a><br><a href="mailto:tan_li_ming@schools.gov.sg">tan_li_ming@schools.gov.sg</a></td>
+    <td>301<br>320</td>
+  </tr>
+  <tr>
+    <td>23-1E<br>(Altius) </td>
+    <td>Ms Tham Yunbing<br>Ms Ong Chi Yen</td>
+    <td><a href="mailto:tham_yunbing@schools.gov.sg">tham_yunbing@schools.gov.sg</a><br><a href="mailto:ong_chi_yen@schools.gov.sg">ong_chi_yen@schools.gov.sg</a></td>
+    <td>303<br>325</td>
+  </tr>
+  <tr>
+    <td>23-1F<br>(Fortius) </td>
+    <td>Ms Cheu Siew Lan<br>Mr Kelvin Ng</td>
+    <td><a href="mailto:cheu_siew_lan@schools.gov.sg">cheu_siew_lan@schools.gov.sg</a><br><a href="mailto:ng_wai_kit_kelvin@schools.gov.sg">ng_wai_kit_kelvin@schools.gov.sg</a></td>
+    <td>319<br>324</td>
+  </tr>
+  <tr>
+    <td>23-1G<br>(Latius)</td>
+    <td>Ms M Durgashree<br>Ms Chong Hui Min</td>
+    <td><a href="mailto:m_durga_shree@schools.gov.sg">m_durga_shree@schools.gov.sg</a><br><a href="mailto:chong_hui_min@schools.gov.sg">chong_hui_min@schools.gov.sg</a></td>
+    <td>330<br>323</td>
+  </tr>
+</tbody>
+</table>
+
 
 #### Secondary 2 Form Teachers
 
-| Designation | Name | Email Address | Extension No. |
-|:---:|---|---|---|
-| 21-2A<br><br>**_(Latius)_** | Ms Shirlynn Khoo<br><br>Mr Ramachandran | [khoo\_ling\_shirlynn@schools.gov.sg](mailto:khoo_ling_shirlynn@schools.gov.sg)<br><br>[ramachandran\_palanisamy@schools.gov.sg](mailto:ramachandran_palanisamy@schools.gov.sg) | 312<br><br>333 |
-| 21-2B<br><br>**_(Altius)_** | Mrs Eleanor Chen<br><br>Ms Hannah Twoon | [eleanor\_teng\_kah\_hwee@schools.gov.sg](mailto:eleanor_teng_kah_hwee@schools.gov.sg)<br><br>[twoon\_wai\_yee\_hannah@schools.gov.sg](mailto:twoon_wai_yee_hannah@schools.gov.sg) | 322<br><br>311 |
-| 21-2C<br><br>**_(Diutius)_** | Mr Sim Chow Meng<br><br>Ms Keziah Seow | [sim\_chow\_meng@schools.gov.sg](mailto:sim_chow_meng@schools.gov.sg)<br><br>[jie\_yi\_keziah\_seow@schools.gov.sg](mailto:jie_yi_keziah_seow@schools.gov.sg) | 320<br><br>303 |
-| 21-2D<br><br>**_(Altius)_** | Mr Beh Yong Hua<br><br>Ms Magdalena Sii | [beh\_yong\_hua@schools.gov.sg](mailto:beh_yong_hua@schools.gov.sg)<br><br>[magdalena\_sii\_sian\_min@schools.gov.sg](mailto:magdalena_sii_sian_min@schools.gov.sg) | 320<br><br>301 |
-| 21-2E<br><br>**_(Fortius)_** | Mr Joo Chan Hock<br><br>Ms Jasmine Tan | [joo\_chan\_hock@schools.gov.sg](mailto:joo_chan_hock@schools.gov.sg)<br><br>[tan\_si\_ying\_jasmine@schools.gov.sg](mailto:tan_si_ying_jasmine@schools.gov.sg) | 303<br><br>325 |
-| 21-2F<br><br>**_(Citius)_** | Ms Chiang Wai Kit<br><br>Mr Roland Chan | [chiang\_wai\_kit@schools.gov.sg](mailto:chiang_wai_kit@schools.gov.sg)<br><br>[chan\_jun\_peng@schools.gov.sg](mailto:chan_jun_peng@schools.gov.sg) | 319<br><br>324 |
-| 21-2G<br><br>**_(Latius)_** | Ms Susanna Wee<br><br>Ms Siti Aisyah<br><br>Mr Carson Huang | [wee\_wan\_ying\_susanna@schools.gov.sg](mailto:wee_wan_ying_susanna@schools.gov.sg)<br><br>[siti\_aisyah\_kamin@schools.gov.sg](mailto:siti_aisyah_kamin@schools.gov.sg)<br><br>[huang\_kangsheng\_carson@schools.gov.sg](mailto:huang_kangsheng_carson@schools.gov.sg) | 330<br><br>323<br><br>331 |
-|  |  |  |  |
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Email Address</th>
+    <th>Extension No.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>22-2A<br>(Fortius) </td>
+    <td>Mr Yazid<br>Mrs Shernice Chia</td>
+    <td><a href="mailto:yazid_hussein@schools.gov.sg">yazid_hussein@schools.gov.sg</a><br><a href="mailto:goh_chin_hwee@schools.gov.sg">goh_chin_hwee@schools.gov.sg</a></td>
+    <td>312<br>333</td>
+  </tr>
+  <tr>
+    <td>22-2B<br>(Latius)</td>
+    <td>Ms Caroline Tracy<br>Ms Tok Peilin<br>Mdm Suzanne Lye</td>
+    <td><a href="mailto:caroline_tracy@schools.gov.sg">caroline_tracy@schools.gov.sg</a><br><a href="mailto:tok_peilin@schools.gov.sg">tok_peilin@schools.gov.sg</a><br><a href="mailto:lye_yoke_pheng@schools.gov.sg">lye_yoke_pheng@schools.gov.sg</a></td>
+    <td>309<br>332<br>214</td>
+  </tr>
+  <tr>
+    <td>22-2C<br>(Altius)</td>
+    <td>Mr Chong Kai Qin<br>Ms Lee Hui Ling</td>
+    <td><a href="mailto:chong_kai_qin@schools.gov.sg">chong_kai_qin@schools.gov.sg</a><br><a href="mailto:lee_hui_ling@schools.gov.sg">lee_hui_ling@schools.gov.sg</a></td>
+    <td>320<br>303</td>
+  </tr>
+  <tr>
+    <td>22-2D<br>(Diutius)</td>
+    <td>Mdm Adlin Ratini<br>Mr Benjamin Lim</td>
+    <td><a href="mailto:adlin_ratini_anwar@schools.gov.sg">adlin_ratini_anwar@schools.gov.sg</a><br><a href="mailto:kang_yong_benjamin_lim@schools.gov.sg">kang_yong_benjamin_lim@schools.gov.sg</a></td>
+    <td>301<br>320</td>
+  </tr>
+  <tr>
+    <td>22-2E<br>(Citius)</td>
+    <td>Mr Lim Gim Siong<br>Mdm Nur Syahirah</td>
+    <td><a href="mailto:lim_gim_siong@schools.gov.sg">lim_gim_siong@schools.gov.sg</a><br><a href="mailto:nur_syahirah_ahmad@schools.gov.sg">nur_syahirah_ahmad@schools.gov.sg</a></td>
+    <td>303<br>325</td>
+  </tr>
+  <tr>
+    <td>22-2F<br>(Altius)</td>
+    <td>Ms Wendy Ng<br>Mr Khoo Wei Lun Edwin</td>
+    <td><a href="mailto:ng_wei_ling_wendy@schools.gov.sg">ng_wei_ling_wendy@schools.gov.sg</a><br><a href="mailto:khoo_wei_lun_edwin@schools.gov.sg">khoo_wei_lun_edwin@schools.gov.sg</a></td>
+    <td>319<br>324</td>
+  </tr>
+  <tr>
+    <td>22-2G<br>(Latius)</td>
+    <td>Ms Norhayati<br>Mr Oliver Ong<br>Mr Lee Choon Kiong</td>
+    <td><a href="mailto:bibek_ray_chaudhuri@schools.gov.sg">norhayati_mohamed_jasni@schools.gov.sg</a><br><a href="mailto:ong_tzuen_wee_oliver@schools.gov.sg">ong_tzuen_wee_oliver@schools.gov.sg</a><br><a href="mailto:lee_choon_kiong@schools.gov.sg">lee_choon_kiong@schools.gov.sg</a></td>
+    <td>330<br>323<br>213</td>
+  </tr>
+</tbody>
+</table>
+
 
 #### Secondary 3 Form Teachers
 
-| Designation | Name | Email Address | Extension No. |
-|:---:|---|---|---|
-| 20-3A<br><br>**_(Citius)_** | Ms Elene Phang<br><br>Ms Farah Suhaimi | [elene\_phang\_siew\_foong@schools.gov.sg](mailto:elene_phang_siew_foong@schools.gov.sg)<br><br>[farah\_suhaimi\_saat@schools.gov.sg](mailto:farah_suhaimi_saat@schools.gov.sg) | 328<br><br>322 |
-| 20-3B<br><br>**_(Diutius)_** | Mdm Adillah<br><br>Mr See Chee Wah | [adillah\_mustafa@schools.gov.sg](mailto:adillah_mustafa@schools.gov.sg)<br><br>[see\_chee\_wah@schools.gov.sg](mailto:see_chee_wah@schools.gov.sg) | 327<br><br>316 |
-| 20-3C<br><br>**_(Fortius)_** | Mdm Nurul Dini<br><br>Ms Chan Siming<br><br>Mdm Keh Hwee Peng | [nurul\_dini\_abdul\_rahim@schools.gov.sg](mailto:nurul_dini_abdul_rahim@schools.gov.sg)<br><br>[siming\_chan@schools.gov.sg](mailto:siming_chan@schools.gov.sg)<br><br>[keh\_hwee\_peng@schools.gov.sg](mailto:keh_hwee_peng@schools.gov.sg) | 317<br><br>301<br><br>300 |
-| 20-3D<br><br>**_(Latius)_** | Ms Tan Ka Shin<br><br>Ms Zahrah | [tan\_ka\_shin@schools.gov.sg](mailto:tan_ka_shin@schools.gov.sg)<br><br>[zahrah\_hatraby@schools.gov.sg](mailto:zahrah_hatraby@schools.gov.sg) | 314<br><br>324 |
-| 20-3E<br><br>**_(Diutius)_** | Mdm Siti Ismalina<br><br>Ms Tan Wan Kiang | [siti\_ismalina\_ismail@schools.gov.sg](mailto:siti_ismalina_ismail@schools.gov.sg)<br><br>[tan\_wan\_kiang@schools.gov.sg](mailto:tan_wan_kiang@schools.gov.sg) | 314<br><br>335 |
-| 20-3F<br><br>**_(Fortius)_** | Mr Bibek Ray Chaudhuri<br><br>Ms Shen Yuanyuan | [bibek\_ray\_chaudhuri@schools.gov.sg](mailto:bibek_ray_chaudhuri@schools.gov.sg)<br><br>[shen\_yuanyuan@schools.gov.sg](mailto:shen_yuanyuan@schools.gov.sg) | 327<br><br>324 |
-| 20-3G<br><br>**_(Altius)_** | Mr Seah Jim Chew<br><br>Ms Serene Hiew | [seah\_jim\_chew@schools.gov.sg](mailto:seah_jim_chew@schools.gov.sg)<br><br>[serene\_hiew\_xue-en@schools.gov.sg](mailto:serene_hiew_xue-en@schools.gov.sg) | 324<br><br>307 |
-|  |  |  |  |
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Email Address</th>
+    <th>Extension No.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>21-3A<br>(Latius)</td>
+    <td>Mdm Anggreini<br>Mr Ramachandran</td>
+    <td><a href="mailto:anggreini_hamid@schools.gov.sg">anggreini_hamid@schools.gov.sg</a><br><a href="mailto:ramachandran_palanisamy@schools.gov.sg">ramachandran_palanisamy@schools.gov.sg</a></td>
+    <td>310<br>333</td>
+  </tr>
+  <tr>
+    <td>21-3B<br>(Altius)</td>
+    <td>Mrs Eleanor Chen<br>Ms Hannah Twoon</td>
+    <td><a href="mailto:eleanor_teng_kah_hwee@schools.gov.sg">eleanor_teng_kah_hwee@schools.gov.sg</a><br><a href="mailto:twoon_wai_yee_hannah@schools.gov.sg">twoon_wai_yee_hannah@schools.gov.sg</a></td>
+    <td>322<br>311</td>
+  </tr>
+  <tr>
+    <td>21-3C<br>(Diutius)</td>
+    <td>Mr Sim Chow Meng<br>Ms Seng Pei Sze</td>
+    <td><a href="mailto:sim_chow_meng@schools.gov.sg">sim_chow_meng@schools.gov.sg</a><br><a href="mailto:seng_pei_szew@schools.gov.sg">seng_pei_sze@schools.gov.sg</a></td>
+    <td>320<br>208</td>
+  </tr>
+  <tr>
+    <td>21-3D<br>(Altius)</td>
+    <td>Mr Beh Yong Hua<br>Ms Magdalena Sii</td>
+    <td><a href="mailto:beh_yong_hua@schools.gov.sg">beh_yong_hua@schools.gov.sg</a><br><a href="mailto:magdalena_sii_sian_min@schools.gov.sg">magdalena_sii_sian_min@schools.gov.sg</a></td>
+    <td>320<br>301</td>
+  </tr>
+  <tr>
+    <td>21-3E<br>(Fortius)</td>
+    <td>Mr Joo Chan Hock<br>Ms Jasmine Tan</td>
+    <td><a href="mailto:joo_chan_hock@schools.gov.sg">joo_chan_hock@schools.gov.sg</a><br><a href="mailto:tan_si_ying_jasmine@schools.gov.sg">tan_si_ying_jasmine@schools.gov.sg</a></td>
+    <td>303<br>325</td>
+  </tr>
+  <tr>
+    <td>21-3F<br>(Citius)</td>
+    <td>Ms Chiang Wai Kit<br>Mr Roland Chan</td>
+    <td><a href="mailto:chiang_wai_kit@schools.gov.sg">chiang_wai_kit@schools.gov.sg</a><br><a href="mailto:chan_jun_peng@schools.gov.sg">chan_jun_peng@schools.gov.sg</a></td>
+    <td>319<br>324</td>
+  </tr>
+  <tr>
+    <td>21-3G<br>(Latius)</td>
+    <td>Ms Susanna Wee<br>Mr Carson Huang<br>Ms Siti Aisyah</td>
+    <td><a href="mailto:wee_wan_ying_susanna@schools.gov.sg">wee_wan_ying_susanna@schools.gov.sg</a><br><a href="mailto:huang_kangsheng_carson@schools.gov.sg">huang_kangsheng_carson@schools.gov.sg</a><br><a href="mailto:siti_aisyah_kamin@schools.gov.sg">siti_aisyah_kamin@schools.gov.sg</a></td>
+    <td>330<br>331<br>323</td>
+  </tr>
+</tbody>
+</table>
+
 
 #### Secondary 4/5 Form Teachers
 
-| Designation | Name | Email Address | Extension No. |
-|:---:|---|---|---|
-| 19-4A<br><br>**_(Diutius)_** | Mr Yong Kuo Hoong<br><br>Ms Lim Kai Xin | [yong\_kuo\_hoong@schools.gov.sg](mailto:yong_kuo_hoong@schools.gov.sg)<br><br>[lim\_kai\_xin@schools.gov.sg](mailto:lim_kai_xin@schools.gov.sg) | 328<br><br>322 |
-| 19-4B<br><br>**_(Citius)_** | Mr Wong Tuck Wai<br><br>Ms Kanade Pooja Pramod | [wong\_tuck\_wai@schools.gov.sg](mailto:wong_tuck_wai@schools.gov.sg)<br><br>[kanade\_pooja\_pramod@schools.gov.sg](mailto:kanade_pooja_pramod@schools.gov.sg) | 303<br><br>331 |
-| 19-4C<br><br>**_(Latius)_** | Mr Leow Guan Sin<br><br>Mdm Cheu Siew Lan | [leow\_guan\_sin@schools.gov.sg](mailto:leow_guan_sin@schools.gov.sg)<br><br>[cheu\_siew\_lan@schools.gov.sg](mailto:cheu_siew_lan@schools.gov.sg) | 321<br><br>320 |
-| 19-4D<br><br>**_(Fortius)_** | Ms Tham Yunbing<br><br>Ms Low Xuan Yin | [tham\_yunbing@schools.gov.sg](mailto:tham_yunbing@schools.gov.sg)<br><br>[low\_xuan\_yin@schools.gov.sg](mailto:low_xuan_yin@schools.gov.sg) | 327<br><br>309 |
-| 19-4E<br><br>**_(Altius)_** | Mrs Lynette Loh<br><br>Mr Ting Pin Sing | [goh\_li\_yen\_lynette@schools.gov.sg](mailto:goh_li_yen_lynette@schools.gov.sg)<br><br>[ting\_pin\_sing@schools.gov.sg](mailto:ting_pin_sing@schools.gov.sg) | 327<br><br>328 |
-| 19-4F<br><br>**_(Diutius)_** | Ms M Durgashree<br><br>Mdm Noor Liyana | [m\_durga\_shree@schools.gov.sg](mailto:m_durga_shree@schools.gov.sg)<br><br>[noor\_liyana\_manhuri@schools.gov.sg](mailto:noor_liyana_manhuri@schools.gov.sg) | 331<br><br>328 |
-| 19-4G<br><br>**_(Citius)_** | Ms Chong Hui Min<br><br>Ms Ong Chi Yen | [chong\_hui\_min\_a@schools.gov.sg](mailto:chong_hui_min_a@schools.gov.sg)<br><br>[ong\_chi\_yen@schools.gov.sg](mailto:ong_chi_yen@schools.gov.sg) | 335<br><br>300 |
-| 18-5A<br><br>**_(Fortius)_** | Mr Daniel Soh<br><br>Mdm Jennifer Yee | [soh\_fu\_quan@schools.gov.sg](mailto:soh_fu_quan@schools.gov.sg)<br><br>[yee\_yin\_fong@schools.gov.sg](mailto:yee_yin_fong@schools.gov.sg) | 327<br><br>309 |
-|  |  |  |  |
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Email Address</th>
+    <th>Extension No.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>20-4A<br>(Citius)</td>
+    <td>Ms Elene Phang<br>Ms Farah Suhaimi</td>
+    <td><a href="mailto:elene_phang_siew_foong@schools.gov.sg">elene_phang_siew_foong@schools.gov.sg</a><br><a href="mailto:farah_suhaimi_saat@schools.gov.sg">farah_suhaimi_saat@schools.gov.sg</a></td>
+    <td>312<br>321</td>
+  </tr>
+  <tr>
+    <td>20-4B<br>(Diutius)</td>
+    <td>Ms Adillah<br>Mr See Chee Wah   </td>
+    <td><a href="mailto:adillah_mustafa@schools.gov.sg">adillah_mustafa@schools.gov.sg</a><br><a href="mailto:see_chee_wah@schools.gov.sg">see_chee_wah@schools.gov.sg</a></td>
+    <td>322<br>311</td>
+  </tr>
+  <tr>
+    <td>20-4C<br>(Fortius)</td>
+    <td>Mr Lim Kok Sing<br>Ms Chan Siming<br>Mr Shaheful</td>
+    <td><a href="mailto:lim_kok_sing@schools.gov.sg">lim_kok_sing@schools.gov.sg</a><br><a href="mailto:siming_chan@schools.gov.sg">siming_chan@schools.gov.sg</a><br><a href="mailto:shaheful_mansor@schools.gov.sg">shaheful_mansor@schools.gov.sg</a></td>
+    <td>307<br>304<br>215</td>
+  </tr>
+  <tr>
+    <td>20-4D<br>(Latius)</td>
+    <td>Ms Tan Ka Shin<br>Ms Zahrah<br>Mr Ramesh</td>
+    <td><a href="mailto:tan_ka_shin@schools.gov.sg">tan_ka_shin@schools.gov.sg</a><br><a href="mailto:zahrah_hatraby@schools.gov.sg">zahrah_hatraby@schools.gov.sg</a><br><a href="mailto:sivagnanam_rameswaran@schools.gov.sg">sivagnanam_rameswaran@schools.gov.sg</a></td>
+    <td>303<br>316<br>210</td>
+  </tr>
+  <tr>
+    <td>20-4E<br>(Diutius)</td>
+    <td>Mdm Siti Ismalina<br>Ms Tan Wan Kiang</td>
+    <td><a href="mailto:siti_ismalina_ismail@schools.gov.sg">siti_ismalina_ismail@schools.gov.sg</a><br><a href="mailto:tan_wan_kiang@schools.gov.sg">tan_wan_kiang@schools.gov.sg</a></td>
+    <td>319<br>321</td>
+  </tr>
+  <tr>
+    <td>20-4F<br>(Fortius)</td>
+    <td>Mr Bibek Ray Chaudhuri<br>Ms Shen Yuanyuan<br>Mrs Pan-Ong Fei Eng</td>
+    <td><a href="mailto:bibek_ray_chaudhuri@schools.gov.sg">bibek_ray_chaudhuri@schools.gov.sg</a><br><a href="mailto:shen_yuanyuan@schools.gov.sg">shen_yuanyuan@schools.gov.sg</a><br><a href="mailto:pan-ong_fei_eng@schools.gov.sg">pan-ong_fei_eng@schools.gov.sg</a></td>
+    <td>330<br>324<br>217</td>
+  </tr>
+  <tr>
+    <td>20-4G<br>(Altius)</td>
+    <td>Mr Seah Jim Chew<br>Ms Serene Hiew</td>
+    <td><a href="mailto:seah_jim_chew@schools.gov.sg">seah_jim_chew@schools.gov.sg</a><br><a href="mailto:serene_hiew_xue-en@schools.gov.sg">serene_hiew_xue-en@schools.gov.sg</a></td>
+    <td>304<br>329</td>
+  </tr>
+  <tr>
+    <td>19-5A<br>(Citius)</td>
+    <td>Ms Lim Kai Xin<br>Mr Jeffrey Ong</td>
+    <td><a href="mailto:lim_kai_xin@schools.gov.sg">lim_kai_xin@schools.gov.sg</a><br><a href="mailto:ong_siew_meng_jeffrey@schools.gov.sg">ong_siew_meng_jeffrey@schools.gov.sg</a></td>
+    <td>304<br>212</td>
+  </tr>
+</tbody>
+</table>
+
 
 #### Executive and Administrative Staff
 
-| Designation | Name | Email Address | Extension No. |
-|:---:|---|---|---|
-| Administration Manager | Mdm Rajeshwari | [rajeshwari\_rajamanikam@schools.gov.sg](mailto:rajeshwari_rajamanikam@schools.gov.sg) | 104 |
-| Administration Manager (ICT) | Mdm Nur Zaheera Bte Abdul Rahim | [nur\_zaheera@schools.gov.sg](mailto:nur_zaheera@schools.gov.sg) | 106 |
-| Operations Manager | Mr Goh Ngian Wa | [goh\_ngian\_wa@schools.gov.sg](mailto:goh_ngian_wa@schools.gov.sg) | 105 |
-| Corporate Support Officer | Mdm Malvimder Kaur | [malvimder\_kaur@schools.gov.sg](mailto:malvimder_kaur@schools.gov.sg) | 100 |
-| Corporate Support Officer | Mdm Asiah | [asiah\_suni@schools.gov.sg](mailto:asiah_suni@schools.gov.sg) | 101 |
-| Corporate Support Officer | Mr Selva Ganesan | [selva\_ganesan\_selva\_segaran@schools.gov.sg](mailto:selva_ganesan_selva_segaran@schools.gov.sg) | 102 |
-| Desktop Engineer | Mr Zulfadli | [g-ncs3226sde@ncs.com.sg](mailto:g-ncs3226sde@ncs.com.sg) | NA |
-| Librarian | Mdm Junaina Jumari | NA | 401 |
-| Senior School Counsellor | Mdm June Chen | [chen\_yee\_sing\_june@schools.gov.sg](mailto:chen_yee_sing_june@schools.gov.sg) | 201 |
-| Senior Special Educational&nbsp; Needs Officer | Mr Andrew Tang Wing Hong | [andrew\_tang\_wing\_hong@schools.gov.sg](mailto:andrew_tang_wing_hong@schools.gov.sg) | 400 |
-| Technical Support Officer | Mr Tham Chee Yong | [tham\_chee\_yong@schools.gov.sg](mailto:tham_chee_yong@schools.gov.sg) | 400 |
-| Technical Support Officer | Mr Mazlan B Tapar | [mazlan\_b\_tapar@schools.gov.sg](mailto:mazlan_b_tapar@schools.gov.sg) | 400 |
-| Technical Support Officer | Mr Kuek Chee Beng | [kuek\_chee\_beng@schools.gov.sg](mailto:kuek_chee_beng@schools.gov.sg) | 403 |
-| Technical Support Officer | Mr Mohd Asyraf B Mohd Kassim | [mohamed\_asyraf\_mohamed\_kassim@schools.gov.sg](mailto:mohamed_asyraf_mohamed_kassim@schools.gov.sg) | 403 |
-|  |  |  |  |
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Email Address</th>
+    <th>Extension No.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Administration Manager</td>
+    <td>Mdm Rajeshwari</td>
+    <td><a href="mailto:rajeshwari_rajamanikam@schools.gov.sg">rajeshwari_rajamanikam@schools.gov.sg</a></td>
+    <td>104</td>
+  </tr>
+  <tr>
+    <td>Administration Manager (ICT)</td>
+    <td>Mdm Nur Zaheera Bte Abdul Rahim</td>
+    <td><a href="mailto:nur_zaheera@schools.gov.sg">nur_zaheera@schools.gov.sg</a></td>
+    <td>106</td>
+  </tr>
+  <tr>
+    <td>Operations Manager</td>
+    <td>Mr Goh Ngian Wa</td>
+    <td><a href="mailto:goh_ngian_wa@schools.gov.sg">goh_ngian_wa@schools.gov.sg</a></td>
+    <td>105</td>
+  </tr>
+  <tr>
+    <td>Corporate Support Officer</td>
+    <td>Mdm Malvimder Kaur</td>
+    <td><a href="mailto:malvimder_kaur@schools.gov.sg">malvimder_kaur@schools.gov.sg</a></td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>Corporate Support Officer</td>
+    <td>Mdm Asiah</td>
+    <td><a href="mailto:asiah_suni@schools.gov.sg">asiah_suni@schools.gov.sg</a></td>
+    <td>101</td>
+  </tr>
+  <tr>
+    <td>Corporate Support Officer</td>
+    <td>Mr Selva Ganesan</td>
+    <td><a href="mailto:selva_ganesan_selva_segaran@schools.gov.sg">selva_ganesan_selva_segaran@schools.gov.sg</a></td>
+    <td>102</td>
+  </tr>
+  <tr>
+    <td>Senior School Counsellor</td>
+    <td>Mdm June Chen</td>
+    <td><a href="mailto:chen_yee_sing_june@schools.gov.sg">chen_yee_sing_june@schools.gov.sg</a></td>
+    <td>201</td>
+  </tr>
+  <tr>
+    <td>Senior Special Educational  Needs Officer</td>
+    <td>Mr Andrew Tang Wing Hong</td>
+    <td><a href="mailto:andrew_tang_wing_hong@schools.gov.sg">andrew_tang_wing_hong@schools.gov.sg</a></td>
+    <td>400</td>
+  </tr>
+  <tr>
+    <td>Technical Support Officer</td>
+    <td>Mr Tham Chee Yong</td>
+    <td><a href="mailto:tham_chee_yong@schools.gov.sg">tham_chee_yong@schools.gov.sg</a></td>
+    <td>400</td>
+  </tr>
+  <tr>
+    <td>Technical Support Officer</td>
+    <td>Mr Mazlan B Tapar</td>
+    <td><a href="mailto:mazlan_b_tapar@schools.gov.sg">mazlan_b_tapar@schools.gov.sg</a></td>
+    <td>400</td>
+  </tr>
+  <tr>
+    <td>Technical Support Officer</td>
+    <td>Mr Kuek Chee Beng</td>
+    <td><a href="mailto:kuek_chee_beng@schools.gov.sg">kuek_chee_beng@schools.gov.sg</a></td>
+    <td>403</td>
+  </tr>
+  <tr>
+    <td>Technical Support Officer</td>
+    <td>Mr Mohd Asyraf B Mohd Kassim</td>
+    <td><a href="mailto:mohamed_asyraf_mohamed_kassim@schools.gov.sg">mohamed_asyraf_mohamed_kassim@schools.gov.sg</a></td>
+    <td>403</td>
+  </tr>
+  <tr>
+    <td>Desktop Engineer</td>
+    <td>Mr Zulfadli</td>
+    <td><a href="mailto:g-ncs3226sde@ncs.com.sg">g-ncs3226sde@ncs.com.sg</a></td>
+    <td>NA</td>
+  </tr>
+  <tr>
+    <td>Desktop Engineer</td>
+    <td>Mr Mohamed Sham</td>
+    <td><a href="mailto:g-ncs3226sde@ncs.com.sg">g-ncs3226sde@ncs.com.sg</a></td>
+    <td>NA</td>
+  </tr>
+  <tr>
+    <td>Librarian</td>
+    <td>Mdm Junaina Jumari</td>
+    <td>NA</td>
+    <td>401</td>
+  </tr>
+</tbody>
+</table>
