@@ -6,8 +6,8 @@ third_nav_title: Staff (by Departments)
 ---
 ## Infocomm Technology
 
-<img src="/images/ICT.jpg" style="width:85%">
+<img src="/images/ict%20informal.jpg" style="width:100%">
 
 From left to right  
-  
-_Mdm Zaheera, Ms Ong Chi Yen, Mr Shaheful, Mr Zulfadli, Mr Chong Kai Wen_
+
+_Mdm Zaheera, Ms Ong Chi Yen, Mr Shaheful &amp; Mr Zulfadli_
