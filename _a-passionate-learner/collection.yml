@@ -2,5 +2,6 @@ collections:
   a-passionate-learner:
     output: true
     order:
+      - Independent Learning Day.md
       - Level Programmes.md
       - Learning Festival.md
