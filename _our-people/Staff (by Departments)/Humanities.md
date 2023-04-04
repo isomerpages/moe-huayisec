@@ -6,14 +6,7 @@ third_nav_title: Staff (by Departments)
 ---
 ## Humanities
 
-<img src="/images/Humanities.jpg" style="width:85%">
+<img src="/images/humanities%20informal.jpg" style="width:100%">
 
-From bottom to top, left to right  
-  
-##### 1st&nbsp;row
-
-_Mdm Adlin, Ms Durga, Mr Kelvin Ng, Mdm Aneesah, Mr Lim Gim Siong, Mdm Liyana, Mrs Shernice Chia_  
-
-##### 2nd&nbsp;row
-
-_Ms Hannah Twoon, Mr See Chee Wah, Mr Rama, Mr Ting Pin Sing, Mr Daniel Soh, Ms Tham Yunbing, Mr Yong Kuo Hoong_
+_Not in any order:_  
+_Mdm Adlin, Ms Durga, Mr Kelvin Ng, Mdm Aneesah, Mr Lim Gim Siong, Mdm Liyana, Mrs Shernice Chia,_&nbsp;_Ms Hannah Twoon, Mr See Chee Wah, Mr Rama, Mr Ting Pin Sing, Mr Daniel Soh, Mr Yong Kuo Hoong, Ms Joanna Lim, Mdm Norhayati &amp; Mr Carson Huang_
