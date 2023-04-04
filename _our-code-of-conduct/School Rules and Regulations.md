@@ -22,6 +22,7 @@ The following rules and regulations have been crafted to help students develop s
 1 \.  A student is considered late when he/she is not able to arrive at the assembly point on time to attend the flag-raising and pledge-taking ceremony.  
 
 2 \.  Latecomers will assemble at the basketball court below the Indoor Sports Hall.  
+
 3 \.  Latecomers must be attired in school uniform when entering the school.  
 
 4 \.  No extra time will be given for students who turn up late for tests or examinations.  
