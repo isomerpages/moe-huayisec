@@ -4,9 +4,6 @@ permalink: /staff-departments/staff-depts/
 description: ""
 third_nav_title: Staff (by Departments)
 ---
-
-
-
 ## Staff (by Departments)
 
 * [School Management Committee](/staff-departments/Staff-By-Departments/smc/)
