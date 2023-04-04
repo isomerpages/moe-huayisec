@@ -2,6 +2,7 @@ collections:
   a-passionate-learner:
     output: true
     order:
+      - Craft and Technology Department.md
       - Academic Achievement.md
       - Departments/Mother Tongue Department.md
       - Departments/Character and Citizenship Education Department.md
