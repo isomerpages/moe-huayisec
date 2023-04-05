@@ -2,4 +2,5 @@ collections:
   who-we-are:
     output: true
     order:
+      - Homework Policy.md
       - COVID19 Measures.md
