@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - House System.md
       - History and Heritage.md
       - Staff Contact.md
       - School Safety and Security.md
