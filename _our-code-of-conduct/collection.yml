@@ -1,5 +1,4 @@
 collections:
   our-code-of-conduct:
     output: true
-    order:
-      - Homework Policy.md
+    order: []
