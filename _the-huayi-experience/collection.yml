@@ -2,6 +2,7 @@ collections:
   the-huayi-experience:
     output: true
     order:
+      - Learning Festival.md
       - Student Success Stories.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
