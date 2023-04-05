@@ -359,6 +359,25 @@ We congratulate the following candidates from the Sec 4 Express students who obt
 </tbody>
 </table>
 
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Secondary Four Normal (Technical)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>% with 5 or more subject passes</td>
+    <td>81.8%</td>
+  </tr>
+  <tr>
+    <td>% eligible for courses in Institute of Technical Education</td>
+    <td>100.0%</td>
+  </tr>
+</tbody>
+</table>
+
 Our candidates from the Secondary Four Normal (Academic) course did well in English Language, Malay Language, Science (Chemistry / Biology), Science (Physics / Chemistry), Mathematics, Additional Mathematics, Humanities (Social Studies / History), Humanities (Social Studies / Geography), Art Syllabus A, Design &amp; Technology and Nutrition &amp; Food Science attaining&nbsp;**90% or more passes**. The following subjects - English Language, Malay Language, Science (Chemistry / Biology), Additional Mathematics, Humanities (Social Studies / History), Humanities (Social Studies / Geography), Art Syllabus A and Design &amp; Technology attained&nbsp;**100% pass**.  
   
 
