@@ -2,6 +2,7 @@ collections:
   the-huayi-experience:
     output: true
     order:
+      - Departments/Character and Citizenship Education Department.md
       - Departments/Information Technology Department.md
       - Departments/.keep
       - Department Programmes.md
