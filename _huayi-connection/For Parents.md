@@ -48,9 +48,9 @@ description: ""
 
 ##### **[Application Form for Leave of Absence](https://form.gov.sg/60c010245259b6001101815d)**
 
-##### NTUC Insurance Portal&nbsp;–&nbsp;**[Online Claim Submission](https://studentgpa.incomegroupins.com.sg/#/)** , [Pamphlet](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf)
+##### NTUC Insurance Portal&nbsp;–&nbsp;**[Online Claim Submission](https://studentgpa.incomegroupins.com.sg/#/)** , [Pamphlet](/files/product%20fact%20sheet%20year%202023.pdf)
 
-##### VIA Volunteering Opportunities
+##### [VIA Volunteering Opportunities](https://staging.d24qp50d0iaegk.amplifyapp.com/others/via-volunteering-opportunities/)
 
 ##### **[Online Library Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/huayisec)**
 
@@ -60,7 +60,7 @@ description: ""
 
 #### PARENTS GATEWAY APP
 
-**REQUIRE JACKSON'S INPUT YOUTUBE VIDEO**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Parents Gateway Onboarding video for Parents" src="https://www.youtube.com/embed/tW9jwyuovOo" height="467" width="824"></iframe>
 
 #### USEFUL RESOURCES
 
