@@ -2,7 +2,6 @@ collections:
   a-passionate-learner:
     output: true
     order:
-      - Academic Achievement.md
       - Departments/Department Programmes.md
       - Departments/English Department.md
       - Departments/Science Department.md
