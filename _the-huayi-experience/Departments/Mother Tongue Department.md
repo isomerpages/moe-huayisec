@@ -36,7 +36,7 @@ B) Hari Raya Celebration Concert
 
 The Conversational Chinese/Malay (CCM) Programme is introduced as an enrichment programme for our Secondary 1 students to learn more about the Chinese/Malay language and culture. It also promotes cross-cultural learning and at the same time, aims to encourage students to acquire a third language that they can converse in comfortably. This CCM Programme culminates in the Cultural Learning Carnival where students will not only apply but also extend their learning beyond mastering the language in classrooms and experience joy in language learning. At the end of the programme, students should be able to minimally communicate (listen and speak) on everyday situations using the language.
 
-###### MTL Cultural Fortnight
+##### MTL Cultural Fortnight
 
 Mother Tongue Cultural Fortnight aims to inspire a love for the Mother Tongue Languages via authentic learning experiences and foster a more conducive learning environment for students to use the Mother Tongue Languages. This programme aims to ignite students’ interest in using the language and inculcate the right culture and values through engaging, innovative and appealing ways.
 
