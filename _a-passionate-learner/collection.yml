@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Departments/Department Programmes.md
-      - Departments/English Department.md
       - Departments/.keep
