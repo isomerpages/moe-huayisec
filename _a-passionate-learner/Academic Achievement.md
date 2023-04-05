@@ -5,6 +5,8 @@ description: ""
 ---
 ## Academic Achievement
 
+
+
 ##### 2021 GCE 'O' Level Examination Results
 
 A total of 165 candidates from Secondary 4 Express course and 23 candidates from Secondary 5 Normal (Academic) course sat for the 2021 GCE O-Level Examination and their performance were as follows:
