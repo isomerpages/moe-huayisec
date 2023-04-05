@@ -1,14 +1,14 @@
 logo: /images/photo1669991329.jpeg
 links:
   - title: Who We Are
-    url: /who-we-are/Our-Identity/message/
+    url: /who-we-are/our-identity/principals-message/
     sublinks:
       - title: Principal's Message
-        url: /who-we-are/Our-Identity/message/
+        url: /who-we-are/our-identity/principals-message/
       - title: Vision, Mission, Values
-        url: /who-we-are/Our-Identity/vmv/
+        url: /who-we-are/our-identity/vision-mission-values/
       - title: Student Outcomes
-        url: /who-we-are/Our-Identity/studoutcomes/
+        url: /who-we-are/our-identity/student-outcomes/
       - title: School Crest, School song
         url: /who-we-are/Our-Identity/crest-song/
       - title: House System
@@ -16,15 +16,17 @@ links:
       - title: History and Heritage
         url: /who-we-are/Our-Story/hist-herit/
       - title: Staff (by Departments)
-        url: /staff-departments/staff-depts/
+        url: /who-we-are/our-people/staff-by-departments/
+      - title: Staff Contact
+        url: /who-we-are/our-people/staff-contact/
       - title: School Safety and Security
-        url: /who-we-are/Our-Code-Of-Conduct/sss/
+        url: /who-we-are/our-code-of-conduct/school-safety-and-security/
       - title: School Rules and Regulations
-        url: /who-we-are/Our-Code-Of-Conduct/srr/
+        url: /who-we-are/our-code-of-conduct/school-rules-and-regulations/
       - title: Homework Policy
-        url: /who-we-are/Our-Code-Of-Conduct/hp/
+        url: /who-we-are/our-code-of-conduct/homework-policy/
       - title: Covid-19 Measures
-        url: /who-we-are/Our-Code-Of-Conduct/covid19/
+        url: /who-we-are/our-code-of-conduct/covid-19-measures/
   - title: The Hua Yi Experience
     url: /the-huayi-experience/aa/
     sublinks:
