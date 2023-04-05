@@ -1,4 +1,5 @@
 collections:
   staff-by-departments:
     output: true
-    order: []
+    order:
+      - Executive & Administrative Staff.md
