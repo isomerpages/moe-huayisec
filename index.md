@@ -40,7 +40,7 @@ sections:
       title: THE HUA YI FAMILY
       description: What does it feel like to be part of the Hua Yi family?
       button: Click here to view
-      url: /the-hua-yi-experience/excelling-in-life/student-success-stories
+      url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       image: /images/family-bg.jpg
       alt: Image alt text
 ---
