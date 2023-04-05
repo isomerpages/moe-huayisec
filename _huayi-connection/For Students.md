@@ -26,7 +26,6 @@ description: ""
 #### **2023 Semester 1 Letter to Parents ([Sec 1](/files/hyss%202023%20semester%201%20letter_sec%201.pdf),&nbsp;[Sec 2](/files/hyss%202023%20semester%201%20letter_sec%202.pdf),&nbsp;[Sec 3](/files/hyss%202023%20semester%201%20letter_sec%203.pdf)&nbsp;&amp;&nbsp;[Sec 4/5](/files/hyss%202023%20semester%201%20letter_sec45.pdf))**
 
 ##### [Sexuality Education Programme](https://staging.d24qp50d0iaegk.amplifyapp.com/sex-ed/)
-
 #### ECG Matters
 
 * [ECG Parent's Talk Briefing Slides - Link on Pathways](/files/HYSS%20ECG%20Parents%20Talk%20_Links%20on%20Pathways.pdf)
@@ -56,9 +55,9 @@ Thank you for making a difference to the community!
 
 ##### **[Application Form for Leave of Absence](https://form.gov.sg/60c010245259b6001101815d)**
 
-##### NTUC Insurance Portal – **[Online Claim Submission](https://studentgpa.incomegroupins.com.sg/#/)** , [Pamphlet](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf)
+##### NTUC Insurance Portal – **[Online Claim Submission](https://studentgpa.incomegroupins.com.sg/#/)** , [Pamphlet](/files/product%20fact%20sheet%20year%202023.pdf)
 
-##### VIA Volunteering Opportunities
+##### [VIA Volunteering Opportunities](https://staging.d24qp50d0iaegk.amplifyapp.com/others/via-volunteering-opportunities/)
 
 ##### **[Online Library Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/huayisec)**
 
