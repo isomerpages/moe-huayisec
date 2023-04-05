@@ -2,6 +2,8 @@ collections:
   the-huayi-experience:
     output: true
     order:
+      - Academic Achievement.md
+      - Departments/.keep
       - Departments/Department Programmes.md
       - Departments/English Department.md
       - Departments/Science Department.md
@@ -12,8 +14,6 @@ collections:
       - Departments/Mother Tongue Department.md
       - Departments/Character and Citizenship Education Department.md
       - Departments/Information Technology Department.md
-      - Departments/.keep
-      - Academic Achievement.md
       - CCAs.md
       - Personalised Digital Learning Programme (PDLP).md
       - Independent Learning Day.md
