@@ -47,7 +47,7 @@ Thank you for making a difference to the community!
 
 ##### [Counselling Information](/files/Student%20handbook%202022_Counselling%20info%20June12.pdf)
 
-##### Traffic Safety Measures
+##### [Traffic Safety Measures](https://staging.d24qp50d0iaegk.amplifyapp.com/latest-updates/tsm/)
 
 #### FAS Application Form and Pamphlet
 
