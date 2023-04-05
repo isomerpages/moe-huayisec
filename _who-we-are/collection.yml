@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Staff (By Departments)/.keep
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Student Outcomes.md
