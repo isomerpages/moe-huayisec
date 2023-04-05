@@ -7,15 +7,25 @@ description: ""
 
 #### ACADEMIC
 
-##### 2022 Summative Review Timetable
+#### **[Sec 2 School Leader's Talk](/files/sch%20website_2023%20sec%202%20sl%20talk.pdf)**  
 
-##### 2022 'O' Level Prelim Timetable ([4E5N](/files/O%20Level%20Prelim%20Timetable%202022_final.pdf), [4NA(OOS)](/files/O%20Level%20Prelim%20Timetable%202022%20NA_OOS_final.pdf))
+  
 
-##### 2022 'N' Level Prelim Timetable ([NA](/files/NA%20level%20Prelim%20Timetable%202022_final.pdf), [NT](/files/NT%20level%20Prelim%20Timetable%202022_final.pdf))
+#### **[Sec 3 School Leader's Talk](/files/sec%203%20school%20leader%20talk_%2010%20feb%2023_school%20website.pdf)**  
 
-##### **[Sec 3 Outdoor Adventure Camp Photos](https://drive.google.com/drive/folders/1I9tkONThAwXdXuwkKVho1Adrnn0vsuaU?usp=sharing)** **ACCESS DENIED**
+  
 
-##### Sexuality Education Programme
+#### **[Sec 4/5 School Leader's Talk](/files/2023%20sec%204_5%20sl%20talk%20for%20parents%20school%20website%20.pdf)**  
+
+  
+
+#### **[Sec 1 School Leader's Talk](https://huayisec.moe.edu.sg/qql/slot/u175/School%20Info/For%20Parents/Academic/2023/2023%20SL%20Talk%20for%20Parents%20Sec%201%20-%20Compiled%201.pdf)**  (FILE IS TOO BIG)
+
+  
+
+#### **2023 Semester 1 Letter to Parents ([Sec 1](/files/hyss%202023%20semester%201%20letter_sec%201.pdf),&nbsp;[Sec 2](/files/hyss%202023%20semester%201%20letter_sec%202.pdf),&nbsp;[Sec 3](/files/hyss%202023%20semester%201%20letter_sec%203.pdf)&nbsp;&amp;&nbsp;[Sec 4/5](/files/hyss%202023%20semester%201%20letter_sec45.pdf))**
+
+##### [Sexuality Education Programme](https://staging.d24qp50d0iaegk.amplifyapp.com/sex-ed/)
 
 #### ECG Matters
 
