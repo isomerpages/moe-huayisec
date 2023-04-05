@@ -6,7 +6,7 @@ third_nav_title: Departments
 ---
 ## Humanities Department
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCf6fdM2nCD8jxIWphHmaaP2GEG3Od7BAIyFqoL3-wRKQn3KTJ92jZVJjyBgSVE2z04Wa7uhVcnboY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0d7uqJQScaeQ3se3XJCfYGM2geut1_EYhDNdJilWtdYnI6vFgmMKzdPqA8cSc8Ee4z-XmVs1KOjuj/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### Learning Outcomes
 
