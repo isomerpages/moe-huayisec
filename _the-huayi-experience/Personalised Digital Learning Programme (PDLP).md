@@ -5,7 +5,7 @@ description: ""
 ---
 ## Personalised Digital Learning Programme (PDLP)
 
-**REQUIRE JACKSON'S INPUT YOUTUBE VIDEO**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Personalised Digital Learning Programme @ Hua Yi" src="https://www.youtube.com/embed/7WOEs8-XayI" height="438" width="824"></iframe>
 
 Embracing the use of technology to spark the joy of learning in our students and inspire their pursuit of excellence, Hua Yi has rolled out the use of iPads to all our Secondary 1, 2 and 3 students in 2021. With the latest educational apps at their fingertips, students can learn independently as well as collaboratively, both within and beyond the classroom.
 
@@ -81,4 +81,4 @@ All user data which is collected by MOE will be stored in secure servers managed
  
 #### References
 
-**REQUIRE JACKSON'S INPUT YOUTUBE VIDEO**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Strengthening digital literacy of students | Committee of Supply 2020" src="https://www.youtube.com/embed/3FKftVAU4eI" height="410" width="700"></iframe>
