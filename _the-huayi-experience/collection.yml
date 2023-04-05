@@ -2,6 +2,7 @@ collections:
   the-huayi-experience:
     output: true
     order:
+      - Academic Achievement.md
       - CCAs.md
       - Personalised Digital Learning Programme (PDLP).md
       - Independent Learning Day.md
