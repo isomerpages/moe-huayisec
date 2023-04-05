@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - History and Heritage.md
       - Staff Contact.md
       - School Safety and Security.md
       - School Rules and Regulations.md
