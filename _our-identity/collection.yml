@@ -2,7 +2,6 @@ collections:
   our-identity:
     output: true
     order:
-      - Vision, Mission, Values.md
       - Student Outcomes.md
       - School Crest, School Song.md
       - House System.md
