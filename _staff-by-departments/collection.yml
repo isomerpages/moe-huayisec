@@ -1,5 +1,4 @@
 collections:
   staff-by-departments:
     output: true
-    order:
-      - Character & Citizenship Education Committee.md
+    order: []
