@@ -2,5 +2,4 @@ collections:
   a-passionate-learner:
     output: true
     order:
-      - Departments/Department Programmes.md
       - Departments/.keep
