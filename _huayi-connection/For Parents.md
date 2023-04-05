@@ -32,7 +32,7 @@ description: ""
 * [ECG Parent's Talk Briefing Slides - Link on Pathways](/files/HYSS%20ECG%20Parents%20Talk%20_Links%20on%20Pathways.pdf)
 * [ECG Matters for Graduating Students](https://drive.google.com/drive/folders/1_-ni4eu9dpAkfk3whR42gSzfptDi25Tg)
 
-**Please be informed that 2020 GCE ‘O’ Level Testimonials may be collected from the General Office.**
+
 
 ##### [Hua Yi Learning Dispositions](/files/HYSS%20Learning%20Dispositions%202020%20(for%20school%20website%202020)%20(with%20translations).pdf)
 
