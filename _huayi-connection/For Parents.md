@@ -25,7 +25,7 @@ description: ""
 
 #### **2023 Semester 1 Letter to Parents ([Sec 1](/files/hyss%202023%20semester%201%20letter_sec%201.pdf),&nbsp;[Sec 2](/files/hyss%202023%20semester%201%20letter_sec%202.pdf),&nbsp;[Sec 3](/files/hyss%202023%20semester%201%20letter_sec%203.pdf)&nbsp;&amp;&nbsp;[Sec 4/5](/files/hyss%202023%20semester%201%20letter_sec45.pdf))**
 
-##### Sexuality Education Programme
+##### [Sexuality Education Programme](https://staging.d24qp50d0iaegk.amplifyapp.com/sex-ed/)
 
 #### ECG Matters
 
