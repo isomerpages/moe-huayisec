@@ -2,6 +2,7 @@ collections:
   the-huayi-experience:
     output: true
     order:
+      - Character and Citizenship Education Department.md
       - Information Technology Department.md
       - Academic Achievement.md
       - CCAs.md
