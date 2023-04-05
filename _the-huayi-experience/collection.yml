@@ -2,6 +2,7 @@ collections:
   the-huayi-experience:
     output: true
     order:
+      - Mother Tongue Department.md
       - Character and Citizenship Education Department.md
       - Information Technology Department.md
       - Academic Achievement.md
