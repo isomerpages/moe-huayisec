@@ -3,7 +3,6 @@ title: Introduction
 permalink: /happenings-at-hua-yi/Direct-School-Admission/intro/
 description: ""
 ---
-
 ## Introduction
 
 At Hua Yi Secondary School, we believe that all students have different gifts and abilities to make a difference to society.  
@@ -22,11 +21,11 @@ Hua Yi welcomes prospective students with passion and talents from various field
 
 #### Principal's Message
 
-**REQUIRE JACKSON'S INPUT YOUTUBE VIDEO**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Principal's Message - DSA 2022" src="https://www.youtube.com/embed/ls8MGqQ6zF4" height="407" width="726"></iframe>
 
-#### School Publicity Video 
+#### School Publicity Video&nbsp;
 
-**REQUIRE JACKSON'S INPUT YOUTUBE VIDEO**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Our Identity" src="https://www.youtube.com/embed/hSA7uzrmVok" height="408" width="727"></iframe>
 
 #### ST Featured Article
 
