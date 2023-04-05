@@ -2,13 +2,13 @@ collections:
   who-we-are:
     output: true
     order:
-      - Staff (By Departments)/.keep
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Student Outcomes.md
       - School Crest, School Song.md
       - House System.md
       - History and Heritage.md
+      - Staff (By Departments)/.keep
       - Staff Contact.md
       - School Safety and Security.md
       - School Rules and Regulations.md
