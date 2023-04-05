@@ -5,11 +5,11 @@ description: ""
 ---
 ## Chia Yuan Ting
 
-<img src="/images/Chia Yuan Ting.jpg" style="width:49%" align=left>
+<img src="/images/Chia Yuan Ting.jpg" style="width:49%" align="left">
 
 **Student from 2016 – 2019<br>
 Valedictorian of the 2019 Cohort**
-<br clear=left>
+<br clear="left">
 
 #### Venturing Out of Her Comfort Zone
 
@@ -21,4 +21,4 @@ Yuan Ting also learned to be an active contributor to society. While she and her
 
 Having tried out for the Netball team, Yuan Ting eventually joined the Red Cross when she was in Secondary 1. She never thought she would be part of a uniformed group. Just like many, she viewed uniformed groups to be strict in discipline and more rigid in nature. However, when she heard of her friend’s experience of the trials, which included the friendly seniors and peers, and the skills she could pick up, she made the bold decision to join the Red Cross. And Yuan Ting has never looked back, having grown very fond of the CCA, where she fostered her deepest friendships and which marked the start of her leadership journey. “The Red Cross gave me a glimpse into what I thought I was never capable of. My CCA became a huge part of building my confidence and identity. Never would I have thought I would be able to speak in front of the entire school during World Red Cross Day or run a blood awareness programme in public.”
 
-##### _"I_ _am very thankful for the trust that the teachers have in us, giving us the independence to lead programmes and CCA sessions. I am grateful to Hua Yi for giving me the opportunity to venture out of my comfort zone and allowing me to strive to do my very b__est."_
+##### _"I_&nbsp;_am very thankful for the trust that the teachers have in us, giving us the independence to lead programmes and CCA sessions. I am grateful to Hua Yi for giving me the opportunity to venture out of my comfort zone and allowing me to strive to do my very best."_
