@@ -10,20 +10,20 @@ sections:
       subtitle: EXCELLING IN LIFE
       background: /images/hua yi sec homepage.gif
       button: LEARN MORE
-      url: /the-hua-yi-experience/excelling-in-life/student-success-stories
+      url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       key_highlights:
         - title: GLOCALISED CITIZENS
           description: ""
-          url: /the-hua-yi-experience/a-glocalised-citizen/cultural-studies-programme
+          url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/csp/
         - title: RESILIENT LEADERS
           description: ""
-          url: /the-hua-yi-experience/a-resilient-leader/student-leadership
+          url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/sl/
         - title: EMPATHETIC CONTRIBUTORS
           description: ""
-          url: /the-hua-yi-experience/an-empathetic-contributor/applied-learning-programme-alp
-        - title: Passionate Learners
+          url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/alp/
+        - title: PASSIONATE LEADERS
           description: ""
-          url: /the-hua-yi-experience/a-passionate-learner/academic-achievement
+          url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
   - infopic:
       title: QUCK FACTS ABOUT HUA YI
       button: Click Here To Learn More
