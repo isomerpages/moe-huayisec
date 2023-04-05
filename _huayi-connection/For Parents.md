@@ -7,23 +7,23 @@ description: ""
 
 #### ACADEMIC
 
-#### **[Sec 2 School Leader's Talk](https://huayisec.moe.edu.sg/qql/slot/u175/School%20Info/For%20Students/Academic/2023/Sch%20Website_2023%20Sec%202%20SL%20Talk.pdf)**  
+#### **[Sec 2 School Leader's Talk](/files/sch%20website_2023%20sec%202%20sl%20talk.pdf)**  
 
   
 
-#### **[Sec 3 School Leader's Talk](https://huayisec.moe.edu.sg/qql/slot/u175/School%20Info/For%20Parents/Academic/2023/Sec%203%20School%20Leader%20Talk_%2010%20Feb%2023_School%20Website.pdf)**  
+#### **[Sec 3 School Leader's Talk](/files/sec%203%20school%20leader%20talk_%2010%20feb%2023_school%20website.pdf)**  
 
   
 
-#### **[Sec 4/5 School Leader's Talk](https://huayisec.moe.edu.sg/qql/slot/u175/School%20Info/For%20Parents/Academic/2023/2023%20Sec%204_5%20SL%20Talk%20for%20Parents%20school%20website%20.pdf)**  
+#### **[Sec 4/5 School Leader's Talk](/files/2023%20sec%204_5%20sl%20talk%20for%20parents%20school%20website%20.pdf)**  
 
   
 
-#### **[Sec 1 School Leader's Talk](https://huayisec.moe.edu.sg/qql/slot/u175/School%20Info/For%20Parents/Academic/2023/2023%20SL%20Talk%20for%20Parents%20Sec%201%20-%20Compiled%201.pdf)**  
+#### **[Sec 1 School Leader's Talk](https://huayisec.moe.edu.sg/qql/slot/u175/School%20Info/For%20Parents/Academic/2023/2023%20SL%20Talk%20for%20Parents%20Sec%201%20-%20Compiled%201.pdf)**  (FILE IS TOO BIG)
 
   
 
-#### **2023 Semester 1 Letter to Parents ([Sec 1](https://huayisec.moe.edu.sg/qql/slot/u175/Latest%20News/2023/Semester%20Letter/HYSS%202023%20Semester%201%20Letter_Sec%201.pdf),&nbsp;[Sec 2](https://huayisec.moe.edu.sg/qql/slot/u175/Latest%20News/2023/Semester%20Letter/HYSS%202023%20Semester%201%20Letter_Sec%202.pdf),&nbsp;[Sec 3](https://huayisec.moe.edu.sg/qql/slot/u175/Latest%20News/2023/Semester%20Letter/HYSS%202023%20Semester%201%20Letter_Sec%203.pdf)&nbsp;&amp;&nbsp;[Sec 4/5](https://huayisec.moe.edu.sg/qql/slot/u175/Latest%20News/2023/Semester%20Letter/HYSS%202023%20Semester%201%20Letter_Sec45.pdf))**
+#### **2023 Semester 1 Letter to Parents ([Sec 1](/files/hyss%202023%20semester%201%20letter_sec%201.pdf),&nbsp;[Sec 2](/files/hyss%202023%20semester%201%20letter_sec%202.pdf),&nbsp;[Sec 3](/files/hyss%202023%20semester%201%20letter_sec%203.pdf)&nbsp;&amp;&nbsp;[Sec 4/5](/files/hyss%202023%20semester%201%20letter_sec45.pdf))**
 
 ##### Sexuality Education Programme
 
