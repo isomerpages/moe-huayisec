@@ -1,5 +1,0 @@
-collections:
-  our-people:
-    output: true
-    order:
-      - Staff (by Departments)/.keep
