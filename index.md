@@ -7,10 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: EXCELLING IN LIFE
       background: /images/hua yi sec homepage.gif
-      button: LEARN MORE
-      url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       key_highlights:
         - title: GLOCALISED CITIZENS
           description: ""
