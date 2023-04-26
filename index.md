@@ -25,7 +25,7 @@ sections:
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
   - infopic:
-      title: QUCK FACTS ABOUT HUA YI
+      title: QUICK FACTS ABOUT HUA YI
       button: Click Here To Learn More
       url: /quick-facts
       image: /images/img_6005.jpg
