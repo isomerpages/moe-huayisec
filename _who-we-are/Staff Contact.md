@@ -296,7 +296,7 @@ description: ""
   <tr>
     <td>23-1G<br>(Latius)</td>
     <td>Ms M Durgashree<br>Ms Chong Hui Min</td>
-    <td><a href="mailto:m_durga_shree@schools.gov.sg">m_durga_shree@schools.gov.sg</a><br><a href="mailto:chong_hui_min@schools.gov.sg">chong_hui_min@schools.gov.sg</a></td>
+    <td><a href="mailto:m_durga_shree@schools.gov.sg">m_durga_shree@schools.gov.sg</a><br><a href="mailto:chong_hui_min_a@schools.gov.sg">chong_hui_min@schools.gov.sg</a></td>
     <td>330<br>323</td>
   </tr>
 </tbody>
