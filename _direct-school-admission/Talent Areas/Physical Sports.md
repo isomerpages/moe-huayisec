@@ -34,5 +34,19 @@ DSA students will be given comprehensive support to develop their ability and in
 <img src="/images/VB_v2.jpg" style="width:85%">
 <img src="/images/BB_v2.jpg" style="width:85%"><br>
 
-<img src="/images/eng1.jpeg" style="width:85%">
-**IMAGE SIZE EXCEEDS 5MB**
+#### Criteria
+
+* Students should submit as part of their application documents that attest to their experience and commitment to their sport in their Primary Schools.
+* Students should possess personal qualities and strengths that are indicative of their potential to be a member of a school sports team. This can be demonstrated using their CCA or VIA records, a personal statement and character referees.
+* Shortlisted students will be invited to participate in a Sports trials conducted by school staff, followed by an interview to determine if they will be a good fit for the school.
+* The trials are conducted based on the rubrics
+
+o&nbsp;&nbsp; Dribbling, Lay-Ups &amp; Shooting (Basketball)
+
+o&nbsp;&nbsp; Servicing, Setting &amp; Spiking (Volleyball)
+
+o&nbsp;&nbsp; Servicing, Receiving &amp; Footwork (Badminton)
+
+o&nbsp;&nbsp; Sprints, Distance Running (Track &amp; Field)
+
+o&nbsp;&nbsp; Dribbling, Footwork &amp; Shooting (Netball)
