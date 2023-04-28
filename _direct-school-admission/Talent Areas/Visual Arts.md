@@ -21,3 +21,8 @@ DSA students will be given comprehensive support to develop their ability and in
 *   Offers GCE 'O' level Higher Art to talented and committed students
 *   Represent the school in external competitions and exhibitions related to visual arts
 *   Visits to museums, art exhibitions and school visits
+
+#### Criteria
+
+* Students should submit a portfolio as part of their application documents that attest to their experiences and commitment to visual arts in their Primary Schools.
+* Shortlisted students will be interviewed and undergo a basic drawing test by a panel to determine if they will be a good fit for the school.
