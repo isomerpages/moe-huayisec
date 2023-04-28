@@ -30,4 +30,3 @@ description: ""
 * **[Hua Yi Secondary School – West Stories](/files/Annex%20E.pdf)**
 * **[Hua Yi Secondary School National Day Music Video 2019](https://www.youtube.com/watch?v=6yJGX6-zAvQ&feature=youtu.be)**
 * **[COVID Updates](/who-we-are/Our-Code-Of-Conduct/covid19/)**
-FOUND**
