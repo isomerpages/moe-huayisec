@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - Application Process.md
       - FAQ.md
       - Introduction.md
       - Talent Areas/.keep
