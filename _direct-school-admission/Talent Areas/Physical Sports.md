@@ -6,18 +6,18 @@ third_nav_title: Talent Areas
 ---
 ## Physical Sports
 
-Volleyball (Girls), Basketball (Boys), Badminton (Boys & Girls) & Track & Field (Boys & Girls)
+Volleyball (Girls), Basketball (Boys), Badminton (Boys &amp; Girls),  Track &amp; Field (Boys &amp; Girls) &amp; Netball
 
-Sports participation plays a significant role in students’ character development and holistic education. Hua Yi has a long history of sporting excellence, with our volleyball girls attaining 1st and 2nd runner-up in the West Zone ‘B’ Division Girls Inter-School Volleyball Championship consistently and our basketball boys being shortlisted for national trials. 
+Sports participation plays a significant role in students’ character development and holistic education. Hua Yi has a long history of sporting excellence, with our volleyball girls attaining 1st and 2nd runner-up in the West Zone ‘B’ Division Girls Inter-School Volleyball Championship consistently and our basketball boys being shortlisted for national trials.&nbsp;
 
-P6 students with a flair for volleyball, basketball, badminton or track & field can seek admission to Hua Yi through the DSA-Sec Exercise.
+P6 students with a flair for volleyball, basketball, badminton or track &amp; field can seek admission to Hua Yi through the DSA-Sec Exercise.
 
-<img src="/images/Badminton Boys.jpeg" style="width:49%" align=left>
-<img src="/images/Volleyball.jpeg" style="width:49%" align=right>
+<img src="/images/Badminton Boys.jpeg" style="width:49%" align="left">
+<img src="/images/Volleyball.jpeg" style="width:49%" align="right">
 <br clear="left"><br>
 
-<img src="/images/Basketball.jpeg" style="width:49%" align=left>
-<img src="/images/Track N Field.jpeg" style="width:49%" align=right>
+<img src="/images/Basketball.jpeg" style="width:49%" align="left">
+<img src="/images/Track N Field.jpeg" style="width:49%" align="right">
 <br clear="left"><br>
 
 #### Programme
