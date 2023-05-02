@@ -17,7 +17,8 @@ d.  Glocalised Citizens who understand contemporary trends and issues, staying r
 
 Hua Yi welcomes prospective students with passion and talents from various fields, representing the different aspects of our holistic curriculum, to join the Hua Yi family through the Direct School Admission-Secondary (DSA-Sec) Exercise.
 
-<img src="/images/Pop Up Poster.jpeg" style="width:85%">
+![](/images/dsa%20banner%202023.jpg)
+
 
 #### Principal's Message
 
