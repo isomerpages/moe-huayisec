@@ -1,0 +1,8 @@
+collections:
+  huayi-connection:
+    output: true
+    order:
+      - For Parents.md
+      - For Students.md
+      - For Staff.md
+      - Contact Us.md

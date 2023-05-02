@@ -1,32 +1,43 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Hua Yi Secondary School
+description: An Isomer site of the Singapore Government
+image: /images/photo1669991329.jpeg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/hua yi sec homepage.gif
+      key_highlights:
+        - title: GLOCALISED CITIZENS
+          description: ""
+          url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/csp/
+        - title: RESILIENT LEADERS
+          description: ""
+          url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/sl/
+        - title: EMPATHETIC CONTRIBUTORS
+          description: ""
+          url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/alp/
+        - title: PASSIONATE LEADERS
+          description: ""
+          url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
+  - infopic:
+      title: QUICK FACTS ABOUT HUA YI
+      button: Click Here To Learn More
+      url: /quick-facts
+      image: /images/img_6005.jpg
+      alt: Image alt text
+  - infopic:
+      title: LATEST HAPPENINGS
+      button: Click here for information
+      url: /latest-updates/latest/
+      image: /images/upcoming events 2023 march.JPG
+      alt: Image alt text
+  - infopic:
+      title: THE HUA YI FAMILY
+      description: What does it feel like to be part of the Hua Yi family?
+      button: Click here to view
+      url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
+      image: /images/family-bg.jpg
+      alt: Image alt text
 ---
-

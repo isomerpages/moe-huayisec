@@ -1,15 +1,88 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/photo1669991329.jpeg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Who We Are
+    url: /who-we-are/our-identity/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /who-we-are/our-identity/principals-message/
+      - title: Vision, Mission, Values
+        url: /who-we-are/our-identity/vision-mission-values/
+      - title: Student Outcomes
+        url: /who-we-are/our-identity/student-outcomes/
+      - title: School Crest, School song
+        url: /who-we-are/Our-Identity/crest-song/
+      - title: House System
+        url: /who-we-are/Our-Identity/hs/
+      - title: History and Heritage
+        url: /who-we-are/Our-Story/hist-herit/
+      - title: Staff (by Departments)
+        url: /who-we-are/our-people/staff-by-departments/
+      - title: Staff Contact
+        url: /who-we-are/our-people/staff-contact/
+      - title: School Safety and Security
+        url: /who-we-are/our-code-of-conduct/school-safety-and-security/
+      - title: School Rules and Regulations
+        url: /who-we-are/our-code-of-conduct/school-rules-and-regulations/
+      - title: Homework Policy
+        url: /who-we-are/our-code-of-conduct/homework-policy/
+      - title: Covid-19 Measures
+        url: /who-we-are/our-code-of-conduct/covid-19-measures/
+  - title: The Hua Yi Experience
+    url: /the-huayi-experience/aa/
+    sublinks:
+      - title: Academic Achievement
+        url: /the-huayi-experience/aa/
+      - title: Department Programmes
+        url: /the-huayi-experience/Department-Programmes/dp/
+      - title: CCAs
+        url: /the-huayi-experience/CCAs/ccas/
+      - title: PDLP
+        url: /the-huayi-experience/pdlp/
+      - title: Independent Learning Day
+        url: /the-huayi-experience/independent-day/
+      - title: Level Programmes
+        url: /the-huayi-experience/lvl-prog/
+      - title: Learning Festival
+        url: /the-huayi-experience/lvl-festival/
+      - title: Applied Learning Program(ALP)
+        url: /the-huayi-experience/alp/
+      - title: Learning for Life Program(LLP)
+        url: /the-huayi-experience/llp/
+      - title: Values-In-Action(VIA)
+        url: /the-huayi-experience/via/
+      - title: Environmental Education
+        url: /the-huayi-experience/ee/
+      - title: Student Leadership
+        url: /the-huayi-experience/sl/
+      - title: House Programme
+        url: /the-huayi-experience/hp/
+      - title: Cultural Studies Programme
+        url: /the-huayi-experience/csp/
+      - title: Talent Development
+        url: /the-huayi-experience/td/
+      - title: Student Success Stories
+        url: /the-huayi-experience/stud-ss/
+  - title: The Hua Yi Community
+    url: /the-hua-yi-community/sac/
+    sublinks:
+      - title: School Advisory Commitee
+        url: /the-hua-yi-community/sac/
+      - title: Parent Support Group
+        url: /the-hua-yi-community/psg/
+      - title: Alumni
+        url: /the-hua-yi-community/alumni/
+      - title: Our Partners
+        url: /the-hua-yi-community/Our-Partners/ips/
+  - title: Happenings @ Hua Yi
+    url: /happenings-at-hua-yi/calendar/
+    sublinks:
+      - title: Calendar of Events
+        url: /happenings-at-hua-yi/calendar/
+      - title: Snapshots @ Hua Yi
+        url: /happenings-at-hua-yi/snapshots/
+      - title: Merchandise Sale
+        url: /happenings-at-hua-yi/ms/
+      - title: Direct School Admission
+        url: /happenings-at-hua-yi/Direct-School-Admission/intro/
+  - title: The Hua Yi Connection
+    collection: huayi-connection

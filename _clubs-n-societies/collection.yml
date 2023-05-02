@@ -1,0 +1,8 @@
+collections:
+  clubs-n-societies:
+    output: true
+    order:
+      - Arts and Crafts Club.md
+      - Infocomm Club.md
+      - Singapore Youth Flying Club.md
+      - Nutrition & Food Science Club.md

@@ -1,0 +1,30 @@
+collections:
+  the-huayi-experience:
+    output: true
+    order:
+      - Academic Achievement.md
+      - Departments/.keep
+      - Departments/Department Programmes.md
+      - Departments/English Department.md
+      - Departments/Science Department.md
+      - Departments/Mathematics Department.md
+      - Departments/Humanities Department.md
+      - Departments/Physical Education Department.md
+      - Departments/Craft and Technology Department.md
+      - Departments/Mother Tongue Department.md
+      - Departments/Character and Citizenship Education Department.md
+      - Departments/Information Technology Department.md
+      - CCAs.md
+      - Personalised Digital Learning Programme (PDLP).md
+      - Independent Learning Day.md
+      - Level Programmes.md
+      - Learning Festival.md
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
+      - Values in Action (VIA).md
+      - Environmental Education.md
+      - Student Leadership.md
+      - House Programme.md
+      - Cultural Studies Programme.md
+      - Talent Development.md
+      - Student Success Stories.md
