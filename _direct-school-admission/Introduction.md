@@ -22,7 +22,7 @@ Hua Yi welcomes prospective students with passion and talents from various field
 
 #### Principal's Message
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PwxIyRhS0QU" height="407" width="726"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="" src="https://www.youtube.com/embed/PwxIyRhS0QU" height="407" width="726"></iframe>
 
 #### School Publicity Video&nbsp;
 
