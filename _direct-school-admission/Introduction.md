@@ -22,7 +22,7 @@ Hua Yi welcomes prospective students with passion and talents from various field
 
 #### Principal's Message
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Principal's Message - DSA 2022" src="https://www.youtube.com/embed/ls8MGqQ6zF4" height="407" width="726"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Principal's Message - DSA 2022" src="https://www.youtube.com/watch?v=PwxIyRhS0QU" height="407" width="726"></iframe>
 
 #### School Publicity Video&nbsp;
 
