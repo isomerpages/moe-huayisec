@@ -8,7 +8,6 @@ description: ""
 |  |  |
 |:---:|---|
 | Chairperson | Mr Kenny Sim |
-| Vice-Chairperson | Mr Goh Khong Shung |
-| Treasurer | Mr Anston Tan |
-| Members | Mr Benny Lee<br>Mr Michael S Chia<br>Mdm May Yap |
+| Vice-Chairperson | Mr Winston Wang |
+| Members | Ms Iris Lim<br>Mr Francis lee<br>Mdm Vivian Liang<br>Ms Jasmine Ong<br>Ms Serene Ong<br>Mr Patrick Koh<br>Mr Robin Soo<br>Ms Melissa Tan |
 |  |  |

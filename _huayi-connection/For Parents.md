@@ -19,13 +19,13 @@ description: ""
 
   
 
-#### **[Sec 1 School Leader's Talk](https://huayisec.moe.edu.sg/qql/slot/u175/School%20Info/For%20Parents/Academic/2023/2023%20SL%20Talk%20for%20Parents%20Sec%201%20-%20Compiled%201.pdf)**  (FILE IS TOO BIG)
+#### **[Sec 1 School Leader's Talk](https://huayisec.moe.edu.sg/qql/slot/u175/School%20Info/For%20Parents/Academic/2023/2023%20SL%20Talk%20for%20Parents%20Sec%201%20-%20Compiled%201.pdf)**  
 
   
 
 #### **2023 Semester 1 Letter to Parents ([Sec 1](/files/hyss%202023%20semester%201%20letter_sec%201.pdf),&nbsp;[Sec 2](/files/hyss%202023%20semester%201%20letter_sec%202.pdf),&nbsp;[Sec 3](/files/hyss%202023%20semester%201%20letter_sec%203.pdf)&nbsp;&amp;&nbsp;[Sec 4/5](/files/hyss%202023%20semester%201%20letter_sec45.pdf))**
 
-##### [Sexuality Education Programme](https://staging.d24qp50d0iaegk.amplifyapp.com/sex-ed/)
+#### [Sexuality Education Programme](https://staging.d24qp50d0iaegk.amplifyapp.com/sex-ed/)
 
 #### ECG Matters
 

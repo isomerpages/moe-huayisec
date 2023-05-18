@@ -5,6 +5,9 @@ description: ""
 ---
 ## Parent Support Group
 
+![](/images/2023%20psg%20agm.jpeg)
+
+
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSRkZsnLRAxCmtnGteojutOw1Tuqk0pKcpEbCceENA4P63XIHC4Oyj3nxyvME48wiIWeR9u9EAyFgW/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Hua Yi has an active and dedicated Parent Support Group (PSG) which supports school programmes and activities for students’ holistic development. The PSG’s vision is to work closely with the school to provide the best support in educating our children. Parents with rich life experiences are invited to join us so that we can provide strategic support through networking and common resources.

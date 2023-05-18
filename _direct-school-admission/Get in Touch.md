@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-permalink: /direct-school-admission/permalink/
+permalink: /direct-school-admission/get-in-touch/
 description: ""
 ---
 ##### General Enquiries
@@ -37,4 +37,3 @@ Jurong East, Lakeside, Chinese Garden
 60, Jurong West, Street 42, Singapore 649371
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7063852023716!2d103.71944911394863!3d1.352729261944982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0fdbbf451b2d%3A0xb247827cdc0a755!2sHua%20Yi%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1620026977134!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-

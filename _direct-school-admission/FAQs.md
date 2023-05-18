@@ -1,6 +1,6 @@
 ---
-title: FAQ
-permalink: /direct-school-admission/permalink/
+title: FAQs
+permalink: /direct-school-admission/faqs/
 description: ""
 ---
 **1.**    **What is DSA-Sec?**

@@ -1,6 +1,6 @@
 ---
 title: Application Process
-permalink: /direct-school-admission/permalink/
+permalink: /direct-school-admission/application-process/
 description: ""
 ---
 ![](/images/image%201.JPG)
