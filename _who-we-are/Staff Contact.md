@@ -323,9 +323,9 @@ description: ""
   </tr>
   <tr>
     <td>22-2B<br>(Latius)</td>
-    <td>Ms Caroline Tracy<br>Ms Tok Peilin<br>Mdm Suzanne Lye</td>
-    <td><a href="mailto:caroline_tracy@schools.gov.sg">caroline_tracy@schools.gov.sg</a><br><a href="mailto:tok_peilin@schools.gov.sg">tok_peilin@schools.gov.sg</a><br><a href="mailto:lye_yoke_pheng@schools.gov.sg">lye_yoke_pheng@schools.gov.sg</a></td>
-    <td>309<br>332<br>214</td>
+    <td>Ms Caroline Tracy<br>Ms Tok Peilin</td>
+    <td><a href="mailto:caroline_tracy@schools.gov.sg">caroline_tracy@schools.gov.sg</a><br><a href="mailto:tok_peilin@schools.gov.sg">tok_peilin@schools.gov.sg</a></td>
+    <td>309<br>332 </td>
   </tr>
   <tr>
     <td>22-2C<br>(Altius)</td>
@@ -354,8 +354,8 @@ description: ""
   <tr>
     <td>22-2G<br>(Latius)</td>
     <td>Ms Norhayati<br>Mr Oliver Ong<br>Mr Lee Choon Kiong</td>
-    <td><a href="mailto:bibek_ray_chaudhuri@schools.gov.sg">norhayati_mohamed_jasni@schools.gov.sg</a><br><a href="mailto:ong_tzuen_wee_oliver@schools.gov.sg">ong_tzuen_wee_oliver@schools.gov.sg</a><br><a href="mailto:lee_choon_kiong@schools.gov.sg">lee_choon_kiong@schools.gov.sg</a></td>
-    <td>330<br>323<br>213</td>
+    <td><a href="mailto:bibek_ray_chaudhuri@schools.gov.sg">norhayati_mohamed_jasni@schools.gov.sg</a><br><a href="mailto:ong_tzuen_wee_oliver@schools.gov.sg">ong_tzuen_wee_oliver@schools.gov.sg</a></td>
+    <td>330<br>323</td>
   </tr>
 </tbody>
 </table>
