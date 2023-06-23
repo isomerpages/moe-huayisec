@@ -411,9 +411,9 @@ description: ""
   </tr>
   <tr>
     <td>21-3G<br>(Latius)</td>
-    <td>Ms Susanna Wee<br>Mr Carson Huang<br>Ms Siti Aisyah</td>
-    <td><a href="mailto:wee_wan_ying_susanna@schools.gov.sg">wee_wan_ying_susanna@schools.gov.sg</a><br><a href="mailto:huang_kangsheng_carson@schools.gov.sg">huang_kangsheng_carson@schools.gov.sg</a><br><a href="mailto:siti_aisyah_kamin@schools.gov.sg">siti_aisyah_kamin@schools.gov.sg</a></td>
-    <td>330<br>331<br>323</td>
+    <td>Ms Susanna Wee<br>Mr Carson Huang</td>
+    <td><a href="mailto:wee_wan_ying_susanna@schools.gov.sg">wee_wan_ying_susanna@schools.gov.sg</a><br><a href="mailto:huang_kangsheng_carson@schools.gov.sg">huang_kangsheng_carson@schools.gov.sg</a></td>
+    <td>330<br>331</td>
   </tr>
 </tbody>
 </table>
