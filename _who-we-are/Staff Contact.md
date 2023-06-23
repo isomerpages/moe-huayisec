@@ -538,7 +538,7 @@ description: ""
     <td>201</td>
   </tr>
   <tr>
-    <td>Senior Special Educational  Needs Officer</td>
+    <td>Lead Special Educational Needs Officer</td>
     <td>Mr Andrew Tang Wing Hong</td>
     <td><a href="mailto:andrew_tang_wing_hong@schools.gov.sg">andrew_tang_wing_hong@schools.gov.sg</a></td>
     <td>400</td>
