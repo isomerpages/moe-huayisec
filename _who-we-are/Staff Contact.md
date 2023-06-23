@@ -272,8 +272,8 @@ description: ""
   <tr>
     <td>23-1C<br>(Citius) </td>
     <td>Ms He Tianchan<br>Mrs Lynette Loh</td>
-    <td><a href="mailto:he_tianchan@schools.gov.sg">he_tianchan@schools.gov.sg</a><br><a href="mailto:goh_li_yen_lynette@schools.gov.sg">goh_li_yen_lynette@schools.gov.sg</a></td>
-    <td>321<br>314</td>
+    <td><a href="mailto:he_tianchan@schools.gov.sg">he_tianchan@schools.gov.sg</a><br><a href="mailto:lee_choon_kiong@schools.gov.sg">lee_choon_kiong@schools.gov.sg</a></td>
+    <td>321<br>213</td>
   </tr>
   <tr>
     <td>23-1D<br>(Fortius) </td>
