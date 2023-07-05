@@ -271,9 +271,9 @@ description: ""
   </tr>
   <tr>
     <td>23-1C<br>(Citius) </td>
-    <td>Ms He Tianchan<br>Mrs Lynette Loh</td>
-    <td><a href="mailto:he_tianchan@schools.gov.sg">he_tianchan@schools.gov.sg</a><br><a href="mailto:goh_li_yen_lynette@schools.gov.sg">goh_li_yen_lynette@schools.gov.sg</a></td>
-    <td>321<br>314</td>
+    <td>Ms He Tianchan<br>Mr Lee Choon Kiong<br>Mdm Suzanne Lye</td>
+    <td><a href="mailto:he_tianchan@schools.gov.sg">he_tianchan@schools.gov.sg</a><br><a href="mailto:lee_choon_kiong@schools.gov.sg">lee_choon_kiong@schools.gov.sg</a><br><a href="mailto:lye_yoke_pheng@schools.gov.sg">lye_yoke_pheng@schools.gov.sg</a></td>
+    <td>321<br>213<br>214</td>
   </tr>
   <tr>
     <td>23-1D<br>(Fortius) </td>
@@ -296,7 +296,7 @@ description: ""
   <tr>
     <td>23-1G<br>(Latius)</td>
     <td>Ms M Durgashree<br>Ms Chong Hui Min</td>
-    <td><a href="mailto:m_durga_shree@schools.gov.sg">m_durga_shree@schools.gov.sg</a><br><a href="mailto:chong_hui_min_a@schools.gov.sg">chong_hui_min@schools.gov.sg</a></td>
+    <td><a href="mailto:m_durga_shree@schools.gov.sg">m_durga_shree@schools.gov.sg</a><br><a href="mailto:chong_hui_min_a@schools.gov.sg">chong_hui_min_a@schools.gov.sg</a></td>
     <td>330<br>323</td>
   </tr>
 </tbody>
@@ -323,9 +323,9 @@ description: ""
   </tr>
   <tr>
     <td>22-2B<br>(Latius)</td>
-    <td>Ms Caroline Tracy<br>Ms Tok Peilin<br>Mdm Suzanne Lye</td>
-    <td><a href="mailto:caroline_tracy@schools.gov.sg">caroline_tracy@schools.gov.sg</a><br><a href="mailto:tok_peilin@schools.gov.sg">tok_peilin@schools.gov.sg</a><br><a href="mailto:lye_yoke_pheng@schools.gov.sg">lye_yoke_pheng@schools.gov.sg</a></td>
-    <td>309<br>332<br>214</td>
+    <td>Ms Caroline Tracy<br>Ms Tok Peilin</td>
+    <td><a href="mailto:caroline_tracy@schools.gov.sg">caroline_tracy@schools.gov.sg</a><br><a href="mailto:tok_peilin@schools.gov.sg">tok_peilin@schools.gov.sg</a></td>
+    <td>309<br>332 </td>
   </tr>
   <tr>
     <td>22-2C<br>(Altius)</td>
@@ -354,8 +354,8 @@ description: ""
   <tr>
     <td>22-2G<br>(Latius)</td>
     <td>Ms Norhayati<br>Mr Oliver Ong<br>Mr Lee Choon Kiong</td>
-    <td><a href="mailto:bibek_ray_chaudhuri@schools.gov.sg">norhayati_mohamed_jasni@schools.gov.sg</a><br><a href="mailto:ong_tzuen_wee_oliver@schools.gov.sg">ong_tzuen_wee_oliver@schools.gov.sg</a><br><a href="mailto:lee_choon_kiong@schools.gov.sg">lee_choon_kiong@schools.gov.sg</a></td>
-    <td>330<br>323<br>213</td>
+    <td><a href="mailto:bibek_ray_chaudhuri@schools.gov.sg">norhayati_mohamed_jasni@schools.gov.sg</a><br><a href="mailto:ong_tzuen_wee_oliver@schools.gov.sg">ong_tzuen_wee_oliver@schools.gov.sg</a></td>
+    <td>330<br>323</td>
   </tr>
 </tbody>
 </table>
@@ -411,9 +411,9 @@ description: ""
   </tr>
   <tr>
     <td>21-3G<br>(Latius)</td>
-    <td>Ms Susanna Wee<br>Mr Carson Huang<br>Ms Siti Aisyah</td>
-    <td><a href="mailto:wee_wan_ying_susanna@schools.gov.sg">wee_wan_ying_susanna@schools.gov.sg</a><br><a href="mailto:huang_kangsheng_carson@schools.gov.sg">huang_kangsheng_carson@schools.gov.sg</a><br><a href="mailto:siti_aisyah_kamin@schools.gov.sg">siti_aisyah_kamin@schools.gov.sg</a></td>
-    <td>330<br>331<br>323</td>
+    <td>Ms Susanna Wee<br>Mr Carson Huang</td>
+    <td><a href="mailto:wee_wan_ying_susanna@schools.gov.sg">wee_wan_ying_susanna@schools.gov.sg</a><br><a href="mailto:huang_kangsheng_carson@schools.gov.sg">huang_kangsheng_carson@schools.gov.sg</a></td>
+    <td>330<br>331</td>
   </tr>
 </tbody>
 </table>
@@ -538,7 +538,7 @@ description: ""
     <td>201</td>
   </tr>
   <tr>
-    <td>Senior Special Educational  Needs Officer</td>
+    <td>Lead Special Educational Needs Officer</td>
     <td>Mr Andrew Tang Wing Hong</td>
     <td><a href="mailto:andrew_tang_wing_hong@schools.gov.sg">andrew_tang_wing_hong@schools.gov.sg</a></td>
     <td>400</td>

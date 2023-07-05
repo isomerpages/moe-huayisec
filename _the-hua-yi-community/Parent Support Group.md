@@ -5,9 +5,6 @@ description: ""
 ---
 ## Parent Support Group
 
-![](/images/2023%20psg%20agm.jpeg)
-
-
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSRkZsnLRAxCmtnGteojutOw1Tuqk0pKcpEbCceENA4P63XIHC4Oyj3nxyvME48wiIWeR9u9EAyFgW/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Hua Yi has an active and dedicated Parent Support Group (PSG) which supports school programmes and activities for students’ holistic development. The PSG’s vision is to work closely with the school to provide the best support in educating our children. Parents with rich life experiences are invited to join us so that we can provide strategic support through networking and common resources.
@@ -20,15 +17,15 @@ The PSG seeks to:
 
 Members of the PSG are very active in reaching out to parents of our students to offer support in engaging and motivating their children. Some of the activities they are involved in throughout the year include the Secondary 1 School Leader’s Talk, Parenting workshops and meetings, Values-in-Action (VIA) projects, as well as showing appreciation to teachers during Teachers’ Day.
 
-#### PSG Executive Committee 2021-2022
+#### PSG Executive Committee 2023-2025
 
 |  |  |
 |:---:|---|
-| Chairperson | Mdm Vivian Liang |
-| Vice-Chairperson | Mdm Yammie Yam |
-| Secretary | Mdm Priscilla Tan |
+| Chairperson | Mr Robin Soo |
+| Vice-Chairperson | Mr Jiang Tianxiao |
+| Secretary | Mdm Aw Pei Feng &amp; Mdm Rachel Lim  |
 | Treasurer | Mdm N Vasuntha Devi |
-| Executive Committee | Mr Robin Soo<br>Ms Serena Zhao<br>Mdm Jasline Lou<br>Mdm Zarina Halipah<br>Mr Harrison Chu<br>Mr Kelvin Toh<br>Mdm Aw Pei Feng |
+| Executive Committee | Mdm Vivian Liang<br>Mdm Yammie Yam<br>Mdm PriscillaTan<br>Mdm Jasline Lou<br>Mdm Shirley Tay |
 |  |  |
 
 For updates on the PSG’s activities, visit the PSG’s Facebook page at&nbsp;[http://www.facebook.com/HYSSPSG](http://www.facebook.com/HYSSPSG).
