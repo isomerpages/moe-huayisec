@@ -7,4 +7,3 @@ third_nav_title: Staff (By Departments)
 ## Executive &amp; Administrative Staff
 
 <img src="/images/eas%20informal.jpg" style="width:100%">
-
