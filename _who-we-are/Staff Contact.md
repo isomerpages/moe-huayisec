@@ -278,7 +278,7 @@ description: ""
   <tr>
     <td>23-1D<br>(Fortius) </td>
     <td>Mr Daniel Soh<br>Ms Tan Li Ming</td>
-    <td><a href="mailto:soh_fu_quan@schools.gov.sg">soh_fu_quan@schools.gov.sg</a><br><a href="mailto:tan_li_ming@schools.gov.sg">tan_li_ming@schools.gov.sg</a></td>
+    <td><a href="mailto:soh_fu_quan@schools.gov.sg">soh_fu_quan@schools.gov.sg</a><br><a href="mailto:tan_li_ming_a@schools.gov.sg">tan_li_ming_a@schools.gov.sg</a></td>
     <td>301<br>320</td>
   </tr>
   <tr>
