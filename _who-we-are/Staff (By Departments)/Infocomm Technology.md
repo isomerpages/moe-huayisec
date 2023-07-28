@@ -8,6 +8,4 @@ third_nav_title: Staff (By Departments)
 
 <img src="/images/ict%20informal.jpg" style="width:100%">
 
-From left to right  
 
-_Mdm Zaheera, Ms Ong Chi Yen, Mr Shaheful &amp; Mr Zulfadli_
