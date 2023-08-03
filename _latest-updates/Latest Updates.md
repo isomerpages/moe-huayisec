@@ -5,6 +5,8 @@ description: ""
 ---
 ## Latest Updates
 
+* **[Sec 1 Camp Briefing Slides](/files/sch%20website_2023%20sec%202%20sl%20talk.pdf)**
+
 * **[Sec 2 School Leader's Talk](/files/sch%20website_2023%20sec%202%20sl%20talk.pdf)**
 
 * **[Sec 3 School Leader's Talk](/files/sec%203%20school%20leader%20talk_%2010%20feb%2023_school%20website.pdf)**
