@@ -7,6 +7,9 @@ description: ""
 
 #### ACADEMIC
 
+#### **[Sec 1 Camp Briefing Slides](https://go.gov.sg/hysssec1campbriefing2023)**
+
+
 #### **[Sec 2 School Leader's Talk](/files/sch%20website_2023%20sec%202%20sl%20talk.pdf)**  
 
   

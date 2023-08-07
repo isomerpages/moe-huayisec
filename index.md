@@ -31,7 +31,7 @@ sections:
       title: LATEST HAPPENINGS
       button: Click here for information
       url: /latest-updates/latest/
-      image: /images/upcoming events 2023 march.JPG
+      image: /images/8to18aug.jpg
       alt: Image alt text
   - infopic:
       title: THE HUA YI FAMILY
