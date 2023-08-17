@@ -30,16 +30,11 @@ description: ""
 
 #### [Sexuality Education Programme](https://staging.d24qp50d0iaegk.amplifyapp.com/sex-ed/)
 
-#### ECG Matters
-
-* [ECG Parent's Talk Briefing Slides - Link on Pathways](/files/HYSS%20ECG%20Parents%20Talk%20_Links%20on%20Pathways.pdf)
-* [ECG Matters for Graduating Students](https://drive.google.com/drive/folders/1_-ni4eu9dpAkfk3whR42gSzfptDi25Tg)
 
 
 
 ##### [Hua Yi Learning Dispositions](/files/HYSS%20Learning%20Dispositions%202020%20(for%20school%20website%202020)%20(with%20translations).pdf)
 
-##### [Hua Yi Secondary School West Stories](/files/WESTORIES%202020-pages-35-36.pdf)
 
 #### NON-ACADEMIC
 
