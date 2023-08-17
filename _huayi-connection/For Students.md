@@ -29,10 +29,7 @@ description: ""
 #### **2023 Semester 1 Letter to Parents ([Sec 1](/files/hyss%202023%20semester%201%20letter_sec%201.pdf),&nbsp;[Sec 2](/files/hyss%202023%20semester%201%20letter_sec%202.pdf),&nbsp;[Sec 3](/files/hyss%202023%20semester%201%20letter_sec%203.pdf)&nbsp;&amp;&nbsp;[Sec 4/5](/files/hyss%202023%20semester%201%20letter_sec45.pdf))**
 
 ##### [Sexuality Education Programme](https://staging.d24qp50d0iaegk.amplifyapp.com/sex-ed/)
-#### ECG Matters
 
-* [ECG Parent's Talk Briefing Slides - Link on Pathways](/files/HYSS%20ECG%20Parents%20Talk%20_Links%20on%20Pathways.pdf)
-* [ECG Matters for Graduating Students](https://drive.google.com/drive/folders/1_-ni4eu9dpAkfk3whR42gSzfptDi25Tg)
 
 ##### [Hua Yi Learning Dispositions](/files/HYSS%20Learning%20Dispositions%202020%20(for%20school%20website%202020)%20(with%20translations).pdf)
 
