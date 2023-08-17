@@ -33,7 +33,6 @@ description: ""
 
 ##### [Hua Yi Learning Dispositions](/files/HYSS%20Learning%20Dispositions%202020%20(for%20school%20website%202020)%20(with%20translations).pdf)
 
-##### [Hua Yi Secondary School West Stories](/files/WESTORIES%202020-pages-35-36.pdf)
 
 #### NON-ACADEMIC
 
