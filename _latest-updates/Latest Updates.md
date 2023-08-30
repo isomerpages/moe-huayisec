@@ -5,6 +5,8 @@ description: ""
 ---
 ## Latest Updates
 
+* Dear Alumni, due to the timing to hand over the school premises for polling purposes on 31st August, alumni are advised to give their well-wishes to their teachers in other ways. The school will be closed at 1pm. Thank you for your understanding and cooperation. 
+
 * **[Sec 1 Camp Briefing Slides](https://go.gov.sg/hysssec1campbriefing2023)**
 
 * **[Sec 2 School Leader's Talk](/files/sch%20website_2023%20sec%202%20sl%20talk.pdf)**
