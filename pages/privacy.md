@@ -2,7 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-### **Government Agency Privacy Statement**
+### **Privacy Statement**
 
 1.    This is Hua Yi Secondary School website.
 
