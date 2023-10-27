@@ -107,39 +107,30 @@ The programme will nurture the Joy of Learning in students. Students will work w
 
 For more information on ALP: <br><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/alp/">https://www.huayisec.moe.edu.sg/the-huayi-experience/alp/</a>
 
-
 **LLP:** Hua Yi Secondary’s Learning for Life Programme (LLP) focuses on Community Youth Leadership (CYL). The LLP aims to help students develop life skills and values. Through this, students will discover their strengths, interests and talents.&nbsp;CYL focuses on providing students with opportunities to lead in serving the community and developing them as leaders of empathy.
 
 *   Tier 1: The students will learn about the Leadership Challenge Module - Model the Way, Enable Others to Act, Encourage the Heart, Inspire a Shared Vision and Challenge the Process.
-*   Tier 2: Through selection, appointment and training, students are nurtured to develop their leadership skills and they will be stretched to develop their potential in one of four leadership groups (Student Council, One Advocates, Class Leaders Committee, and CCA Leaders).
+*   Tier 2: Through selection, appointment and training, students are nurtured to develop their leadership skills and they will be stretched to develop their potential in one of eight leadership groups (Student Council, One Advocates, Class Leaders Committee, CCA Leaders, ICT Champions, Environmental Ambassadors, House Leaders and Peer Support Leaders).
 *   Tier 3: Very capable student leaders will be nominated to attend a Tier 3 leadership programme, which will prepare them to take on greater challenges beyond the school. Student leaders will also be provided with opportunities to apply their knowledge and skills.
+
+For more information on LLP:<br><a>https://www.huayisec.moe.edu.sg/the-huayi-experience/llp/</a>
+
 
 **7 \.  What after-school engagement programmes are available in your school?**<br>Hua Yi offers a wide range of after-school engagement programmes to help students develop critical soft-skills such as:
 
-*   Youth Venture (partnership with Lakeside Family Service Centre)
-*   An 8-month adventure-themed based programme to develop and build character and resilience.
-*   Habitudes (partnership with Halogen Foundation)
-*   A programme to help students discover their strengths through powerful image-based learning.
-*   Mindfulness (partnership with Brahm Centre)
-*   A programme to teach students techniques to improve their ability to focus and regulation of emotions.
-*   LEAD (partnership with CampVision)
-*   A 6-month self-leadership programme that partners students with working professionals to learn leadership and communication skills from global executive coaches.
+**1) Mentoring Program by the GRIT Academy (TGA)**
+<br>A 6 to 9 month mentoring programme by the youth branch of the Lakeside Family Services. Students undergo a journey of self-discovery through experential activities supported by mentors and friends.<br><br>
+**2) The Discovery Program**
+<br>A creative program to empower students with skills to enhance their self-awareness and manage positive relationships with others. Students learn strategies for self-management, coping skills and the activities help them to build up their readiness and resilience.<br><br>
+**3) Youth Venture (partnership with Lakeside Family Service Centre)**
+<br>An 8-month adventure-themed based programme to develop and build character and resilience.<br><br>
+**4) Student Support Programme**
+<br>Programmes focus on behavioral, social emotional skills or meaningful holiday engagement.
 
-Hangout @ Hua Yi is run by our school’s learning mentor, Mr Hilman, and is a vibrant space equipped with a variety of facilities and activities for students to engage in after school. Through his bubbly and endearing personality, Mr Hilman establishes a strong level of rapport with students and help inculcate in them stronger self-management skills. He is constantly innovating Hangout to make it ever more attractive for students to drop in.
+Hangout @ Hua Yi is run by our school’s learning mentor. The venue is a vibrant space equipped with a variety of facilities and activities for students to engage in after school. The learning mentor establishes a strong level of rapport with students and helps inculcate in them stronger self-management skills. There are also constant innovations for Hangout to make it ever more attractive for students to drop in.
 
-**8 \.  Does your school offer overseas adventure camps?**<br>Hua Yi has engaging learning programmes customised for every level, which may include overseas trips, usually for the upper secondary students.
-*   Sec 3 Level Programme to Batam
-* *  On 27 February to 1 March 2019, the Secondary Three cohort went on an overseas experience to Batam as part of their Level Programme.
-*  * The experience focused on 2 main areas:&nbsp;
--&gt; School and cultural involvement&nbsp;<br>
--&gt; Values in Action (VIA) projects at orphanages
-    
+**8 \.  House System**<br>In 2022, Hua Yi made a major change to the way the school was structured. The school adopted a house system, with the school and student body organised by their house (Altius, Citius, Diutius, Fortius, Latius) instead of level. Taking reference from the Olympic motto, each house espouses an Olympic ideal to inspire every student and staff to give their all in the pursuit of excellence. Headed by a House Master, guided by a House Discipline Master, managed by two House Managers, and led by two House Leaders from each class, every house is a unique ecosystem by itself! This organisational move helped to strengthen the camaraderie of students from different classes across levels. It also created opportunities for a stronger house spirit to shine through in each house, as many school activities and programmes leveraged the house system to promote a spirit of friendly competition.
 
-  
-
-Learning beyond the classroom serves as a way to challenge students to come out of their comfort zones, develop empathy and demonstrate team-building skills. Students also get to experience different cultures and learn to appreciate Singapore in the process.
-
-**9 \.  House System**<br>This year, Hua Yi made a major change to the way the school was structured. The school adopted a house system, with the school and student body organised by their house (Altius, Citius, Diutius, Fortius, Latius) instead of level. Taking reference from the Olympic motto, each house espouses an Olympic ideal to inspire every student and staff to give their all in the pursuit of excellence. Headed by a House Master, guided by a House Discipline Master, managed by two House Managers, and led by two House Leaders from each class, every house is a unique ecosystem by itself! This organisational move helped to strengthen the camaraderie of students from different classes across levels. It also created opportunities for a stronger house spirit to shine through in each house, as many school activities and programmes leveraged the house system to promote a spirit of friendly competition.
 
 #### HIGHER MOTHER TONGUE/ CLB/ THIRD LANGUAGE
 
