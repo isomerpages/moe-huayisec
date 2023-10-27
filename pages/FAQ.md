@@ -25,10 +25,10 @@ The aggregate score may change from year to year. For 2023 Sec 1s, students ente
 Our students are taking pathways that best suit their needs and passion at the JCs, polytechnics, and ITE. Majority of our Express students are eligible for JC and almost all are eligible for polytechnic. Normal Academic students are eligible for ITE/EAE/PFP. More information on our students Academic Achievement can be found here: <br><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/aa/">https://www.huayisec.moe.edu.sg/the-huayi-experience/aa/</a>
 
 **5 \.  How is the culture of the school?**<br>
-Since 1985, Hua Yi has transitioned into a co-educational school with English as its primary medium of instruction. Calligraphy lessons are conducted as part of the Lower Secondary Chinese curriculum to instil in students an appreciation of the Chinese culture as well as a link to Hua Yi’s heritage.
+Since 1985, Hua Yi has transitioned into a co-educational school with English as its primary medium of instruction. Calligraphy lessons are conducted as part of the Lower Secondary Chinese curriculum to instil in students an appreciation of Chinese culture as well as a link to Hua Yi’s heritage.
 
 **6 \.  How is the discipline of the school?**<br>
-The school takes a very strong stand on appropriate behaviour of Hua Yians.
+The school takes a very strong stand on appropriate behaviour of Hua Yians. More information on the school rules and regulations can be found here: <br><a href="https://www.huayisec.moe.edu.sg/who-we-are/our-code-of-conduct/school-rules-and-regulations/">https://www.huayisec.moe.edu.sg/who-we-are/our-code-of-conduct/school-rules-and-regulations/</a>
 
 **7 \.  How can my child enter Hua Yi through DSA?**<br>
 Hua Yi welcomes prospective students with passion and talents from various fields, representing the different aspects of our holistic curriculum, to join the Hua Yi family through the Direct School Admission-Secondary (DSA-Sec) Exercise.
