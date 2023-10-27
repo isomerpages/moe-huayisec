@@ -63,7 +63,10 @@ Jurong East, Lakeside &amp; Chinese Garden MRT
 2) Student initiated learning called Project Sandbox where students will get the opportunity to pursue interests of their choice such as Sports and Fitness, Music, Art and Craft, Languages, Botany etc. The activities can be pursued in school, at home, or other locations, with teachers acting as mentors and co learners! 
 
 **3 \.  How will the Personal Device be implemented in Hua Yi?**<br>
-Each student will have a personal iPad, with applications that have been curated to ensure that the blended learning experience is a fulfilling one for them. All Secondary 1 students will be getting their iPads at the beginning of 2022.
+Every Hua Yian will be using the Apple iPad as their personal learning device. Every iPad will come bundled with the Apple pencil and keyboard to maximise the affordances of the iPad as a learning tool. 
+
+Not only is the iPad a portable device that offers students convenient learning on-the-move, it also allows for a seamless learning experience alongside existing learning technologies such as the Student Learning Space (SLS) and Team Model Smarter Classroom System.&nbsp; For more information on PDLP: <br><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/pdlp/">https://www.huayisec.moe.edu.sg/the-huayi-experience/pdlp/</a>
+
 
 **4 \.  How will Full Subject-Based Banding (FSBB) look like in Hua Yi?**<br>In 2021, we have integrated the Normal Academic and Normal Technical stream. The integration of both streams is Hua Yi’s first step towards Full Subject-Based Banding (FSBB) in 2022 as we celebrate the unique strengths and diversity of our students.
 
