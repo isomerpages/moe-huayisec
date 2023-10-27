@@ -71,8 +71,10 @@ Not only is the iPad a portable device that offers students convenient learning 
 **4 \.  How will Full Subject-Based Banding (FSBB) look like in Hua Yi?**<br>In 2021, we have integrated the Normal Academic and Normal Technical stream. The integration of both streams is Hua Yi’s first step towards Full Subject-Based Banding (FSBB) in 2022 as we celebrate the unique strengths and diversity of our students.
 
 (a) How does FSBB work?
-*   When FSBB is fully implemented, students from the Express, Normal (Academic), and Normal (Technical) streams will be merged into a single course of study.
-*   All students will attend the same Common Curriculum lessons, but they will go to different classes for the SBB lessons. During SBB lessons, students are offered in ability-banded classes - Express, N(A), and N(T). They will get to interact with other students from another class.
+*   FSBB is fully implemented in 2024, with the removal of the different streams. All students will be grouped into mixed form classes, with the provision of a common curriculum.  
+Besides the common curriculum, students have the flexibility to take SBB subjects at G1, G2 or G3 level.
+    
+
 
 The Common Curriculum comprises the following subjects:
 *   Art;
@@ -83,6 +85,7 @@ The Common Curriculum comprises the following subjects:
 *   Physical Education (PE)
 
 and the SBB subjects offered comprises the following subjects:  
+
 *   English Language;
 *   Mother Tongue Languages;
 *   Mathematics;
