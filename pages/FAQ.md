@@ -33,8 +33,6 @@ The school takes a very strong stand on appropriate behaviour of Hua Yians. More
 **7 \.  How can my child enter Hua Yi through DSA?**<br>
 Hua Yi welcomes prospective students with passion and talents from various fields, representing the different aspects of our holistic curriculum, to join the Hua Yi family through the Direct School Admission-Secondary (DSA-Sec) Exercise. For more information: <br><a href="https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/Direct-School-Admission/ta/">https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/Direct-School-Admission/ta/</a>
 
-(Refer to section on CCA below for DSA Talent Areas)
-
 **8 \.  Are the staff and students friendly?**<br>
 All staff and students of Hua Yi believe in the value of “Togetherness”. We learn and grow together in harmony regardless of the differences in our multicultural society.
 
@@ -60,7 +58,9 @@ Jurong East, Lakeside &amp; Chinese Garden MRT
 | **Normal (Technical)**<br><br>**Examinable Subjects:**<br><br>English Language<br>Basic Mother Tongue<br>Mathematics<br>Science<br>Food and Consumer Education<br>Design and Technology<br>Computer Applications<br>Art <br><br>**Non-Examinable Subjects:**<br><br>Social Studies<br>Character and Citizenship Education<br>Physical Education<br>Music | **Normal (Technical)**<br><br>**Compulsory Subjects:**<br><br>English Language<br>Basic Mother Tongue<br>Mathematics<br>Science<br>Computer Applications<br><br>**Non-Examinable Subjects:**<br><br>Social Studies<br>Character and Citizenship Education<br>Physical Education  |
 |  |  |
 
-**2 \.  What is Hua Yi’s strategy for Blended Learning?**<br>Our school has started an Independent Learning day for our blended learning. Independent Learning Day happens every other Friday. Through this new blended learning curriculum, that combines online and face-to-face learning, students create new knowledge through interdisciplinary projects.
+**2 \.  What is Hua Yi’s strategy for Blended Learning?**<br>Blended Learning in Hua Yi takes the form of ILD (Independent Learning Day) every even Friday. There are 2 segments to each session:
+1) Curriculum coverage within and outside school, which focuses on JOY - Joy in learning, Ownership of Learning and Applying learning.
+2) Student initiated learning called Project Sandbox where students will get the opportunity to pursue interests of their choice such as Sports and Fitness, Music, Art and Craft, Languages, Botany etc. The activities can be pursued in school, at home, or other locations, with teachers acting as mentors and co learners! 
 
 **3 \.  How will the Personal Device be implemented in Hua Yi?**<br>
 Each student will have a personal iPad, with applications that have been curated to ensure that the blended learning experience is a fulfilling one for them. All Secondary 1 students will be getting their iPads at the beginning of 2022.
