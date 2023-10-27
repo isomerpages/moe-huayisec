@@ -105,6 +105,9 @@ The programme will nurture the Joy of Learning in students. Students will work w
 *   Students will get the opportunity to apply what they learn in English Language, Design &amp; Technology, ICT, Science and Character and Citizenship Education (CCE).
 *   Students will work on topics related to Health Science and Healthcare Technologies.&nbsp;
 
+For more information on ALP: <br><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/alp/">https://www.huayisec.moe.edu.sg/the-huayi-experience/alp/</a>
+
+
 **LLP:** Hua Yi Secondary’s Learning for Life Programme (LLP) focuses on Community Youth Leadership (CYL). The LLP aims to help students develop life skills and values. Through this, students will discover their strengths, interests and talents.&nbsp;CYL focuses on providing students with opportunities to lead in serving the community and developing them as leaders of empathy.
 
 *   Tier 1: The students will learn about the Leadership Challenge Module - Model the Way, Enable Others to Act, Encourage the Heart, Inspire a Shared Vision and Challenge the Process.
