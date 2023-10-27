@@ -35,6 +35,12 @@ description: ""
     <td><a href="mailto:tan_kay_bin@schools.gov.sg">tan_kay_bin@schools.gov.sg</a></td>
     <td>110</td>
   </tr>
+	<tr>
+    <td>Vice-Principal (Teaching &amp; Learning)</td>
+    <td>Dr Lim Siew Yee</td>
+    <td><a href="mailto:lim_siew_yee@schools.gov.sg">lim_siew_yee@schools.gov.sg</a></td>
+    <td>109</td>
+  </tr>
   <tr>
     <td>HOD CCE</td>
     <td>Ms Seng Pei Sze</td>
