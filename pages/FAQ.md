@@ -118,13 +118,13 @@ For more information on LLP:<br><a>https://www.huayisec.moe.edu.sg/the-huayi-exp
 
 **7 \.  What after-school engagement programmes are available in your school?**<br>Hua Yi offers a wide range of after-school engagement programmes to help students develop critical soft-skills such as:
 
-**1) Mentoring Program by the GRIT Academy (TGA)**
+**a) Mentoring Program by the GRIT Academy (TGA)**
 <br>A 6 to 9 month mentoring programme by the youth branch of the Lakeside Family Services. Students undergo a journey of self-discovery through experential activities supported by mentors and friends.<br><br>
-**2) The Discovery Program**
+**b) The Discovery Program**
 <br>A creative program to empower students with skills to enhance their self-awareness and manage positive relationships with others. Students learn strategies for self-management, coping skills and the activities help them to build up their readiness and resilience.<br><br>
-**3) Youth Venture (partnership with Lakeside Family Service Centre)**
+**c) Youth Venture (partnership with Lakeside Family Service Centre)**
 <br>An 8-month adventure-themed based programme to develop and build character and resilience.<br><br>
-**4) Student Support Programme**
+**d) Student Support Programme**
 <br>Programmes focus on behavioral, social emotional skills or meaningful holiday engagement.
 
 Hangout @ Hua Yi is run by our school’s learning mentor. The venue is a vibrant space equipped with a variety of facilities and activities for students to engage in after school. The learning mentor establishes a strong level of rapport with students and helps inculcate in them stronger self-management skills. There are also constant innovations for Hangout to make it ever more attractive for students to drop in.
@@ -138,17 +138,19 @@ Hangout @ Hua Yi is run by our school’s learning mentor. The venue is a vibran
 Yes. If your child is given an option letter (form) by MOE during the collection of the PSLE result slips stating that they are eligible to read&nbsp;HCL/HML. If he/she is not given this option form, it means that the child is not eligible.
 
 **2 \.  If the child is not given the option form and is still interested to read HCL, they can apply in accordance to Hua Yi MTL policy for HCL:**<br>
-In Hua Yi, there will be 4 chances given for application to do&nbsp;HCL as long as the following criteria are met:
+In Hua Yi, there will be 2 chances given for application to do&nbsp;HCL as long as the following criteria are met:
 
 a.  Excellent results for CL for the academic year (75% and above)<br>
-b.  Coupled with strong recommendation by subject teachers.
+b.  Results of the core subjects will be taken into consideration
+<br>
+c. Coupled with strong recommendation by subject teachers.
     
 
 **3 \.  Does the school offer HML?**<br>
 Hua Yi does not offer HML.&nbsp;For students taking HML, they attend the lessons at external venues.&nbsp;
 
 **4 \.  Does the school offer TL or HTL?**<br>
-Hua Yi does not offer TL.&nbsp;For Students doing TL or HTL, they do the subject at external venues.&nbsp;
+Hua Yi does not offer TL.&nbsp;For Students taking TL or HTL, they attend the lessons at external venues.&nbsp;
 
 **5 \.  Does the school offer CLB?**<br>
 Hua Yi does not offer CLB. Students taking CLB have their lessons at external venues.
