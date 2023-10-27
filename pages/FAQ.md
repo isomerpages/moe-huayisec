@@ -31,7 +31,7 @@ Since 1985, Hua Yi has transitioned into a co-educational school with English as
 The school takes a very strong stand on appropriate behaviour of Hua Yians. More information on the school rules and regulations can be found here: <br><a href="https://www.huayisec.moe.edu.sg/who-we-are/our-code-of-conduct/school-rules-and-regulations/">https://www.huayisec.moe.edu.sg/who-we-are/our-code-of-conduct/school-rules-and-regulations/</a>
 
 **7 \.  How can my child enter Hua Yi through DSA?**<br>
-Hua Yi welcomes prospective students with passion and talents from various fields, representing the different aspects of our holistic curriculum, to join the Hua Yi family through the Direct School Admission-Secondary (DSA-Sec) Exercise.
+Hua Yi welcomes prospective students with passion and talents from various fields, representing the different aspects of our holistic curriculum, to join the Hua Yi family through the Direct School Admission-Secondary (DSA-Sec) Exercise. For more information: <br><a href="https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/Direct-School-Admission/ta/">https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/Direct-School-Admission/ta/</a>
 
 (Refer to section on CCA below for DSA Talent Areas)
 
