@@ -168,28 +168,10 @@ description: ""
     <td>306</td>
   </tr>
   <tr>
-    <td>SH Student Well-Being</td>
-    <td>Ms Chan Siming</td>
-    <td><a href="mailto:siming_chan@schools.gov.sg">siming__chan@schools.gov.sg</a></td>
-    <td>303</td>
-  </tr>
-  <tr>
     <td>SH Student Management </td>
     <td>Ms Lee Taojing</td>
     <td><a href="mailto:lee_taojing@schools.gov.sg">lee_taojing@schools.gov.sg</a></td>
     <td>320</td>
-  </tr>
-  <tr>
-    <td>SH Aesthetics (Covering)</td>
-    <td>Mdm Anggreini</td>
-    <td><a href="mailto:anggreini_hamid@schools.gov.sg">anggreini_hamid@schools.gov.sg</a></td>
-    <td>317</td>
-  </tr>
-  <tr>
-    <td>SH Malay Language (Covering)</td>
-    <td>Mdm Adillah</td>
-    <td><a href="mailto:adillah_mustafa@schools.gov.sg">adillah_mustafa@schools.gov.sg</a></td>
-    <td>322</td>
   </tr>
 </tbody>
 </table>
@@ -451,15 +433,15 @@ description: ""
   </tr>
   <tr>
     <td>20-4C<br>(Fortius)</td>
-    <td>Mr Lim Kok Sing<br>Ms Chan Siming<br>Mr Shaheful</td>
-    <td><a href="mailto:lim_kok_sing@schools.gov.sg">lim_kok_sing@schools.gov.sg</a><br><a href="mailto:siming_chan@schools.gov.sg">siming_chan@schools.gov.sg</a><br><a href="mailto:shaheful_mansor@schools.gov.sg">shaheful_mansor@schools.gov.sg</a></td>
-    <td>307<br>304<br>215</td>
+    <td>Mr Lim Kok Sing<br>Mr Shaheful</td>
+    <td><a href="mailto:lim_kok_sing@schools.gov.sg">lim_kok_sing@schools.gov.sg</a><br><a href="mailto:shaheful_mansor@schools.gov.sg">shaheful_mansor@schools.gov.sg</a></td>
+    <td>307<br>215</td>
   </tr>
   <tr>
     <td>20-4D<br>(Latius)</td>
-    <td>Ms Tan Ka Shin<br>Ms Zahrah<br>Mr Ramesh</td>
-    <td><a href="mailto:tan_ka_shin@schools.gov.sg">tan_ka_shin@schools.gov.sg</a><br><a href="mailto:zahrah_hatraby@schools.gov.sg">zahrah_hatraby@schools.gov.sg</a><br><a href="mailto:sivagnanam_rameswaran@schools.gov.sg">sivagnanam_rameswaran@schools.gov.sg</a></td>
-    <td>303<br>316<br>210</td>
+    <td>Ms Tan Ka Shin<br>Mr Ramesh</td>
+    <td><a href="mailto:tan_ka_shin@schools.gov.sg">tan_ka_shin@schools.gov.sg</a><br><a href="mailto:sivagnanam_rameswaran@schools.gov.sg">sivagnanam_rameswaran@schools.gov.sg</a></td>
+    <td>303<br>210</td>
   </tr>
   <tr>
     <td>20-4E<br>(Diutius)</td>
@@ -517,6 +499,12 @@ description: ""
     <td>Operations Manager</td>
     <td>Mr Goh Ngian Wa</td>
     <td><a href="mailto:goh_ngian_wa@schools.gov.sg">goh_ngian_wa@schools.gov.sg</a></td>
+    <td>105</td>
+  </tr>
+	<tr>
+    <td>Operations Manager</td>
+    <td>Mr Jason Quek</td>
+    <td><a href="mailto:quek_cheok_miang@schools.gov.sg">quek_cheok_miang@schools.gov.sg</a></td>
     <td>105</td>
   </tr>
   <tr>
