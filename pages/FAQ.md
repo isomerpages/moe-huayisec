@@ -3,27 +3,26 @@ title: FAQ
 permalink: /faq/
 description: ""
 ---
-
 ## Frequently Asked Questions
 
 #### General Information
 
 **1 \.  What time does school start?**<br>
-School starts at 7.30 a.m.  
+School starts at 7.30a.m.  
 
 **2 \.  What time does school end?**<br>
-School typically ends by 2:30 p.m. (Monday, Tuesday, Wednesday, and Thursday)<br>
-School ends at 12:30 p.m. or 1:30 p.m. (HMT students) on Friday.<br>
-CCAs are held weekly on Wednesday and Friday from 3:30 p.m. to 5:30 p.m.
+School typically ends by 3:00p.m. (Monday, Tuesday, Wednesday, and Thursday)<br>
+School ends at 12:20p.m. or 1:40p.m. (HMT students) on Friday.<br>
+CCAs are held twice every week from 3:15p.m. to 6:15p.m.
 
 **3 \.  What are the aggregate scores required to enter Hua Yi?**<br>
-The aggregate score may change from year to year. For this year’s Sec 1s, students enter the school with a cut-off aggregate score of: 
+The aggregate score may change from year to year. For 2023 Sec 1s, students entered the school with a cut-off aggregate score of:&nbsp;
 *   10 - 16 (Exp)  
 *   21 - 23 (NA)
-*   25 - 29 (NT)
+*   25 - 26 (NT)
 
 **4 \.  How are your current students’ progression to post-secondary institutions?**<br>
-Our students are taking pathways that best suit their needs and passion at the JCs, polytechnics, and ITE. Majority of our Express students are eligible for JC and almost all are eligible for polytechnic. Normal Academic students are eligible for ITE/EAE/PFP.
+Our students are taking pathways that best suit their needs and passion at the JCs, polytechnics, and ITE. Majority of our Express students are eligible for JC and almost all are eligible for polytechnic. Normal Academic students are eligible for ITE/EAE/PFP. More information on our students Academic Achievement can be found here: <br><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/aa/">https://www.huayisec.moe.edu.sg/the-huayi-experience/aa/</a>
 
 **5 \.  How is the culture of the school?**<br>
 Since 1985, Hua Yi has transitioned into a co-educational school with English as its primary medium of instruction. Calligraphy lessons are conducted as part of the Lower Secondary Chinese curriculum to instil in students an appreciation of the Chinese culture as well as a link to Hua Yi’s heritage.
@@ -45,11 +44,11 @@ Our Address<br>
 60, Jurong West, Street 42, Singapore 649371
 
 Bus Services<br>
-Front gate: 49 & 334<br>
-Rear gate: 98, 98A, 99, 157, 187, 198, 335 & 502 
+Front gate: 49 &amp; 334<br>
+Rear gate: 98, 98A, 99, 157, 187, 198, 335 &amp; 502&nbsp;
 
 MRT Stations<br>
-Jurong East, Lakeside & Chinese Garden MRT
+Jurong East, Lakeside &amp; Chinese Garden MRT
 
 #### School and Departmental Programmes
 
@@ -57,7 +56,7 @@ Jurong East, Lakeside & Chinese Garden MRT
 
 | Lower Secondary | Upper Secondary |
 |:---:|---|
-| **Express & Normal (Academic)**<br><br>**Examinable Subjects:**<br><br>English Language<br>Mother Tongue<br>Mathematics<br>Science<br>History<br>Geography<br>Literature<br>Art<br>Food and Consumer Education<br>Design and Technology <br><br>**Non-Examinable Subjects:**<br><br>Character and Citizenship Education<br>Physical Education<br>Music | **Express & Normal (Academic)**<br><br>**Compulsory Subjects:**<br><br>English Language, Mother Tongue and Mathematics\*, Humanities\* and a Science\* subject. <br><br>\*Additional Mathematics is offered to students with interest and aptitude<br><br>\*Science includes Pure Chemistry /Biology /Physics and Combined Science<br><br>\*Humanities (Social Studies + Geography/ History/ Literature)<br><br>\*Full Humanities (Full Geography/ History /Literature)<br><br>D&T, Art, Higher Art, FCE, and POA are offered based on students’ needs and school resources.<br><br>**Non-Examinable Subjects:** <br><br>Character and Citizenship Education<br>Physical Education |
+| **Express &amp; Normal (Academic)**<br><br>**Examinable Subjects:**<br><br>English Language<br>Mother Tongue<br>Mathematics<br>Science<br>History<br>Geography<br>Literature<br>Art<br>Food and Consumer Education<br>Design and Technology <br><br>**Non-Examinable Subjects:**<br><br>Character and Citizenship Education<br>Physical Education<br>Music | **Express &amp; Normal (Academic)**<br><br>**Compulsory Subjects:**<br><br>English Language, Mother Tongue and Mathematics\*, Humanities\* and a Science\* subject.&nbsp;<br><br>\*Additional Mathematics is offered to students with interest and aptitude<br><br>\*Science includes Pure Chemistry /Biology /Physics and Combined Science<br><br>\*Humanities (Social Studies + Geography/ History/ Literature)<br><br>\*Full Humanities (Full Geography/ History /Literature)<br><br>D&amp;T, Art, Higher Art, FCE, and POA are offered based on students’ needs and school resources.<br><br>**Non-Examinable Subjects:**&nbsp;<br><br>Character and Citizenship Education<br>Physical Education |
 | **Normal (Technical)**<br><br>**Examinable Subjects:**<br><br>English Language<br>Basic Mother Tongue<br>Mathematics<br>Science<br>Food and Consumer Education<br>Design and Technology<br>Computer Applications<br>Art <br><br>**Non-Examinable Subjects:**<br><br>Social Studies<br>Character and Citizenship Education<br>Physical Education<br>Music | **Normal (Technical)**<br><br>**Compulsory Subjects:**<br><br>English Language<br>Basic Mother Tongue<br>Mathematics<br>Science<br>Computer Applications<br><br>**Non-Examinable Subjects:**<br><br>Social Studies<br>Character and Citizenship Education<br>Physical Education  |
 |  |  |
 
@@ -75,7 +74,7 @@ Each student will have a personal iPad, with applications that have been curated
 The Common Curriculum comprises the following subjects:
 *   Art;
 *   Character and Citizenship Education (CCE);
-*   Design & Technology;
+*   Design &amp; Technology;
 *   Food and Consumer Education (FCE);
 *   Music;
 *   Physical Education (PE)
@@ -95,12 +94,12 @@ and the SBB subjects offered comprises the following subjects:
 
 **ALP:** Hua Yi’s Applied Learning Programme (ALP) aims to prepare our students for the challenges in this digital age.
 
-The programme will nurture the Joy of Learning in students. Students will work with their peers to generate solutions to real life problems and in the process, their creativity, communication skills and confidence will be developed. 
+The programme will nurture the Joy of Learning in students. Students will work with their peers to generate solutions to real life problems and in the process, their creativity, communication skills and confidence will be developed.&nbsp;
 
-*   Students will get the opportunity to apply what they learn in English Language, Design & Technology, ICT, Science and Character and Citizenship Education (CCE).
-*   Students will work on topics related to Health Science and Healthcare Technologies. 
+*   Students will get the opportunity to apply what they learn in English Language, Design &amp; Technology, ICT, Science and Character and Citizenship Education (CCE).
+*   Students will work on topics related to Health Science and Healthcare Technologies.&nbsp;
 
-**LLP:** Hua Yi Secondary’s Learning for Life Programme (LLP) focuses on Community Youth Leadership (CYL). The LLP aims to help students develop life skills and values. Through this, students will discover their strengths, interests and talents. CYL focuses on providing students with opportunities to lead in serving the community and developing them as leaders of empathy.
+**LLP:** Hua Yi Secondary’s Learning for Life Programme (LLP) focuses on Community Youth Leadership (CYL). The LLP aims to help students develop life skills and values. Through this, students will discover their strengths, interests and talents.&nbsp;CYL focuses on providing students with opportunities to lead in serving the community and developing them as leaders of empathy.
 
 *   Tier 1: The students will learn about the Leadership Challenge Module - Model the Way, Enable Others to Act, Encourage the Heart, Inspire a Shared Vision and Challenge the Process.
 *   Tier 2: Through selection, appointment and training, students are nurtured to develop their leadership skills and they will be stretched to develop their potential in one of four leadership groups (Student Council, One Advocates, Class Leaders Committee, and CCA Leaders).
@@ -122,9 +121,9 @@ Hangout @ Hua Yi is run by our school’s learning mentor, Mr Hilman, and is a v
 **8 \.  Does your school offer overseas adventure camps?**<br>Hua Yi has engaging learning programmes customised for every level, which may include overseas trips, usually for the upper secondary students.
 *   Sec 3 Level Programme to Batam
 * *  On 27 February to 1 March 2019, the Secondary Three cohort went on an overseas experience to Batam as part of their Level Programme.
-*  * The experience focused on 2 main areas: 
--> School and cultural involvement <br>
--> Values in Action (VIA) projects at orphanages
+*  * The experience focused on 2 main areas:&nbsp;
+-&gt; School and cultural involvement&nbsp;<br>
+-&gt; Values in Action (VIA) projects at orphanages
     
 
   
@@ -135,27 +134,27 @@ Learning beyond the classroom serves as a way to challenge students to come out 
 
 #### HIGHER MOTHER TONGUE/ CLB/ THIRD LANGUAGE
 
-**1 \.  Can my child do HCL/ HML?**<br>
-Yes. If your child is given an option letter (form) by MOE during the collection of the PSLE result slips stating that they are eligible to read HCL/HML. If he/she is not given this option form, it means that the child is not eligible.
+**1 \.  Can my child do&nbsp;HCL/ HML?**<br>
+Yes. If your child is given an option letter (form) by MOE during the collection of the PSLE result slips stating that they are eligible to read&nbsp;HCL/HML. If he/she is not given this option form, it means that the child is not eligible.
 
 **2 \.  If the child is not given the option form and is still interested to read HCL, they can apply in accordance to Hua Yi MTL policy for HCL:**<br>
-In Hua Yi, there will be 4 chances given for application to do HCL as long as the following criteria are met:
+In Hua Yi, there will be 4 chances given for application to do&nbsp;HCL as long as the following criteria are met:
 
 a.  Excellent results for CL for the academic year (75% and above)<br>
 b.  Coupled with strong recommendation by subject teachers.
     
 
 **3 \.  Does the school offer HML?**<br>
-Hua Yi does not offer HML. For students taking HML, they attend the lessons at external venues. 
+Hua Yi does not offer HML.&nbsp;For students taking HML, they attend the lessons at external venues.&nbsp;
 
 **4 \.  Does the school offer TL or HTL?**<br>
-Hua Yi does not offer TL. For Students doing TL or HTL, they do the subject at external venues. 
+Hua Yi does not offer TL.&nbsp;For Students doing TL or HTL, they do the subject at external venues.&nbsp;
 
 **5 \.  Does the school offer CLB?**<br>
 Hua Yi does not offer CLB. Students taking CLB have their lessons at external venues.
 
 **6 \.  Can my child read a third language?**<br>
-As for 3rd language, MOE will inform eligible students concerned directly. Students will be given an option form to indicate their interest in taking up a third language.
+As for 3rd&nbsp;language, MOE will inform eligible students concerned directly. Students will be given an option form to indicate their interest in taking up a third language.
 
 #### ASSESSMENTS
 
@@ -171,9 +170,9 @@ There are structured programmes and remedial lessons to support these students.
 
 |  |  |
 |:---:|---|
-| **Physical sports**<br>1.  Badminton (Boys/Girls) (DSA)<br><br>2.  Basketball (Boys) (DSA)<br><br>3.  Volleyball (Girls) (DSA)<br><br>4.  Track & Field (Boys/Girls) **(DSA)**<br><br>5.  Football (Boys)<br><br>6.  Netball (Girls)<br><br>7.  Floorball (Boys/Girls) | **Uniformed groups**<br>1.  NCC (Boys)<br><br>2.  NPCC (Boys/Girls)<br><br>3.  Red Cross Youth |
-| **Visual & Performing Arts**<br>1.  Show Choir (DSA)<br><br>2.  Concert Band (DSA)<br><br>3.  Cultural Dance (DSA)<br><br>4.  Modern Dance (DSA)<br><br>5.  Guzheng Ensemble (DSA)<br><br>6.  Chinese Language Drama and Debate Society (CLDDS) (DSA)<br><br>7.  English Literary Drama and Debate Society (ELDDS) (DSA) | **Clubs & Societies**<br>1.  Art & Craft Club (DSA)<br><br>2.  Info-comm Club<br><br>3.  Nutrition and Food Science Club<br><br>4.  Singapore Youth Flying Club |
+| **Physical sports**<br>1.  Badminton (Boys/Girls) (DSA)<br><br>2.  Basketball (Boys) (DSA)<br><br>3.  Volleyball (Girls) (DSA)<br><br>4.  Track &amp; Field (Boys/Girls) **(DSA)**<br><br>5.  Football (Boys)<br><br>6.  Netball (Girls)<br><br>7.  Floorball (Boys/Girls) | **Uniformed groups**<br>1.  NCC (Boys)<br><br>2.  NPCC (Boys/Girls)<br><br>3.  Red Cross Youth |
+| **Visual &amp; Performing Arts**<br>1.  Show Choir (DSA)<br><br>2.  Concert Band (DSA)<br><br>3.  Cultural Dance (DSA)<br><br>4.  Modern Dance (DSA)<br><br>5.  Guzheng Ensemble (DSA)<br><br>6.  Chinese Language Drama and Debate Society (CLDDS) (DSA)<br><br>7.  English Literary Drama and Debate Society (ELDDS) (DSA) | **Clubs &amp; Societies**<br>1.  Art &amp; Craft Club (DSA)<br><br>2.  Info-comm Club<br><br>3.  Nutrition and Food Science Club<br><br>4.  Singapore Youth Flying Club |
 |  |  |
 
 **2 \.  My child is interested in XYZ CCA, can the school offer that? Can my child take up external CCA activities instead of the CCAs offered in school?**<br>
-Please email [hyss@moe.edu.sg](mailto:hyss@moe.edu.sg) and your queries will be directed to the HOD (PE & CCA).
+Please email [hyss@moe.edu.sg](mailto:hyss@moe.edu.sg) and your queries will be directed to the HOD (PE &amp; CCA).
