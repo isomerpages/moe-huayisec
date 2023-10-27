@@ -39,7 +39,7 @@ description: ""
     <td>Vice-Principal (Teaching &amp; Learning)</td>
     <td>Dr Lim Siew Yee</td>
     <td><a href="mailto:lim_siew_yee@schools.gov.sg">lim_siew_yee@schools.gov.sg</a></td>
-    <td>109</td>
+    <td>107</td>
   </tr>
   <tr>
     <td>HOD CCE</td>
