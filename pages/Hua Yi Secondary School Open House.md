@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Hua Yi Secondary School Open House
 
-##### Physical Open House will be held on 18 November 2023 from 9am to 1pm. Visitors can enter the school via the back gate and front entrance.
+##### Physical Open House will be held on 18 November 2023 from 9am to 130pm. Visitors can enter the school via the back gate and front entrance.
 
 <p><a href="https://view.genial.ly/5efe77148b60f50d80f848aa">
 <img style="width:100%" src="/images/photo1669992348.jpeg">
@@ -16,7 +16,6 @@ variant: markdown
 <img style="width:100%" src="/images/photo1669992348.jpeg">
 	</a> <b>Click image above for virtual tour</b></p>
 	
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 75%; padding-top: 0; height: 0;"><iframe scrolling="yes" allowfullscreen="true" type="text/html" src="https://view.genial.ly/5efe77148b60f50d80f848aa" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" height="600" width="800" frameborder="0" title="HYSS Open House Map"></iframe> </div> </div>
 
 #### Principal's Message
 
