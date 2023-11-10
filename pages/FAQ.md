@@ -139,18 +139,23 @@ Jurong East, Lakeside &amp; Chinese Garden MRT
 	</tr>
 	</tbody><tbody><tr>
 	<td>Art</td>
-	<td colspan="3"> Offered at a common level</td>
+	<td colspan="3"> Offered at a common level</td></tr><tr>
+	</tr><tr>
 	<td>Character and Citizenship Education</td>
-	<td colspan="3"> Offered at a common level</td>
+		<td colspan="3"> Offered at a common level</td></tr>
+	<tr>
 	<td>Design &amp; Technology</td>
-	<td colspan="3"> Offered at a common level</td>
+		<td colspan="3"> Offered at a common level</td></tr>
+	<tr>
 	<td>Food and Consumer Education</td>
-	<td colspan="3"> Offered at a common level</td>
+		<td colspan="3"> Offered at a common level</td></tr>
+	<tr>
 	<td>Music</td>
-	<td colspan="3"> Offered at a common level</td>
+		<td colspan="3"> Offered at a common level</td></tr>
+	<tr>
 	<td>Physical Education</td>
-	<td colspan="3"> Offered at a common level</td>
-	</tr></tbody></table>
+		<td colspan="3"> Offered at a common level</td></tr>
+	</tbody></table>
 	
 
 
