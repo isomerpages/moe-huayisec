@@ -157,7 +157,7 @@ Jurong East, Lakeside &amp; Chinese Garden MRT
 		<td colspan="3"> Offered at a common level</td></tr>
 	</tbody></table>
 	
-Upper Secondary Total Subject Offerings (as at Dec 2023)
+<b>Upper Secondary Total Subject Offerings (as at Dec 2023)</b>
 <br><table>
 	<thead>
 		<tr>
