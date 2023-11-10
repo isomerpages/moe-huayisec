@@ -22,6 +22,13 @@ sections:
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
   - infopic:
+      title: Open House 2023
+      subtitle: Add an image and text
+      id: infopic
+      button: Click Here for more
+      url: https://huayisec.moe.edu.sg/open-house-hy/
+      alt: Image alt text
+  - infopic:
       title: QUICK FACTS ABOUT HUA YI
       button: Click Here To Learn More
       url: /quick-facts
@@ -39,12 +46,5 @@ sections:
       button: Click here to view
       url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       image: /images/family-bg.jpg
-      alt: Image alt text
-  - infopic:
-      title: Open House 2023
-      subtitle: Add an image and text
-      id: infopic
-      button: Click Here for more
-      url: https://huayisec.moe.edu.sg/open-house-hy/
       alt: Image alt text
 ---
