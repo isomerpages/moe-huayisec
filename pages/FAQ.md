@@ -157,10 +157,8 @@ Jurong East, Lakeside &amp; Chinese Garden MRT
 		<td colspan="3"> Offered at a common level</td></tr>
 	</tbody></table>
 	
-Upper Secondary Total Subject Offerings (as at Dec 2023)<br>
-
-
-**2 \.  What is Hua Yi’s strategy for Blended Learning?**<br><br><br><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/pdlp/">https://www.huayisec.moe.edu.sg/the-huayi-experience/pdlp/</a><br><br><br><br><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/alp/">https://www.huayisec.moe.edu.sg/the-huayi-experience/alp/</a><br><a>https://www.huayisec.moe.edu.sg/the-huayi-experience/llp/</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><table>
+Upper Secondary Total Subject Offerings (as at Dec 2023)
+<br><table>
 	<thead>
 		<tr>
 			<th>Languages</th>
@@ -174,7 +172,129 @@ Upper Secondary Total Subject Offerings (as at Dec 2023)<br>
 		<td>✓</td>
 	</tr><tr>
 	<td>Mother Tongue Languages</td>
-<td>✓</td></tr></tbody></table>Blended Learning in Hua Yi takes the form of ILD (Independent Learning Day) every even Friday. There are 2 segments to each session:
+<td>✓</td>
+	<td>✓</td>
+	<td>✓</td>
+	</tr><tr>
+	<td>Higher Mother Tongue Languages (Higher Chinese)</td>
+	<td></td>
+	<td></td>
+	<td>✓</td></tr>
+	</tbody><thead><tr>
+	<th>Humanities</th>
+	<th>G1</th>
+	<th>G2</th>
+	<th>G3</th></tr>
+	</thead><tbody><tr>
+	<td>Humanities</td>
+	<td>✓</td>
+	<td>✓</td>
+	<td>✓</td>
+	</tr><tr>
+	<td>Geography</td>
+		<td></td>
+	<td>✓</td>
+	<td>✓</td>
+	</tr><tr>
+	<td>History</td>
+		<td></td>
+	<td>✓</td>
+	<td>✓</td>
+	</tr><tr>
+	<td>Literature in English</td>
+		<td></td>
+	<td>✓</td>
+	<td>✓</td>
+	</tr><tr>
+	</tr></tbody><thead>
+	<tr>
+		<th>Mathematics and Sciences</th>
+		<th>G1</th>
+		<th>G2</th>
+		<th>G3</th>
+	</tr></thead>
+	<tbody><tr>
+		<td>Mathematics</td>
+		<td>✓</td>
+	<td>✓</td>
+		<td>✓</td>
+		</tr><tr>
+		<td>Additional Mathematics</td>
+		<td></td>
+	<td>✓</td>
+		<td>✓</td>
+		</tr><tr>
+		<td>Science</td>
+		<td>✓</td>
+	<td>✓</td>
+		<td>✓</td>
+		</tr><tr>
+		<td>Biology</td>
+		<td></td>
+	<td></td>
+		<td>✓</td>
+		</tr><tr>
+		<td>Chemistry</td>
+				<td></td>
+	<td></td>
+		<td>✓</td>
+		</tr><tr>
+		<td>Physics</td>
+				<td></td>
+	<td></td>
+		<td>✓</td>
+		</tr></tbody>
+	<thead><tr>
+		<th>Other Electives</th>
+		<th>G1</th>
+		<th>G2</th>
+		<th>G3</th>
+		</tr></thead>
+	<tbody><tr>
+		<td>Design &amp; Technology</td>
+				<td>✓</td>
+	<td>✓</td>
+		<td>✓</td>
+		</tr><tr>
+		<td>Nutrition and Food Science</td>
+				<td>✓</td>
+	<td>✓</td>
+		<td>✓</td>
+		</tr><tr>
+		<td>Art</td>
+						<td>✓</td>
+	<td>✓</td>
+		<td>✓</td>
+		</tr><tr>
+		<td>Music</td>
+						<td>✓</td>
+	<td></td>
+		<td>✓</td>
+		</tr><tr>
+		<td>Higher Art</td>
+						<td></td>
+	<td></td>
+		<td>✓</td>
+		</tr></tbody>
+	<thead><tr>
+		<th>Common Curriculum Subjects</th>
+		<th>G1</th>
+		<th>G2</th>
+		<th>G3</th>
+		</tr></thead>
+	<tbody><tr>
+		<td>Character and Citizenship Education</td>
+	<td colspan="3"> Offered at a common level</td></tr>
+		<tr>
+			<td>Physical Education</td>
+			<td colspan="3"> Offered at a common level</td></tr>
+	</tbody>
+</table>
+<br><br>
+<i>G1 Humanities would comprise Social Studies and choice of one Humanities Exposure Module in Geography, History or Literature in English, and G2/3 Humanities would comprise Social Studies and Geography, History or Literature in English</i>
+
+**2 \.  What is Hua Yi’s strategy for Blended Learning?**
+Blended Learning in Hua Yi takes the form of ILD (Independent Learning Day) every even Friday. There are 2 segments to each session:
 1) Curriculum coverage within and outside school, which focuses on JOY - Joy in learning, Ownership of Learning and Applying learning.
 2) Student initiated learning called Project Sandbox where students will get the opportunity to pursue interests of their choice such as Sports and Fitness, Music, Art and Craft, Languages, Botany etc. The activities can be pursued in school, at home, or other locations, with teachers acting as mentors and co learners! 
 
