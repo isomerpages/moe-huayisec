@@ -108,7 +108,7 @@ Jurong East, Lakeside &amp; Chinese Garden MRT
 	</tr>
 <tr>
 	<td>Humanities (Social Studies + Humanities Exposure Modules in Geography, History, Literature in English)
-		</td><td>✓</td>
+		</td><td>✓</td> 
 	<td></td>
 	<td></td>
 	</tr></tbody>

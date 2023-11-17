@@ -12,10 +12,6 @@ variant: markdown
 <img style="width:100%" src="/images/photo1669992348.jpeg">
 	</a> <b>Click image above for virtual tour</b></p>
 	
-<p><a href="https://view.genial.ly/5efe77148b60f50d80f848aa/interactive-image-hyss-open-house-map">
-<img style="width:100%" src="/images/photo1669992348.jpeg">
-	</a> <b>Click image above for virtual tour</b></p>
-	
 
 #### Principal's Message
 
