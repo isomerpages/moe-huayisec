@@ -27,7 +27,7 @@ sections:
       button: Click Here for more
       url: https://cms.isomer.gov.sg/sites/moe-huayisec/editPage/Secondary%20One%20eRegistration%20Information%20for%202024%20Intake.md
       alt: Image alt text
-      image: /images/Website_Banner.png
+      image: /images/HYSS_Final_Batch_Group__5_of_5_.jpg
   - infopic:
       title: QUICK FACTS ABOUT HUA YI
       button: Click Here To Learn More
