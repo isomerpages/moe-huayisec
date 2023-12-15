@@ -22,10 +22,10 @@ sections:
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
   - infopic:
-      title: Open House 2023
+      title: Sec 1 Registration for 2024 Cohort
       id: infopic
       button: Click Here for more
-      url: https://huayisec.moe.edu.sg/open-house-hy/
+      url: https://cms.isomer.gov.sg/sites/moe-huayisec/editPage/Secondary%20One%20eRegistration%20Information%20for%202024%20Intake.md
       alt: Image alt text
       image: /images/Website_Banner.png
   - infopic:
