@@ -157,140 +157,179 @@ Jurong East, Lakeside &amp; Chinese Garden MRT
 		<td colspan="3"> Offered at a common level</td></tr>
 	</tbody></table>
 	
-<b><u>Upper Secondary Total Subject Offerings (as at Dec 2023)</u></b>
-<br><table>
-	<thead>
-		<tr>
-			<th>Languages</th>
-			<th>G1</th>
-			<th>G2</th>
-			<th>G3</th></tr>
-	</thead><tbody><tr>
-	<td>English Language</td>
-	<td>✓</td>
-		<td>✓</td>
-		<td>✓</td>
-	</tr><tr>
-	<td>Mother Tongue Languages</td>
-<td>✓</td>
-	<td>✓</td>
-	<td>✓</td>
-	</tr><tr>
-	<td>Higher Mother Tongue Languages (Higher Chinese)</td>
-	<td></td>
-	<td></td>
-	<td>✓</td></tr>
-	</tbody><thead><tr>
-	<th>Humanities</th>
-	<th>G1</th>
-	<th>G2</th>
-	<th>G3</th></tr>
-	</thead><tbody><tr>
-	<td>Humanities</td>
-	<td>✓</td>
-	<td>✓</td>
-	<td>✓</td>
-	</tr><tr>
-	<td>Geography</td>
-		<td></td>
-	<td>✓</td>
-	<td>✓</td>
-	</tr><tr>
-	<td>History</td>
-		<td></td>
-	<td>✓</td>
-	<td>✓</td>
-	</tr><tr>
-	<td>Literature in English</td>
-		<td></td>
-	<td>✓</td>
-	<td>✓</td>
-	</tr><tr>
-	</tr></tbody><thead>
-	<tr>
-		<th>Mathematics and Sciences</th>
-		<th>G1</th>
-		<th>G2</th>
-		<th>G3</th>
-	</tr></thead>
-	<tbody><tr>
-		<td>Mathematics</td>
-		<td>✓</td>
-	<td>✓</td>
-		<td>✓</td>
-		</tr><tr>
-		<td>Additional Mathematics</td>
-		<td></td>
-	<td>✓</td>
-		<td>✓</td>
-		</tr><tr>
-		<td>Science</td>
-		<td>✓</td>
-	<td>✓</td>
-		<td>✓</td>
-		</tr><tr>
-		<td>Biology</td>
-		<td></td>
-	<td></td>
-		<td>✓</td>
-		</tr><tr>
-		<td>Chemistry</td>
-				<td></td>
-	<td></td>
-		<td>✓</td>
-		</tr><tr>
-		<td>Physics</td>
-				<td></td>
-	<td></td>
-		<td>✓</td>
-		</tr></tbody>
-	<thead><tr>
-		<th>Other Electives</th>
-		<th>G1</th>
-		<th>G2</th>
-		<th>G3</th>
-		</tr></thead>
-	<tbody><tr>
-		<td>Design &amp; Technology</td>
-				<td>✓</td>
-	<td>✓</td>
-		<td>✓</td>
-		</tr><tr>
-		<td>Nutrition and Food Science</td>
-				<td>✓</td>
-	<td>✓</td>
-		<td>✓</td>
-		</tr><tr>
-		<td>Art</td>
-						<td>✓</td>
-	<td>✓</td>
-		<td>✓</td>
-		</tr><tr>
-		<td>Music</td>
-						<td>✓</td>
-	<td></td>
-		<td>✓</td>
-		</tr><tr>
-		<td>Higher Art</td>
-						<td></td>
-	<td></td>
-		<td>✓</td>
-		</tr></tbody>
-	<thead><tr>
-		<th>Common Curriculum Subjects</th>
-		<th>G1</th>
-		<th>G2</th>
-		<th>G3</th>
-		</tr></thead>
-	<tbody><tr>
-		<td>Character and Citizenship Education</td>
-	<td colspan="3"> Offered at a common level</td></tr>
-		<tr>
-			<td>Physical Education</td>
-			<td colspan="3"> Offered at a common level</td></tr>
-	</tbody>
-</table>
-<br><br>
+<b><u>Upper Secondary Total Subject Offerings (as at Dec 2023)</u></b><br>
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>G1</th>
+      <th>G2</th>
+      <th>G3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>English Language</td>
+      <td>✓</td>
+      <td>✓</td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Mother Tongue Languages</td>
+      <td>✓</td>
+      <td>✓</td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Higher Mother Tongue Languages (Higher Chinese)</td>
+      <td></td>
+      <td></td>
+      <td>✓</td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th>Humanities</th>
+      <th>G1</th>
+      <th>G2</th>
+      <th>G3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Humanities</td>
+      <td>✓</td>
+      <td>✓</td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Geography</td>
+      <td></td>
+      <td>✓</td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>History</td>
+      <td></td>
+      <td>✓</td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Literature in English</td>
+      <td></td>
+      <td>✓</td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th>Mathematics and Sciences</th>
+      <th>G1</th>
+      <th>G2</th>
+      <th>G3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mathematics</td>
+      <td>✓</td>
+      <td>✓</td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Additional Mathematics</td>
+      <td></td>
+      <td>✓</td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Science</td>
+      <td>✓</td>
+      <td>✓</td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Biology</td>
+      <td></td>
+      <td></td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Chemistry</td>
+      <td></td>
+      <td></td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Physics</td>
+      <td></td>
+      <td></td>
+      <td>✓</td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th>Other Electives</th>
+      <th>G1</th>
+      <th>G2</th>
+      <th>G3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Design &amp; Technology</td>
+      <td>✓</td>
+      <td>✓</td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Nutrition and Food Science</td>
+      <td>✓</td>
+      <td>✓</td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Art</td>
+      <td>✓</td>
+      <td>✓</td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Music</td>
+      <td>✓</td>
+      <td></td>
+      <td>✓</td>
+    </tr>
+    <tr>
+      <td>Higher Art</td>
+      <td></td>
+      <td></td>
+      <td>✓</td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th>Common Curriculum Subjects</th>
+      <th>G1</th>
+      <th>G2</th>
+      <th>G3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Character and Citizenship Education</td>
+      <td colspan="3">Offered at a common level</td>
+    </tr>
+    <tr>
+      <td>Physical Education</td>
+      <td colspan="3">Offered at a common level</td>
+    </tr>
+  </tbody>
+</table><br>
+<br>
 <i>G1 Humanities would comprise Social Studies and choice of one Humanities Exposure Module in Geography, History or Literature in English, and G2/3 Humanities would comprise Social Studies and Geography, History or Literature in English</i>
 
 **2 \.  What is Hua Yi’s strategy for Blended Learning?**
