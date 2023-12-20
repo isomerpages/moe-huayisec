@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Sec 1 Registration for 2024 Cohort
       id: infopic
-      button: Click Here for more
+      button: Click Here
       url: https://www.huayisec.moe.edu.sg/secondary-one-eregistration-information-for-2024-intake/
       alt: Image alt text
       image: /images/HYSS_Final_Batch_Group__5_of_5_.jpg
