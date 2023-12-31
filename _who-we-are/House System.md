@@ -2,6 +2,7 @@
 title: House System
 permalink: /who-we-are/Our-Identity/hs/
 description: ""
+variant: markdown
 ---
 ## House System
 
@@ -31,4 +32,4 @@ Embodying the Olympic values, the five Houses with their new symbols and mottos 
 <img src="/images/photo1669633279.jpeg" style="width:49%" align="right">
 <br clear="left"><br>
 
-Now in 2021, every class from Secondary 1 to 5 is associated with one of the five Houses. Sporting new House T-shirts and fresh from the previous year of identity building, Hua Yi students and staff are ready to embark on an exciting new journey of inter-house activities with purpose.
+Now, every class from Secondary 1 to 5 is associated with one of the five Houses. Sporting new House T-shirts and fresh from the previous year of identity building, Hua Yi students and staff are ready to embark on an exciting new journey of inter-house activities with purpose.
