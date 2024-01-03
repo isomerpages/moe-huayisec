@@ -30,9 +30,9 @@ sections:
       image: /images/HYSS_Final_Batch_Group__5_of_5_.jpg
       description: |-
         Cut-Off Point: 
-        11-15 (Exp)
-        21-23 (NA)
-        25-26 (NT)
+        11-15 (G3)
+        21-23 (G2)
+        25-26 (G1)
   - infopic:
       title: QUICK FACTS ABOUT HUA YI
       button: Click Here To Learn More
