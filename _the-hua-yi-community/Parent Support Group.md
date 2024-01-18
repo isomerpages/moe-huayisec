@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /the-hua-yi-community/psg/
 description: ""
+variant: markdown
 ---
 ## Parent Support Group
 
@@ -24,9 +25,9 @@ Members of the PSG are very active in reaching out to parents of our students to
 | Immediate Past Chairperson | Mdm Vivian Liang
 | Chairperson | Mr Robin Soo |
 | Vice-Chairperson | Mdm Yammie Yam |
-| Secretary | Mdm Aw Pei Feng &amp; Mdm Rachel Lim  |
+| Secretary | Mdm Jasline Lou &amp; Mdm Rachel Lim  |
 | Treasurer | Mdm N Vasuntha Devi |
-| Executive Committee | Mdm PriscillaTan<br>Mdm Jasline Lou<br>Mdm Shirley Tay<br>Mdm Mabel Chin |
+| Executive Committee | Mdm PriscillaTan<br>Mdm Aw Pei Feng<br>Mdm Shirley Tay<br>Mdm Mabel Chin |
 |  |  |
 
 For updates on the PSG’s activities, visit the PSG’s Facebook page at&nbsp;[http://www.facebook.com/HYSSPSG](http://www.facebook.com/HYSSPSG).
