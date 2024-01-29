@@ -2,66 +2,76 @@
 title: For Students
 permalink: /huayi-connection/students/
 description: ""
+variant: tiptap
 ---
-## For Students
-
- Dear Alumni, due to the timing to hand over the school premises for polling purposes on 31st August, alumni are advised to give their well-wishes to their teachers in other ways. The school will be closed at 1pm. Thank you for your understanding and cooperation.
-
-#### ACADEMIC
-
-#### **[Sec 1 Camp Briefing Slides](https://go.gov.sg/hysssec1campbriefing2023)**
-
-
-#### **[Sec 2 School Leader's Talk](/files/sch%20website_2023%20sec%202%20sl%20talk.pdf)**  
-
-  
-
-#### **[Sec 3 School Leader's Talk](/files/sec%203%20school%20leader%20talk_%2010%20feb%2023_school%20website.pdf)**  
-
-  
-
-#### **[Sec 4/5 School Leader's Talk](/files/2023%20sec%204_5%20sl%20talk%20for%20parents%20school%20website%20.pdf)**  
-
-  
-
-#### **[Sec 1 School Leader's Talk](https://huayisec.moe.edu.sg/qql/slot/u175/School%20Info/For%20Parents/Academic/2023/2023%20SL%20Talk%20for%20Parents%20Sec%201%20-%20Compiled%201.pdf)**  (FILE IS TOO BIG)
-
-  
-
-#### **2023 Semester 1 Letter to Parents ([Sec 1](/files/hyss%202023%20semester%201%20letter_sec%201.pdf),&nbsp;[Sec 2](/files/hyss%202023%20semester%201%20letter_sec%202.pdf),&nbsp;[Sec 3](/files/hyss%202023%20semester%201%20letter_sec%203.pdf)&nbsp;&amp;&nbsp;[Sec 4/5](/files/hyss%202023%20semester%201%20letter_sec45.pdf))**
-
-##### [Sexuality Education Programme](https://staging.d24qp50d0iaegk.amplifyapp.com/sex-ed/)
-
-
-##### [Hua Yi Learning Dispositions](/files/HYSS%20Learning%20Dispositions%202020%20(for%20school%20website%202020)%20(with%20translations).pdf)
-
-
-#### NON-ACADEMIC
-
-##### VIA Volunteer Record Form
-
-Students who have done volunteer work outside of school: Please obtain a letter or certificate from the organisation that you have worked with and input the VIA details into the form attached.  
-The information will be keyed into the system which will be reflected in your CCA certificate.  
-[https://form.gov.sg/#!/61f24fbb15e775001466eb22](https://form.gov.sg/#!/61f24fbb15e775001466eb22)  
-  
-Thank you for making a difference to the community!
-
-##### [Counselling Information](/files/Student%20handbook%202022_Counselling%20info%20June12.pdf)
-
-##### [Traffic Safety Measures](https://staging.d24qp50d0iaegk.amplifyapp.com/latest-updates/tsm/)
-
-#### FAS Application Form and Pamphlet
-
-*   **[FAS Application Form](https://go.gov.sg/moe-efas)**
-
-##### **[Application Form for Leave of Absence](https://form.gov.sg/60c010245259b6001101815d)**
-
-##### NTUC Insurance Portal – **[Online Claim Submission](https://studentgpa.incomegroupins.com.sg/#/)** , [Pamphlet](/files/product%20fact%20sheet%20year%202023.pdf)
-
-##### [VIA Volunteering Opportunities](https://staging.d24qp50d0iaegk.amplifyapp.com/others/via-volunteering-opportunities/)
-
-##### **[Online Library Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/huayisec)**
-
-##### [School Uniform Ordering Information](/files/SchoolUniformOrderInfo.pdf)
-
-##### **[Advanced Elective Module (AEM) Portal](https://aem.moe.gov.sg/)**
+<h2>For Students</h2>
+<h4>ACADEMIC</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/files/HYSS%20Learning%20Dispositions%202020%20(for%20school%20website%202020)%20(with%20translations).pdf" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Learning Dispositions</a>
+</p>
+</li>
+<li>
+<p>Sec 1 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>,
+<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP</a>, <a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Sch_Experience.pdf" rel="noopener noreferrer nofollow" target="_blank">School Experience</a>)</p>
+</li>
+<li>
+<p>Sec 2 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_2____Compiled_FINAL_to_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>)</p>
+</li>
+</ul>
+<h5></h5>
+<h4>NON-ACADEMIC</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/files/Student%20handbook%202022_Counselling%20info%20June12.pdf" rel="noopener noreferrer nofollow" target="_blank">Counselling Information</a>
+</p>
+</li>
+<li>
+<p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/latest-updates/tsm/" rel="noopener noreferrer nofollow" target="_blank">Traffic Safety Measures</a>
+</p>
+</li>
+<li>
+<p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/sex-ed/" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education Programme</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/files/SchoolUniformOrderInfo.pdf" rel="noopener noreferrer nofollow" target="_blank">School Uniform Ordering Information</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/60c010245259b6001101815d" rel="noopener noreferrer nofollow" target="_blank">Application Form for Leave of Absence</a>
+</p>
+</li>
+<li>
+<p>NTUC Insurance Portal (<a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Online Claim Submission</a> ,
+<a href="/files/2024/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Pamphlet</a>)</p>
+</li>
+<li>
+<p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/others/via-volunteering-opportunities/" rel="noopener noreferrer nofollow" target="_blank">VIA Volunteering Opportunities</a>
+</p>
+</li>
+<li>
+<p><a href="https://schoolibrary.moe.edu.sg/huayisec" rel="noopener noreferrer nofollow" target="_blank">Online Library Catalogue (OPAC)</a>
+</p>
+</li>
+<li>
+<p><a href="https://aem.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Advanced Elective Module (AEM) Portal</a>
+</p>
+<p></p>
+</li>
+</ul>
+<h5>VIA Volunteer Record Form</h5>
+<p>Students who have done volunteer work outside of school: Please obtain
+a letter or certificate from the organisation that you have worked with
+and input the VIA details into the form attached.
+<br>The information will be keyed into the system which will be reflected
+in your CCA certificate.
+<br><a href="https://form.gov.sg/#!/61f24fbb15e775001466eb22" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/#!/61f24fbb15e775001466eb22</a>
+</p>
+<p>Thank you for making a difference to the community!</p>
+<h5></h5>
+<p></p>
