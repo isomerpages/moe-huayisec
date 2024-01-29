@@ -11,6 +11,10 @@ variant: tiptap
 <p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/files/HYSS%20Learning%20Dispositions%202020%20(for%20school%20website%202020)%20(with%20translations).pdf" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Learning Dispositions</a>
 </p>
 </li>
+<li>
+<p>Sec 1 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>,
+<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP</a>, <a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Sch_Experience.pdf" rel="noopener noreferrer nofollow" target="_blank">School Experience</a>)</p>
+</li>
 </ul>
 <h5></h5>
 <h4>NON-ACADEMIC</h4>
