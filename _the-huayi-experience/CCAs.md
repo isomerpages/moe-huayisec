@@ -2,6 +2,7 @@
 title: CCAs
 permalink: /the-huayi-experience/CCAs/ccas/
 description: ""
+variant: markdown
 ---
 ## CCAs
 
@@ -106,14 +107,14 @@ description: ""
 | **Badminton (Boys)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Centrestage |
 | **Badminton (Girls)** | Tuesday<br>Thursday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Centrestage |
 | **Basketball (Boys)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Basketball Court |
-| **Track &amp; Field (Boys/Girls)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | School Field |
-| **\*\*Volleyball (Girls)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Arena |
+| **\*Track &amp; Field (Boys/Girls)** | Monday<br>Wednesday | 4:00 – 6:30 pm<br>4:00 – 6:30 pm | Clementi Stadium |
+| **\*Volleyball (Girls)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Arena |
 | **Football (Boys)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | School Field |
-| **\*Netball (Girls)** | Wednesday<br>Friday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Quadrangle |
+| **Netball (Girls)** | Wednesday<br>Friday | 3:15 – 6:15 pm<br>3:00 – 6:00 pm | Quadrangle / Arena |
 | **Floorball (Boys)** | Tuesday<br>Thursday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Arena |
 |  |  |  |  |
 
-**_\*Trainings on Wednesday and Friday on Odd Weeks Only_**
+**_\*Additional trainings on Fridays in school_**
 
 ##### B. UNIFORMED GROUPS
 
