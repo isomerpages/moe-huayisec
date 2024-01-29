@@ -73,7 +73,8 @@ contact Thye Hua Kwan (THK) Family Service Centre @ Jurong at 6747 7514.</p>
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener noreferrer nofollow" target="_blank">ECG Guide</a>
 </p>
 <h4>CYBERWELLNESS</h4>
-<h5>Article:&nbsp;<strong><a href="https://www.schoolbag.edu.sg/story/safeguarding-your-child-online" rel="noopener noreferrer nofollow" target="_blank">Safeguarding your child online</a></strong></h5>
-<h5>Parents in Education Website –&nbsp;<strong>Cyberwellness Resources</strong></h5>
-<h5>Article:&nbsp;<strong><a href="https://www.schoolbag.edu.sg/story/suicide-games-and-online-media-what-should-parents-do?utm_source=tr.im&amp;utm_medium=no_referer&amp;utm_campaign=tr.im%2F1yNMt&amp;utm_content=direct_input" rel="noopener noreferrer nofollow" target="_blank">Suicide Games and Online Media: What Should Parents Do?</a></strong></h5>
+<p>Article:&nbsp;<a href="https://www.schoolbag.edu.sg/story/safeguarding-your-child-online" rel="noopener noreferrer nofollow" target="_blank">Safeguarding your child online</a>
+</p>
+<p>Article:&nbsp;<a href="https://www.schoolbag.edu.sg/story/suicide-games-and-online-media-what-should-parents-do?utm_source=tr.im&amp;utm_medium=no_referer&amp;utm_campaign=tr.im%2F1yNMt&amp;utm_content=direct_input" rel="noopener noreferrer nofollow" target="_blank">Suicide Games and Online Media: What should Parents do?</a>
+</p>
 <p></p>
