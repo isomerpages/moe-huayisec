@@ -15,6 +15,9 @@ variant: tiptap
 <p>Sec 1 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>,
 <a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP</a>, <a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Sch_Experience.pdf" rel="noopener noreferrer nofollow" target="_blank">School Experience</a>)</p>
 </li>
+<li>
+<p>Sec 2 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_2____Compiled_FINAL_to_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>)</p>
+</li>
 </ul>
 <h5></h5>
 <h4>NON-ACADEMIC</h4>
@@ -81,4 +84,5 @@ contact Thye Hua Kwan (THK) Family Service Centre @ Jurong at 6747 7514.</p>
 </p>
 <p>Article:&nbsp;<a href="https://www.schoolbag.edu.sg/story/suicide-games-and-online-media-what-should-parents-do?utm_source=tr.im&amp;utm_medium=no_referer&amp;utm_campaign=tr.im%2F1yNMt&amp;utm_content=direct_input" rel="noopener noreferrer nofollow" target="_blank">Suicide Games and Online Media: What should Parents do?</a>
 </p>
+<p></p>
 <p></p>
