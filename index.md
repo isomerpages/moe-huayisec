@@ -31,7 +31,7 @@ sections:
       title: LATEST EVENTS
       button: More upcoming events
       url: /latest-updates/latest/
-      image: /images/2024/Calendar_2.png
+      image: /images/2024/Calendar.png
       alt: Image alt text
   - infopic:
       title: THE HUA YI FAMILY
