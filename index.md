@@ -22,18 +22,6 @@ sections:
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
   - infopic:
-      title: Sec 1 Posting for 2024 Cohort
-      id: infopic
-      button: Click Here
-      url: https://www.huayisec.moe.edu.sg/secondary-one-eregistration-information-for-2024-intake/
-      alt: Image alt text
-      image: /images/HYSS_Final_Batch_Group__5_of_5_.jpg
-      description: |-
-        Cut-Off Point: 
-        11-15 (G3)
-        21-23 (G2)
-        25-26 (G1)
-  - infopic:
       title: QUICK FACTS ABOUT HUA YI
       button: Click Here To Learn More
       url: /quick-facts
