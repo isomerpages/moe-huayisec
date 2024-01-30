@@ -28,10 +28,10 @@ sections:
       image: /images/img_6005.jpg
       alt: Image alt text
   - infopic:
-      title: LATEST HAPPENINGS
-      button: Click here for information
+      title: LATEST EVENTS
+      button: More upcoming events
       url: /latest-updates/latest/
-      image: /images/11to22sep.jpg
+      image: /images/2024/Calendar_2.png
       alt: Image alt text
   - infopic:
       title: THE HUA YI FAMILY
