@@ -22,16 +22,16 @@ sections:
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
   - infopic:
-      title: QUICK FACTS ABOUT HUA YI
-      button: Click Here To Learn More
-      url: /quick-facts
-      image: /images/img_6005.jpg
-      alt: Image alt text
-  - infopic:
       title: LATEST EVENTS
       button: More upcoming events
       url: /latest-updates/latest/
       image: /images/2024/Calendar_3.png
+      alt: Image alt text
+  - infopic:
+      title: QUICK FACTS ABOUT HUA YI
+      button: Click Here To Learn More
+      url: /quick-facts
+      image: /images/img_6005.jpg
       alt: Image alt text
   - infopic:
       title: THE HUA YI FAMILY
