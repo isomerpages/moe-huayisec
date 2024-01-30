@@ -22,16 +22,16 @@ sections:
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
   - infopic:
-      title: LATEST EVENTS
-      button: More upcoming events
-      url: /latest-updates/latest/
-      image: /images/2024/Calendar_3.png
-      alt: Image alt text
-  - infopic:
       title: QUICK FACTS ABOUT HUA YI
       button: Click Here To Learn More
       url: /quick-facts
       image: /images/img_6005.jpg
+      alt: Image alt text
+  - infopic:
+      title: LATEST EVENTS
+      button: More upcoming events
+      url: /latest-updates/latest/
+      image: /images/2024/Calendar_3.png
       alt: Image alt text
   - infopic:
       title: THE HUA YI FAMILY
@@ -40,4 +40,13 @@ sections:
       url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       image: /images/family-bg.jpg
       alt: Image alt text
+  - infocols:
+      title: Announcements
+      id: infocols
+      infoboxes:
+        - title: Uniform Shop Closure
+          description: Uniform shop will be closed on 7 Feb & 14 Feb. For any urgent
+            purchases, please approach the General Office.
+        - title: Arena Closure
+          description: Arena (ISH) will be closed on 27 July
 ---
