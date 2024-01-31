@@ -21,17 +21,32 @@ sections:
         - title: PASSIONATE LEADERS
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
-  - infopic:
-      title: QUICK FACTS ABOUT HUA YI
-      button: Click Here To Learn More
-      url: /quick-facts
-      image: /images/img_6005.jpg
-      alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Uniform Shop Closure
+          date: 31 January 2024
+          announcement: Uniform shop will be closed on 7 & 14 Feb 2024. Please approach
+            the General Office for any urgent purchases.
+          link_text: ""
+          link_url: ""
+        - title: Arena Closure
+          date: 31 January 2024
+          announcement: Arena (ISH) will be closed on 27 July 2024.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: LATEST EVENTS
       button: More upcoming events
       url: /latest-updates/latest/
       image: /images/2024/Calendar_3.png
+      alt: Image alt text
+  - infopic:
+      title: QUICK FACTS ABOUT HUA YI
+      button: Click Here To Learn More
+      url: /quick-facts
+      image: /images/img_6005.jpg
       alt: Image alt text
   - infopic:
       title: THE HUA YI FAMILY
@@ -40,13 +55,4 @@ sections:
       url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       image: /images/family-bg.jpg
       alt: Image alt text
-  - infocols:
-      title: Announcements
-      id: infocols
-      infoboxes:
-        - title: Uniform Shop Closure
-          description: Uniform shop will be closed on 7 Feb & 14 Feb. For any urgent
-            purchases, please approach the General Office.
-        - title: Arena Closure
-          description: Arena (ISH) will be closed on 27 July
 ---
