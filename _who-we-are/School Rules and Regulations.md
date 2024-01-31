@@ -123,7 +123,7 @@ polo-tee uniform.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Polo_T_compressed.jpg">
 </div>
 <h5>Hairstyle</h5>
-<p><strong>For Boys:</strong>
+<p><strong>For Boys:</strong> 
 <br>1 . Hair is to be kept clean, neat and short.</p>
 <p>2 . Hair at the front must be above both eyebrows AT ALL TIMES. When combed
 downwards, it should not cover the eyes.</p>
@@ -171,7 +171,7 @@ by the school. Student may also be requested to purchase a new set of uniform
 or shoes if their attire does not meet the school’s standards.</p>
 <p>8 . The school reserves the right to discipline any student found with
 tattoos and/or body piercings. Disciplinary action may include suspension.</p>
-<p><strong>Classroom Expectations</strong>
+<p><strong>Classroom Expectations</strong> 
 <br>1 . Classrooms are used for the purpose of learning only.</p>
 <p>2 . Each class should take personal responsibility for the cleanliness
 and neatness of the classroom.</p>
@@ -242,7 +242,7 @@ of every lesson so that effective learning can take place in the classrooms.</p>
 </table>
 <p>5 . Students should also observe discipline and orderliness during and
 between lessons.</p>
-<p><strong>Use of Mobile Phones/Electronic Devices</strong>
+<p><strong>Use of Mobile Phones/Electronic Devices</strong> 
 <br>1 . Students should not use their mobile phones/personal learning devices
 (PLDs) during school activities, lessons and CCAs, unless permission is
 given.</p>
@@ -308,7 +308,7 @@ use of recycling bins is encouraged to foster a green environment.</p>
 <p>5 . School property must be used responsibly and handled with care.</p>
 <p>6 . Staff rooms are out-of-bounds to all students. Students should use
 the intercom system outside the staff room to contact their teachers.</p>
-<p><strong>School Canteen</strong>
+<p><strong>School Canteen</strong> 
 <br>1 . Students must queue up in an orderly manner for their food and drinks.</p>
 <p>2 . Cutleries are to be returned to their proper receptacles after each
 meal.</p>
@@ -319,7 +319,7 @@ food items in the canteen. This is to ensure meals are consumed in a clean
 environment.</p>
 <p>5 . No food or drinks should be consumed outside the perimeters of the
 canteen unless permission has been obtained from the school authority.</p>
-<p><strong>Special Rooms</strong>
+<p><strong>Special Rooms</strong> 
 <br>1 . The special rooms are out of bounds at all times except when students
 are attending lessons conducted at these venues. Students should assemble
 quietly and in an orderly manner outside the relevant rooms while waiting
@@ -327,7 +327,7 @@ for the teacher to give instructions for the lesson.</p>
 <p>2 . The school will spare no effort in ensuring the safety of the students
 by suspending students who persistently violate the rules on responsible
 behaviour in special rooms.</p>
-<p><strong>Sports Facilities</strong>
+<p><strong>Sports Facilities</strong> 
 <br>1 . Students are free to utilise any of the school’s facilities as long
 as permission for the use of sports-related facilities has been granted
 by the Head of Physical Education and CCA.</p>
