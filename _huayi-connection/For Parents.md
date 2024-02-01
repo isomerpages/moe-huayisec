@@ -20,7 +20,7 @@ variant: tiptap
 </li>
 <li>
 <p>Sec 4/5 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_45____Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>,
-School Experience, <a href="/files/2024/2024_SL_Talk_for_Parents__Sec_45____Education_Pathway.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathway</a>)</p>
+<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_45____Sch_Experience_compressed__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Experience</a>, <a href="/files/2024/2024_SL_Talk_for_Parents__Sec_45____Education_Pathway.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathway</a>)</p>
 </li>
 </ul>
 <h5></h5>
