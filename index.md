@@ -18,7 +18,7 @@ sections:
         - title: EMPATHETIC CONTRIBUTORS
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/alp/
-        - title: PASSIONATE LEADERS
+        - title: PASSIONATE LEARNERS
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
   - announcements:
