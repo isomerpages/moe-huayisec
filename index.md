@@ -18,7 +18,7 @@ sections:
         - title: EMPATHETIC CONTRIBUTORS
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/alp/
-        - title: PASSIONATE LEADERS
+        - title: PASSIONATE LEARNERS
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
   - announcements:
@@ -40,7 +40,7 @@ sections:
       title: LATEST EVENTS
       button: More upcoming events
       url: /latest-updates/latest/
-      image: /images/2024/Calendar_3.png
+      image: /images/2024/Calendar4.png
       alt: Image alt text
   - infopic:
       title: QUICK FACTS ABOUT HUA YI
