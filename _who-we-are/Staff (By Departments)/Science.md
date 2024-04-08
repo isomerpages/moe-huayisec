@@ -3,8 +3,12 @@ title: Science
 permalink: /who-we-are/our-people/staff-by-departments/sci/
 description: ""
 third_nav_title: Staff (By Departments)
+variant: tiptap
 ---
-## Science
-
-<img src="/images/science%20informal.jpg" style="width:100%">
-
+<h2>Science</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Science__small_.jpg">
+</div>
+<p><em>*image accurate as of 31 Dec 2023</em>
+</p>
+<p></p>
