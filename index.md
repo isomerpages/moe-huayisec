@@ -25,12 +25,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Uniform Shop Closure
-          date: 31 January 2024
-          announcement: Uniform shop will be closed on 7 & 14 Feb 2024. Please approach
-            the General Office for any urgent purchases.
-          link_text: ""
-          link_url: ""
         - title: Arena Closure
           date: 31 January 2024
           announcement: Arena (ISH) will be closed on 27 July 2024.
