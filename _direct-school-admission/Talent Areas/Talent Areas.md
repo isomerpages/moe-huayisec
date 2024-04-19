@@ -21,7 +21,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/direct-school-admission/Talent-Areas/va/" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a>
+<p><a href="/direct-school-admission/uniformed-groups" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a>
 </p>
 </li>
 </ul>
