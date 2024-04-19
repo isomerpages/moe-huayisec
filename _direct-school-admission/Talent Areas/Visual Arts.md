@@ -3,8 +3,9 @@ title: Visual Arts
 permalink: /direct-school-admission/Talent-Areas/va/
 description: ""
 third_nav_title: Talent Areas
+variant: markdown
 ---
-## Visual Arts
+## Uniformed Groups
 
 Visual Arts plays a significant role in our students’ holistic education experience. At Hua Yi Secondary School, we aim to engage students in inquiry and exploration, build students’ self-confidence and develop their creative and artistic talents in Visual Arts. We offer different opportunities for exposure to and platforms for participation in multiple and varied art forms. This is achieved through an engaging and broad-based curriculum encompassing assembly presentations, enrichment workshops as well as learning journeys to various art showcases including the National Design Centre, Art Museum as well as visits to other institutions of learning.
 
