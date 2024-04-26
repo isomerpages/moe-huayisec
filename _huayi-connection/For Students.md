@@ -73,7 +73,7 @@ in your CCA certificate.
 <br><a href="https://form.gov.sg/#!/61f24fbb15e775001466eb22" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/#!/61f24fbb15e775001466eb22</a>
 </p>
 <p>Thank you for making a difference to the community!</p>
-<h5>VIA Opportunities </h5>
+<h5>VIA Opportunities</h5>
 <p><a href="https://www.giving.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.giving.sg/</a>
 </p>
 <p><a href="https://www.sg/sgcares/volunteer-for-a-cause" rel="noopener noreferrer nofollow" target="_blank">https://www.sg/sgcares/volunteer-for-a-cause</a>
