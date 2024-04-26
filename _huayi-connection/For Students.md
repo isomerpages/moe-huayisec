@@ -51,10 +51,6 @@ variant: tiptap
 <a href="/files/2024/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Pamphlet</a>)</p>
 </li>
 <li>
-<p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/others/via-volunteering-opportunities/" rel="noopener noreferrer nofollow" target="_blank">VIA Volunteering Opportunities</a>
-</p>
-</li>
-<li>
 <p><a href="https://schoolibrary.moe.edu.sg/huayisec" rel="noopener noreferrer nofollow" target="_blank">Online Library Catalogue (OPAC)</a>
 </p>
 </li>
