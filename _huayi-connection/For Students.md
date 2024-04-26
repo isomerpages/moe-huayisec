@@ -67,11 +67,19 @@ variant: tiptap
 <h5>VIA Volunteer Record Form</h5>
 <p>Students who have done volunteer work outside of school: Please obtain
 a letter or certificate from the organisation that you have worked with
-and input the VIA details into the form attached.
-<br>The information will be keyed into the system which will be reflected
+and input the VIA details into the form attached.</p>
+<p>The information will be keyed into the system which will be reflected
 in your CCA certificate.
 <br><a href="https://form.gov.sg/#!/61f24fbb15e775001466eb22" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/#!/61f24fbb15e775001466eb22</a>
 </p>
 <p>Thank you for making a difference to the community!</p>
-<h5></h5>
+<h5>VIA Opportunities </h5>
+<p><a href="https://www.giving.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.giving.sg/</a>
+</p>
+<p><a href="https://www.sg/sgcares/volunteer-for-a-cause" rel="noopener noreferrer nofollow" target="_blank">https://www.sg/sgcares/volunteer-for-a-cause</a>
+</p>
+<p><a href="https://www.youthbank.sg/events" rel="noopener noreferrer nofollow" target="_blank">https://www.youthbank.sg/events</a>
+</p>
+<p><a href="https://docs.google.com/spreadsheets/d/136lLxQuarc4Hla_ha82pDwLyjJN9ZcDkO3WQlVLZvbM/edit#gid=0" rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/spreadsheets/d/136lLxQuarc4Hla_ha82pDwLyjJN9ZcDkO3WQlVLZvbM/edit#gid=0</a>
+</p>
 <p></p>
