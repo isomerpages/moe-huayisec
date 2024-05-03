@@ -2,7 +2,6 @@ collections:
   direct-school-admission:
     output: true
     order:
-      - Get In Touch.md
       - Introduction.md
       - Talent Areas/.keep
       - Talent Areas/Talent Areas.md
@@ -11,3 +10,4 @@ collections:
       - Talent Areas/Student Leadership.md
       - Talent Areas/Uniformed Groups.md
       - Application Process.md
+      - Get In Touch.md
