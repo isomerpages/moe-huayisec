@@ -2,7 +2,6 @@ collections:
   direct-school-admission:
     output: true
     order:
-      - Frequently Asked Questions.md
       - Introduction.md
       - Talent Areas/.keep
       - Talent Areas/Talent Areas.md
@@ -11,4 +10,5 @@ collections:
       - Talent Areas/Student Leadership.md
       - Talent Areas/Uniformed Groups.md
       - Application Process.md
+      - Frequently Asked Questions.md
       - Get In Touch.md
