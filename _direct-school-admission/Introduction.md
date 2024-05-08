@@ -26,7 +26,7 @@ to join the Hua Yi family through the Direct School Admission-Secondary
 (DSA-Sec) Exercise.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Website_banner_Temporary.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Banner_DSA_2.png">
 </div>
 <p></p>
 <p><strong>Principal's Message</strong>
