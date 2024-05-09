@@ -14,29 +14,12 @@ art forms. Our rich heritage has enabled us to build strong partnerships
 and ties with our alumni and parents who contribute actively to the provision
 of a rich aesthetics education for all Hua Yians. These partnerships include
 combined training and performances such as the school.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/Concert Band.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/DSA_Performing_Arts.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/Guzheng.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/show choir.jpeg">
-</div>
-<p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Dance.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Modern Dance.jpeg">
-</div>
-<p>
-<br>
-<br>
-</p>
+<p></p>
+<p></p>
 <p>Performing Arts:</p>
 <ul data-tight="true" class="tight">
 <li>

@@ -21,13 +21,8 @@ experience.</p>
 <p></p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NCC.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/NPCC.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Red_Cross.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/9__Combined_Uniform_Group__4_.jpg">
 </div>
 <p></p>
