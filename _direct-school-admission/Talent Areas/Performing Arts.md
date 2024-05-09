@@ -15,63 +15,11 @@ and ties with our alumni and parents who contribute actively to the provision
 of a rich aesthetics education for all Hua Yians. These partnerships include
 combined training and performances such as the school.</p>
 <p></p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Show_Choir__03_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/DSA_Performing_Arts.jpg">
 </div>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024/19__Concert_Band__3_.jpg">
-</div>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-<br>
-</p>
-<p>
-<br>
-<br>
-</p>
 <p>Performing Arts:</p>
 <ul data-tight="true" class="tight">
 <li>
