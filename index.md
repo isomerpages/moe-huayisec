@@ -21,6 +21,10 @@ sections:
         - title: PASSIONATE LEARNERS
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
+  - infopic:
+      title: Direct School Admission
+      id: infopic
+      image: /images/2024/Banner_DSA_2.png
   - announcements:
       title: Announcements
       id: announcements
@@ -49,8 +53,4 @@ sections:
       url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       image: /images/family-bg.jpg
       alt: Image alt text
-  - infopic:
-      title: Direct School Admission
-      id: infopic
-      image: /images/2024/Banner_DSA_2.png
 ---
