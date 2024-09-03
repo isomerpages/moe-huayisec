@@ -103,6 +103,9 @@ Day.</p>
 <p>Mdm Mabel Chin</p>
 <p>Mdm Aw Pei Feng
 <br>Mdm Veronika Maretha</p>
+<p>Mdm Joanne Lee</p>
+<p>Mr Allex Ang</p>
+<p>Mr Gabriel Yeo</p>
 </td>
 </tr>
 <tr>
