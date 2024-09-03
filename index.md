@@ -21,24 +21,14 @@ sections:
         - title: PASSIONATE LEARNERS
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
-  - infopic:
-      title: Direct School Admission
-      id: infopic
-      image: /images/2024/Banner_DSA_2.png
   - announcements:
       title: Announcements
       id: announcements
-      announcement_items:
-        - title: Arena Closure
-          date: 31 January 2024
-          announcement: Arena (ISH) will be closed on 27 July 2024.
-          link_text: ""
-          link_url: ""
   - infopic:
       title: LATEST EVENTS
       button: More upcoming events
       url: /latest-updates/latest/
-      image: /images/2024/Calendar3c.jpg
+      image: /images/2024/Calendar4_Sep.jpg
       alt: Image alt text
   - infopic:
       title: QUICK FACTS ABOUT HUA YI
