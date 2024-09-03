@@ -95,35 +95,25 @@ Day.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Executive Committee</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Mdm PriscillaTan</p>
 <p>Mdm Mabel Chin</p>
-<p>Mdm Aw Pei Feng
-<br>Mdm Veronika Maretha</p>
+<p>Mdm Aw Pei Feng</p>
+<p>Mdm Veronika Maretha</p>
 <p>Mdm Joanne Lee</p>
 <p>Mr Allex Ang</p>
 <p>Mr Gabriel Yeo</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 </tbody>
 </table>
 <p>For updates on the PSG’s activities, visit the PSG’s Facebook page at&nbsp;
