@@ -119,9 +119,11 @@ Day.</p>
 <p>For updates on the PSG’s activities, visit the PSG’s Facebook page at&nbsp;
 <a href="http://www.facebook.com/HYSSPSG" rel="noopener noreferrer nofollow" target="_blank">http://www.facebook.com/HYSSPSG</a>.</p>
 <p>Parents who are keen to be part of the PSG can access the online Membership
-Application Form by clicking&nbsp;<a href="https://form.gov.sg/#!/5fb9a5682bcec70011412c8b" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or
+Application Form by clicking&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLScjK-zWdtQk5pIRjQvzU3U1cvUpH0bFD8ks_8i-ZlUOwTnUrQ/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or
 scanning the QR Code.</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/QR Code for PSG application form.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2024/PSG_registration_link.jpg">
 </div>
 <p>For any other enquiries, please email&nbsp;<a href="mailto:hysspsg56@gmail.com" rel="noopener noreferrer nofollow" target="_blank">hysspsg56@gmail.com</a>&nbsp;.</p>
