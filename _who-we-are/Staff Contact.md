@@ -6,7 +6,13 @@ variant: tiptap
 ---
 <h2>Staff Contact</h2>
 <h4>School Management Committee</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -371,7 +377,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Teacher Leaders</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -495,7 +507,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Secondary 1 Form Teachers</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -654,7 +672,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Secondary 2 Form Teachers</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -814,7 +838,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Secondary 3 Form Teachers</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -968,7 +998,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Secondary 4/5 Form Teachers</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1152,7 +1188,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Executive and Administrative Staff</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1248,11 +1290,10 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Selva Ganesan</p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:selva_ganesan_selva_segaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">selva_ganesan_selva_segaran@schools.gov.sg</a>
-</p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>102</p>
@@ -1308,21 +1349,6 @@ variant: tiptap
 <p>Technical Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mazlan B Tapar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mazlan_b_tapar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mazlan_b_tapar@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>400</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Mohd Asyraf B Mohd Kassim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1338,7 +1364,7 @@ variant: tiptap
 <p>Technical Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nuraini Bte Mahmod</p>
+<p>Mdm Noraini Bte Mahmod</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1367,7 +1393,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Sham</p>
+<p>Mr Vickneswaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:g-ncs3226sde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">g-ncs3226sde@ncs.com.sg</a>
