@@ -8,6 +8,10 @@ variant: tiptap
 <h4>ACADEMIC</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>Summative Review Timetable (<a href="/files/2024/Sec_1_2024_SR_Timetable_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>, <a href="/files/2024/Sec_2_2024_SR_Timetable_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>,
+<a href="/files/2024/Sec_3_2024_SR_Timetable_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>)</p>
+</li>
+<li>
 <p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/files/HYSS%20Learning%20Dispositions%202020%20(for%20school%20website%202020)%20(with%20translations).pdf" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Learning Dispositions</a>
 </p>
 </li>
