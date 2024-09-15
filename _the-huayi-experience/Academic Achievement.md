@@ -2,6 +2,7 @@
 title: Academic Achievement
 permalink: /the-huayi-experience/aa/
 description: ""
+variant: markdown
 ---
 ## Academic Achievement
 
