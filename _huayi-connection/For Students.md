@@ -8,6 +8,10 @@ variant: tiptap
 <h4>ACADEMIC</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>2024 Summative Review Timetable (<a href="/files/2024/Sec_1_2024_SR_Timetable_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>, <a href="/files/2024/Sec_2_2024_SR_Timetable_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>,
+<a href="/files/2024/Sec_3_2024_SR_Timetable_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>)</p>
+</li>
+<li>
 <p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/files/HYSS%20Learning%20Dispositions%202020%20(for%20school%20website%202020)%20(with%20translations).pdf" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Learning Dispositions</a>
 </p>
 </li>
@@ -17,6 +21,10 @@ variant: tiptap
 </li>
 <li>
 <p>Sec 2 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_2____Compiled_FINAL_to_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>)</p>
+</li>
+<li>
+<p>Sec 4/5 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_45____Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>,
+<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_45____Sch_Experience_compressed__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Experience</a>, <a href="/files/2024/2024_SL_Talk_for_Parents__Sec_45____Education_Pathway.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathway</a>)</p>
 </li>
 </ul>
 <h5></h5>
