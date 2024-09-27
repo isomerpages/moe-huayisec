@@ -2,6 +2,7 @@
 title: For Staff
 permalink: /huayi-connection/staff/
 description: ""
+variant: markdown
 ---
 ## For Staff
 
@@ -9,7 +10,7 @@ description: ""
 
 |  |  |
 |:---:|---|
-| **[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)** |  **[iMTL Portal](https://imtl.moe.edu.sg/)** |
+| **[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)** |  **[iMTL Portal](https://imtl.moe.edu.sg/)** | **[test](www.huayisec.moe.edu.sg)** |
 |  **[School Cockpit 2.0](https://schoolcockpit.moe.gov.sg/)** |  **[SC Mobile (School Cockpit)](https://scmobile.moe.edu.sg/)** |
 |  **[HRP Portal](https://www.hrp.gov.sg/hrp/#/)** |  **[iCON 2.0](http://workspace.google.com/dashboard)** |
 |  **[Student Learning Space](https://vle.learning.moe.edu.sg/login)** |  **[MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso)** |
