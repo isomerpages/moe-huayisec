@@ -126,4 +126,41 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4>USEFUL FORMS</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application for Time Off</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Application for Saturday Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Application for Season Parking</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application for Car Decal (Parents)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bus Booking Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
