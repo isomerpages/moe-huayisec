@@ -136,21 +136,26 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application for Time Off</p>
+<p><a href="https://form.gov.sg/66135d7f6e46a546501eef1c" rel="noopener nofollow" target="_blank">Application for Time Off</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application for Saturday Activities</p>
+<p><a href="https://go.gov.sg/hysssatactivities" rel="noopener nofollow" target="_blank">Application for Saturday Activities</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application for Season Parking</p>
+<p><a href="https://go.gov.sg/hysscarparkapplication" rel="noopener nofollow" target="_blank">Application for Season Parking</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application for Car Decal (Parents)</p>
+<p><a href="https://go.gov.sg/hysscardecalapplication" rel="noopener nofollow" target="_blank">Application for Car Decal (Parents)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bus Booking Form</p>
+<p><a href="https://go.gov.sg/hyssbusbooking" rel="noopener nofollow" target="_blank">Bus Booking Form</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
