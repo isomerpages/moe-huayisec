@@ -1245,11 +1245,10 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Quek</p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quek_cheok_miang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_cheok_miang@schools.gov.sg</a>
-</p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>105</p>
@@ -1290,10 +1289,11 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>Mdm Norizura Bte Ithnin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p><a href="mailto:norizura_ithnin@schools.gov.sg" rel="noopener nofollow" target="_blank">norizura_ithnin@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>102</p>
@@ -1316,6 +1316,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor (Untrained)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Norullayaley Binte Mohd Ikbal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Norullayaley_Mohd_Ikbal@schools.gov.sg" rel="noopener nofollow" target="_blank">Norullayaley_Mohd_Ikbal@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>201</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lead Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1323,6 +1338,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:andrew_tang_wing_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">andrew_tang_wing_hong@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>400</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shaziah Fadzal Binte Muhammad Shamsir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shaziah_fadzal_muhammad_shamsir@schools.gov.sg" rel="noopener nofollow" target="_blank">shaziah_fadzal_muhammad_shamsir@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
