@@ -31,6 +31,10 @@ variant: tiptap
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">MOE e-FAS application forms</a>
+</p>
+</li>
+<li>
 <p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/files/Student%20handbook%202022_Counselling%20info%20June12.pdf" rel="noopener noreferrer nofollow" target="_blank">Counselling Information</a>
 </p>
 </li>
