@@ -9,4 +9,5 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2__EAS_2.jpg">
 </div>
-<p>Accurate as of 7 Oct 2024</p>
+<p><em>Accurate as of 7 Oct 2024</em>
+</p>
