@@ -15,7 +15,7 @@ variant: markdown
 
 #### Principal's Message
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" src="https://youtu.be/Ze-M2cP2yp4" height="370" width="650"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Ze-M2cP2yp4?si=deB5l7Qs9Hre2nL6" height="370" width="650"></iframe>
 
 
 #### Why Hua Yi?
