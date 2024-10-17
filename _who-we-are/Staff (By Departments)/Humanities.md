@@ -7,8 +7,7 @@ variant: tiptap
 ---
 <h2>Humanities</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Humanities__small_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/7__Humanities__new__2.jpg">
 </div>
-<p><em>*image accurate as of 31 Dec 2023</em>
+<p><em>image accurate as of 7 Oct 2024</em>
 </p>
-<p></p>
