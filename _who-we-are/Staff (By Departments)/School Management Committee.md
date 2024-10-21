@@ -13,5 +13,8 @@ variant: tiptap
 <p><em>image accurate as of 7 Oct 2024</em>
 </p>
 <h4>Staff in the photo (Not in any order):</h4>
-<p><em>Ms Sandra Gwee (Principal),</em>&nbsp;<em>Mrs Celine Wong, Mrs Catherine Chan,</em>&nbsp;<em>Mr Rameswaran, Ms Seng Pei Sze, Mr Jeffrey Ong, Mr Tan Kheng Wee, Mr Koh Kah Hock,</em>&nbsp;<em>Mr Lee Choon Kiong,</em>&nbsp;<em>Mdm Quek Si Min, Mrs Tan Cailing,</em>&nbsp;<em>Mdm Suzanne Lye,</em>&nbsp;<em>Mr Shaheful,</em>&nbsp;<em>Mrs Pan-Ong Fei Eng,</em>&nbsp;<em>Ms Shirlynn Khoo, Ms Kuek Shao Zhen,</em>&nbsp;<em>Ms Chiang Wai Kit, Ms Chan Siming, Ms Lee Taojing,</em>&nbsp;<em>Ms Tok Peilin, , Ms O Ming Fen, , Mdm Anggreini, Mr Kelvin Ng, Ms Ong Chi Yen,</em>&nbsp;<em>Mdm Aishah,&nbsp; Mr Lim Kok Sing,&nbsp; Ms Teh Sieu Ching, Ms Joanna Lim, Mdm Rajeswari &amp; Mdm Zaheera</em>
+<p><em>Ms Sandra Gwee, Mrs Celine Wong, Dr Lim Siew Yee, Mrs Pan-Ong Fei Eng, Ms Seng Pei Sze, Mdm Lye Yoke Pheng Suzanne, Ms Teh Sieu Ching, Ms Kuek Shao Zhen, Mr Tan Kheng Wee, Mr Sivagnanam Rameswaran, Ms LEE Taojing, Mr Shaheful Mansor, Mdm Adlin Ratini, Mdm Quek Si Min, Ms Chen Cailing, Mdm Aishah Bte Abdul Rahman, Ms Joanna Lim, Ms Wee Wan Ying Susanna, Ms Chiang Wai Kit, Ms Ong Chi Yen, Mr Lim Kok Sing, Ms Tok Peilin, Ms Shirlynn Khoo, Ms O Ming Fen, Mr Lim Gim Siong, Mdm Farah Suhaimi Bte Saat, Mdm Rajeshwari RAJAMANIKAM, Mdm Nur Zaheera Bte ABDUL RAHIM</em>
+</p>
+<p></p>
+<p><em>Lim, Mdm Rajeswari &amp; Mdm Zaheera</em>
 </p>
