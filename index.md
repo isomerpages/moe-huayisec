@@ -47,7 +47,7 @@ sections:
       title: Open House 2024
       id: infopic
       button: Click here for more information
-      url: d
+      url: https://huayisec.moe.edu.sg/open-house-hy/
       image: /images/2024/Open_House_Banner.png
       alt: Image alt text
 ---
