@@ -21,9 +21,13 @@ sections:
         - title: PASSIONATE LEARNERS
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
-  - announcements:
-      title: Announcements
-      id: announcements
+  - infopic:
+      title: Open House 2024
+      id: infopic
+      button: Click here for more information
+      url: https://huayisec.moe.edu.sg/open-house-hy/
+      image: /images/2024/Open_House_Banner.png
+      alt: Image alt text
   - infopic:
       title: LATEST EVENTS
       button: More upcoming events
