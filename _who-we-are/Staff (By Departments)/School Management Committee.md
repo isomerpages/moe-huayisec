@@ -13,7 +13,7 @@ variant: tiptap
 <p><em>image accurate as of 7 Oct 2024</em>
 </p>
 <h4>Staff in the photo (Not in any order):</h4>
-<p><em>Ms Sandra Gwee, Mrs Celine Wong, Dr Lim Siew Yee, Mrs Pan-Ong Fei Eng, Ms Seng Pei Sze, Mdm Lye Yoke Pheng Suzanne, Ms Teh Sieu Ching, Ms Kuek Shao Zhen, Mr Tan Kheng Wee, Mr Sivagnanam Rameswaran, Ms LEE Taojing, Mr Shaheful Mansor, Mdm Adlin Ratini, Mdm Quek Si Min, Ms Chen Cailing, Mdm Aishah Bte Abdul Rahman, Ms Joanna Lim, Ms Wee Wan Ying Susanna, Ms Chiang Wai Kit, Ms Ong Chi Yen, Mr Lim Kok Sing, Ms Tok Peilin, Ms Shirlynn Khoo, Ms O Ming Fen, Mr Lim Gim Siong, Mdm Farah Suhaimi Bte Saat, Mdm Rajeshwari RAJAMANIKAM, Mdm Nur Zaheera Bte ABDUL RAHIM</em>
+<p><em>Ms Sandra Gwee, Mrs Celine Wong, Dr Lim Siew Yee, Mrs Pan-Ong Fei Eng, Ms Seng Pei Sze, Mdm Lye Yoke Pheng Suzanne, Ms Teh Sieu Ching, Ms Kuek Shao Zhen, Mr Tan Kheng Wee, Mr Sivagnanam Rameswaran, Ms Lee Taojing, Mr Shaheful Mansor, Mdm Adlin Ratini, Mdm Quek Si Min, Ms Chen Cailing, Mdm Aishah Bte Abdul Rahman, Ms Joanna Lim, Ms Wee Wan Ying Susanna, Ms Chiang Wai Kit, Ms Ong Chi Yen, Mr Lim Kok Sing, Ms Tok Peilin, Ms Shirlynn Khoo, Ms O Ming Fen, Mr Lim Gim Siong, Mdm Farah Suhaimi Bte Saat, Mdm Rajeshwari Rajamanikam, Mdm Nur Zaheera Bte Abdul Rahim</em>
 </p>
 <p></p>
 <p><em>Lim, Mdm Rajeswari &amp; Mdm Zaheera</em>
