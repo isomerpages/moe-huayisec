@@ -1245,10 +1245,11 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>Mr Loke Yeng Yuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p><a href="mailto: loke_yeng_yuen@schools.gov.sg" rel="noopener nofollow" target="_blank">loke_yeng_yuen@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>105</p>
@@ -1397,7 +1398,8 @@ variant: tiptap
 <p>Mdm Noraini Bte Mahmod</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto: noraini_mahmod@schools.gov.sg" rel="noopener nofollow" target="_blank">noraini_mahmod@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>403</p>
