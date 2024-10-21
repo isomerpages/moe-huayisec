@@ -32,7 +32,7 @@ sections:
       title: LATEST EVENTS
       button: More upcoming events
       url: /latest-updates/latest/
-      image: /images/2024/Calendar5oct.jpg
+      image: /images/2024/Calendar6oct.jpg
       alt: Image alt text
   - infopic:
       title: QUICK FACTS ABOUT HUA YI
