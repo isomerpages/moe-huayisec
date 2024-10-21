@@ -43,4 +43,11 @@ sections:
       url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       image: /images/family-bg.jpg
       alt: Image alt text
+  - infopic:
+      title: Open House 2024
+      id: infopic
+      button: Click here for more information
+      url: d
+      image: /images/2024/Open_House_Banner.png
+      alt: Image alt text
 ---
