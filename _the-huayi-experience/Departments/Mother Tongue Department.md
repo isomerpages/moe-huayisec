@@ -9,9 +9,6 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQmi15Mv2GNac-QTVjwOHv_EIs8eRrNw1q-FBpkW3Rk9Bcl-Y6VE4GuX8_0UHaTtU1B6ldMqC8CAL_C/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQmi15Mv2GNac-QTVjwOHv_EIs8eRrNw1q-FBpkW3Rk9Bcl-Y6VE4GuX8_0UHaTtU1B6ldMqC8CAL_C/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <h4>Learning Outcomes</h4>
 <ul data-tight="true" class="tight">
 <li>
