@@ -55,8 +55,7 @@ contexts</p>
 <li>
 <p>Discussion of contemporary issues which aim to develop them into active
 citizens who practise critical thinking, by helping them understand the
-multiple perspectives on current issues. With effect from 2021, contemporary
-issues will be discussed fortnightly during CCE lessons.</p>
+multiple perspectives on current issues.</p>
 </li>
 </ul>
 <h5>Student Development Experiences</h5>
