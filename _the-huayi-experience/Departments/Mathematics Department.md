@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Mathematics Department</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFeq0toit85SIIlR3K8iA4oczmniL6iexhKr5muoLssFK5qfML-5FhBfkr-Ig8F1MOsAzVpIQVejwm/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSsi_YNfTRV0LG1-MUw7ZrIZ7xeAPOPdUqhKfYceJFD9klY5hEikIh1hQC5mEQIttntI_hV45gvNwaL/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Learning Outcomes</h4>
 <ul data-tight="true" class="tight">
@@ -33,32 +33,31 @@ in Mathematics)</p>
 <p>The portal provides a platform for students to do independent learning
 beyond the classroom. Teachers also leverage the comprehensive online resources
 and animations to value-add to the students’ learning of Mathematics.</p>
-<h5>Maths Trail/Mathematical Modelling Activities</h5>
-<p>The Maths Trail (Secondary 1) and Mathematical Modelling Activities (Secondary
-2 and 3) are organised to raise the engagement of students in learning
-Mathematics, and view the world around them from a mathematical perspective.</p>
-<h5>Singapore Maths Olympiad Training (Stretching High-Ability Students)</h5>
-<p>The programme identifies talented pupils in Mathematics and stretches
-their problem-solving abilities. Under the programme, students attend a
-series of structured training sessions, in preparation for the Maths competition.</p>
+<h5>Maths Trail/Mathematical Modelling Activities/Performance Tasks</h5>
+<p>The Maths Trails, Mathematical Modelling Activities and Performance Tasks
+are organised to raise the engagement of students in learning Mathematics
+and view the world around them from a mathematical perspective.</p>
+<h5>Mathematic s Competitions (SMO, SMKC, IMMC)</h5>
+<p>Students with a keen interest and aptitude in mathematics can take part
+in math competitions, further sharpening their problem-solving abilities.
+The program offers a series of structured training sessions to help students
+prepare for these competitions.</p>
 <h5>Bridging Programmes</h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Foundation Mathematics</p>
 </li>
 <li>
-<p>Structured Remedial Sessions</p>
+<p>Structured Remedial/Consultation Sessions</p>
 </li>
 <li>
-<p>Subject-Based Banding/Out-of-Stream Bridging</p>
+<p>Subject-Based Bridging</p>
 </li>
 </ul>
-<p>This programme is targeted at Normal Academics/Normal Technical students
-who demonstrate the potential to excel in the higher stream Express/Normal
-Academic Mathematics. They are given the opportunity to study higher stream
-Mathematics and are coached by their teachers beyond the curriculum. For
-the students who need additional support in Mathematics, they are also
-given extra coaching after curriculum hours to help them bridge the gap.</p>
+<p>Students are given the opportunity to study higher stream Mathematics
+and are coached by their teachers beyond the curriculum. For the students
+who need additional support in Mathematics, they are also given extra coaching
+after curriculum hours to help them bridge the gap.</p>
 <h5>Peer-Tutoring Programme</h5>
 <p>The seniors are given the opportunity to coach their juniors in this programme.
 This programme promotes self-directed learning and fosters a culture of
