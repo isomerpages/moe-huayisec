@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>English Department</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2u-7vRC3J6q6rx5tZEQOmzjqVsNUVFUjmZ5cT33S5e7EK2C1WZX9QwBXetGs5MJ1Ptd-LhYD0ggGt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="450" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2u-7vRC3J6q6rx5tZEQOmzjqVsNUVFUjmZ5cT33S5e7EK2C1WZX9QwBXetGs5MJ1Ptd-LhYD0ggGt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Learning Outcomes</h4>
 <p>Develop Hua Yians to be proficient, confident and empathetic communicators
