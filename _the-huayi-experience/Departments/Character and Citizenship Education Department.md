@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Character and Citizenship Education Department</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRhpIsZjihadNQ-vKm_GNk4q9A9fFbNEQREUTZYUjwGNaOt4mix-y-M10uHqgEtlWi8GmogeGdLt23C/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="450" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRhpIsZjihadNQ-vKm_GNk4q9A9fFbNEQREUTZYUjwGNaOt4mix-y-M10uHqgEtlWi8GmogeGdLt23C/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Learning Outcomes</h4>
 <div class="isomer-image-wrapper">
