@@ -28,7 +28,7 @@ trips.</p>
 </p>
 <p>'Cherishing our Hua Yi Heritage' at Secondary 1
 <br>
-<br>(e.g. Adopt-a-Bonsai programme)
+<br>(e.g. Adopt-a-Bonsai programme, Heritage Gallery Tour, Calligraphy)
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -40,7 +40,7 @@ trips.</p>
 </p>
 <p>'Appreciating Local Culture' at Secondary 2
 <br>
-<br>(e.g. local film appreciation)
+<br>(e.g. Cultural Learning Journey, Meet-a-local Writer)
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -53,4 +53,4 @@ trips.</p>
 <p>'Understanding Global Culture' at
 <br>Secondary 2 and 3
 <br>
-<br>(e.g. Internationalisation)</p>
+<br>(e.g. Internationalisation programme, hosting visitors to the school)</p>
