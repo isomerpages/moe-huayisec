@@ -49,7 +49,7 @@ National Library Board resource repositories such as Infopedia and NewspaperSG,
 or play historical board games, in order to experience the significance
 of past events and how historical evidence is used to reconstruct an understanding
 of the past.</p>
-<h5>Geographical Inquiry through Fieldwork </h5>
+<h5>Geographical Inquiry through Fieldwork</h5>
 <p>At the Lower Secondary level, students engage in various authentic learning
 experiences to enhance their awareness of environmental and social issues.
 For example, in studying water issues, Secondary 1 students investigate
