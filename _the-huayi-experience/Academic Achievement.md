@@ -2,549 +2,2199 @@
 title: Academic Achievement
 permalink: /the-huayi-experience/aa/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## Academic Achievement
-
-##### 2022 GCE 'O' Level Examination Results
-
-A total of 168 candidates from Secondary 4 Express and 26 candidates from Secondary 5 Normal (Academic) sat for the 2022 GCE O-Level Examination and their performance is as follows:
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Secondary Four Express</th>
-  </tr>
-</thead>
+<h2>Academic Achievement</h2>
+<h5>2023 GCE ‘O’ Level Examination Results</h5>
+<p>A total of 161 candidates from Secondary 4 Express and 21 candidates from
+Secondary 5 Normal (Academic) sat for the 2023 GCE O-Level Examination
+and their performance is as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>% with 5 or more subject passes</td>
-    <td>97.6%</td>
-  </tr>
-  <tr>
-    <td>% eligible for Junior College</td>
-    <td>75.0%</td>
-  </tr>
-  <tr>
-    <td>% eligible for Centralized Institute</td>
-    <td>91.0%</td>
-  </tr>
-  <tr>
-    <td>% eligible for Polytechnic</td>
-    <td>98.0%</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary Four Express</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>93.8%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>70.8%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Centralized Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>89.4%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>97.5%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary Five Normal (Academic)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>71.4%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14.3%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Centralized Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>52.4%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>90.5%</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Secondary Five Normal (Academic)</th>
-  </tr>
-</thead>
+<p>Our candidates from the Secondary Four Express course did well in a number
+of subjects, achieving 100% passes in Art, Higher Art, Malay, Higher Malay,
+Biology, Chemistry, Physics and Geography.</p>
+<p>Candidates from Secondary Five Normal (Academic) course did well in Malay,
+Hum(SS/Hist), Hum (SS/Lit), NFS and Sci(Phy/Chem), with attainment of 100%
+passes in these subjects.</p>
+<p>We congratulate the following candidates from Sec 4 Express who obtained
+5 or more distinctions:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>% with 5 or more subject passes</td>
-    <td>38.5%</td>
-  </tr>
-  <tr>
-    <td>% eligible for Centralized Institute</td>
-    <td>31%</td>
-  </tr>
-  <tr>
-    <td>% eligible for Polytechnic</td>
-    <td>65%</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Number of Distinctions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jacelyn Koh Pei Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tang Ziling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Kah Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Jia Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Jing Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woo Yi Xing Genice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Qian Hui Mathilda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amelia Than Hui Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Jun Xun Josh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>How Qi Hui Fabian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teoh Yi Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Xin Yan, Sarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nyx Wong Mun Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Ying Jia Angeline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Si Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Isaac Ang Yu Ze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Peh Fang Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lau Chun Lok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gnoh Hui En Chloe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sara Ong Xiping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leong Ewgene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kelly Tan Xin Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amanda Ng Rui En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hayley Cheah Cheng Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heng Jian Yong, Keyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teoh Rey Jee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Yu Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Siyao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jeanne Clarissa Hartono</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Hui Ariel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Yu Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lye Yi Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Rui Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Voon Shun Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Jun Jie Roy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tang Mingshuo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Franstin Joseph Francis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-Our candidates from the Secondary Four Express course did well in a number of subjects and of notable mention are the following with at least&nbsp;**90% or more passes**: English Language, Chinese Language, Higher Chinese Language, Malay Language, Mathematics, Additional Mathematics, Biology, Chemistry, Physics, Humanities (Social Studies / Geography), Humanities (Social Studies / History), Humanities (Social Studies / Literature), Geography, History, Literature, Higher Art, Design &amp; Technology and Nutrition &amp; Food Science. Of these subjects, Malay Language, Physics, Humanities (Social Studies / Literature), Geography, History, Literature, Higher Art, Nutrition &amp; Food Science attained&nbsp;**100% pass**.  
-  
-Candidates from Secondary Five Normal (Academic) course did well in Chinese Language, Malay Language, Additional Mathematics, Humanities (Social Studies / History), Nutrition &amp; Food Science and Principles of Accounts with attainment of&nbsp;**100% passes**.  
-  
-We congratulate the following candidates from the Sec 4 Express students who obtained 5 or more distinctions:
-
-<table>
-<thead>
-  <tr>
-    <th>No.</th>
-    <th>Class</th>
-    <th>Name</th>
-    <th>Number of Distinctions</th>
-  </tr>
-</thead>
+<h5>2023 GCE ‘N’ Level Examination Result</h5>
+<p>64 candidates from the Secondary 4 Normal (Academic) course and 37 candidates
+from the Secondary 4 Normal (Technical) course sat for the 2023 GCE N-Level
+Examinations and their performance is as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>1</td>
-    <td>4D</td>
-    <td>Tan Xin En</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>4D</td>
-    <td>Kerk Min Jun, Chloe</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>4D</td>
-    <td>Lee Hong Hong</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>4D</td>
-    <td>Chen Weijun, Reyes</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>4D</td>
-    <td>Audrey Lau Hui Xuan</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>4D</td>
-    <td>Chor Xin Hui</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>4D</td>
-    <td>Ho Jin Li Yvonne</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>4D</td>
-    <td>Amelia Tan Si En</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>4D</td>
-    <td>Lynn Tan Si Yi</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>4D</td>
-    <td>Nga Qian Hui</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td>4D</td>
-    <td>Nicole Tan Qian Ying</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td>4D</td>
-    <td>Rachel Khor Wei Ning</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td>4D</td>
-    <td>Wee Tze Rae Natalie</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td>4D</td>
-    <td>Ho Shang Lieh Ocean</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td>4D</td>
-    <td>Soh Xuan Ming</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>4D</td>
-    <td>Chua Jun Xuan Julian</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>17</td>
-    <td>4D</td>
-    <td>Asher Cheng</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>18</td>
-    <td>4D</td>
-    <td>Nihayatul Istianah Binte Mohammed</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>19</td>
-    <td>4D</td>
-    <td>Angel Lim Yu Xi</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>20</td>
-    <td>4D</td>
-    <td>Annabelle Tay Yu Xiu</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>21</td>
-    <td>4D</td>
-    <td>Joerin Lee Le Tong</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>22</td>
-    <td>4D</td>
-    <td>Koh Jia En, Chloe</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>23</td>
-    <td>4D</td>
-    <td>Ong Yu Xuan</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>24</td>
-    <td>4D</td>
-    <td>Shann Ong Zhi Xuan</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>25</td>
-    <td>4D</td>
-    <td>Tan Siaw Tin</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>26</td>
-    <td>4D</td>
-    <td>Damien You Hong</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>27</td>
-    <td>4D</td>
-    <td>Ivan Yak</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>28</td>
-    <td>4D</td>
-    <td>Quah Hao Yu</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>29</td>
-    <td>4D</td>
-    <td>Rezky Adrianshah Bin Syahlan</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>30</td>
-    <td>4E</td>
-    <td>Heng Li Xuan Celeste</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>31</td>
-    <td>4E</td>
-    <td>Alexis Lee Jia Ler</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>32</td>
-    <td>4E</td>
-    <td>Guan Lixiang</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>33</td>
-    <td>4E</td>
-    <td>Jasper Loh Wen Yue</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>34</td>
-    <td>4E</td>
-    <td>Low Rong Xuan</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>35</td>
-    <td>4E</td>
-    <td>Neo Rong Xian</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>36</td>
-    <td>4E</td>
-    <td>Soh Yong-Jin</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>37</td>
-    <td>4E</td>
-    <td>Tan Zhao Xuan</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>38</td>
-    <td>4E</td>
-    <td>Yang Yuchen</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>39</td>
-    <td>4F</td>
-    <td>Yap Jing Ting</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>40</td>
-    <td>4G</td>
-    <td>Syazmira Binte Samsaimond</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>41</td>
-    <td>4G</td>
-    <td>Huang Jundong</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>42</td>
-    <td>4G</td>
-    <td>Yap Ming Yang Ryan</td>
-    <td>5</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary Four Normal (Academic)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>96.9%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for 5 Normal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>89.1%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Direct-Entry Scheme to Polytechnic Programme (DPP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>87.5%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Polytechnic Foundation Programme (PFP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29.7%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary Four Normal (Technical)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>89.2%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for courses in Institute of Technical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100.0%</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-##### 2022 GCE 'N' Level Examination Result
-
-69 candidates from the Secondary 4 Normal (Academic) course and 33 candidates from the Secondary 4 Normal (Technical) course sat for the 2022 GCE N-Level Examinations and their performance is as follows:
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Secondary Four Normal (Academic)</th>
-  </tr>
-</thead>
+<p>Our candidates from the Secondary Four Normal (Academic) course did well
+in English, Malay, Additional Math, Science (Bio/Chem), Art, D&amp;T, Humanities
+(SS/Geo), Humanities (SS/History) and Humanities (SS/Lit), attaining 100%
+passes in these subjects.</p>
+<p>Candidates from Secondary Four Normal (Technical) course achieved 100%
+passes in Basic Malay, D&amp;T and NFS.</p>
+<p></p>
+<h5>2022 GCE 'O' Level Examination Results</h5>
+<p>A total of 168 candidates from Secondary 4 Express and 26 candidates from
+Secondary 5 Normal (Academic) sat for the 2022 GCE O-Level Examination
+and their performance is as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>% with 5 or more subject passes</td>
-    <td>88.4%</td>
-  </tr>
-  <tr>
-    <td>% eligible for 5 Normal (Academic)</td>
-    <td>94.2%</td>
-  </tr>
-  <tr>
-    <td>% eligible for Direct-Entry Scheme to Polytechnic Programme (DPP)</td>
-    <td>65.2%</td>
-  </tr>
-  <tr>
-    <td>% eligible for Polytechnic Foundation Programme (PFP)</td>
-    <td>20.0%</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Secondary Four Express</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>97.6%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>75.0%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Centralized Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91.0%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>98.0%</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Secondary Four Normal (Technical)</th>
-  </tr>
-</thead>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>% with 5 or more subject passes</td>
-    <td>81.8%</td>
-  </tr>
-  <tr>
-    <td>% eligible for courses in Institute of Technical Education</td>
-    <td>100.0%</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Secondary Five Normal (Academic)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38.5%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Centralized Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65%</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-Our candidates from the Secondary Four Normal (Academic) course did well in English Language, Malay Language, Science (Chemistry / Biology), Science (Physics / Chemistry), Mathematics, Additional Mathematics, Humanities (Social Studies / History), Humanities (Social Studies / Geography), Art Syllabus A, Design &amp; Technology and Nutrition &amp; Food Science attaining&nbsp;**90% or more passes**. The following subjects - English Language, Malay Language, Science (Chemistry / Biology), Additional Mathematics, Humanities (Social Studies / History), Humanities (Social Studies / Geography), Art Syllabus A and Design &amp; Technology attained&nbsp;**100% pass**.  
-  
-
-Candidates from Secondary Four Normal (Technical) course did well in English Language, Basic Chinese Language, Basic Malay Language, Science Syllabus T, Computer Applications, Food Studies, Elements of Business Skills and Design &amp; Technology. Of these subjects, English Language, Basic Chinese Language, Basic Malay Language, Elements of Business Skills and Design &amp; Technology attained&nbsp;**100% pass.**  
-  
-The table below shows the performance of candidates from Secondary 4 Normal Academic and Secondary 4 Normal Technical courses who took the following out-of-stream subjects and sat for them at the 2022 GCE N and O Level Examinations respectively:
-
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Secondary Four Normal (Academic)</th>
-    <th colspan="2">Secondary Four Normal (Technical)</th>
-  </tr>
-</thead>
+<p>Our candidates from the Secondary Four Express course did well in a number
+of subjects and of notable mention are the following with at least&nbsp;<strong>90% or more passes</strong>:
+English Language, Chinese Language, Higher Chinese Language, Malay Language,
+Mathematics, Additional Mathematics, Biology, Chemistry, Physics, Humanities
+(Social Studies / Geography), Humanities (Social Studies / History), Humanities
+(Social Studies / Literature), Geography, History, Literature, Higher Art,
+Design &amp; Technology and Nutrition &amp; Food Science. Of these subjects,
+Malay Language, Physics, Humanities (Social Studies / Literature), Geography,
+History, Literature, Higher Art, Nutrition &amp; Food Science attained&nbsp;<strong>100% pass</strong>.</p>
+<p>Candidates from Secondary Five Normal (Academic) course did well in Chinese
+Language, Malay Language, Additional Mathematics, Humanities (Social Studies
+/ History), Nutrition &amp; Food Science and Principles of Accounts with
+attainment of&nbsp;<strong>100% passes</strong>.</p>
+<p>We congratulate the following candidates from the Sec 4 Express students
+who obtained 5 or more distinctions:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>Subject</td>
-    <td>Performance (O Level pass in %)</td>
-    <td>Subject</td>
-    <td>Performance (O Level pass in %)</td>
-  </tr>
-  <tr>
-    <td>English Language</td>
-    <td>100%</td>
-    <td>English Language</td>
-    <td>100%</td>
-  </tr>
-  <tr>
-    <td>Chinese Language</td>
-    <td>100%</td>
-    <td>Malay Language</td>
-    <td>100%</td>
-  </tr>
-  <tr>
-    <td>Malay Language</td>
-    <td>100%</td>
-    <td>Mathematics</td>
-    <td>100%</td>
-  </tr>
-  <tr>
-    <td>Mathematics</td>
-    <td>100%</td>
-    <td>Science (Phy/Chem)</td>
-    <td>100%</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>No.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Number of Distinctions</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Xin En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kerk Min Jun, Chloe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Hong Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Weijun, Reyes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audrey Lau Hui Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chor Xin Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Jin Li Yvonne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amelia Tan Si En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lynn Tan Si Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nga Qian Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nicole Tan Qian Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rachel Khor Wei Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wee Tze Rae Natalie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Shang Lieh Ocean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soh Xuan Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Jun Xuan Julian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asher Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nihayatul Istianah Binte Mohammed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Angel Lim Yu Xi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annabelle Tay Yu Xiu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joerin Lee Le Tong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Jia En, Chloe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Yu Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shann Ong Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Siaw Tin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Damien You Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ivan Yak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quah Hao Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rezky Adrianshah Bin Syahlan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heng Li Xuan Celeste</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alexis Lee Jia Ler</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guan Lixiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jasper Loh Wen Yue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Low Rong Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neo Rong Xian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soh Yong-Jin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Zhao Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yang Yuchen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yap Jing Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Syazmira Binte Samsaimond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Huang Jundong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yap Ming Yang Ryan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-
-
-##### 2021 GCE 'O' Level Examination Results
-
-A total of 165 candidates from Secondary 4 Express course and 23 candidates from Secondary 5 Normal (Academic) course sat for the 2021 GCE O-Level Examination and their performance were as follows:
-
-**Secondary Four Express**
-
-|  |  |
-|:---:|---|
-| % with 5 or more subject passes | 91.5% |
-| % eligible for Junior College | 56.3% |
-| % eligible for Centralized Institute | 83.03% |
-| % eligible for Polytechnic | 96.97% |
-|  |  |
-
-**Secondary Five Normal (Academic)**
-
-|  |  |
-|:---:|---|
-| % with 5 or more subject passes | 30.4% |
-| % eligible for Junior College | 4.35% |
-| % eligible for Centralized Institute | 21.74% |
-|% eligible for Polytechnic  | 86.96% |
-|  |  |
-
-Our candidates from the Secondary Four Express course had done well in a number of subjects and of notable mention are the following with at least&nbsp;**90% or more passes**: Additional Mathematics, Art, Biology, Chemistry, Chinese Language, Design &amp; Technology, English Language, Geography, Higher Art, Higher Chinese Language, History, Humanities (Social Studies/History), Literature in English, Mathematics, Physics and Science (Chemistry/Biology).&nbsp;Of these subjects, Art, Design &amp; Technology, Higher Art, Higher Chinese Language, History, Literature in English, Malay Language and Principles of Accounts (7175) have attained&nbsp;**100% pass**.
-
-Candidates from Secondary Five Normal (Academic) course had done well in Art, Design &amp; Technology, Malay and Principles of Accounts with&nbsp;**100% pass.**
-
-The table below shows candidates from the Secondary 4 Normal Academic course who took the following out-of-stream subjects and sat for them at the 2021 GCE O-Level Examination:
-
-**Secondary Four Normal (Academic)**
-
-| **Subject** | **Performance (pass in %)** |
-|:---:|---|
-| Chinese Language | 100% |
-| English Language | 83.3% |
-| Malay Language | 100% |
-| Mathematics | 85.7% |
-| Music | 100% |
-| Science (Chemistry / Biology) | 100% |
-|  |  |
-
-##### 2021 GCE 'N' Level Examination Result
-
-80 candidates from the Secondary 4 Normal (Academic) course and 38 candidates from the Secondary 4 Normal (Technical) course sat for the 2020 GCE N-Level Examinations and their performance were as follow:
-
-**Secondary Four Normal (Academic)**
-
-|  |  |
-|:---:|---|
-| % with 5 or more subject passes | 87.5% |
-| % eligible for 5 Normal (Academic) | 93.0% |
-| % eligible for Direct-Entry Scheme to Polytechnic Programme (DPP) | 58.8% |
-| % eligible for Polytechnic Foundation Programme (PFP) | 18.75% |
-|  |  |
-
-**Secondary Four Normal (Technical)**
-
-|  |  |
-|:---:|---|
-| % with 5 or more subject passes | 97.4% |
-| % eligible for courses in Institute of Technical Education | 100% |
-|  |  |
-
-Our candidates from the Secondary Four Normal (Academic) course had done well in Chinese Language, Humanities (Social Studies/Geography), Humanities (Social Studies/Literature), Science (Chemistry / Biology) with at least&nbsp;**90% or more passes.**&nbsp;Subjects namely, Art Syllabus A, Additional Mathematics, Design &amp; Technology, English Language, Food and Nutrition, Humanities (Social Studies/History), Mathematics Syllabus A, Malay Language, Principles of Accounts, Science (Chemistry / Physics) and Tamil Language attained&nbsp;**100% pass**.
-
-Candidates from Secondary Four Normal (Technical) course had done well in Computer Applications, Elements of Business Administration, Food Studies, Mathematics Syllabus (T), Science Syllabus (T) which had&nbsp;**90% or more passes**&nbsp;while Basic Chinese Language, Basic Malay Language and English Language attained&nbsp;**100% pass**.
-
-##### 2020 GCE 'O' Level Examination Result
-
-A total of 164 candidates from Secondary 4 Express course and 31 candidates from Secondary 5 Normal (Academic) course sat for the 2020 GCE O-Level Examination and their performance were as follows:
-
-**Secondary Four Express**
-
-|  |  |
-|:---:|---|
-| % with 5 or more subject passes | 91.5% |
-| % eligible for Junior College | 64.3% |
-| % eligible for Centralized Institute | 81% |
-| % eligible for Polytechnic | 95% |
-|  |  |
-
-**Secondary Five Normal (Academic)**
-
-|  |  |
-|:---:|---|
-| % with 5 or more subject passes | 48.4% |
-| % eligible for Junior College | &nbsp;7% |
-| % eligible for Centralized Institute | 19% |
-| % eligible for Polytechnic | 74% |
-|  |  |
-
-Our candidates from the Secondary Four Express course had also done well in a number of subjects and of notable mention are the following with at least&nbsp;**90% or more passes**:&nbsp;Biology, Chemistry, Design &amp; Technology, English Language, Geography, History, Literature, Humanities (Social Studies/History), Mathematics, Principles of Accounts, Physics, Science (Chemistry/Biology) and Tamil Language. Subjects namely, Chinese Language, Food &amp; Nutrition, Higher Art, Higher Chinese Language, Malay Language, Physics and Tamil attained&nbsp;**100% passes**.&nbsp;Candidates from Secondary Five Normal (Academic) course had done well in Additional Mathematics, Chinese Language, Design &amp; Technology, Combined Humanities (Literature), Malay and Tamil Languages with&nbsp;**100% passes.**
-
-##### 2020 GCE 'N' Level Examination Result
-
-80 candidates from the Secondary 4 Normal (Academic) course and 38 candidates from the Secondary 4 Normal (Technical) course sat for the 2020 GCE N-Level Examinations and their performance were as follows:
-
-**Secondary Four Normal (Academic)**
-
-|  |  |
-|:---:|---|
-| % with 5 or more subject passes | 82% |
-| % eligible for 5 Normal (Academic) | 81.3% |
-| % eligible for Direct-Entry Scheme to Polytechnic Programme (DPP) | 61.3% |
-| % eligible for Polytechnic Foundation Programme (PFP) | 7% |
-|  |  |
-
-**Secondary Four Normal (Technical)**
-
-|  |  |
-|:---:|---|
-| % with 5 or more subject passes | 94% |
-| % eligible for courses in Institute of Technical Education | 100% |
-|  |  |
-
-Our candidates from the Secondary Four Normal (Academic) course had done well in Art Syllabus (A), Chinese Language, Humanities (Social Studies/Geography), Humanities (Social Studies/Literature), Malay Language, Mathematics Syllabus (A) with at least&nbsp;**90% or more passes.**&nbsp;Subjects namely, Additional Mathematics, Design &amp; Technology, Humanities (Social Studies/History), English Language and Tamil Language had attained&nbsp;**100% passes**. Candidates from Secondary Four Normal (Technical) course had done well in Computer Applications, Elements of Office Administration, English Language, Mathematics Syllabus (T), Science Syllabus (T) which had&nbsp;**90% or more passes**&nbsp;while Basic Chinese Language, Basic Malay Language, Basic Tamil Language and Design &amp; Technology had attained&nbsp;**100% passes**.
+<h5>2022 GCE 'N' Level Examination Result</h5>
+<p>69 candidates from the Secondary 4 Normal (Academic) course and 33 candidates
+from the Secondary 4 Normal (Technical) course sat for the 2022 GCE N-Level
+Examinations and their performance is as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Secondary Four Normal (Academic)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>88.4%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for 5 Normal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>94.2%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Direct-Entry Scheme to Polytechnic Programme (DPP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65.2%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Polytechnic Foundation Programme (PFP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20.0%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Secondary Four Normal (Technical)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>81.8%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for courses in Institute of Technical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100.0%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our candidates from the Secondary Four Normal (Academic) course did well
+in English Language, Malay Language, Science (Chemistry / Biology), Science
+(Physics / Chemistry), Mathematics, Additional Mathematics, Humanities
+(Social Studies / History), Humanities (Social Studies / Geography), Art
+Syllabus A, Design &amp; Technology and Nutrition &amp; Food Science attaining&nbsp;<strong>90% or more passes</strong>.
+The following subjects - English Language, Malay Language, Science (Chemistry
+/ Biology), Additional Mathematics, Humanities (Social Studies / History),
+Humanities (Social Studies / Geography), Art Syllabus A and Design &amp;
+Technology attained&nbsp;<strong>100% pass</strong>.</p>
+<p>Candidates from Secondary Four Normal (Technical) course did well in English
+Language, Basic Chinese Language, Basic Malay Language, Science Syllabus
+T, Computer Applications, Food Studies, Elements of Business Skills and
+Design &amp; Technology. Of these subjects, English Language, Basic Chinese
+Language, Basic Malay Language, Elements of Business Skills and Design
+&amp; Technology attained&nbsp;<strong>100% pass.</strong>
+</p>
+<p>The table below shows the performance of candidates from Secondary 4 Normal
+Academic and Secondary 4 Normal Technical courses who took the following
+out-of-stream subjects and sat for them at the 2022 GCE N and O Level Examinations
+respectively:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Secondary Four Normal (Academic)</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Secondary Four Normal (Technical)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance (O Level pass in %)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance (O Level pass in %)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science (Phy/Chem)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>2021 GCE 'O' Level Examination Results</h5>
+<p>A total of 165 candidates from Secondary 4 Express course and 23 candidates
+from Secondary 5 Normal (Academic) course sat for the 2021 GCE O-Level
+Examination and their performance were as follows:</p>
+<p><strong>Secondary Four Express</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91.5%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>56.3%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Centralized Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>83.03%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>96.97%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Secondary Five Normal (Academic)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30.4%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.35%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Centralized Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21.74%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>86.96%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our candidates from the Secondary Four Express course had done well in
+a number of subjects and of notable mention are the following with at least&nbsp;<strong>90% or more passes</strong>:
+Additional Mathematics, Art, Biology, Chemistry, Chinese Language, Design
+&amp; Technology, English Language, Geography, Higher Art, Higher Chinese
+Language, History, Humanities (Social Studies/History), Literature in English,
+Mathematics, Physics and Science (Chemistry/Biology).&nbsp;Of these subjects,
+Art, Design &amp; Technology, Higher Art, Higher Chinese Language, History,
+Literature in English, Malay Language and Principles of Accounts (7175)
+have attained&nbsp;<strong>100% pass</strong>.</p>
+<p>Candidates from Secondary Five Normal (Academic) course had done well
+in Art, Design &amp; Technology, Malay and Principles of Accounts with&nbsp;<strong>100% pass.</strong>
+</p>
+<p>The table below shows candidates from the Secondary 4 Normal Academic
+course who took the following out-of-stream subjects and sat for them at
+the 2021 GCE O-Level Examination:</p>
+<p><strong>Secondary Four Normal (Academic)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Performance (pass in %)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>83.3%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>85.7%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science (Chemistry / Biology)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>2021 GCE 'N' Level Examination Result</h5>
+<p>80 candidates from the Secondary 4 Normal (Academic) course and 38 candidates
+from the Secondary 4 Normal (Technical) course sat for the 2020 GCE N-Level
+Examinations and their performance were as follow:</p>
+<p><strong>Secondary Four Normal (Academic)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>87.5%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for 5 Normal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>93.0%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Direct-Entry Scheme to Polytechnic Programme (DPP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>58.8%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Polytechnic Foundation Programme (PFP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18.75%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Secondary Four Normal (Technical)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>97.4%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for courses in Institute of Technical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our candidates from the Secondary Four Normal (Academic) course had done
+well in Chinese Language, Humanities (Social Studies/Geography), Humanities
+(Social Studies/Literature), Science (Chemistry / Biology) with at least&nbsp;<strong>90% or more passes.</strong>&nbsp;Subjects
+namely, Art Syllabus A, Additional Mathematics, Design &amp; Technology,
+English Language, Food and Nutrition, Humanities (Social Studies/History),
+Mathematics Syllabus A, Malay Language, Principles of Accounts, Science
+(Chemistry / Physics) and Tamil Language attained&nbsp;<strong>100% pass</strong>.</p>
+<p>Candidates from Secondary Four Normal (Technical) course had done well
+in Computer Applications, Elements of Business Administration, Food Studies,
+Mathematics Syllabus (T), Science Syllabus (T) which had&nbsp;<strong>90% or more passes</strong>&nbsp;while
+Basic Chinese Language, Basic Malay Language and English Language attained&nbsp;<strong>100% pass</strong>.</p>
+<h5>2020 GCE 'O' Level Examination Result</h5>
+<p>A total of 164 candidates from Secondary 4 Express course and 31 candidates
+from Secondary 5 Normal (Academic) course sat for the 2020 GCE O-Level
+Examination and their performance were as follows:</p>
+<p><strong>Secondary Four Express</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91.5%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64.3%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Centralized Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>81%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>95%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Secondary Five Normal (Academic)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48.4%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;7%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Centralized Institute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>74%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our candidates from the Secondary Four Express course had also done well
+in a number of subjects and of notable mention are the following with at
+least&nbsp;<strong>90% or more passes</strong>:&nbsp;Biology, Chemistry,
+Design &amp; Technology, English Language, Geography, History, Literature,
+Humanities (Social Studies/History), Mathematics, Principles of Accounts,
+Physics, Science (Chemistry/Biology) and Tamil Language. Subjects namely,
+Chinese Language, Food &amp; Nutrition, Higher Art, Higher Chinese Language,
+Malay Language, Physics and Tamil attained&nbsp;<strong>100% passes</strong>.&nbsp;Candidates
+from Secondary Five Normal (Academic) course had done well in Additional
+Mathematics, Chinese Language, Design &amp; Technology, Combined Humanities
+(Literature), Malay and Tamil Languages with&nbsp;<strong>100% passes.</strong>
+</p>
+<h5>2020 GCE 'N' Level Examination Result</h5>
+<p>80 candidates from the Secondary 4 Normal (Academic) course and 38 candidates
+from the Secondary 4 Normal (Technical) course sat for the 2020 GCE N-Level
+Examinations and their performance were as follows:</p>
+<p><strong>Secondary Four Normal (Academic)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>82%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for 5 Normal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>81.3%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Direct-Entry Scheme to Polytechnic Programme (DPP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>61.3%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for Polytechnic Foundation Programme (PFP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Secondary Four Normal (Technical)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% with 5 or more subject passes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>94%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>% eligible for courses in Institute of Technical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our candidates from the Secondary Four Normal (Academic) course had done
+well in Art Syllabus (A), Chinese Language, Humanities (Social Studies/Geography),
+Humanities (Social Studies/Literature), Malay Language, Mathematics Syllabus
+(A) with at least&nbsp;<strong>90% or more passes.</strong>&nbsp;Subjects
+namely, Additional Mathematics, Design &amp; Technology, Humanities (Social
+Studies/History), English Language and Tamil Language had attained&nbsp;<strong>100% passes</strong>.
+Candidates from Secondary Four Normal (Technical) course had done well
+in Computer Applications, Elements of Office Administration, English Language,
+Mathematics Syllabus (T), Science Syllabus (T) which had&nbsp;<strong>90% or more passes</strong>&nbsp;while
+Basic Chinese Language, Basic Malay Language, Basic Tamil Language and
+Design &amp; Technology had attained&nbsp;<strong>100% passes</strong>.</p>
