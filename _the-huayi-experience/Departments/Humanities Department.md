@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Humanities Department</h2>
 <div class="iframe-wrapper">
-<iframe height="569" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGZi04b2ZqGxXLxnrcDA0H9cj2gWFLFgtlyU5BerZ1zPb409U3AS0D4S4Qr7wYH2IoLfdnpBUMHbW4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGZi04b2ZqGxXLxnrcDA0H9cj2gWFLFgtlyU5BerZ1zPb409U3AS0D4S4Qr7wYH2IoLfdnpBUMHbW4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Learning Outcomes</h4>
 <ul data-tight="true" class="tight">
@@ -24,7 +24,7 @@ communication crucial to independent and lifelong learning.</p>
 </ul>
 <h4>Key Programmes</h4>
 <h5>Social Studies Issues Investigations</h5>
-<p>In Social Studies Issues Investigations, our Sec 3G3 and G2 students collaboratively
+<p>In Social Studies Issues Investigations, our Sec 3 students collaboratively
 explore pressing societal issues, such as Singapore's plastic waste management.
 By researching various stakeholders and utilising e-pedagogical tools,
 students develop their critical thinking skills while deepening their understanding
@@ -103,7 +103,7 @@ of the Humanities.</p>
 <p>Our Upper Secondary Humanities students actively participate in the NJC
 International Humanities Symposium (IHS), a platform that showcases their
 research on vital global issues. This initiative explicitly aligns with
-e21CC principles, fostering civic, global, and cross-cultural competencies.
+E21CC principles, fostering civic, global, and cross-cultural competencies.
 By exploring themes such as resource depletion and social inequality, our
 students engage in critical discussions that enhance their understanding
 of civic responsibility and global interconnectedness. The symposium encourages
