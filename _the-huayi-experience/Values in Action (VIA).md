@@ -2,32 +2,40 @@
 title: Values in Action (VIA)
 permalink: /the-huayi-experience/via/
 description: ""
+variant: tiptap
 ---
-## Values-in-Action (VIA)
-
-In Hua Yi, Values-in-Action (VIA) activities are class-based and CCA-based learning experiences designed to imbue our students with a sense of responsibility and the desire to make a difference, so that they may continue to serve and contribute to the community after they leave Hua Yi.
-
-**"I learned in the Environmental Sustainability IPW that the Semakau landfill is piling up very quickly because of food and trash wastage. I’m glad that we have the chance to suggest solutions to help prevent global warming****."**<br>
-_Nicholas Yee Yien Le, 21-1D_
-
-##### SECONDARY 1
-
-<img src="/images/Sec 1 Students Presenting their Project on Land Pollution.jpeg" style="width:70%">
-
-Secondary 1 students are immersed in Interdisciplinary Project Work (IPW), where they apply what they have learnt in their Humanities and Science lessons on Environmental Sustainability into their Service Learning projects. Students make use of the Design Thinking framework to propose solutions to environmental issues and exercise social responsibility in their spheres of influence.
-
-##### SECONDARY 2
-
-<img src="/images/2A Elderly from Lion Befriender receiving goodie bag.jpg" style="width:49%" align=left>
-<img src="/images/2D Gift Hamper to Orange Valley Nursing Home.jpg" style="width:49%" align=right>
-<br clear="left">
-
-Secondary 2 students help to promote a good cause by involving themselves in projects that aim to make a positive impact on seniors in the Jurong Community. This year, our students had the opportunity to have interactive sessions with these seniors online and created rich resources for elderly centres to engage their seniors.
-
-##### UPPER SECONDARY
-
-<img src="/images/3A.jpg" style="width:60%" align=left>
-<img src="/images/3E Children Wishing Well_1.jpg" style="width:36%" align=right>
-<br clear="left">
-
-Upper Secondary students participate in their Service Learning projects where they take the lead in designing, implementing and evaluating their service activities. In 2021, the Secondary 3 students also worked to apply what they learned in their Applied Learning Programme (ALP) to fulfil the needs of the community group they chose to work with.
+<h2>Values-in-Action (VIA)</h2>
+<p>In Hua Yi, Values-in-Action (VIA) activities are class-based and CCA-based
+learning experiences designed to imbue our students with a sense of responsibility
+and the desire to make a difference, so that they may continue to serve
+and contribute to the community after they leave Hua Yi.</p>
+<h5>SECONDARY 1</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Interclass_Sustainability_Challenge.jpg">
+</div>
+<p>Secondary 1 students are immersed in Interdisciplinary Project Work (IPW),
+where they apply what they have learnt in their Humanities and Science
+lessons on Environmental Sustainability into their Service Learning projects.
+Students make use of the Design Thinking framework to propose solutions
+to environmental issues and exercise social responsibility in their spheres
+of influence.</p>
+<h5>SECONDARY 2</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_VIA_at_elderly_centre.jpg">
+</div>
+<p>Secondary 2 students help to promote a good cause by involving themselves
+in projects that aim to make a positive impact on seniors in the Jurong
+Community. Our students are involved in planning and executing educational
+and interactive activities that support active and healthy aging among
+the elderly.</p>
+<h5>UPPER SECONDARY</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_Service_Learning.jpg">
+</div>
+<p>Upper Secondary students are engaged in Service Learning projects where
+they design, implement, and evaluate student-initiated activities to benefit
+various beneficiaries of their choices. These projects expose students
+to various social causes and encourage them to collaboratively develop
+innovative solutions for meaningful community impact.</p>
+<p>Through these VIA activities, our students grow into empathetic, socially
+aware individuals who actively contribute to the betterment of society.</p>
