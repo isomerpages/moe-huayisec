@@ -10,8 +10,8 @@ variant: tiptap
 </div>
 <p>The House system in Hua Yi aims to give students an identity within the
 school, and a sense of pride in a supportive and secure environment. Each
-class is allocated to one of the five Houses in Hua Yi and will remain
-in the same House throughout their four/five years in the school.</p>
+class is allocated to one of the five Houses in Hua Yi and students will
+remain in the same House throughout their four/five years in the school.</p>
 <p>The school plans House activities for the school, which are carried out
 during House Days. These activities are designed to build camaraderie amongst
 the students within each House, and throughout the year, various school
