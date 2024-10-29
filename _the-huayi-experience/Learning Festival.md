@@ -2,15 +2,29 @@
 title: Learning Festival
 permalink: /the-huayi-experience/lvl-festival/
 description: ""
+variant: tiptap
 ---
-## Learning Festival
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgLdKPma0GE8HY29NVldvuP1gAcF7hWWBabBa-U6633ahMOQ_6ewuS1iPd2TY79DDeWhWapOPZyk1v/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-The Learning Festival is a school programme customised and designed to encourage Hua Yians to embrace a culture of learning together as well as the philosophy of lifelong learning. By participating in a range of programmes from different domains, Hua Yians are able to deepen their learning, explore new interests and also pursue their passions.
-
-In May 2021, we had our first ever Virtual Learning Festival. With the aid of technology, students remained connected to their friends as they learned a skill of their choice together, tuned in to hear the life and work experiences of invited speakers from different industries, worked on assigned tasks and shared their experiences and insights with their teachers and friends through photo journals and other digital artefacts. Hua Yians have indeed taken this new experience to explore the different possibilities of learning and demonstrated much resilience, creativity and innovation through it!
-
-<img style="width:85%" src="/images/3D Nicole Amelia Shi Qi Jovial 1.jpg">
-
-_This is a poster designed by students as part of the activity ‘Connect Tracing’, where students put themselves in the shoes of non-locals in Singapore who have been unable to return to their home countries due to COVID-19._
+<h2>Learning Festival</h2>
+<div class="iframe-wrapper">
+<iframe height="569" width="650" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStMVXv8G26PuFtiWGHnRsil1WOL4L-yBi9FuItNKuma2nr1a1zJd96VTakdY-6gYpcrChHIxY6JtmB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>The Learning Festival nurtures students' joy for learning across a diverse
+range of domains, fosters meaningful opportunities for connection and contribution,
+and provides a vibrant platform for showcasing their personal and academic
+growth.</p>
+<p>The festival encompasses a wide array of engaging activities where students
+explore National Education topics, participate in sports electives, take
+part in coastal care programs, and immerse themselves in calligraphy sessions
+that deepen their understanding of Hua Yi Cultural Studies. In addition,
+students prepare for VIA engagements to make impactful contributions to
+society, attend workshops on Financial Literacy and Social Entrepreneurship
+designed to cultivate essential life skills and a strong sense of social
+responsibility, and delve into sustainability topics through enriching
+learning journeys. They also participate in industry visits that provide
+valuable insights into various career pathways.</p>
+<p>Alongside prominent events such as Project Sandbox presentations and the
+EMLJ, the festival offers students ample opportunities to develop their
+leadership skills through interactive talks and activities.</p>
+<p>Overall, the Learning Festival serves as a vital complement to the school
+curriculum, enriching students’ educational experiences and fostering holistic
+development.</p>

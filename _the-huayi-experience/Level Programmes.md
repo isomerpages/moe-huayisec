@@ -10,21 +10,21 @@ variant: tiptap
 </div>
 <p>Our level programmes in Hua Yi aim to enhance learning experiences and
 support holistic development through meaningful and engaging programmes.
-True to our 2021 theme of ‘Step Up, Step Out, Step Forward’, Hua Yi students
-experienced a range of activities to help bring this theme to life. Through
-the transition programme, our Secondary 1 students bravely stepped out
-into secondary school life. They learnt about Hua Yi’s history and unique
-bonsai culture, and built bonds with their new friends in the process.</p>
-<p>Secondary 2 students embarked on a journey of self-discovery with DISC
-profiling, and dabbled in Nagomi Art, a novel experience for the students
-indeed! Secondary 3 students stepped up, learned to take risks and also
-showed great teamwork with their new classmates as they constructed their
-magnificent domino structures.</p>
-<p>Last but not least, the Secondary 4 and 5 students readied themselves
-to step forward into the post-secondary world as they created individual
-vision boards, had a taste of tertiary life at Nanyang Technological University
-and finally, fashioned impressive models made of cardboard in the Future
-World programme.</p>
-<p><strong>"Our visit to Nanyang Technological University was an eye-opener, because it showed me potential career options that I could pursue in the future. I really enjoyed myself!"</strong> 
-<br><em>Esaias Chionh, 18-4F</em>
-</p>
+Students in Hua Yi experience a range of activities to help them to be
+future-ready leaners, equipped with the necessary skills that they need
+to navigate the ever-changing landscape.</p>
+<p>Secondary 1 students go through a transition programme workshop to prepare
+them for secondary school life. In the process, they learn how to collaborate
+and communicate with their peers and gain confidence to bravely step out
+into secondary school life. The students also learn about Hua Yi’s history
+and unique bonsai culture during the Secondary 1 Orientation Camp.</p>
+<p>Secondary 2 students embark on a journey of self-discovery with DISC profiling
+and learn how to more effectively work with peers of similar and differing
+personalities. Secondary 3 students go through a programme on time and
+self-management to help them to better manage the demands of upper secondary
+school life.</p>
+<p>Finally, the Secondary 4 and 5 students prepare themselves for the year
+of national examinations and post-secondary education, through the exam
+skills workshops and Education and Career Guidance programmes that they
+experience.</p>
+<p></p>
