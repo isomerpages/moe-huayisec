@@ -148,30 +148,3 @@ applications</p>
 </tbody>
 </table>
 <p></p>
-<h2><strong>Pending deletion below</strong></h2>
-<p></p>
-<p></p>
-<h5>Tier 1</h5>
-<p>The Secondary 2 Tier 1 ALP aims to promote active living by having students
-design gadgets for a targeted age group using Arduino, a programming software.
-The Design Thinking framework is adopted to guide them in their project.
-In the process of preparation, students crafted presentation slides and
-videos using their iPads during the Independent Learning Days.</p>
-<h5>Tier 2</h5>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/EM 5.jpeg">
-</div>
-<p>Secondary 3 Normal students attend Elective Modules every year. These
-modules aim to broaden their learning experience and expose them to possible
-educational progression and career pathways in ITE, thereby enabling them
-to make more informed choices upon graduation.</p>
-<h5>Tier 3</h5>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/EM 4.jpeg">
-</div>
-<p>Secondary 2 students attend Applied Learning Modules (ApLMs) based on
-their needs in respective areas. In 2021, under this programme, 30 Secondary
-2 and 3 Sports Leaders from the various Sports CCAs attended the “Sports
-Psychology: Resilience in Action” module at Republic Polytechnic. Another
-group of Food and Nutrition students also attended the “Introduction to
-Food Innovation” module at Singapore Polytechnic.</p>
