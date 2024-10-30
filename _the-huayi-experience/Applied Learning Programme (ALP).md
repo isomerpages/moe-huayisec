@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>Applied Learning Programme (ALP)</h2>
+<div class="iframe-wrapper">
+<iframe height="569" width="650" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2HLnv-GRxFsn_7PhWzDBToWocaEA9TLu3nZpeRYIIUWIV461boRX9pvSD-JM5vd6W36wR2i-Uduwv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>Hua Yi’s Applied Learning Programme (ALP) – Technology for Active Living
 – is a distinctive programme that embraces Design Thinking and an interdisciplinary
 approach, integrating various subjects such as English, Design &amp; Technology,
@@ -145,7 +148,7 @@ applications</p>
 </tbody>
 </table>
 <p></p>
-<p>Pending deletion below</p>
+<h2><strong>Pending deletion below</strong></h2>
 <p></p>
 <p></p>
 <h5>Tier 1</h5>
