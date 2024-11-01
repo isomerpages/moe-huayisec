@@ -19,7 +19,7 @@ amongst the races and white represents the pure and virtuous character
 of our students. Blue symbolises the boundless sea of learning.</p>
 <h4>SCHOOL SONG</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WPQbvpLd5HE?si=OlCYuEgRxWts8w_p"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/WPQbvpLd5HE?si=7JMrcbEhgrnhwNfD"></iframe>
 </div>
 <p>遵守我校之校训
 <br>Observe the school motto
