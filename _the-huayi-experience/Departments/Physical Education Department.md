@@ -6,9 +6,6 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <h2>Physical Education Department</h2>
-<div class="iframe-wrapper">
-<iframe height="450" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRz1UkXS19MLH-CVVz7nvWS3B7BM1jnhLv1L5v19KByv8rSlYWYsAoEYbzjF8ml-zENVtlDpAtMd_9b/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <h4>Learning Outcomes</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -28,20 +25,27 @@ the nation as a whole.</p>
 </li>
 </ul>
 <h4>Key Programmes</h4>
-<h5>Secondary 1 Adventure Day Camp</h5>
-<p>A Day Camp that allows Secondary 1 students to deepen the bonds between
-their new friends by experiencing low element activities and team-bonding
-games.</p>
-<h5>Secondary 2 and 3 Outdoor Experience Programme</h5>
-<p>These are special modules for our Secondary 2 and 3 students to enjoy
-what the outdoors offers them. Activities range from outdoor cooking to
-jungle trekking, where students pick up valuable survival skills.</p>
+<h5>Secondary 1 &amp; 3 Outdoor Adventure Camp</h5>
+<div class="iframe-wrapper">
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxLjcxXfNqAyrmLW3iI7v_B8GvaABWsvAh65mrC8epBVorEgAWtr05IwVHKeFJ6KYJmsMlGKABdGqD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>The Outdoor Adventure Cohort camps offer students opportunities to build
+resilience through adventure and team-building activities. They also challenge
+students to step outside their comfort zones. In addition, the camps allow
+students to develop and showcase team-building and life skills, while fostering
+class bonding.</p>
 <h5>Sports Carnival</h5>
+<div class="iframe-wrapper">
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS6fc-QgSmsWJJjW-8en5L6_h_UqcuX2W4_01ymlwwLU3Rd7DzN7YLifdv4wyMj0cnjRYs3HVgFGmMG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>This is an annual event that all students look forward to. Students compete
 in inter-class games such as Captain’s Ball and Frisbee, and have a fun-filled
-day trying out new sports activities such as stand-up paddling and inline
+day trying out new sports activities such as Stand-up paddling and inline
 skating.</p>
-<h5>Secondary 1 Sports Elective</h5>
-<p>This is a post-examination activity which allows Secondary 1 students
-to take part in sports and games that are not offered in the PE curriculum,
-such as archery and bowling.</p>
+<h5>Lower Secondary Sports Elective</h5>
+<div class="iframe-wrapper">
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ03RRfKUVZWXUiKUcIx_IH_ZPU0IAs1cINHJmi584TiGlssFfJP-TqFH62HlsWA2wD_LIOw0YJ2dt3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>This is a post-examination activity which allows Secondary 1 &amp; 2 students
+to take part in sports and games of their choices that are not offered
+in the PE curriculum, such as Archery, Kinball and In-Skating.</p>
