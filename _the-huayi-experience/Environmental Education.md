@@ -26,6 +26,6 @@ to society through environmental efforts. Our committee firmly believes
 that every Hua Yian has the potential to be an eco-steward who cherishes,
 nurtures, and actively contributes to environmental conservation.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="650" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmB-jOkAAcpyIDVvJs5NBGpvc6Jb7DfdBXQ7W17ae2IdUHYp5-ofmDZwH-QJnyf8xizTSCmmF6pNhP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmB-jOkAAcpyIDVvJs5NBGpvc6Jb7DfdBXQ7W17ae2IdUHYp5-ofmDZwH-QJnyf8xizTSCmmF6pNhP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
