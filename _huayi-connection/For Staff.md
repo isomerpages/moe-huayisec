@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://imtl.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">iMTL Portal</a>
+<p><a href="https://schoolibrary.moe.edu.sg/huayisec/" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Library</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,20 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://schoolibrary.moe.edu.sg/huayisec/" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Library</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.ace-learning.com/" rel="noopener noreferrer nofollow" target="_blank">Ace-Learning</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future Student Portal</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,6 +99,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future Student Portal</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5df1bacf0c936b00190cbded" rel="noopener noreferrer nofollow" target="_blank">Fault Reporting</a>
 </p>
 </td>
@@ -119,9 +110,17 @@ variant: tiptap
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeEBPk6PDZ_aS6fEE8JdQdmvQSba4GhfwrkBxwQ3ZEeHkxrjA/viewform" rel="noopener noreferrer nofollow" target="_blank">HYSS Instagram Form</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dfb06ae2371120019bfe2ef" rel="noopener noreferrer nofollow" target="_blank">Request for ICT Support</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
