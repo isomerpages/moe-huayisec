@@ -63,7 +63,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://aem.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Advanced Elective Module (AEM) Portal</a>
+<p><a href="https://www.moe.gov.sg/secondary/schools-offering-full-sbb/school-specific-opportunities/applied-learning-modules" rel="noopener nofollow" target="_blank">Applied Learning Module - ApLM</a>
 </p>
 </li>
 </ul>
