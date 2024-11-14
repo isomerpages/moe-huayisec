@@ -22,7 +22,7 @@ capable, and globally-aware individuals</p>
 <p></p>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD10.png">
 </div>
 <h4>Illustration of Opportunities for Growth and Learning</h4>
 <p>Students are engaged in a variety of enriching activities that foster
@@ -43,13 +43,14 @@ knowledge in meaningful ways. These partnerships offer students a glimpse
 into real-world applications, supporting their growth and sparking new
 interests.</p>
 <h4>Students’ sharing</h4>
-<p>Participating in FPSP allowed me to acquire numerous skills applicable
-to the future and provided opportunities for self-expression. I learned
-problem-solving techniques and procedures, made new friends, and improved
-my teamwork and idea-sharing skills. Overall, FPSP was a tremendously fun
-experience, and I appreciate the opportunity.</p>
+<p><em>Participating in FPSP allowed me to acquire numerous skills applicable to the future and provided opportunities for self-expression. I learned problem-solving techniques and procedures, made new friends, and improved my teamwork and idea-sharing skills. Overall, FPSP was a tremendously fun experience, and I appreciate the opportunity.</em>
+</p>
+<p><em>Sim Fang Ting, 22- 3E</em>
+</p>
+<p></p>
 <p><em>Through MUN, I gained skills in delivering speeches confidently and collaborating with other delegates to create solutions. The heated debates deepened my understanding of global political issues, sparking my interest in politics. MUN has helped me build confidence in public speaking and critical thinking, and I've enjoyed making many new friends. I look forward to participating in more MUNs!</em>
 </p>
-<p>Sim Fang Ting, 22- 3E</p>
+<p><em>Chang Zee Qian 22-3D</em>
+</p>
 <p></p>
 <p></p>
