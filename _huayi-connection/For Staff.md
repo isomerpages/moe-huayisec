@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://subjects.opal.moe.edu.sg/cce" rel="noopener noreferrer nofollow" target="_blank">CCE Lesson Package</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/588baeb9-5868-4f08-8586-cb448eff2637" rel="noopener noreferrer nofollow" target="_blank">CCE Lesson Package</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
