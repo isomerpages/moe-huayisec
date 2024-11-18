@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://imtl.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">iMTL Portal</a>
+<p><a href="https://schoolibrary.moe.edu.sg/huayisec/" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Library</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,7 +65,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://iexams.moe.gov.sg/xe/login.do" rel="noopener noreferrer nofollow" target="_blank">iExams</a>
+<p><a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient" rel="noopener noreferrer nofollow" target="_blank">iExams</a>
 </p>
 </td>
 </tr>
@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://subjects.opal.moe.edu.sg/cce" rel="noopener noreferrer nofollow" target="_blank">CCE Lesson Package</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/588baeb9-5868-4f08-8586-cb448eff2637" rel="noopener noreferrer nofollow" target="_blank">CCE Lesson Package</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,20 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://schoolibrary.moe.edu.sg/huayisec/" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Library</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.ace-learning.com/" rel="noopener noreferrer nofollow" target="_blank">Ace-Learning</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future Student Portal</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,6 +99,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future Student Portal</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5df1bacf0c936b00190cbded" rel="noopener noreferrer nofollow" target="_blank">Fault Reporting</a>
 </p>
 </td>
@@ -119,9 +110,17 @@ variant: tiptap
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeEBPk6PDZ_aS6fEE8JdQdmvQSba4GhfwrkBxwQ3ZEeHkxrjA/viewform" rel="noopener noreferrer nofollow" target="_blank">HYSS Instagram Form</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/5dfb06ae2371120019bfe2ef" rel="noopener noreferrer nofollow" target="_blank">Request for ICT Support</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

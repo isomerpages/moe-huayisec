@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Humanities Department</h2>
 <div class="iframe-wrapper">
-<iframe height="569" width="650" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGZi04b2ZqGxXLxnrcDA0H9cj2gWFLFgtlyU5BerZ1zPb409U3AS0D4S4Qr7wYH2IoLfdnpBUMHbW4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGZi04b2ZqGxXLxnrcDA0H9cj2gWFLFgtlyU5BerZ1zPb409U3AS0D4S4Qr7wYH2IoLfdnpBUMHbW4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Learning Outcomes</h4>
 <ul data-tight="true" class="tight">
