@@ -12,7 +12,7 @@ variant: tiptap
 <a href="/files/2024/Sec_3_2024_SR_Timetable_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>)</p>
 </li>
 <li>
-<p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/files/HYSS%20Learning%20Dispositions%202020%20(for%20school%20website%202020)%20(with%20translations).pdf" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Learning Dispositions</a>
+<p><a href="/files/2025_Learning_Dispositions___School_website_CL_ML__final_.pdf" rel="noopener nofollow" target="_blank">Hua Yi Learning Dispositions</a>
 </p>
 </li>
 <li>
