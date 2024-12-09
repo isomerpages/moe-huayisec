@@ -4,4 +4,73 @@ permalink: /who-we-are/our-identity/principals-message/
 description: ""
 variant: tiptap
 ---
-<h2>Principal's Message</h2><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HYSS_Final_Batch__1_of_23_.jpg"></div><p>Greetings Everyone! Welcome to the new school year!</p><p>Our Theme for 2024 is “Pass it On”, and we have come a long way from 2018 when we first started with annual themes for the school. We started with “Venture”, which <em>exhorted</em> Huayians to have the courage to take risks and try new and different things. In 2019, we <em>encouraged</em> them with “Passion made Possible”, urging them to experiment and go against the grain in making their passions a reality. However, passion without purpose would be meaningless, and so in 2020, we <em>extolled</em> Huayians to search within for the sense of purpose in everything they do, with the theme “Passion. Purpose. Endless Possibility”. This was particularly apt for the time as Covid hit us unexpectedly, and having a strong sense of mission and purpose helped us overcome many obstacles and challenges. In 2021, the continual need to cope with and manage change was <em>exemplified</em> in the theme “Step Up, Step Out, Step Forward” as we rallied all in Hua Yi to take the lead and push on. Then in 2020, to persevere in our efforts to positively impact all around us as we adjusted to the changes, we <em>encouraged</em> all to “Keep on Keeping on” and not give up. Last year, in 2023, we affirmed and celebrated the growth we have shown in making a difference to society, and the theme of “We’re Making a Difference” <em>expressed</em> our commitment to continue to do so.</p><p>This year’s theme of “Pass it On” is a natural progression from last year’s “We’re Making a Difference!”. As we keep the flame burning to create a positive impact wherever we go, we want to ensure that our actions influence others to do the same, to <em>establish</em> a lasting legacy that we can be proud of.</p><p>In 2024, many of our key programmes will remain the same. On a school-wide level, we will have our Start-it-Right Programme this week, our Sports Carnival in March, Awards Day in April, Learning Festival in May &amp; October, and a reprise of our 2023 Musical Montage early July. For the Sec 1s, besides the Orientation Programme this week, there will also be an Outdoor Adventure Residential Camp in April. For the Sec 2s, the focus will be for them to understand the curriculum at a deeper level, so there will be a lot of subject-based enrichment, which will enable them to make informed choices on their subject options for Upper Secondary. &nbsp;For Sec 3s, the highlight this year will be the Overseas Trips. This year, we have plans for all of them to have the opportunity to travel to an ASEAN country, either in May or in Oct during the Learning Festival period. The Sec 4s and 5s will be preparing for life after Hua Yi, so there will be a lot of focus on ECG, and many of our Youth Alumni have also planned to share their experiences in the Poly, ITE and JCs with their juniors, as well as to help them prepare for DSA and EAE.</p><p>As with 2023, when a teacher is on leave, be it medical or other kinds of leave, or on course, there will not be teachers sent in to manage the students. Likewise, if there are periods where no lesson can be scheduled, the expectation is that the students will be able to manage themselves, exercise self-discipline, and do what is expected of them. There will be instructions as to what work they have to complete and they will have the autonomy to manage their time. We trust our students to be responsible, independent learners, who are able to own their learning.</p><p>But this does not mean that when the students become more independent, the teachers will care any less about their learning. In fact, the teachers of Hua Yi&nbsp; are known for their love and care for their students; they have always invested and will continue to invest more time and effort in all aspects of their development, and live up to the pledge that they have taken in front of their students on the first day of the school year:</p><p><em>We, the teachers of Hua Yi Secondary School, pledge that:<br>We will be true to our mission, to bring out the best in our students.<br>We will be exemplary, in the discharge of our duties and responsibilities<br>We will guide our students, to be good and useful citizens of Singapore.<br>We will continue to learn and pass on the love of learning to our students.<br>We will win the trust, support and co-operation, of parents and the community, so as to enable us to achieve our mission.</em></p><p>With that pledge, I wish everyone a joyful and meaningful 2024!</p><p>Ms Sandra Gwee<br>Principal</p><p></p>
+<h2>Principal's Message</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HYSS_Final_Batch__1_of_23_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0062Crop.jpg">
+</div>
+<p>Greetings Everyone! Welcome to the new school year!</p>
+<p>Our Theme for 2024 is “Pass it On”, and we have come a long way from 2018
+when we first started with annual themes for the school. We started with
+“Venture”, which <em>exhorted</em> Huayians to have the courage to take risks
+and try new and different things. In 2019, we <em>encouraged</em> them with
+“Passion made Possible”, urging them to experiment and go against the grain
+in making their passions a reality. However, passion without purpose would
+be meaningless, and so in 2020, we <em>extolled</em> Huayians to search within
+for the sense of purpose in everything they do, with the theme “Passion.
+Purpose. Endless Possibility”. This was particularly apt for the time as
+Covid hit us unexpectedly, and having a strong sense of mission and purpose
+helped us overcome many obstacles and challenges. In 2021, the continual
+need to cope with and manage change was <em>exemplified</em> in the theme
+“Step Up, Step Out, Step Forward” as we rallied all in Hua Yi to take the
+lead and push on. Then in 2020, to persevere in our efforts to positively
+impact all around us as we adjusted to the changes, we <em>encouraged</em> all
+to “Keep on Keeping on” and not give up. Last year, in 2023, we affirmed
+and celebrated the growth we have shown in making a difference to society,
+and the theme of “We’re Making a Difference” <em>expressed</em> our commitment
+to continue to do so.</p>
+<p>This year’s theme of “Pass it On” is a natural progression from last year’s
+“We’re Making a Difference!”. As we keep the flame burning to create a
+positive impact wherever we go, we want to ensure that our actions influence
+others to do the same, to <em>establish</em> a lasting legacy that we can
+be proud of.</p>
+<p>In 2024, many of our key programmes will remain the same. On a school-wide
+level, we will have our Start-it-Right Programme this week, our Sports
+Carnival in March, Awards Day in April, Learning Festival in May &amp;
+October, and a reprise of our 2023 Musical Montage early July. For the
+Sec 1s, besides the Orientation Programme this week, there will also be
+an Outdoor Adventure Residential Camp in April. For the Sec 2s, the focus
+will be for them to understand the curriculum at a deeper level, so there
+will be a lot of subject-based enrichment, which will enable them to make
+informed choices on their subject options for Upper Secondary. &nbsp;For
+Sec 3s, the highlight this year will be the Overseas Trips. This year,
+we have plans for all of them to have the opportunity to travel to an ASEAN
+country, either in May or in Oct during the Learning Festival period. The
+Sec 4s and 5s will be preparing for life after Hua Yi, so there will be
+a lot of focus on ECG, and many of our Youth Alumni have also planned to
+share their experiences in the Poly, ITE and JCs with their juniors, as
+well as to help them prepare for DSA and EAE.</p>
+<p>As with 2023, when a teacher is on leave, be it medical or other kinds
+of leave, or on course, there will not be teachers sent in to manage the
+students. Likewise, if there are periods where no lesson can be scheduled,
+the expectation is that the students will be able to manage themselves,
+exercise self-discipline, and do what is expected of them. There will be
+instructions as to what work they have to complete and they will have the
+autonomy to manage their time. We trust our students to be responsible,
+independent learners, who are able to own their learning.</p>
+<p>But this does not mean that when the students become more independent,
+the teachers will care any less about their learning. In fact, the teachers
+of Hua Yi&nbsp; are known for their love and care for their students; they
+have always invested and will continue to invest more time and effort in
+all aspects of their development, and live up to the pledge that they have
+taken in front of their students on the first day of the school year:</p>
+<p><em>We, the teachers of Hua Yi Secondary School, pledge that:<br>We will be true to our mission, to bring out the best in our students.<br>We will be exemplary, in the discharge of our duties and responsibilities<br>We will guide our students, to be good and useful citizens of Singapore.<br>We will continue to learn and pass on the love of learning to our students.<br>We will win the trust, support and co-operation, of parents and the community, so as to enable us to achieve our mission.</em>
+</p>
+<p>With that pledge, I wish everyone a joyful and meaningful 2024!</p>
+<p>Ms Sandra Gwee
+<br>Principal</p>
+<p></p>
