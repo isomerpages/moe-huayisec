@@ -10,6 +10,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HYSS_Final_Batch__1_of_23_.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0847.jpg">
+</div>
 <p></p>
 <p>Greetings Everyone! Welcome to the new school year!</p>
 <p>Our Theme for 2024 is “Pass it On”, and we have come a long way from 2018
