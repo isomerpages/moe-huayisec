@@ -10,9 +10,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HYSS_Final_Batch__1_of_23_.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0864_Enhanced.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0864_Enhanced_AdjustedByLimSY2.jpg">
 </div>
 <p></p>
 <p>Greetings Everyone! Welcome to the new school year!</p>
