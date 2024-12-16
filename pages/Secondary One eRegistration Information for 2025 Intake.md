@@ -453,7 +453,7 @@ the required books and stationery.
 </p>
 <ul>
 <li>
-<p>Online sales to be completed by 23 Dec 2023 for delivery before 2024.</p>
+<p>Online sales to be completed by 21 Dec 2024 for delivery before 2025.</p>
 </li>
 <li>
 <p>Online sales not applicable to FAS students
@@ -748,11 +748,11 @@ posted to</p>
 </li>
 <li>
 <p>The application is deemed to be unsuccessful if you do not hear from the
-school by 2 January 2024</p>
+school by 2 January 2025</p>
 </li>
 </ul>
 <p>
-<br>All appeals must be submitted latest by&nbsp;<strong><u>26 December 2023, 12.00pm.</u></strong>
+<br>All appeals must be submitted latest by&nbsp;<strong><u>26 December 2024, 12.00pm.</u></strong>
 </p>
 <p>
 <br>
