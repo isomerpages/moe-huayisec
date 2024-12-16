@@ -446,10 +446,9 @@ see the table below for the operating dates and time.
 <p><a href="https://finestuniform.com/collections/hua-yi-secondary-school" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><u>Textbooks &amp; Stationery</u></strong>
 <a href="https://finestuniform.com/collections/hua-yi-secondary-school" rel="noopener noreferrer nofollow" target="_blank">
 <br>
-</a>Please see the <a href="/files/2025 Sec 1 Registration/Hua_Yi_Sec_1.pdf" rel="noopener nofollow" target="_blank">attached booklist</a>for
+</a>Please see the <a href="/files/2025 Sec 1 Registration/Hua_Yi_Sec_1.pdf" rel="noopener nofollow" target="_blank">attached booklist</a> for
 the required books and stationery.
-<br><strong><a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a></strong>
-<br>*Delivery fee: $12 per delivery
+<br>
 <br>
 </p>
 <ul>
