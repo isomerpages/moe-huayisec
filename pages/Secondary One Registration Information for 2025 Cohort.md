@@ -443,6 +443,9 @@ will be provided to the students on the first day of school.
 <li>
 <p>Goal-setting Session</p>
 </li>
+<li>
+<p>Class Bonding Activity</p>
+</li>
 </ul>
 <p></p>
 </td>
