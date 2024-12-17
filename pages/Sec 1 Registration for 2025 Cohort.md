@@ -444,12 +444,14 @@ ensure delivery before the start of the school year.</p>
 </tbody>
 </table>
 <p>
-<br>Please see the <a href="https://drive.google.com/file/d/1gfXnFJWxk9YqonG92_LLqN2giXuI1FdJ/view?usp=sharing" rel="noopener nofollow" target="_blank">attached document</a>&nbsp;for
-the timeline of the CCA Experience (trials, CCA experience, registration
-and allocation) for Secondary One students in Hua Yi. Students will be
-briefed on the details in the first week of school.</p>
-<p></p>
-<h4><strong>Personalised Digital Learning Programme (PDLP)</strong></h4>
+<br>Please refer to the <a href="https://drive.google.com/file/d/1gfXnFJWxk9YqonG92_LLqN2giXuI1FdJ/view?usp=sharing" rel="noopener nofollow" target="_blank">attached document</a>&nbsp;for
+the timeline of the CCA Experience for Secondary One students in Hua Yi.
+The CCA Experience includes trials, experiencing the CCA activities and
+programmes, registration and allocation. Students will receive a detailed
+briefing in Term 1 Week 1.&nbsp;</p>
+<p>
+<br><strong>Personalised Digital Learning Programme (PDLP)</strong>
+</p>
 <p>In line with MOE policy, all secondary school students will be getting
 a personal tablet or laptop. In Hua Yi, students use an iPad for their
 learning. Please refer to <strong><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/pdlp/" rel="noopener noreferrer nofollow" target="_blank">PDLP</a></strong> for
@@ -459,11 +461,15 @@ more details.
 be provided in due course.</p>
 <p></p>
 <h4><strong>Parent Support Group</strong></h4>
-<p>Hua Yi has an active and committed Parent Support Group (PSG) which supports
-school programmes and activities for students’ holistic development. The
-PSG’s vision is to work closely with the school to provide the best support
-in educating our children. We invite parents to join us, so together we
-can offer strategic support through networking and shared resources.</p>
+<p>Hua Yi is proud to have an <strong>active and committed Parent Support Group (PSG)</strong> that
+plays a key role in supporting school programmes and activities to enhance
+students' holistic development.</p>
+<p>
+<br>The PSG’s vision is to partner closely with the school to provide the
+best possible support for our children’s education. We warmly invite parents
+to join us in this meaningful effort, where we can collaborate, network
+and share resources to offer strategic support for our students’ growth
+and success.</p>
 <p>
 <br>You can find out more about HYSS PSG at&nbsp;<strong><a href="https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/</a></strong>
 <br>
