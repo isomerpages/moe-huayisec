@@ -733,14 +733,14 @@ setup for fees deduction under the Services Tab.</p>
 <h4><strong>Subject Based Banding</strong></h4>
 <p>For students who qualify for subject-based banding, a message will be
 sent via Parents Gateway in the next few days, and a response will be required.
-More information can be found in the&nbsp;<a href="/files/2024 Sec 1 Registration/Sec_1_FSBB_Slides__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">attached slides.</a>
+More information can be found in the attached slides e&nbsp;<a href="https://drive.google.com/file/d/1LRtJrMZ3prtoRSBe9R8J9v41qni6J_DP/view?usp=sharing" rel="noopener nofollow" target="_blank">attached slides.</a>
 </p>
 <p></p>
 <h4><strong>Higher Mother Tongue</strong></h4>
 <p>For students who qualify for Higher Mother Tongue, a message will be sent
 via Parents Gateway in the next few days, and a response will be required.
 <br>
-<br>Please refer to the<a href="/files/2024 Sec 1 Registration/2024_Sec_1_Reg_MTL_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;attached FAQ</a>&nbsp;for
+<br>Please refer to the <a href="https://drive.google.com/file/d/1yqivlV1wMbR5AMOwQiOT-R0-d4gYwpkr/view?usp=sharing" rel="noopener nofollow" target="_blank">attached FAQ</a>&nbsp;for
 more information on Higher Mother Tongue and Non-Conventional Mother Tongue.</p>
 <p></p>
 <h4><strong>Art Elective Programme &amp; Music Elective Programme</strong>.</h4>
