@@ -493,7 +493,7 @@ see the table below for the operating dates and time.
 <p><a href="https://finestuniform.com/collections/hua-yi-secondary-school" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><u>Textbooks &amp; Stationery</u></strong>
 <a href="https://finestuniform.com/collections/hua-yi-secondary-school" rel="noopener noreferrer nofollow" target="_blank">
 <br>
-</a>Please see the <a href="/files/2025 Sec 1 Registration/Hua_Yi_Sec_1.pdf" rel="noopener nofollow" target="_blank">attached booklist </a>for
+</a>Please see the <a href="https://drive.google.com/file/d/1LF7kgG6AdUIt_NamGG4QF2gu9hJUMyqr/view?usp=sharing" rel="noopener nofollow" target="_blank">attached booklist</a> for
 the required books and stationery.
 <br>
 </p>
@@ -634,7 +634,7 @@ the required books and stationery.
 </tbody>
 </table>
 <p>
-<br>Please see the&nbsp;<strong><a href="/files/2024 Sec 1 Registration/Sec_1_2024_CCA__Experience_Programme__For_Sec__1_handout_.pdf" rel="noopener noreferrer nofollow" target="_blank">attached document</a></strong>&nbsp;for
+<br>Please see the <a href="https://drive.google.com/file/d/1gfXnFJWxk9YqonG92_LLqN2giXuI1FdJ/view?usp=sharing" rel="noopener nofollow" target="_blank">attached document</a>&nbsp;for
 the timeline of the CCA Experience (trials, CCA experience, registration
 and allocation) for Secondary One students in Hua Yi. Students will be
 briefed on the details in the first week of school.</p>
