@@ -25,7 +25,7 @@ sections:
       title: Sec 1 Registration
       id: infopic
       button: Click here
-      url: https://huayisec.moe.edu.sg/secondary-one-registration-information-for-2025-cohort/
+      url: https://huayisec.moe.edu.sg/sec-1-registration-for-2025-cohort/
       image: /images/2025 Sec 1 Registration/welcome.png
       subtitle: 2025 Cohort
       alt: Welcome
