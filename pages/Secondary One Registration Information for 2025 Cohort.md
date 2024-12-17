@@ -394,7 +394,7 @@ will be provided to the students on the first day of school.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start-it-Right  Programme</strong>
+<p><strong>Start-it-Right Programme</strong>
 </p>
 <ul>
 <li>
@@ -432,13 +432,19 @@ will be provided to the students on the first day of school.
 </p>
 <ul>
 <li>
-<p>Orientation Games and Activities</p>
+<p>Bonsai Programme</p>
 </li>
 <li>
-<p>Campfire</p>
+<p>CCA Selection Talk</p>
+</li>
+<li>
+<p>PDLP Briefing</p>
+</li>
+<li>
+<p>Goal-setting Session</p>
 </li>
 </ul>
-<p>*morning snack, lunch, afternoon tea and dinner provided</p>
+<p></p>
 </td>
 </tr>
 </tbody>
