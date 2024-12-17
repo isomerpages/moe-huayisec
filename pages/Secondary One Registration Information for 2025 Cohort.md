@@ -253,10 +253,10 @@ their PE t-shirt.
 </table>
 <p>
 <br>Parents would be informed of their child’s class allocation via Parents
-Gateway by 22 December 2023. We would also require your response through
+Gateway by 20 December 2024. We would also require your response through
 Parents Gateway to some of the questions (e.g., camp t-shirt size, dietary
 requirement(s), medical condition(s), attendance for school leader’s talk)
-by 24 December 2023.
+by 23 December 2024.
 <br>
 </p>
 <h4><strong>Sec 1 Start-It-Right and Orientation Programme</strong></h4>
@@ -266,8 +266,10 @@ school. Please see the table below for the relevant information. More details
 will be provided to the students on the first day of school.
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -283,21 +285,37 @@ will be provided to the students on the first day of school.
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Reporting Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Reporting Attire</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Event</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tues<br>2 Jan</strong>
+<p><strong>Thursday<br>2 Jan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7.30am – 12.40pm</strong>
+<p><strong>7.30am – 5.30pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>First Day of School</strong>
+<p><strong>Respective Sec 1 Classrooms (Level 4)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>PE Attire with Uniform Bottoms</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Start it Right Programme - Sec 1 Orientation Campl</strong>
 </p>
 <ul>
 <li>
@@ -337,6 +355,12 @@ will be provided to the students on the first day of school.
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Start-it-Right Programme</strong>
 </p>
 <ul>
@@ -362,6 +386,12 @@ will be provided to the students on the first day of school.
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Sec 1 Orientation Programme</strong>
 </p>
 <ul>
@@ -383,6 +413,12 @@ will be provided to the students on the first day of school.
 <td rowspan="1" colspan="1">
 <p><strong>7.30am – 9.40pm</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Secondary 1 Orientation Programme</strong>
