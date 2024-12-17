@@ -15,24 +15,29 @@ welcome message from our Principal-Designate.</p>
 </div>
 <h4><strong>Important Information for ALL Students</strong></h4>
 <p>All Secondary 1 students posted to Hua Yi Secondary school are required
-to read through the registration information below. Additional details
-will be sent via Parents Gateway (PG).</p>
-<p>The e-Registration process will be conducted through PG. Information on
-class allocation and Subject-Based Banding (SBB) offerings will also be
-shared via PG, typically 1 - 2 days after the posting is confirmed.&nbsp;</p>
+to review through the registration details below carefully. Additional
+details will be sent via Parents Gateway (PG).</p>
+<p>The e-Registration process will be conducted through PG. Information regarding
+class allocation and Subject-Based Banding (SBB) offerings will be shared
+on PG, typically 1 - 2 days after the posting is confirmed.&nbsp;</p>
 <p>
 <br><strong>Please note: </strong>Parents are strongly encouraged to purchase
-uniforms and books only after receiving the class allocation on Parents
-Gateway.<strong><br><br></strong>The first day of School will be on <strong><u>Thursday, 2 January 2025.</u></strong>
+uniforms and books <strong>only after receiving the class allocation</strong> on
+Parents Gateway.<strong><br><br></strong>The first day of School will be
+on <strong><u>Thursday, 2 January 2025.</u></strong>
 </p>
 <h4><strong>Reporting Time</strong></h4>
-<p>The reporting time for school each day is before 7.30am. Students are
-expected to arrive at school by 7.20am each day, as the flag-raising ceremony
-begins promptly at 7.30am.</p>
+<p>The <strong>Flag-Raising Ceremony</strong> begins promptly at <strong>7.30am</strong> daily.
+All students are expected to be present and prepared before it starts.
+To ensure this, students should allow sufficient time to deposit their
+bags in the classroom and place their phones in the lockers before proceeding
+to the ceremony.</p>
+<p></p>
 <h4><strong>First Day of School</strong></h4>
-<p>On the first day of school, all students should report in their Hua Yi
-PE Attire with Uniform Bottoms, and gather at their respective Secondary
-1 Classroom (Level 4) for the morning assembly.</p>
+<p>On the first day of school, students should report in their Hua Yi PE
+Attire with Uniform Bottoms, and gather at their respective Secondary 1
+Classroom on Level 4. From there, their seniors will then lead them to
+the School Hall (Centrestage) for the Flag-Raising Ceremony.</p>
 <p>Please see the <a href="https://drive.google.com/file/d/1MVhAb5qs3nA95acZTUAACZ7beaMHIsF6/view?usp=drive_link" rel="noopener nofollow" target="_blank">attached file</a> the
 for the classroom allocation.</p>
 <p>Students who did not manage to purchase the Hua Yi school uniform can
@@ -42,108 +47,15 @@ Orientation Camp (S1OC).</p>
 <h4><strong>Uniform Guidelines</strong></h4>
 <p>Please refer to the table below on the details for school attire. Students
 will be briefed on the first day of school as well.</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Monday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tuesday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Wednesday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Thursday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Friday</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<p>Full uniform (with tie on Mondays)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="4">
-<p>Hua Yi Polo Tee with uniform bottom</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="3" colspan="1">
-<p>Half uniform with:</p>
-<p>- PE/House Tee</p>
-<p>- CCA Tee</p>
-<p>- Cohort Tee</p>
-<p>- Student Leaders' Tee</p>
-<p>- Hua Yi Ren Tee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sec 1 Registration/uniform.png">
+</div>
 <p></p>
 <h4><strong>House Allocation</strong></h4>
 <p>Please refer to the table below for the House allocation of the Sec 1
 classes. Each class is allocated to one of the 5 Houses in our school,
-and students would need to purchase the House t-shirt, which serves as
-their PE t-shirt.</p>
+and students would need to purchase the House T-shirt, which serves as
+their PE T-shirt.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
