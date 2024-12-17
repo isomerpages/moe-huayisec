@@ -22,12 +22,11 @@ sections:
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
   - infopic:
-      title: Open House 2024
+      title: Secondary 1 Registration for 2025 Cohort
       id: infopic
       button: Click here for more information
       url: https://huayisec.moe.edu.sg/open-house-hy/
       image: /images/2024/Open_House_Banner.png
-      alt: Image alt text
   - infopic:
       title: LATEST EVENTS
       button: More upcoming events
@@ -47,4 +46,9 @@ sections:
       url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       image: /images/family-bg.jpg
       alt: Image alt text
+  - infobar:
+      title: Secondary 1 Registration for 2025 Cohort
+      id: infobar
+      button: Click here for more information
+      url: www.huayisec.moe.edu.sg
 ---
