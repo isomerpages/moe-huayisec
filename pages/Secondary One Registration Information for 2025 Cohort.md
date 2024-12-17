@@ -664,13 +664,12 @@ more details.
 be provided in due course.</p>
 <p></p>
 <h4><strong>Parent Support Group</strong></h4>
-<p>Hua Yi has an active and dedicated Parent Support Group (PSG) which supports
+<p>Hua Yi has an active and committed Parent Support Group (PSG) which supports
 school programmes and activities for students’ holistic development. The
 PSG’s vision is to work closely with the school to provide the best support
-in educating our children. Parents with rich life experiences are invited
-to join us so that we can provide strategic support through networking
-and common resources.
-<br>
+in educating our children. We invite parents to join us, so together we
+can offer strategic support through networking and shared resources.</p>
+<p>
 <br>You can find out more about HYSS PSG at&nbsp;<strong><a href="https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/</a></strong>
 <br>
 <br>If you would like to partner the school to broaden the learning experiences
