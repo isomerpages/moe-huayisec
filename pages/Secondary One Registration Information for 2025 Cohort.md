@@ -32,14 +32,17 @@ expected to arrive at school by 7.20am each day, as the flag-raising ceremony
 begins promptly at 7.30am.
 <br>
 </p>
-<p><strong><u>First Day of School</u></strong>
-<br>On the first day of school, all students are to report in Hua Yi full
-uniform with school tie, and report to the Centrestage (Level 2) for morning
-assembly. Please see the&nbsp;<strong><a href="/files/2024 Sec 1 Registration/Sec_1_Classroom_Allocation_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">attached file</a></strong>&nbsp;for
-the classroom allocation. Students who did not manage to purchase the Hua
-Yi school uniform can report in their primary school uniform. Students
-will be dismissed at 12.40pm on 2 January.</p>
-<h4><strong>Uniform</strong></h4>
+<h4><strong>First Day of School</strong></h4>
+<p>On the first day of school, all students should report in their Hua Yi
+PE Attire with Uniform Bottoms, and gather at their respective Secondary
+1 Classroom (Level 4) for the morning assembly.</p>
+<p>Please see the&nbsp;<strong><a href="/files/2024 Sec 1 Registration/Sec_1_Classroom_Allocation_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">attached file</a></strong>&nbsp;for
+the classroom allocation.</p>
+<p>Students who did not manage to purchase the Hua Yi school uniform can
+report in their primary school uniform.</p>
+<p>Students will be dismissed at 5.30pm on 2 January after Day 1 of Sec 1
+Orientation Camp (S1OC).</p>
+<h4><strong>Uniform Guidelines</strong></h4>
 <p>Please refer to the table below on the details for school attire. Students
 will be briefed on the first day of school as well.
 <br>
