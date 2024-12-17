@@ -12,11 +12,11 @@ your child to their fullest potential. Please see the video below for our
 Principal’s welcome.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="390" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DiZ1eG_gRbM?si=IfCef1voJsBfsI3K"></iframe>
+<iframe height="390" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oBlY2QJBoq0?si=gVCWgA8PUn9Kly8T"></iframe>
 </div>
 <h4><strong>Important Information for ALL Students</strong></h4>
-<p>Secondary 1 students posted to Hua Yi Secondary school are required to
-read through the registration information provided below. Additional details
+<p>All Secondary 1 students posted to Hua Yi Secondary school are required
+to read through the registration information below. Additional details
 will be sent via Parents Gateway (PG).</p>
 <p>The e-Registration process will be conducted through PG. Information on
 class allocation and Subject-Based Banding (SBB) offerings will also be
@@ -28,9 +28,11 @@ Gateway.<strong><br><br></strong>The first day of School will be on <strong><u>T
 </p>
 <h4><strong>Reporting Time</strong></h4>
 <p>The reporting time for school each day is before 7.30am. Students are
-expected to arrive at school by 7.20am and be ready for the flag-raising
-ceremony at 7.30am.
+expected to arrive at school by 7.20am each day, as the flag-raising ceremony
+begins promptly at 7.30am.
 <br>
+</p>
+<p><strong><u>First Day of School</u></strong>
 <br>On the first day of school, all students are to report in Hua Yi full
 uniform with school tie, and report to the Centrestage (Level 2) for morning
 assembly. Please see the&nbsp;<strong><a href="/files/2024 Sec 1 Registration/Sec_1_Classroom_Allocation_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">attached file</a></strong>&nbsp;for
