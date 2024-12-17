@@ -694,12 +694,12 @@ medical information accordingly.</p>
 <h4><strong>School Smart Card</strong></h4>
 <ul>
 <li>
-<p>All students entering Secondary School for the first time in Jan 2024
+<p>All students entering Secondary School for the first time in Jan 2025
 will be issued with a new Secondary level School Smart Card (SSC).&nbsp;</p>
 </li>
 <li>
 <p>Students can use their Primary level SSC for concessionary travel until
-they receive their new card (till end April 2024).</p>
+they receive their new card (till end April 2025).</p>
 </li>
 <li>
 <p>Students would need to purchase the Bus Concession Pass for Secondary
