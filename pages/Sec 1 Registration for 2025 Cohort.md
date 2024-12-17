@@ -236,7 +236,7 @@ will be provided to the students on the first day of school.</p>
 </p>
 <ul>
 <li>
-<p>Bonsai Programme</p>
+<p>Hua Yi Bonsai Programme</p>
 </li>
 <li>
 <p>CCA Selection Talk</p>
@@ -257,9 +257,10 @@ will be provided to the students on the first day of school.</p>
 </tbody>
 </table>
 <h4><br><strong>School Leaders' Talk and Sec 1 Orientation Campfire with Secondary 1 Parents</strong></h4>
-<p>There will be a school leaders’ talk and Sec 1 Orientation Campfire for
-Secondary One parents. Do respond via the message sent out in Parents Gateway
-on your child’s class allocation.
+<p>We warmly invite all Secondary 1 parents to attend to There will be a
+school leaders’ talk and Sec 1 Orientation Campfire for Secondary One parents.
+Do respond via the message sent out in Parents Gateway on your child’s
+class allocation.
 <br>
 <br>Date: 3 January 2025 (Friday)
 <br>Time: 6.30 – 9.30 pm
