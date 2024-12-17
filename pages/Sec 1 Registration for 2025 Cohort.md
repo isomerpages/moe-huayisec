@@ -482,7 +482,7 @@ our Parent Support Group through this link:
 <p>Cars entering the school compound for drop-off and pick-up are required
 to display a designated car decal daily. Each decal cost $3 and remains
 valid until your child graduates from Hua Yi.&nbsp;</p>
-<p>Please fill up the form below by 30 December 2024 to purchase a decal.
+<p>Kindly complete the form below by 30 December 2024 to purchase a decal.
 Payment will be deducted via Giro and additional details will be provided
 on the decal collection date. <strong><br><a href="https://go.gov.sg/hysscardecalapplication" rel="noopener noreferrer nofollow" target="_blank"><u>Car Decal Purchase Form 2024</u></a></strong>
 </p>
@@ -530,7 +530,7 @@ via Singpass login.&nbsp;</p>
 <p><strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a></strong>
 </p>
 <p></p>
-<p>Do submit the online application together with the supporting documents
+<p>Please submit the online application together with the supporting documents
 or contact us at 6563 4568 should you have further queries.</p>
 <p></p>
 <p><strong><u>POSB Smart Buddy Programme (For FAS students only)</u></strong>
@@ -546,10 +546,11 @@ approved fees by MOE and enrichment programmes.</p>
 <h4><strong>Apply for eGiro</strong></h4>
 <p>Please login to Parents gateway and complete the online form for e-GIRO
 setup for fees deduction under the Services Tab.</p>
-<h4><strong>Subject Based Banding</strong></h4>
-<p>For students who qualify for subject-based banding, a message will be
-sent via Parents Gateway in the next few days, and a response will be required.
-More information can be found in the attached slides e&nbsp;<a href="https://drive.google.com/file/d/1LRtJrMZ3prtoRSBe9R8J9v41qni6J_DP/view?usp=sharing" rel="noopener nofollow" target="_blank">attached slides.</a>
+<h4><strong>Taking Subjects at a More Demanding Level</strong></h4>
+<p>For students who qualify to take subjects at a more demanding level, a
+message will be sent via Parents Gateway by 23 December 2024, 5.00pm, and
+a response will be required. More information can be found in the attached
+slides&nbsp;<a href="https://drive.google.com/file/d/1LRtJrMZ3prtoRSBe9R8J9v41qni6J_DP/view?usp=sharing" rel="noopener nofollow" target="_blank">attached slides.</a>
 </p>
 <p></p>
 <h4><strong>Higher Mother Tongue</strong></h4>
