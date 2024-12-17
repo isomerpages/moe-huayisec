@@ -372,54 +372,63 @@ will be provided to the students on the first day of school.
 <p>Sec 1 Orientation Camp / Campfire</p>
 </li>
 </ul>
+<p></p>
+<p><strong>Note:</strong> Morning Snack, Lunch and dinner provided</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Thurs<br>4 Jan</strong>
+<p><strong>Monday<br>6 Jan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7.30am – 4.40pm</strong>
+<p><strong>7.30am – 2.00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Centrestage (School Hall)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Full School Uniform with School Tie</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 1 Orientation Programme</strong>
+<p><strong>Start-it-Right  Programme</strong>
 </p>
 <ul>
 <li>
-<p>Orientation Tour</p>
+<p>Form Teacher Time</p>
 </li>
 <li>
-<p>Orientation Games and Activities</p>
+<p>Discipline Talk</p>
+</li>
+<li>
+<p>Transition Programme</p>
 </li>
 </ul>
-<p>*morning snack, lunch and afternoon tea provided</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Fri<br>5 Jan</strong>
+<p><strong>Tues<br>7 Jan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7.30am – 9.40pm</strong>
+<p><strong>7.30am – 1.00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Centrestage (School Hall)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Full School Uniform / Polo Tee</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 1 Orientation Programme</strong>
+<p><strong>Start-it-Right Programme</strong>
 </p>
 <ul>
 <li>
