@@ -501,7 +501,7 @@ see the table below for the operating dates and time.
 <br>Bookshop – Books
 <br>Blk E Level 1 classrooms – Uniform
 <br>
-<br>Alternatively, you may wish to purchase the uniforms and books online.</p>
+<br>Alternatively, you may wish to purchase the books online, <a href="asenciobookshop.sg" rel="noopener nofollow" target="_blank">asenciobookshop.sg</a>.</p>
 <p><a href="https://finestuniform.com/collections/hua-yi-secondary-school" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><u>Textbooks &amp; Stationery</u></strong>
 <a href="https://finestuniform.com/collections/hua-yi-secondary-school" rel="noopener noreferrer nofollow" target="_blank">
 <br>
