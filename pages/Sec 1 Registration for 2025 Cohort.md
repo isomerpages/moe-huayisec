@@ -34,8 +34,8 @@ begins promptly at 7.30am.</p>
 <p>On the first day of school, all students should report in their Hua Yi
 PE Attire with Uniform Bottoms, and gather at their respective Secondary
 1 Classroom (Level 4) for the morning assembly.</p>
-<p>Please see the <a href="/files/2025 Sec 1 Registration/2_8_Classroom_Allocation_2025_updated_14_Nov.pdf" rel="noopener nofollow" target="_blank">attached file</a> for
-the classroom allocation.</p>
+<p>Please see the <a href="https://drive.google.com/file/d/1MVhAb5qs3nA95acZTUAACZ7beaMHIsF6/view?usp=drive_link" rel="noopener nofollow" target="_blank">attached file</a> the
+for the classroom allocation.</p>
 <p>Students who did not manage to purchase the Hua Yi school uniform can
 report in their primary school uniform.</p>
 <p>Students will be dismissed at 5.30pm on 2 January after Day 1 of Sec 1
