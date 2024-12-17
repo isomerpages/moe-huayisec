@@ -452,13 +452,15 @@ will be provided to the students on the first day of school.
 </tr>
 </tbody>
 </table>
-<h4><br><strong>School Leaders' Talk for Secondary 1 Parents</strong></h4>
-<p>There will be a school leaders’ talk for Secondary One parents. Do respond
-via the message sent out in Parents Gateway on your child’s class allocation.
+<h4><br><strong>School Leaders' Talk and Sec 1 Orientation Campfire with Secondary 1 Parents</strong></h4>
+<p>There will be a school leaders’ talk and Sec 1 Orientation Campfire for
+Secondary One parents. Do respond via the message sent out in Parents Gateway
+on your child’s class allocation.
 <br>
-<br>Date: 12 January 2024 (Friday)
-<br>Time: 6.30 – 8.30 pm
-<br>Venue: Hua Yi Secondary School
+<br>Date: 3 January 2025 (Friday)
+<br>Time: 6.30 – 9.30 pm
+<br>Venue: Hua Yi Secondary School</p>
+<p>
 <br><em>*Light refreshments will be provided from 6.00pm.</em>
 </p>
 <p></p>
