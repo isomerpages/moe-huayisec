@@ -672,9 +672,9 @@ can offer strategic support through networking and shared resources.</p>
 <p>
 <br>You can find out more about HYSS PSG at&nbsp;<strong><a href="https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/</a></strong>
 <br>
-<br>If you would like to partner the school to broaden the learning experiences
-for our students and interact and network with other parents, do join our
-Parent Support Group using this link:
+<br>If you would like to work with the school to enhance learning experiences
+for our students, and connect with other parents, we invite you to join
+our Parent Support Group through this link:
 <br><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScjK-zWdtQk5pIRjQvzU3U1cvUpH0bFD8ks_8i-ZlUOwTnUrQ/viewform" rel="noopener noreferrer nofollow" target="_blank">PSG Application Form</a></strong>
 <br>
 </p>
