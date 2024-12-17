@@ -6,11 +6,10 @@ description: ""
 ---
 <h4><strong>Principal's Welcome</strong></h4>
 <p>Dear Sec 1 Parents,
-<br>A very warm welcome to Hua Yi. We are glad that your child will be joining
-the Hua Yi family, and look forward to working closely with you to develop
-your child to their fullest potential. Please see the video below for our
-Principal’s welcome.</p>
-<p></p>
+<br>We are delighted to welcome your child to the Hua Yi family, and we look
+forward to partnering with you to nurture and develop your child to their
+fullest potential. Please take a moment to watch the video below for a
+welcome message from our Principal-Designate.</p>
 <div class="iframe-wrapper">
 <iframe height="390" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oBlY2QJBoq0?si=gVCWgA8PUn9Kly8T"></iframe>
 </div>
