@@ -305,7 +305,7 @@ will be provided to the students on the first day of school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start it Right Programme - Sec 1 Orientation Campl</strong>
+<p><strong>Start it Right Programme - Sec 1 Orientation Camp</strong>
 </p>
 <ul>
 <li>
