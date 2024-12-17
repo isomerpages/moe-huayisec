@@ -174,40 +174,7 @@ their PE t-shirt.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-1A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Diutius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Orange</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24-1B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Citius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24-1C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fortius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Red</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24-1D</p>
+<p>25-1A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Latius</p>
@@ -218,18 +185,18 @@ their PE t-shirt.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-1E</p>
+<p>25-1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fortius</p>
+<p>Altius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Red</p>
+<p>Green</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-1F</p>
+<p>25-1C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Diutius</p>
@@ -240,7 +207,40 @@ their PE t-shirt.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-1G</p>
+<p>25-1D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fortius</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25-1E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Latius</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Black</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25-1F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Citius</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25-1G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Altius</p>
