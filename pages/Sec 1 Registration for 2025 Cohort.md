@@ -306,18 +306,15 @@ see the table below for the operating dates and time.
 <br>Alternatively, you may wish to purchase the books online, <a href="asenciobookshop.sg" rel="noopener nofollow" target="_blank">asenciobookshop.sg</a>.</p>
 <p><strong><u>Textbooks and Stationery</u></strong>
 </p>
-<p>Please see the <a href="https://drive.google.com/file/d/1LF7kgG6AdUIt_NamGG4QF2gu9hJUMyqr/view?usp=sharing" rel="noopener nofollow" target="_blank">attached booklist</a> for
-the required books and stationery.
+<p>Please refer to the <a href="https://drive.google.com/file/d/1LF7kgG6AdUIt_NamGG4QF2gu9hJUMyqr/view?usp=sharing" rel="noopener nofollow" target="_blank">attached booklist</a> for
+the required books and stationery.</p>
+<p>
+<br>For <strong>online purchases</strong>, orders must be completed by <strong>21 December 2024</strong> to
+ensure delivery before the start of the school year.</p>
+<p>Please note that <strong>online sales are not applicable to FAS students</strong>.</p>
+<p>
 <br>
 </p>
-<ul>
-<li>
-<p>Online sales to be completed by 21 Dec 2024 for delivery before 2025.</p>
-</li>
-<li>
-<p>Online sales not applicable to FAS students</p>
-</li>
-</ul>
 <h4><strong>CCA Information</strong></h4>
 <p>Below is the list of CCAs offered in our school:</p>
 <table style="minWidth: 100px">
