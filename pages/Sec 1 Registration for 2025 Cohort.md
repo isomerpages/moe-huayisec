@@ -710,7 +710,7 @@ available on Parents Gateway (under Services tab – Financial Assistance)
 via Singpass login.&nbsp;</p>
 <p></p>
 <p>Alternatively, the 2025 e-FAS link is provided below.&nbsp;&nbsp;</p>
-<p><strong>eFAS <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a></strong>
+<p><strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a></strong>
 </p>
 <p></p>
 <p>Do submit the online application together with the supporting documents
