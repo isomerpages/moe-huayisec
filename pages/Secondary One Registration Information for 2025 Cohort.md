@@ -738,6 +738,16 @@ or contact us at 6563 4568 should you have further queries.</p>
 <p>Please register your School Smart Card with the General Office when you
 are collecting the approval letter for your MOE FAS Application.&nbsp;
 <br>
+</p>
+<h4><strong>Standing Order for Use of Edusave Account (EPSO)</strong></h4>
+<p>Please login to Parents Gateway and complete the online form under the
+Services Tab. This form is to be used by the parent/guardian of a Singapore
+citizen student to use the Edusave account of his/her child to pay for
+approved fees by MOE and enrichment programmes.</p>
+<p></p>
+<h4><strong>Apply for eGiro</strong></h4>
+<p>Please login to Parents gateway and complete the online form for e-GIRO
+setup for fees deduction under the Services Tab.
 <br>
 </p>
 <h4><strong>Subject Based Banding</strong></h4>
