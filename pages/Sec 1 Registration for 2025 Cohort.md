@@ -6,34 +6,38 @@ description: ""
 ---
 <h4><strong>Principal's Welcome</strong></h4>
 <p>Dear Sec 1 Parents,
-<br>A very warm welcome to Hua Yi. We are glad that your child will be joining
-the Hua Yi family, and look forward to working closely with you to develop
-your child to their fullest potential. Please see the video below for our
-Principal’s welcome.</p>
-<p></p>
+<br>We are delighted to welcome your child to the Hua Yi family, and we look
+forward to partnering with you to nurture and develop your child to their
+fullest potential. Please take a moment to watch the video below for a
+welcome message from our Principal-Designate.</p>
 <div class="iframe-wrapper">
 <iframe height="390" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oBlY2QJBoq0?si=gVCWgA8PUn9Kly8T"></iframe>
 </div>
 <h4><strong>Important Information for ALL Students</strong></h4>
 <p>All Secondary 1 students posted to Hua Yi Secondary school are required
-to read through the registration information below. Additional details
-will be sent via Parents Gateway (PG).</p>
-<p>The e-Registration process will be conducted through PG. Information on
-class allocation and Subject-Based Banding (SBB) offerings will also be
-shared via PG, typically 1 - 2 days after the posting is confirmed.&nbsp;</p>
+to review through the registration details below carefully. Additional
+details will be sent via Parents Gateway (PG).</p>
+<p>The e-Registration process will be conducted through PG. Information regarding
+class allocation and Subject-Based Banding (SBB) offerings will be shared
+on PG, typically 1 - 2 days after the posting is confirmed.&nbsp;</p>
 <p>
 <br><strong>Please note: </strong>Parents are strongly encouraged to purchase
-uniforms and books only after receiving the class allocation on Parents
-Gateway.<strong><br><br></strong>The first day of School will be on <strong><u>Thursday, 2 January 2025.</u></strong>
+uniforms and books <strong>only after receiving the class allocation</strong> on
+Parents Gateway.<strong><br><br></strong>The first day of School will be
+on <strong><u>Thursday, 2 January 2025.</u></strong>
 </p>
 <h4><strong>Reporting Time</strong></h4>
-<p>The reporting time for school each day is before 7.30am. Students are
-expected to arrive at school by 7.20am each day, as the flag-raising ceremony
-begins promptly at 7.30am.</p>
+<p>The <strong>Flag-Raising Ceremony</strong> begins promptly at <strong>7.30am</strong> daily.
+All students are expected to be present and prepared before it starts.
+To ensure this, students should allow sufficient time to deposit their
+bags in the classroom and place their phones in the lockers before proceeding
+to the ceremony.</p>
+<p></p>
 <h4><strong>First Day of School</strong></h4>
-<p>On the first day of school, all students should report in their Hua Yi
-PE Attire with Uniform Bottoms, and gather at their respective Secondary
-1 Classroom (Level 4) for the morning assembly.</p>
+<p>On the first day of school, students should report in their Hua Yi PE
+Attire with Uniform Bottoms, and gather at their respective Secondary 1
+Classroom on Level 4. From there, their seniors will then lead them to
+the School Hall (Centrestage) for the Flag-Raising Ceremony.</p>
 <p>Please see the <a href="https://drive.google.com/file/d/1MVhAb5qs3nA95acZTUAACZ7beaMHIsF6/view?usp=drive_link" rel="noopener nofollow" target="_blank">attached file</a> the
 for the classroom allocation.</p>
 <p>Students who did not manage to purchase the Hua Yi school uniform can
@@ -43,214 +47,24 @@ Orientation Camp (S1OC).</p>
 <h4><strong>Uniform Guidelines</strong></h4>
 <p>Please refer to the table below on the details for school attire. Students
 will be briefed on the first day of school as well.</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Monday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tuesday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Wednesday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Thursday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Friday</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<p>Full uniform (with tie on Mondays)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="4">
-<p>Hua Yi Polo Tee with uniform bottom</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="3" colspan="1">
-<p>Half uniform with:</p>
-<p>- PE/House Tee</p>
-<p>- CCA Tee</p>
-<p>- Cohort Tee</p>
-<p>- Student Leaders' Tee</p>
-<p>- Hua Yi Ren Tee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sec 1 Registration/uniform.png">
+</div>
 <p></p>
 <h4><strong>House Allocation</strong></h4>
 <p>Please refer to the table below for the House allocation of the Sec 1
 classes. Each class is allocated to one of the 5 Houses in our school,
-and students would need to purchase the House t-shirt, which serves as
-their PE t-shirt.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>House</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Colour of the Shirt</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Latius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Black</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Altius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Green</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Diutius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Orange</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fortius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Red</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Latius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Black</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Citius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1G</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Altius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Green</p>
-</td>
-</tr>
-</tbody>
-</table>
+and students would need to purchase the House T-shirt, which serves as
+their PE T-shirt.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sec 1 Registration/House.png">
+</div>
 <p>
-<br>Parents would be informed of their child’s class allocation via Parents
-Gateway by 20 December 2024. We would also require your response through
-Parents Gateway to some of the questions (e.g., camp t-shirt size, dietary
-requirement(s), medical condition(s), attendance for school leader’s talk)
-by 23 December 2024.</p>
+<br>Parents will be notified of their child’s class allocation via Parents
+Gateway by 20 December 2024. We kindly request your response through PG
+to a few questions (e.g., camp T-shirt size, dietary requirement(s), medical
+condition(s), attendance for School Leader’s Talk and Secondary 1 Orientation
+Campfire) by 23 December 2024.</p>
 <h4><strong>Sec 1 Start-It-Right and Orientation Programme</strong></h4>
 <p>For the first week of school, a Start-it-right and Orientation Programme
 has been planned for the students, to facilitate their transition to secondary
@@ -422,7 +236,7 @@ will be provided to the students on the first day of school.</p>
 </p>
 <ul>
 <li>
-<p>Bonsai Programme</p>
+<p>Hua Yi Bonsai Programme</p>
 </li>
 <li>
 <p>CCA Selection Talk</p>
@@ -443,17 +257,17 @@ will be provided to the students on the first day of school.</p>
 </tbody>
 </table>
 <h4><br><strong>School Leaders' Talk and Sec 1 Orientation Campfire with Secondary 1 Parents</strong></h4>
-<p>There will be a school leaders’ talk and Sec 1 Orientation Campfire for
-Secondary One parents. Do respond via the message sent out in Parents Gateway
-on your child’s class allocation.
+<p>We warmly invite all Secondary 1 parents to attend the <strong>School Leaders’ Talk</strong> and
+the <strong>Secondary 1 Orientation Campfire</strong>. Please confirm your
+attendance by responding to the message regarding your child’s class allocation,
+which will be sent via <strong>Parents Gateway</strong>.
 <br>
 <br>Date: 3 January 2025 (Friday)
-<br>Time: 6.30 – 9.30 pm
-<br>Venue: Hua Yi Secondary School</p>
-<p>
-<br><em>*Light refreshments will be provided from 6.00pm.</em>
-</p>
-<p></p>
+<br>Time: 6.00 – 9.30 pm
+<br><strong>Programme Overview and Venues:<br></strong>6.00 - 6.30pm: Refreshments
+@ HYSS Centrestage (Level 2)</p>
+<p>6.30 - 7.00pm: Sharing by School Leaders @ HYSS Centrestage (Level 2)
+<br>7.00 - 9.30pm: Secondary 1 Campfire @ Quadrangle</p>
 <h4><strong>Sale of Uniform, Textbooks and Stationery</strong></h4>
 <p>Uniforms, textbooks and stationery will be sold at our school. Please
 see the table below for the operating dates and time.
@@ -492,18 +306,15 @@ see the table below for the operating dates and time.
 <br>Alternatively, you may wish to purchase the books online, <a href="asenciobookshop.sg" rel="noopener nofollow" target="_blank">asenciobookshop.sg</a>.</p>
 <p><strong><u>Textbooks and Stationery</u></strong>
 </p>
-<p>Please see the <a href="https://drive.google.com/file/d/1LF7kgG6AdUIt_NamGG4QF2gu9hJUMyqr/view?usp=sharing" rel="noopener nofollow" target="_blank">attached booklist</a> for
-the required books and stationery.
+<p>Please refer to the <a href="https://drive.google.com/file/d/1LF7kgG6AdUIt_NamGG4QF2gu9hJUMyqr/view?usp=sharing" rel="noopener nofollow" target="_blank">attached booklist</a> for
+the required books and stationery.</p>
+<p>
+<br>For <strong>online purchases</strong>, orders must be completed by <strong>21 December 2024</strong> to
+ensure delivery before the start of the school year.</p>
+<p>Please note that <strong>online sales are not applicable to FAS students</strong>.</p>
+<p>
 <br>
 </p>
-<ul>
-<li>
-<p>Online sales to be completed by 21 Dec 2024 for delivery before 2025.</p>
-</li>
-<li>
-<p>Online sales not applicable to FAS students</p>
-</li>
-</ul>
 <h4><strong>CCA Information</strong></h4>
 <p>Below is the list of CCAs offered in our school:</p>
 <table style="minWidth: 100px">
@@ -633,12 +444,14 @@ the required books and stationery.
 </tbody>
 </table>
 <p>
-<br>Please see the <a href="https://drive.google.com/file/d/1gfXnFJWxk9YqonG92_LLqN2giXuI1FdJ/view?usp=sharing" rel="noopener nofollow" target="_blank">attached document</a>&nbsp;for
-the timeline of the CCA Experience (trials, CCA experience, registration
-and allocation) for Secondary One students in Hua Yi. Students will be
-briefed on the details in the first week of school.</p>
-<p></p>
-<h4><strong>Personalised Digital Learning Programme (PDLP)</strong></h4>
+<br>Please refer to the <a href="https://drive.google.com/file/d/1gfXnFJWxk9YqonG92_LLqN2giXuI1FdJ/view?usp=sharing" rel="noopener nofollow" target="_blank">attached document</a>&nbsp;for
+the timeline of the CCA Experience for Secondary One students in Hua Yi.
+The CCA Experience includes trials, experiencing the CCA activities and
+programmes, registration and allocation. Students will receive a detailed
+briefing in Term 1 Week 1.&nbsp;</p>
+<p>
+<br><strong>Personalised Digital Learning Programme (PDLP)</strong>
+</p>
 <p>In line with MOE policy, all secondary school students will be getting
 a personal tablet or laptop. In Hua Yi, students use an iPad for their
 learning. Please refer to <strong><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/pdlp/" rel="noopener noreferrer nofollow" target="_blank">PDLP</a></strong> for
@@ -648,11 +461,15 @@ more details.
 be provided in due course.</p>
 <p></p>
 <h4><strong>Parent Support Group</strong></h4>
-<p>Hua Yi has an active and committed Parent Support Group (PSG) which supports
-school programmes and activities for students’ holistic development. The
-PSG’s vision is to work closely with the school to provide the best support
-in educating our children. We invite parents to join us, so together we
-can offer strategic support through networking and shared resources.</p>
+<p>Hua Yi is proud to have an <strong>active and committed Parent Support Group (PSG)</strong> that
+plays a key role in supporting school programmes and activities to enhance
+students' holistic development.</p>
+<p>
+<br>The PSG’s vision is to partner closely with the school to provide the
+best possible support for our children’s education. We warmly invite parents
+to join us in this meaningful effort, where we can collaborate, network
+and share resources to offer strategic support for our students’ growth
+and success.</p>
 <p>
 <br>You can find out more about HYSS PSG at&nbsp;<strong><a href="https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/</a></strong>
 <br>
@@ -665,7 +482,7 @@ our Parent Support Group through this link:
 <p>Cars entering the school compound for drop-off and pick-up are required
 to display a designated car decal daily. Each decal cost $3 and remains
 valid until your child graduates from Hua Yi.&nbsp;</p>
-<p>Please fill up the form below by 30 December 2024 to purchase a decal.
+<p>Kindly complete the form below by 30 December 2024 to purchase a decal.
 Payment will be deducted via Giro and additional details will be provided
 on the decal collection date. <strong><br><a href="https://go.gov.sg/hysscardecalapplication" rel="noopener noreferrer nofollow" target="_blank"><u>Car Decal Purchase Form 2024</u></a></strong>
 </p>
@@ -713,7 +530,7 @@ via Singpass login.&nbsp;</p>
 <p><strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a></strong>
 </p>
 <p></p>
-<p>Do submit the online application together with the supporting documents
+<p>Please submit the online application together with the supporting documents
 or contact us at 6563 4568 should you have further queries.</p>
 <p></p>
 <p><strong><u>POSB Smart Buddy Programme (For FAS students only)</u></strong>
@@ -729,10 +546,11 @@ approved fees by MOE and enrichment programmes.</p>
 <h4><strong>Apply for eGiro</strong></h4>
 <p>Please login to Parents gateway and complete the online form for e-GIRO
 setup for fees deduction under the Services Tab.</p>
-<h4><strong>Subject Based Banding</strong></h4>
-<p>For students who qualify for subject-based banding, a message will be
-sent via Parents Gateway in the next few days, and a response will be required.
-More information can be found in the attached slides e&nbsp;<a href="https://drive.google.com/file/d/1LRtJrMZ3prtoRSBe9R8J9v41qni6J_DP/view?usp=sharing" rel="noopener nofollow" target="_blank">attached slides.</a>
+<h4><strong>Taking Subjects at a More Demanding Level</strong></h4>
+<p>For students who qualify to take subjects at a more demanding level, a
+message will be sent via Parents Gateway by 23 December 2024, 5.00pm, and
+a response will be required. More information can be found in the attached
+slides&nbsp;<a href="https://drive.google.com/file/d/1LRtJrMZ3prtoRSBe9R8J9v41qni6J_DP/view?usp=sharing" rel="noopener nofollow" target="_blank">attached slides.</a>
 </p>
 <p></p>
 <h4><strong>Higher Mother Tongue</strong></h4>
