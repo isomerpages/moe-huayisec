@@ -267,13 +267,7 @@ which will be sent via <strong>Parents Gateway</strong>.
 <br><strong>Programme Overview and Venues:<br></strong>6.00 - 6.30pm: Refreshments
 @ HYSS Centrestage (Level 2)</p>
 <p>6.30 - 7.00pm: Sharing by School Leaders @ HYSS Centrestage (Level 2)
-<br>7.00 - 9.30pm: Secondary 1 Campfire @ Quadrangle
-<br>
-</p>
-<p>
-<br><em>*Light refreshments will be provided from 6.00pm.</em>
-</p>
-<p></p>
+<br>7.00 - 9.30pm: Secondary 1 Campfire @ Quadrangle</p>
 <h4><strong>Sale of Uniform, Textbooks and Stationery</strong></h4>
 <p>Uniforms, textbooks and stationery will be sold at our school. Please
 see the table below for the operating dates and time.
