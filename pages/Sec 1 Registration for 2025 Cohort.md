@@ -56,112 +56,15 @@ will be briefed on the first day of school as well.</p>
 classes. Each class is allocated to one of the 5 Houses in our school,
 and students would need to purchase the House T-shirt, which serves as
 their PE T-shirt.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>House</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Colour of the Shirt</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Latius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Black</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Altius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Green</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Diutius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Orange</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fortius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Red</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Latius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Black</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Citius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25-1G</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Altius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Green</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sec 1 Registration/House.png">
+</div>
 <p>
-<br>Parents would be informed of their child’s class allocation via Parents
-Gateway by 20 December 2024. We would also require your response through
-Parents Gateway to some of the questions (e.g., camp t-shirt size, dietary
-requirement(s), medical condition(s), attendance for school leader’s talk)
-by 23 December 2024.</p>
+<br>Parents will be notified of their child’s class allocation via Parents
+Gateway by 20 December 2024. We kindly request your response through PG
+to a few questions (e.g., camp T-shirt size, dietary requirement(s), medical
+condition(s), attendance for School Leader’s Talk and Secondary 1 Orientation
+Campfire) by 23 December 2024.</p>
 <h4><strong>Sec 1 Start-It-Right and Orientation Programme</strong></h4>
 <p>For the first week of school, a Start-it-right and Orientation Programme
 has been planned for the students, to facilitate their transition to secondary
