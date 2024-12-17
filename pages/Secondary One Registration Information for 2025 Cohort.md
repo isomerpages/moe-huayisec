@@ -769,11 +769,11 @@ more information on Higher Mother Tongue and Non-Conventional Mother Tongue.</p>
 refer to the information below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Sec 1 Registration/Art_Elective.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sec 1 Registration/Art_Elective.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Sec 1 Registration/Music_Elective.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music_Elective.png">
 </div>
 <p></p>
 <h4><strong>Transfers &amp; Appeals</strong></h4>
@@ -811,7 +811,7 @@ posted to</p>
 <p>Ensure that you meet the cut-off for Hua Yi Secondary&nbsp;School</p>
 </li>
 <li>
-<p>Submit an appeal form&nbsp;to Hua Yi Secondary School at <strong><a href="https://form.gov.sg/65669b318fd60e0012b60d56" rel="noopener noreferrer nofollow" target="_blank"><u>https://form.gov.sg/65669b318fd60e0012b60d56</u></a>&nbsp;</strong>
+<p>Submit an appeal form&nbsp;to Hua Yi Secondary School at <a href="https://go.gov.sg/hyss2025s1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hyss2025s1appeal</a> 
 </p>
 </li>
 <li>
@@ -823,7 +823,7 @@ school by 2 January 2025</p>
 </li>
 </ul>
 <p>
-<br>All appeals must be submitted latest by&nbsp;<strong><u>26 December 2024, 12.00pm.</u></strong>
+<br>All appeals must be submitted latest by&nbsp;<strong><u>23 December 2024, 12.00pm.</u></strong>
 </p>
 <p>
 <br>
