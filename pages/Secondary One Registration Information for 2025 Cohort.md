@@ -556,10 +556,10 @@ the required books and stationery.
 <p>National Cadet Corps (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choir</p>
+<p>Show Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art &amp; Crafts</p>
+<p>Art &amp; Crafts Club</p>
 </td>
 </tr>
 <tr>
