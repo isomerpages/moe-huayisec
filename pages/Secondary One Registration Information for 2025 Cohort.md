@@ -710,10 +710,9 @@ students while using their old card.</p>
 <h4><strong>POSB Smart Buddy Programme (For Non-FAS students )</strong></h4>
 <p>We have successfully implemented POSB Smart Buddy as an e-payment option
 in our school canteen. With this implementation in Hua Yi Secondary School,
-all our students can now opt to use e-payments for their in-school purchases
-from 26 May 2023 onwards. We hope that in support of this national initiative,
-our students will be able to experience digital payments in a safe and
-secured environment.</p>
+all our students can now opt to use e-payments for their in-school purchases.
+We hope that in support of this national initiative, our students will
+be able to experience digital payments in a safe and secured environment.</p>
 <p><strong>Do note that the School Smart Card, ez-link Card and cash are also acceptable. No registration is required.</strong>
 </p>
 <p>You can also download the POSB Smart Buddy mobile app and link these cards/watches
@@ -722,12 +721,12 @@ to track your child’s payments and savings.</p>
 </p>
 <p></p>
 <h3><strong>Important Information for SELECTED Students</strong></h3>
-<p><strong><u>Financial Assistance Scheme (2024)</u></strong>
+<p><strong><u>Financial Assistance Scheme (2025)</u></strong>
 <br>Please login to the MOE FAS Application using the e-FAS form which is
 available on Parents Gateway (under Services tab – Financial Assistance)
 via Singpass login.&nbsp;</p>
 <p></p>
-<p>Alternatively, the 2024 e-FAS link is provided below.&nbsp;&nbsp;</p>
+<p>Alternatively, the 2025 e-FAS link is provided below.&nbsp;&nbsp;</p>
 <p><strong>eFAS <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a></strong>
 </p>
 <p></p>
