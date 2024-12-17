@@ -46,9 +46,4 @@ sections:
       url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       image: /images/family-bg.jpg
       alt: Image alt text
-  - infobar:
-      title: Secondary 1 Registration for 2025 Cohort
-      id: infobar
-      button: Click here for more information
-      url: www.huayisec.moe.edu.sg
 ---
