@@ -257,14 +257,19 @@ will be provided to the students on the first day of school.</p>
 </tbody>
 </table>
 <h4><br><strong>School Leaders' Talk and Sec 1 Orientation Campfire with Secondary 1 Parents</strong></h4>
-<p>We warmly invite all Secondary 1 parents to attend to There will be a
-school leaders’ talk and Sec 1 Orientation Campfire for Secondary One parents.
-Do respond via the message sent out in Parents Gateway on your child’s
-class allocation.
+<p>We warmly invite all Secondary 1 parents to attend the <strong>School Leaders’ Talk</strong> and
+the <strong>Secondary 1 Orientation Campfire</strong>. Please confirm your
+attendance by responding to the message regarding your child’s class allocation,
+which will be sent via <strong>Parents Gateway</strong>.
 <br>
 <br>Date: 3 January 2025 (Friday)
-<br>Time: 6.30 – 9.30 pm
-<br>Venue: Hua Yi Secondary School</p>
+<br>Time: 6.00 – 9.30 pm
+<br><strong>Programme Overview and Venues:<br></strong>6.00 - 6.30pm: Refreshments
+@ HYSS Centrestage (Level 2)</p>
+<p>6.30 - 7.00pm: Sharing by School Leaders @ HYSS Centrestage (Level 2)
+<br>7.00 - 9.30pm: Secondary 1 Campfire @ Quadrangle
+<br>
+</p>
 <p>
 <br><em>*Light refreshments will be provided from 6.00pm.</em>
 </p>
