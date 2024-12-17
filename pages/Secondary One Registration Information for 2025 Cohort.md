@@ -682,11 +682,15 @@ our Parent Support Group through this link:
 <p>Cars entering the school compound for drop-off and pick-up are required
 to display a designated car decal daily. Each decal cost $3 and remains
 valid until your child graduates from Hua Yi.&nbsp;</p>
-<p>Please fill up the form below by 28 December 2023 to purchase a decal.
+<p>Please fill up the form below by 30 December 2024 to purchase a decal.
 Payment will be deducted via Giro and additional details will be provided
-on the decal collection date. <strong><br><a href="https://form.gov.sg/657fc0d82f528700122b6a49" rel="noopener noreferrer nofollow" target="_blank"><u>Car Decal Purchase Form 2024</u></a></strong>
+on the decal collection date. <strong><br><a href="https://go.gov.sg/hysscardecalapplication" rel="noopener noreferrer nofollow" target="_blank"><u>Car Decal Purchase Form 2024</u></a></strong>
 </p>
-<p></p>
+<h4><strong>HPB Child Consent Portal</strong></h4>
+<p>There will be HPB's health, immunisation and dental screening for the
+students. Parents/guardians will have to access the Child Consent Portal,
+<a href="https://consent.hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg</a>to provide consent and update their child's/ward's
+medical information accordingly.</p>
 <h4><strong>School Smart Card</strong></h4>
 <ul>
 <li>
