@@ -322,56 +322,54 @@ will be provided to the students on the first day of school.
 <p>Principal’s Welcome</p>
 </li>
 <li>
+<p>Grand Welcome House Assembly</p>
+</li>
+<li>
+<p>House Engagement Session</p>
+</li>
+<li>
 <p>Form Teacher Time</p>
 </li>
 <li>
-<p>Discipline Talk</p>
+<p>Lunch Break</p>
 </li>
 <li>
-<p>CCA Selection Talk</p>
-</li>
-<li>
-<p>PDLP Briefing</p>
-</li>
-<li>
-<p>School Safety Talk</p>
-</li>
-<li>
-<p>Assessment Briefing</p>
-</li>
-<li>
-<p>Student Ownership Briefing (eMLJ &amp; Independent Learning)&nbsp;</p>
+<p>Sec 1 Orientation Programme</p>
+<p></p>
+<p><strong>Note:</strong> Lunch and afternoon tea provided&nbsp;</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Wed<br>3 Jan</strong>
+<p><strong>Friday<br>3 Jan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7.30am – 1.40pm</strong>
+<p><strong>7.30am – 9.30pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>School Quadrangle</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>PE Attire with Uniform Bottoms</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start-it-Right Programme</strong>
+<p><strong>Start-it-Right Programme - Sec 1 Orientation Camp</strong>
 </p>
 <ul>
 <li>
-<p>House Time</p>
+<p>Whole School Physical Activity</p>
 </li>
 <li>
-<p>Bonsai Programme</p>
+<p>Whole School &amp; House Cheer Session</p>
 </li>
 <li>
-<p>Transition Programme</p>
+<p>Sec 1 Orientation Camp / Campfire</p>
 </li>
 </ul>
 </td>
