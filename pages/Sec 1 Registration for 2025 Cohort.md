@@ -305,7 +305,7 @@ will be provided to the students on the first day of school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start it Right Programme - Sec 1 Orientation Campl</strong>
+<p><strong>Start it Right Programme - Sec 1 Orientation Camp</strong>
 </p>
 <ul>
 <li>
@@ -490,10 +490,9 @@ see the table below for the operating dates and time.
 <br>Blk E Level 1 classrooms – Uniform
 <br>
 <br>Alternatively, you may wish to purchase the books online, <a href="asenciobookshop.sg" rel="noopener nofollow" target="_blank">asenciobookshop.sg</a>.</p>
-<p><a href="https://finestuniform.com/collections/hua-yi-secondary-school" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><u>Textbooks &amp; Stationery</u></strong>
-<a href="https://finestuniform.com/collections/hua-yi-secondary-school" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>Please see the <a href="https://drive.google.com/file/d/1LF7kgG6AdUIt_NamGG4QF2gu9hJUMyqr/view?usp=sharing" rel="noopener nofollow" target="_blank">attached booklist</a> for
+<p><strong><u>Textbooks and Stationery</u></strong>
+</p>
+<p>Please see the <a href="https://drive.google.com/file/d/1LF7kgG6AdUIt_NamGG4QF2gu9hJUMyqr/view?usp=sharing" rel="noopener nofollow" target="_blank">attached booklist</a> for
 the required books and stationery.
 <br>
 </p>
@@ -711,7 +710,7 @@ available on Parents Gateway (under Services tab – Financial Assistance)
 via Singpass login.&nbsp;</p>
 <p></p>
 <p>Alternatively, the 2025 e-FAS link is provided below.&nbsp;&nbsp;</p>
-<p><strong>eFAS <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a></strong>
+<p><strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a></strong>
 </p>
 <p></p>
 <p>Do submit the online application together with the supporting documents
