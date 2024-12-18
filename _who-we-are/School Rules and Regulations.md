@@ -740,8 +740,9 @@ offences committed in accordance with the Table of Offences below:</p>
 <td rowspan="1" colspan="1">
 <p>Late arrival at school without a valid reason</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>NA</p>
+<td rowspan="3" colspan="1">
+<p>School attendance/ Conduct grade will be affected</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -751,9 +752,6 @@ offences committed in accordance with the Table of Offences below:</p>
 <td rowspan="1" colspan="1">
 <p>Complete absence from school on a school day without a valid reason</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>NA</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -761,9 +759,6 @@ offences committed in accordance with the Table of Offences below:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Complete absence from CCA without a valid reason</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NA</p>
 </td>
 </tr>
 <tr>
