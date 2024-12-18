@@ -25,7 +25,7 @@ sections:
       title: Sec 1 Registration
       id: infopic
       button: Click here
-      url: https://cms.isomer.gov.sg/sites/moe-huayisec/editPage/Sec%201%20Registration%20for%202025%20Cohort.md
+      url: https://www.huayisec.moe.edu.sg/sec-1-registration-for-2025-cohort/
       image: /images/2025 Sec 1 Registration/welcome.png
       subtitle: 2025 Cohort
       alt: Welcome
