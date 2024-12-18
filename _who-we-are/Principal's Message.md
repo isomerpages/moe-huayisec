@@ -10,14 +10,14 @@ variant: tiptap
 </div>
 <p><strong>Welcome to Hua Yi Secondary School!</strong>
 </p>
-<p>It is my privilege and honor to welcome you to Hua Yi Secondary School,
+<p>It is my privilege and pleasure to welcome you to Hua Yi Secondary School,
 a school with a proud heritage that has nurtured generations of students
 to embody strong values, develop their talents, and contribute meaningfully
 to society. Over the years, Hua Yi has grown into a vibrant institution
-where tradition blends seamlessly with innovation. I am deeply humbled
-to be part of this journey and to build on the steadfast efforts of my
-predecessors, whose leadership and dedication have laid the foundation
-for our continued success.</p>
+where tradition blends seamlessly with innovation. I am deeply appreciative
+of the opportunity to be part of this journey and to build on the steadfast
+efforts of my predecessors, whose leadership and dedication have laid the
+foundation for our continued success.</p>
 <p>As we embark on 2025, I am excited to introduce our school theme, <strong>"Voices that Care."</strong> This
 theme reflects our commitment to cultivating a culture where every student
 is encouraged to speak up and express themselves confidently. More importantly,
