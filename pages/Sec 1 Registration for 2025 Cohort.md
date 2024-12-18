@@ -115,8 +115,11 @@ will be provided to the students on the first day of school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PE Attire with Uniform Bottoms</strong>
+<p><strong>PE T-shirt with Uniform Bottoms</strong>
 </p>
+<p><strong>(Note: Bring PE shorts)</strong>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Start it Right Programme - Sec 1 Orientation Camp</strong>
@@ -159,8 +162,11 @@ will be provided to the students on the first day of school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PE Attire with Uniform Bottoms</strong>
+<p><strong>PE T-shirt with Uniform Bottoms</strong>
 </p>
+<p><strong>(Note: Bring PE shorts)</strong>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Start-it-Right Programme - Sec 1 Orientation Camp</strong>
@@ -228,7 +234,7 @@ will be provided to the students on the first day of school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Full School Uniform / Polo Tee</strong>
+<p><strong>Polo Tee with Uniform Bottoms</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
