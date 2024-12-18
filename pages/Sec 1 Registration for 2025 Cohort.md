@@ -613,7 +613,7 @@ posted to</p>
 <p>Ensure that you meet the cut-off for Hua Yi Secondary&nbsp;School</p>
 </li>
 <li>
-<p>Submit an appeal form&nbsp;to Hua Yi Secondary School at <a href="https://form.gov.sg/676217aceb847bd46286c601" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hyss2025s1appeal</a>
+<p>Submit an appeal form&nbsp;to Hua Yi Secondary School at <a href="https://go.gov.sg/2025hysss1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025hysss1appeal</a>
 </p>
 </li>
 <li>
