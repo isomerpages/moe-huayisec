@@ -115,8 +115,11 @@ will be provided to the students on the first day of school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PE Attire with Uniform Bottoms</strong>
+<p><strong>PE T-shirt with Uniform Bottoms</strong>
 </p>
+<p><strong>(Note: Bring PE shorts)</strong>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Start it Right Programme - Sec 1 Orientation Camp</strong>
@@ -159,8 +162,11 @@ will be provided to the students on the first day of school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PE Attire with Uniform Bottoms</strong>
+<p><strong>PE T-shirt with Uniform Bottoms</strong>
 </p>
+<p><strong>(Note: Bring PE shorts)</strong>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Start-it-Right Programme - Sec 1 Orientation Camp</strong>
@@ -228,7 +234,7 @@ will be provided to the students on the first day of school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Full School Uniform / Polo Tee</strong>
+<p><strong>Polo Tee with Uniform Bottoms</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -607,7 +613,7 @@ posted to</p>
 <p>Ensure that you meet the cut-off for Hua Yi Secondary&nbsp;School</p>
 </li>
 <li>
-<p>Submit an appeal form&nbsp;to Hua Yi Secondary School at <a href="https://form.gov.sg/676217aceb847bd46286c601" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hyss2025s1appeal</a>
+<p>Submit an appeal form&nbsp;to Hua Yi Secondary School at <a href="https://go.gov.sg/2025hysss1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025hysss1appeal</a>
 </p>
 </li>
 <li>
