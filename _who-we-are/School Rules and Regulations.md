@@ -826,6 +826,98 @@ session without approval</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>OFFENCES</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DESCRIPTIONS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>POINTS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MISUSE OF DIGITAL DEVICES</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inappropriate use of mobile devices/ personal learning devices</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Use of mobile devices/personal learning devices</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For non-learning purposes during lessons</p>
+</li>
+<li>
+<p>During CCAs without seeking teachers’ permission</p>
+</li>
+<li>
+<p>Outside designated areas during break</p>
+</li>
+</ul>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Abuse of technology / Non-compliance with PDLP Acceptable Use Policy (AUP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Inappropriate or unlawful use of mobile devices e.g. computer, personal
+learning device, mobile devices etc. that breaches the AUP</p>
+</li>
+<li>
+<p>Making, or circulating offensive comments or content in a digital medium
+such as social media</p>
+</li>
+</ul>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>OTHER ACTIONS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents informed</p>
+</li>
+<li>
+<p>Confiscation of device</p>
+</li>
+<li>
+<p>Suspension</p>
+</li>
+<li>
+<p>Relevant authorities notified</p>
+</li>
+</ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p><strong>OFFENCES</strong>
 </p>
 </th>
@@ -871,18 +963,6 @@ reason</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Inappropriate use of mobile phones/PLDs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Use of mobile phones or PLDs for non-learning purposes during lessons
-and CCAs without first seeking the teachers’ permission</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
 </td>
 </tr>
 <tr>
@@ -1017,10 +1097,20 @@ allowing others to copy or tampering with marks</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Parents informed
-<br>* Warning
-<br>* Detention
-<br>* Zero mark awarded</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents informed</p>
+</li>
+<li>
+<p>Warning</p>
+</li>
+<li>
+<p>Detention</p>
+</li>
+<li>
+<p>Zero mark awarded</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1035,28 +1125,51 @@ the intention to deceive</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Warning
-<br>* Detention
-<br>* Parents informed
-<br>* Suspension</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Warning</p>
+</li>
+<li>
+<p>Detention</p>
+</li>
+<li>
+<p>Parents informed</p>
+</li>
+<li>
+<p>Suspension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Smoking</p>
+<p>Smoking/ Vaping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use/possession/distribution/sale of cigarettes or other tobacco-related
-products</p>
+<p>Use/ possession/ distribution/ sale of cigarettes or other tobacco-related
+products (eg.e-cigarettes, etc)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Parents informed
-<br>* Smoking cessation counselling
-<br>* Suspension
-<br>* Relevant authorities notified</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents informed</p>
+</li>
+<li>
+<p>Smoking cessation counselling</p>
+</li>
+<li>
+<p>Suspension</p>
+</li>
+<li>
+<p>Caning</p>
+</li>
+<li>
+<p>Relevant authorities notified</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
