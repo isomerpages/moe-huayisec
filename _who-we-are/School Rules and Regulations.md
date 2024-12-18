@@ -1265,30 +1265,6 @@ products (eg.e-cigarettes, etc)</p>
 <p>5</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Abuse of technology/Non-compliance with PDLP Acceptable Use Policy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Offensive comments on social media/Improper, unlawful or inappropriate
-use of information communication and technology tools, e.g. computer, personal
-learning device, mobile phone, etc.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>OTHER ACTIONS</strong>
