@@ -312,8 +312,8 @@ see the table below for the operating dates and time.
 <br>Alternatively, you may wish to purchase the books online, <a href="asenciobookshop.sg" rel="noopener nofollow" target="_blank">asenciobookshop.sg</a>.</p>
 <p><strong><u>Textbooks and Stationery</u></strong>
 </p>
-<p>Please refer to the <a href="https://drive.google.com/file/d/1LF7kgG6AdUIt_NamGG4QF2gu9hJUMyqr/view?usp=sharing" rel="noopener nofollow" target="_blank">attached booklist</a> for
-the required books and stationery.</p>
+<p>Please refer to the <a href="/files/2025 Sec 1 Registration/Hua_Yi_Sec_1.pdf" rel="noopener nofollow" target="_blank">attached booklist</a> the
+<a href="https://drive.google.com/file/d/1LF7kgG6AdUIt_NamGG4QF2gu9hJUMyqr/view?usp=sharing" rel="noopener nofollow" target="_blank">attached booklist</a>for the required books and stationery.</p>
 <p>
 <br>For <strong>online purchases</strong>, orders must be completed by <strong>21 December 2024</strong> to
 ensure delivery before the start of the school year.</p>
