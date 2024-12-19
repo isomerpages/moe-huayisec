@@ -10,10 +10,9 @@ develop self-discipline and to imbibe a sense of accountability to self
 and others in the school and community.</p>
 <h4>Attendance</h4>
 <h5>Flag-raising and Pledge-taking Ceremony</h5>
-<p>1 . Students should arrive in school by 7.30am/7.45am in accordance with
-the timetable and be ready at the assembly point for the flag-raising ceremony,
-which commences at 7.45am sharp. Attendance will be taken at the assembly
-point.</p>
+<p>1 . Students should arrive in school by 7.30am in accordance with the
+timetable and be ready at the assembly point for the flag-raising ceremony.
+Attendance will be taken at the assembly point.</p>
 <p>2 . Students who are Singapore citizens must sing the National Anthem
 and take the Pledge. Pupils will take the Pledge with the right fist over
 the heart.</p>
@@ -69,11 +68,7 @@ review will be awarded a zero mark.</p>
 <h5>Leaving class during lessons</h5>
 <p>1 . If the need arises, a student can leave the class after obtaining
 the teacher’s permission.</p>
-<p>2 . The Class Chairperson or Vice-Chairperson should account for the presence/absence
-of his/her classmates during lessons by entering the details into the Class
-Diary. Subject teachers will check the entries and initial against the
-slot for that teaching period.</p>
-<p>3 . A student who does not need to attend any lesson during curriculum
+<p>2 . A student who does not need to attend any lesson during curriculum
 time should engage in self-study during his/her free periods at the designated
 study areas.</p>
 <h5>Movement between lessons</h5>
@@ -92,14 +87,14 @@ with the General Office.</p>
 <p>2 . Short-sleeved plain white shirt is worn for boys and blouse for girls.
 The breast pocket on the left should be embroidered with the words ‘Hua
 Yi’ in blue.</p>
-<p>3 . Shirt or blouse must be properly buttoned and the uniform should be
-smartly worn at all times. Shirt sleeves must not be folded.</p>
+<p>3 . Shirt or blouse must be properly buttoned, and the uniform should
+be smartly worn at all times. Shirt sleeves must not be folded.</p>
 <p>4 . Plain white shorts is worn for lower secondary boys and long white
-pants for upper secondary boys. Pants must cover the ankle and socks. Unauthorised
+pants for upper secondary boys. Pants must cover the ankle and socks. Unauthorized
 tailoring of pants is not allowed.</p>
 <p>5 . Light blue skirt is worn for girls. The hem of the skirt must not
 be above the knee-cap.</p>
-<p>6 . Any unauthorised modification to the uniform is not allowed.</p>
+<p>6 . Any unauthorized modification to the uniform is not allowed.</p>
 <p>7 . The school collar badge must be worn on the left collar.</p>
 <p>8 . Student leaders are to wear their name tags above the left breast
 pocket of their shirt or blouse. They are not required to wear collar badges.</p>
@@ -178,9 +173,14 @@ and neatness of the classroom.</p>
 <p>3 . Students are not allowed to consume food and drinks in the classroom
 or at any location other than the canteen and other areas designated for
 food consumption.</p>
-<p>4 . Students are expected to adhere to the GAMES approach at the start
-of every lesson so that effective learning can take place in the classrooms.</p>
-<table>
+<p>4 . Students are expected to adhere to the<strong> START</strong> approach
+at the start of every lesson so that effective learning can take place
+in the classrooms.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -192,10 +192,19 @@ of every lesson so that effective learning can take place in the classrooms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>G</strong>reet</p>
+<p><strong>S</strong>tart and greet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stand and greet teachers.</p>
+<p>Greet your teachers at the start of the lesson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>T</strong>idy up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ensure that your attire is appropriate, neat and the classroom is clean
+(e.g. pick up litter, clean whiteboard for next lesson)</p>
 </td>
 </tr>
 <tr>
@@ -203,31 +212,24 @@ of every lesson so that effective learning can take place in the classrooms.</p>
 <p><strong>A</strong>ttendance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Attend all lessons on time.</p>
+<p>Attend all lessons on time</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>M</strong>obile devices</p>
+<p><strong>R</strong>eady</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keep your mobile phones in the bag. Use your PLDs only for learning.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>E</strong>nvironment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ensure a clean and conducive classroom environment.</p>
+<p>Have the necessary materials for lesson</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S</strong>tart</p>
+<p><strong>T</strong>echnology check</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Be ready to start learning.</p>
+<p>Ensure mobile devices/ smart watches in lockers, and iPads are put away
+when not in use.</p>
 </td>
 </tr>
 <tr>
@@ -242,22 +244,44 @@ of every lesson so that effective learning can take place in the classrooms.</p>
 </table>
 <p>5 . Students should also observe discipline and orderliness during and
 between lessons.</p>
-<p><strong>Use of Mobile Phones/Electronic Devices</strong> 
-<br>1 . Students should not use their mobile phones/personal learning devices
-(PLDs) during school activities, lessons and CCAs, unless permission is
-given.</p>
-<p>2 . Students are to abide by the Acceptable Use Policy when using their
-personal learning devices (refer to&nbsp;[Personalised Digital Learning
-Programme (PDLP)]<strong>INSERT ISOMER SITE</strong>&nbsp;section)</p>
-<p>3 . Charging of mobile phones/personal learning devices using school facilities
+<p><strong>Use of Digital Devices</strong> 
+<br>1. Students must deposit their mobile devices at assigned lockers before
+first period lesson.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Students should not retrieve their mobile devices from lockers in between
+lessons and/or use their mobile devices during school activities, lessons
+and CCAs, unless permission is given.</p>
+</li>
+<li>
+<p>Students are allowed to use their mobile devices in canteen area (designated
+area) during their breaks.</p>
+</li>
+<li>
+<p>Students are to abide by the Acceptable Use Policy when using their personal
+learning devices</p>
+</li>
+<li>
+<p>Charging of mobile phones/personal learning devices using school facilities
 is not allowed without permission.</p>
-<p>4 . No recording in any form (audio or video) is permitted. Recording
-is allowed only if the explicit consent of the school administration and
-the persons involved is obtained.</p>
-<p>5 . Students found using their mobile phones/PLDs inappropriately, or
-having those items ringing, beeping, etc. during curriculum time, will
-be dealt with as follows:</p>
-<table>
+</li>
+<li>
+<p>No recording in any form (audio or video) is permitted. Recording is allowed
+only if the explicit consent of the school administration and the persons
+involved is obtained.</p>
+</li>
+<li>
+<p>Students found using their mobile phones/PLDs inappropriately, or having
+those items ringing, beeping, etc. during curriculum time, will be dealt
+with as follows:</p>
+</li>
+</ol>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -266,24 +290,38 @@ be dealt with as follows:</p>
 <th rowspan="1" colspan="1">
 <p>Action to be taken</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Demerit points</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 – 2 times</p>
+<p>1st time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mobile phones/PLDs to be confiscated&nbsp;<strong>until 5pm on the day of confiscation</strong>.</p>
+<p>Mobile devices / personal learning devices to be confiscated until 5 p.m.
+on the day of confiscation.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 times and more</p>
+<p>2 times and more</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mobile phones/personal learning devices to be confiscated for&nbsp;<strong>1 week</strong>.</p>
+<p>Mobile devices / personal learning devices to be confiscated for 1 week.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -399,7 +437,13 @@ attendance for School and Co-Curricular Activities (CCAs), as well as the
 Merit and Demerit System (MDS).</p>
 <p>A conduct grade of ‘Fair’ and ‘Poor’ at the end of the year will affect
 a student’s eligibility for MOE Edusave awards.</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -523,7 +567,11 @@ and demerit points to deserving students.</p>
 <h5>Merit Points</h5>
 <p>Students can be awarded merit points for good behaviour or socially responsible
 acts such as those specified below:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -652,7 +700,12 @@ school values. At the same time, students can expect to face disciplinary
 consequences if they choose to behave irresponsibly or violate school rules.</p>
 <p>Students will receive demerit points and disciplinary consequences for
 offences committed in accordance with the Table of Offences below:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -687,8 +740,9 @@ offences committed in accordance with the Table of Offences below:</p>
 <td rowspan="1" colspan="1">
 <p>Late arrival at school without a valid reason</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>NA</p>
+<td rowspan="3" colspan="1">
+<p>School attendance/ Conduct grade will be affected</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -698,9 +752,6 @@ offences committed in accordance with the Table of Offences below:</p>
 <td rowspan="1" colspan="1">
 <p>Complete absence from school on a school day without a valid reason</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>NA</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -708,9 +759,6 @@ offences committed in accordance with the Table of Offences below:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Complete absence from CCA without a valid reason</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NA</p>
 </td>
 </tr>
 <tr>
@@ -769,7 +817,104 @@ session without approval</p>
 <p>Barred from taking examination</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>OFFENCES</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DESCRIPTIONS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>POINTS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MISUSE OF DIGITAL DEVICES</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inappropriate use of mobile devices/ personal learning devices</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Use of mobile devices/personal learning devices</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For non-learning purposes during lessons</p>
+</li>
+<li>
+<p>During CCAs without seeking teachers’ permission</p>
+</li>
+<li>
+<p>Outside designated areas during break</p>
+</li>
+</ul>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Abuse of technology / Non-compliance with PDLP Acceptable Use Policy (AUP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Inappropriate or unlawful use of mobile devices e.g. computer, personal
+learning device, mobile devices etc. that breaches the AUP</p>
+</li>
+<li>
+<p>Making, or circulating offensive comments or content in a digital medium
+such as social media</p>
+</li>
+</ul>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>OTHER ACTIONS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents informed</p>
+</li>
+<li>
+<p>Confiscation of device</p>
+</li>
+<li>
+<p>Suspension</p>
+</li>
+<li>
+<p>Relevant authorities notified</p>
+</li>
+</ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -818,18 +963,6 @@ reason</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Inappropriate use of mobile phones/PLDs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Use of mobile phones or PLDs for non-learning purposes during lessons
-and CCAs without first seeking the teachers’ permission</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
 </td>
 </tr>
 <tr>
@@ -911,7 +1044,13 @@ a serious offence to the school authorities</p>
 <p>Confiscation of item</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -958,10 +1097,20 @@ allowing others to copy or tampering with marks</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Parents informed
-<br>* Warning
-<br>* Detention
-<br>* Zero mark awarded</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents informed</p>
+</li>
+<li>
+<p>Warning</p>
+</li>
+<li>
+<p>Detention</p>
+</li>
+<li>
+<p>Zero mark awarded</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -976,28 +1125,51 @@ the intention to deceive</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Warning
-<br>* Detention
-<br>* Parents informed
-<br>* Suspension</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Warning</p>
+</li>
+<li>
+<p>Detention</p>
+</li>
+<li>
+<p>Parents informed</p>
+</li>
+<li>
+<p>Suspension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Smoking</p>
+<p>Smoking/ Vaping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use/possession/distribution/sale of cigarettes or other tobacco-related
-products</p>
+<p>Use/ possession/ distribution/ sale of cigarettes or other tobacco-related
+products (eg.e-cigarettes, etc)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Parents informed
-<br>* Smoking cessation counselling
-<br>* Suspension
-<br>* Relevant authorities notified</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents informed</p>
+</li>
+<li>
+<p>Smoking cessation counselling</p>
+</li>
+<li>
+<p>Suspension</p>
+</li>
+<li>
+<p>Caning</p>
+</li>
+<li>
+<p>Relevant authorities notified</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1016,7 +1188,12 @@ products</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1088,30 +1265,6 @@ products</p>
 <p>5</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Abuse of technology/Non-compliance with PDLP Acceptable Use Policy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Offensive comments on social media/Improper, unlawful or inappropriate
-use of information communication and technology tools, e.g. computer, personal
-learning device, mobile phone, etc.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>OTHER ACTIONS</strong>
@@ -1133,7 +1286,12 @@ learning device, mobile phone, etc.</p>
 <p>Caning</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1220,7 +1378,12 @@ of graffiti</p>
 <p>Police action</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
