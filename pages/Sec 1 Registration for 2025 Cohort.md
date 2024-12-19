@@ -490,7 +490,7 @@ to display a designated car decal daily. Each decal cost $3 and remains
 valid until your child graduates from Hua Yi.&nbsp;</p>
 <p>Kindly complete the form below by 30 December 2024 to purchase a decal.
 Payment will be deducted via Giro and additional details will be provided
-on the decal collection date. <strong><br><a href="https://go.gov.sg/hysscardecalapplication" rel="noopener noreferrer nofollow" target="_blank"><u>Car Decal Purchase Form 2024</u></a></strong>
+on the decal collection date. <strong><br><a href="https://go.gov.sg/hysscardecal" rel="noopener noreferrer nofollow" target="_blank"><u>Car Decal Purchase Form 2024</u></a></strong>
 </p>
 <h4><strong>HPB Child Consent Portal</strong></h4>
 <p>There will be HPB's health, immunisation and dental screening for the
