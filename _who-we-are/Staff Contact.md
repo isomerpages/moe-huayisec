@@ -271,7 +271,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Covering)</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wee Wan Ying Susanna</p>
@@ -334,10 +334,10 @@ variant: tiptap
 <p>SH Maths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Ling Shirlynn</p>
+<p>Wong Shuk Wai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khoo_ling_shirlynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ling_shirlynn@schools.gov.sg</a>
+<p><a href="mailto:wong_shuk_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shuk_wai@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -477,7 +477,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
-<p>(Physics)</p>
+<p>(Physics) (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Kai Xin</p>
@@ -532,7 +532,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>306
-<br>TBA</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -552,7 +553,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>314
-<br>TBA</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
