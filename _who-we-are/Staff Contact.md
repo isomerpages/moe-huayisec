@@ -1090,7 +1090,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:adlin_ratini_anwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adlin_ratini_anwar@schools.gov.sg</a> 
-<br>TBA</p>
+<br><a href="mailto:wee_wan_ying_susanna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_wan_ying_susanna@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>301
@@ -1107,7 +1108,7 @@ variant: tiptap
 <br>Mdm Aneesah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_gim_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_gim_siong@schools.gov.sg</a> 
+<p><a href="mailto:lim_gim_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_gim_siong@schools.gov.sg</a>
 <br><a href="mailto:aneesah_shaik_uthuman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aneesah_shaik_uthuman@schools.gov.sg</a>
 </p>
 </td>
@@ -1127,12 +1128,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="khoo_wei_lun_edwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_wei_lun_edwin@schools.gov.sg</a> 
-<br>
-</p>
+<br>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>303
-<br>314</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -1154,193 +1155,19 @@ variant: tiptap
 <br>335</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Address</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Extension No.</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21-4A
-<br>(Latius)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Anggreini
-<br>Mr Ramachandran</p>
-<p>Ms Kuek Shao Zhen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:anggreini_hamid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anggreini_hamid@schools.gov.sg</a> 
-<br><a href="mailto:ramachandran_palanisamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ramachandran_palanisamy@schools.gov.sg</a>
-</p>
-<p><a href="kuek_shao_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuek_shao_zhen@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>316
-<br>333</p>
-<p>207</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21-4B
-<br>(Altius)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Eleanor Chen
-<br>Mrs Tan Cailing</p>
-<p>Mr Ramesh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:eleanor_teng_kah_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eleanor_teng_kah_hwee@schools.gov.sg</a> 
-<br><a href="chen_cailing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_cailing@schools.gov.sg</a>
-</p>
-<p><a href="sivagnanam_rameswaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivagnanam_rameswaran@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>302
-<br>209</p>
-<p>210</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21-4C
-<br>(Diutius)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms O Ming Fen</p>
-<p>Mr Yong Kuo Hoong
-<br>Ms Seng Pei Sze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="o_ming_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">o_ming_fen@schools.gov.sg</a>
-</p>
-<p><a href="yong_kuo_hoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_kuo_hoong@schools.gov.sg</a> 
-<br><a href="mailto:seng_pei_szew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seng_pei_sze@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>306</p>
-<p>328
-<br>216</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21-4D
-<br>(Altius)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Beh Yong Hua
-<br>Ms Magdalena Sii</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:beh_yong_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">beh_yong_hua@schools.gov.sg</a> 
-<br><a href="mailto:magdalena_sii_sian_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">magdalena_sii_sian_min@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>313
-<br>301</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21-4E
-<br>(Fortius)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Joo Chan Hock
-<br>Ms Jasmine Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:joo_chan_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joo_chan_hock@schools.gov.sg</a> 
-<br><a href="mailto:tan_si_ying_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_si_ying_jasmine@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>318
-<br>312</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21-4F
-<br>(Citius)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chiang Wai Kit
-<br>Mr Roland Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chiang_wai_kit@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chiang_wai_kit@schools.gov.sg</a> 
-<br><a href="mailto:chan_jun_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jun_peng@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>306
-<br>319</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21-4G
-<br>(Latius)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Susanna Wee
-<br>Ms Wendy Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wee_wan_ying_susanna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_wan_ying_susanna@schools.gov.sg</a> 
-<br><a href="ng_wei_ling_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wei_ling_wendy@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>309
-<br>330</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>20-5A</p>
-<p>(Citius)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shaheful</p>
-<p>Mrs Pan-Ong Fei Eng</p>
+<p>Mr Yong Kuo Hoong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="shaheful_mansor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shaheful_mansor@schools.gov.sg</a>
-</p>
-<p><a href="pan-ong_fei_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pan-ong_fei_eng@schools.gov.sg</a>
+<p><a href="mailto:yong_kuo_hoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_kuo_hoong@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>215</p>
-<p>217</p>
+<p>TBA</p>
 </td>
 </tr>
 </tbody>
