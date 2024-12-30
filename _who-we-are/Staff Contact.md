@@ -33,14 +33,14 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sandra Gwee</p>
+<p>Dr Lim Siew Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Sandra_gwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sandra_gwee@schools.gov.sg</a>
+<p><a href="mailto:lim_siew_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_siew_yee@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>108</p>
+<p>107</p>
 </td>
 </tr>
 <tr>
@@ -63,14 +63,14 @@ variant: tiptap
 <p>Vice-Principal (Teaching &amp; Learning)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Lim Siew Yee</p>
+<p>Mr Ng Joo Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_siew_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_siew_yee@schools.gov.sg</a>
+<p><a href="mailto:ng_joo_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_joo_koon@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>107</p>
+<p>109</p>
 </td>
 </tr>
 <tr>
@@ -168,14 +168,14 @@ variant: tiptap
 <p>HOD PE, CCA &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ramesh</p>
+<p>Mr Colin Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sivagnanam_rameswaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivagnanam_rameswaran@schools.gov.sg</a>
+<p><a href="mailto:colin_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">colin_wong@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>210</p>
+<p>TBA</p>
 </td>
 </tr>
 <tr>
@@ -229,14 +229,14 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek Si Min</p>
+<p>Aishah Binte Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quek_si_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_si_min@schools.gov.sg</a>
+<p><a href="mailto:aishah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aishah_abdul_rahman@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>208</p>
+<p>TBA</p>
 </td>
 </tr>
 <tr>
@@ -259,29 +259,14 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aishah</p>
+<p>Ms Keziah Seow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aishah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aishah_abdul_rahman@schools.gov.sg</a>
+<p><a href="mailto:jie_yi_keziah_seow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jie_yi_keziah_seow@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>306</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Mei Yee Joanna</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_mei_yee_joanna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mei_yee_joanna@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>310</p>
 </td>
 </tr>
 <tr>
@@ -446,21 +431,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Social Studies)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Adlin Ratini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:adlin_ratini_anwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adlin_ratini_anwar@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>328</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -502,6 +472,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>302</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+<p>(Physics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Kai Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_kai_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kai_xin@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
 </td>
 </tr>
 </tbody>
@@ -1347,7 +1333,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor</p>
+<p>(Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tham Chee Yong</p>
@@ -1362,7 +1349,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor</p>
+<p>(Workshop)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clemence Albert</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+<p>(Laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Asyraf B Mohd Kassim</p>
@@ -1377,7 +1380,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor</p>
+<p>(Laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noraini Bte Mahmod</p>
