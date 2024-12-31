@@ -517,8 +517,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-1A
-<br>(Diutius)</p>
+<p>25-1A
+<br>(Latius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms O Ming Fen</p>
@@ -531,15 +531,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>306
-<br>
-</p>
+<p>2321</p>
+<p>2443</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-1B
-<br>(Citius)</p>
+<p>25-1B
+<br>(Altius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kalarani</p>
@@ -552,15 +551,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>314
+<p>2411</p>
+<p>2444
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-1C
-<br>(Fortius)</p>
+<p>25-1C
+<br>(Diutius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Beh Yong Hua</p>
@@ -573,8 +573,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>313</p>
-<p>TBA</p>
+<p>2403</p>
+<p>2413</p>
 </td>
 </tr>
 <tr>
