@@ -5,13 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h2>Principal's Message</h2>
-<p><strong>Welcome to Hua Yi Secondary School!</strong>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0864_Enhanced_AdjustedByLimSY2.jpg">
 </div>
-<p></p>
+<h4><strong>Welcome to Hua Yi Secondary School!</strong></h4>
 <p>It is my privilege to introduce Hua Yi Secondary School to you. Hua Yi
 is a vibrant institution with a proud heritage of nurturing generations
 of students to live by strong values, discover their talents, and contribute
