@@ -43,6 +43,7 @@ impact. Guided by the spirit of <em>“Voices that Care,”</em> I am confident
 that every Hua Yian will grow into a leader who inspires change and uplifts
 others.</p>
 <p>Let’s work together to make this journey meaningful and impactful.</p>
+<p></p>
 <p>Warm Regards,</p>
 <p>Dr Lim Siew Yee</p>
 <p>Principal, Hua Yi Secondary School</p>
