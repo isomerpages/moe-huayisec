@@ -1027,8 +1027,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>312
-<br>333</p>
+<p>2437
+<br>2327</p>
 </td>
 </tr>
 <tr>
@@ -1046,8 +1046,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>309
-<br>332</p>
+<p>2326
+<br>2320</p>
 </td>
 </tr>
 <tr>
@@ -1065,8 +1065,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>320
-<br>303</p>
+<p>2407
+<br>2328</p>
 </td>
 </tr>
 <tr>
@@ -1084,8 +1084,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>301
-<br>TBA</p>
+<p>2322
+<br>2316</p>
 </td>
 </tr>
 <tr>
@@ -1103,8 +1103,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>328
-<br>334</p>
+<p>2323
+<br>2401</p>
 </td>
 </tr>
 <tr>
@@ -1121,7 +1121,8 @@ variant: tiptap
 <br>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>303
+<p>2329</p>
+<p>2420
 <br>
 </p>
 </td>
@@ -1141,8 +1142,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>335
-<br>335</p>
+<p>2421
+<br>2423</p>
 </td>
 </tr>
 <tr>
@@ -1157,7 +1158,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>2439</p>
 </td>
 </tr>
 </tbody>
@@ -1197,7 +1198,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>104</p>
+<p>2331</p>
 </td>
 </tr>
 <tr>
@@ -1212,7 +1213,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>106</p>
+<p>2332</p>
 </td>
 </tr>
 <tr>
@@ -1227,7 +1228,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>105</p>
+<p>2333</p>
 </td>
 </tr>
 <tr>
@@ -1242,7 +1243,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>100</p>
+<p>2506</p>
 </td>
 </tr>
 <tr>
@@ -1257,7 +1258,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>101</p>
+<p>2507</p>
 </td>
 </tr>
 <tr>
@@ -1272,7 +1273,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>102</p>
+<p>2508</p>
 </td>
 </tr>
 <tr>
@@ -1287,7 +1288,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>201</p>
+<p>2503</p>
 </td>
 </tr>
 <tr>
@@ -1302,7 +1303,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>201</p>
+<p>2505</p>
 </td>
 </tr>
 <tr>
@@ -1317,7 +1318,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>400</p>
+<p>2502</p>
 </td>
 </tr>
 <tr>
@@ -1332,7 +1333,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>400</p>
+<p>2504</p>
 </td>
 </tr>
 <tr>
@@ -1348,7 +1349,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>400</p>
+<p>2510</p>
 </td>
 </tr>
 <tr>
@@ -1379,7 +1380,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>403</p>
+<p>2512</p>
 </td>
 </tr>
 <tr>
@@ -1395,7 +1396,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>403</p>
+<p>2511</p>
 </td>
 </tr>
 <tr>
@@ -1410,7 +1411,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>2514</p>
 </td>
 </tr>
 <tr>
@@ -1425,7 +1426,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>2515</p>
 </td>
 </tr>
 <tr>
@@ -1439,7 +1440,7 @@ variant: tiptap
 <p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>401</p>
+<p>2516</p>
 </td>
 </tr>
 </tbody>
