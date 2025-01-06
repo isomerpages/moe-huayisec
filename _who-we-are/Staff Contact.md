@@ -581,7 +581,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-1D
+<p>25-1D
 <br>(Latius)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -601,7 +601,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-1E
+<p>25-1E
 <br>(Fortius)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -625,7 +625,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-1F
+<p>25-1F
 <br>(Diutius)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -645,7 +645,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24-1G
+<p>25-1G
 <br>(Altius)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1148,7 +1148,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20-5A</p>
+<p>21-5A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yong Kuo Hoong</p>
