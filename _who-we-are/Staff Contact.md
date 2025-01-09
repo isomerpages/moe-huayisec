@@ -549,7 +549,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kalarani_paneer_selvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalarani_paneer_selvam@schools.gov.sg</a>
 </p>
-<p><a href="mailto:wong_liang_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_liang_seng@schools.gov.sg</a>
+<p><a href="mailto:wong_liang_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_liang_wee@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
