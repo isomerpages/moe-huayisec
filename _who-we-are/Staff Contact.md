@@ -373,7 +373,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2324</p>
 </td>
 </tr>
 <tr>
@@ -381,13 +381,14 @@ variant: tiptap
 <p>SH History (COvering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lim Gim Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_gim_siong@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_gim_siong@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2323</p>
 </td>
 </tr>
 </tbody>
