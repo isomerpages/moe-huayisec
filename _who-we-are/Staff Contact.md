@@ -582,7 +582,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25-1D
-<br>(Latius)</p>
+<br>(Fortius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Anggreini</p>
@@ -602,7 +602,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25-1E
-<br>(Fortius)</p>
+<br>(Latius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Joo Chan Hock</p>
@@ -626,7 +626,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25-1F
-<br>(Diutius)</p>
+<br>(Citius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Keziah Seow</p>
