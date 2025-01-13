@@ -317,19 +317,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday (Dance)
-<br>
-<br>Wednesday (Vocals)</p>
+<p>Wednesday (Vocals)</p>
+<p></p>
+<p></p>
+<p>Friday (Dance)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:15 – 6:15 pm
-<br>
-<br>3:15 – 6:15 pm</p>
+<p>3:15 – 5:45 pm</p>
+<p>2.30 pm – 5.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Studio (Blk A, Level 3, A3-05)
-<br>
-<br>iProject (Blk A, Level 4, A4-05)</p>
+<p>Staff Training Room (Blk A, Level 4, A4-05)</p>
+<p>Dance Studio (Blk A, Level 3, A3-05)</p>
 </td>
 </tr>
 <tr>
