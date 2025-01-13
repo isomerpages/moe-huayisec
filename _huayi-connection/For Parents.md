@@ -16,7 +16,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Sec 1 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>,
+<p>Sec 1 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing</a>
+<a href="/files/2025 Sec 1 Registration/2025_SL_Talk_for_Parents__Sec_1__ForUpload.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank"> Slides</a>,
 <a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP</a>, <a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Sch_Experience.pdf" rel="noopener noreferrer nofollow" target="_blank">School Experience</a>)</p>
 </li>
 <li>
