@@ -365,8 +365,7 @@ variant: tiptap
 <br>3:15 – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>iProject (Blk A, Level 4, A4-05)
-<br>
+<p>Staff Training Room (Blk A, Level 4, A4-05)
 <br>Dance Studio (Blk A, Level 3, A3-05)</p>
 </td>
 </tr>
@@ -387,8 +386,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Studio (Blk A, Level 3, A3-05)
-<br>
-<br>TR D3 (Blk D, Level 3, D3-02)</p>
+<br>Seminar Room 4</p>
+<p>(Blk D, Level 3, D3-02)</p>
 </td>
 </tr>
 <tr>
@@ -432,7 +431,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday &amp; Wednesday (Debate)
+<p>Monday (Debate)
 <br>
 <br>Monday (Drama)</p>
 </td>
@@ -442,9 +441,9 @@ variant: tiptap
 <br>3:15 – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Debate:</strong> TR E4 (Blk E, Level 4, E4-02)
+<p>Seminar Room 7 (Blk E, Level 4, E4-02) Debate
 <br>
-<br><strong>Drama:</strong> TR C4B (Blk C, Level 4, C4-04)</p>
+<br>Seminar Room 1 (Blk C, Level 4, C4-04) Drama</p>
 </td>
 </tr>
 <tr>
@@ -514,8 +513,7 @@ variant: tiptap
 <p>3:15 – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cookery Room 1
-<br>(Blk F, Level 1, F1-03)</p>
+<p>Food Lab 1 &amp; 2 (Blk F, Level 1, F1-03)</p>
 </td>
 </tr>
 <tr>
@@ -530,16 +528,14 @@ variant: tiptap
 <p>3:15 – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab 1 &amp; 2
-<br>(Blk F, Level 3, F3-04 &amp; F3-05)</p>
+<p>Comp Lab 1 &amp; 2 (Blk F, Level 3, F3-03 &amp; 04)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore Youth Flying Club</strong>
 <br>
-<br>Click&nbsp;<strong><em><a href="http://www.syfc.sg/" rel="noopener noreferrer nofollow" target="_blank">HERE</a></em></strong>&nbsp;to
-access the main SYFC website.</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
@@ -548,9 +544,8 @@ access the main SYFC website.</p>
 <p>3:15 – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TR F4 (Blk F, level 4, F4-02)
-<br>
-<br>Benevolence &amp; Justice (Blk F, Level 4, F4-03 &amp; F4-04)</p>
+<p>Seminar Room 8/ Comp Lab 3</p>
+<p>(Blk F, Level 4, F4-02)</p>
 </td>
 </tr>
 <tr>
