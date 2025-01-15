@@ -2,149 +2,566 @@
 title: CCAs
 permalink: /the-huayi-experience/CCAs/ccas/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## CCAs
-
-### Physical Sports
-
-<p><a href="/physical-sports/vb/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669659458.jpeg">
-</a></p>
-
-<p><a href="/physical-sports/badminton/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669659466.jpeg">
-</a></p>
-
-<p><a href="/physical-sports/bball/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669659474.jpeg">
-</a></p> <br clear="left">
-
-<p><a href="/physical-sports/fb/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669659557.jpeg">
-</a></p>
-
-<p><a href="/physical-sports/football/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669659565.jpeg">
-</a></p>
-
-<p><a href="/physical-sports/netball/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669659575.jpeg">
-</a></p> <br clear="left">
-
-<p><a href="/physical-sports/tnf/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669659682.jpeg">
-</a></p> <br clear="left">
-
-### Uniformed Groups
-
-<p><a href="/uniformed-groups/rcy/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669659895.jpeg">
-</a></p>
-
-<p><a href="/uniformed-groups/npcc/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669659905.jpeg">
-</a></p>
-
-<p><a href="/uniformed-groups/ncc/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669659913.jpeg">
-</a></p> <br clear="left">
-
-### Visual &amp; Performing Arts
-
-<p><a href="/visual-performing-arts/sc/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669660000.jpeg">
-</a></p>
-
-<p><a href="/visual-performing-arts/cds/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669660011.jpeg">
-</a></p>
-
-<p><a href="/visual-performing-arts/cb/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669660021.jpeg">
-</a></p> <br clear="left">
-
-<p><a href="/visual-performing-arts/ge/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669660072.jpeg">
-</a></p>
-
-<p><a href="/visual-performing-arts/md/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669660079.jpeg">
-</a></p>
-
-<p><a href="/visual-performing-arts/cldds/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669660088.jpeg">
-</a></p> <br clear="left">
-
-<p><a href="/visual-performing-arts/eldds/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669660147.jpeg">
-</a></p> <br clear="left">
-
-### Clubs &amp; Societies
-
-<p><a href="/clubs-n-societies/anc/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669660205.jpeg">
-</a></p>
-
-<p><a href="/clubs-n-societies/ic/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669660214.jpeg">
-</a></p>
-
-<p><a href="/clubs-n-societies/syfc/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669660225.jpeg">
-</a></p> <br clear="left">
-
-<p><a href="/clubs-n-societies/nfsc/">
-<img style="width:25%;margin-right:15px;" align="left" src="/images/photo1669660238.jpeg">
-</a></p> <br clear="left">
-
-#### CCA Schedule
-
-##### A. PHYSICAL SPORTS
-
-|  CCA |  Training Days |  Time |  Venue |
-|:---:|---|---|---|
-| **Badminton (Boys)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Centrestage |
-| **Badminton (Girls)** | Tuesday<br>Thursday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Centrestage |
-| **Basketball (Boys)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Basketball Court |
-| **\*Track &amp; Field (Boys/Girls)** | Monday<br>Wednesday | 4:00 – 6:30 pm<br>4:00 – 6:30 pm | Clementi Stadium |
-| **\*Volleyball (Girls)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Arena |
-| **Football (Boys)** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | School Field |
-| **Netball (Girls)** | Wednesday<br>Friday | 3:15 – 6:15 pm<br>3:00 – 6:00 pm | Quadrangle / Arena |
-| **Floorball (Boys)** | Tuesday<br>Thursday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Arena |
-|  |  |  |  |
-
-**_\*Additional trainings on Fridays in school_**
-
-##### B. UNIFORMED GROUPS
-
-|  CCA |  Training Days |  Time |  Venue |
-|:---:|---|---|---|
-| **NCC - Land (Boys)** | Wednesday | 3:15 – 6:15 pm | 1A Classroom (Blk E) &amp; Quadrangle |
-| **NPCC (Boys &amp; Girls)** | Wednesday | 3:15 – 6:15 pm | 1C Classroom (Blk E) &amp; Quadrangle |
-| **Red Cross Youth (Boys &amp; Girls)** | Wednesday | 3:15 – 6:15 pm | 1F Classroom (Blk D) &amp; Quadrangle |
-|  |  |  |  |
-
-##### C. VISUAL &amp; PERFORMING ARTS
-
-|  CCA |  Training Days |  Time |  Venue |
-|:---:|---|---|---|
-| **Show Choir** | Tuesday (Dance)<br><br>Wednesday (Vocals) | 3:15 – 6:15 pm<br><br>3:15 – 6:15 pm | Dance Studio (Blk A, Level 3, A3-05)<br><br>iProject (Blk A, Level 4, A4-05) |
-| **Concert Band** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | Band Room  <br>(Blk G, Level 3, G3-02) |
-| **Cultural Dance** | Monday<br><br>Wednesday | 3:15 – 6:15 pm<br><br>3:15 – 6:15 pm | iProject (Blk A, Level 4, A4-05)<br><br>Dance Studio (Blk A, Level 3, A3-05) |
-| **Modern Dance** | Monday<br><br>Thursday | 3:15 – 6:15 pm<br><br>3:15 – 6:15 pm | Dance Studio (Blk A, Level 3, A3-05)<br><br>TR D3 (Blk D, Level 3, D3-02) |
-| **Guzheng Ensemble** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | AVA Rm  <br>(Blk A, Level 3, A3-06) |
-| **Chinese Language, Drama and Debate** | Monday<br>Wednesday | 3:15 – 6:15 pm<br>3:15 – 6:15 pm | iDesign Hub (Blk H, Level 2, H2-01) |
-| **English Language, Drama and Debate** | Monday &amp; Wednesday (Debate)<br><br>Monday (Drama) | 3:15 – 6:15 pm<br><br>3:15 – 6:15 pm | **Debate:** TR E4 (Blk E, Level 4, E4-02) <br><br>**Drama:** TR C4B (Blk C, Level 4, C4-04) |
-|  |  |  |  |
-
-##### D. CLUBS &amp; SOCIETIES
-
-|  CCA |  Training Days |  Time |  Venue |
-|:---:|---|---|---|
-| **Art and Crafts Club** | Wednesday | 3:15 – 6:15 pm | Art Room 1  <br>(Blk F, Level 2, F2-04) |
-| **Nutrition &amp; Food Science Club** | Monday | 3:15 – 6:15 pm | Cookery Room 1  <br>(Blk F, Level 1, F1-03) |
-| **InfoComm Technology Club** | Wednesday | 3:15 – 6:15 pm | Computer Lab 1 &amp; 2  <br>(Blk F, Level 3, F3-04 &amp; F3-05) |
-| **Singapore Youth Flying Club**<br><br>Click&nbsp;_**[HERE](http://www.syfc.sg/)**_&nbsp;to access the main SYFC website. | Wednesday | 3:15 – 6:15 pm | TR F4 (Blk F, level 4, F4-02)<br><br>Benevolence &amp; Justice (Blk F, Level 4, F4-03 &amp; F4-04) |
-|  |  |  |  |
-
+<h2>CCAs</h2>
+<h3>Physical Sports</h3>
+<p></p>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
+<p></p>
+<p>
+<br>
+</p>
+<h3>Uniformed Groups</h3>
+<p></p>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
+<h3>Visual &amp; Performing Arts</h3>
+<p></p>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
+<p></p>
+<p>
+<br>
+</p>
+<h3>Clubs &amp; Societies</h3>
+<p></p>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
+<p></p>
+<p>
+<br>
+</p>
+<h4>CCA Schedule</h4>
+<h5>A. PHYSICAL SPORTS</h5>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton (Boys)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday
+<br>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm
+<br>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Centrestage</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton (Girls)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm
+<br>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Centrestage</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball (Boys)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday
+<br>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm
+<br>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>*Track &amp; Field (Boys/Girls)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday
+<br>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4:00 – 6:30 pm
+<br>4:00 – 6:30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clementi Stadium</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Volleyball (Girls)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arena</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Football (Boys)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday
+<br>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm
+<br>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Netball (Girls)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm
+<br>3:00 – 6:00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quadrangle / Arena</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>*Additional trainings on Fridays in school</em></strong>
+</p>
+<h5>B. UNIFORMED GROUPS</h5>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Cadets Corp - (Land) (Boys)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A Classroom (Blk E) &amp; Quadrangle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Police Cadets Corp (Boys &amp; Girls)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1C Classroom (Blk E) &amp; Quadrangle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Red Cross Youth (Boys &amp; Girls)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1F Classroom (Blk D) &amp; Quadrangle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>C. VISUAL &amp; PERFORMING ARTS</h5>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Show Choir</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday (Vocals)</p>
+<p></p>
+<p></p>
+<p>Friday (Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 5:45 pm</p>
+<p>2.30 pm – 5.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Staff Training Room (Blk A, Level 4, A4-05)</p>
+<p>Dance Studio (Blk A, Level 3, A3-05)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Concert Band</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday
+<br>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm
+<br>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Room
+<br>(Blk G, Level 3, G3-02)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Cultural Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday
+<br>
+<br>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm
+<br>
+<br>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Staff Training Room (Blk A, Level 4, A4-05)
+<br>Dance Studio (Blk A, Level 3, A3-05)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Modern Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday
+<br>
+<br>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm
+<br>
+<br>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Studio (Blk A, Level 3, A3-05)
+<br>Seminar Room 4</p>
+<p>(Blk D, Level 3, D3-02)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Guzheng Ensemble</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday
+<br>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm
+<br>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AVA Rm
+<br>(Blk A, Level 3, A3-06)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Language, Drama and Debate</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday
+<br>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm
+<br>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>iDesign Hub (Blk H, Level 2, H2-01)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English Language, Drama and Debate</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday (Debate)
+<br>
+<br>Monday (Drama)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm
+<br>
+<br>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seminar Room 7 (Blk E, Level 4, E4-02) Debate
+<br>
+<br>Seminar Room 1 (Blk C, Level 4, C4-04) Drama</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>D. CLUBS &amp; SOCIETIES</h5>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Art and Crafts Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Room 1
+<br>(Blk F, Level 2, F2-04)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Nutrition &amp; Food Science Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food Lab 1 &amp; 2 (Blk F, Level 1, F1-03)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>InfoComm Technology Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Comp Lab 1 &amp; 2 (Blk F, Level 3, F3-03 &amp; 04)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Flying Club</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seminar Room 8/ Comp Lab 3</p>
+<p>(Blk F, Level 4, F4-02)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

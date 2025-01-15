@@ -183,7 +183,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
-<p>(covering)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tok Peilin</p>
@@ -359,6 +359,36 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2321</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Farah Suhaimi Binte Saat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:farah_suhaimi_saat@schools.gov.sg" rel="noopener nofollow" target="_blank">farah_suhaimi_saat@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2324</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH History (COvering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Gim Siong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_gim_siong@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_gim_siong@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2323</p>
 </td>
 </tr>
 </tbody>
@@ -549,7 +579,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kalarani_paneer_selvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalarani_paneer_selvam@schools.gov.sg</a>
 </p>
-<p><a href="mailto:wong_liang_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_liang_seng@schools.gov.sg</a>
+<p><a href="mailto:wong_liang_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_liang_wee@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -582,7 +612,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25-1D
-<br>(Latius)</p>
+<br>(Fortius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Anggreini</p>
@@ -591,7 +621,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anggreini_hamid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anggreini_hamid@schools.gov.sg</a>
 </p>
-<p><a href="mailto:tan_si_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_si_ying@schools.gov.sg</a>
+<p><a href="mailto:tan_si_ying_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_si_ying_jasmine@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -602,7 +632,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25-1E
-<br>(Fortius)</p>
+<br>(Latius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Joo Chan Hock</p>
@@ -626,7 +656,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25-1F
-<br>(Diutius)</p>
+<br>(Citius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Keziah Seow</p>
@@ -654,6 +684,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ramachandran_palanisamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ramachandran_palanisamy@schools.gov.sg</a>
+</p>
+<p><a href="mailto:lim_lee_lian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lee_lian_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
