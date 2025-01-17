@@ -57,7 +57,7 @@ variant: tiptap
 </li>
 <li>
 <p>NTUC Insurance Portal (<a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Online Claim Submission</a> ,
-<a href="/files/2024/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Pamphlet</a>)</p>
+<a href="/files/2025 Sec 1 Registration/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Pamphlet</a>)</p>
 </li>
 <li>
 <p><a href="https://schoolibrary.moe.edu.sg/huayisec" rel="noopener noreferrer nofollow" target="_blank">Online Library Catalogue (OPAC)</a>
