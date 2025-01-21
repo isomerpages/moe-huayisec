@@ -805,13 +805,9 @@ eTeens and/or suppl5mentary sexuality education programmes by MOE-approved
 external providers.</p>
 <p>11. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form can be accessed via
-<a href="https://form.gov.sg/6789b6daf1fdcd69fb141e1b" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>and is also downloadable&nbsp;<a href="/files/2024/2024_SEd_Letter_for_PG___Opt_Out_Form___Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">h</a>
-<a href="/files/2025 Sec 1 Registration/ANNEX_FormA.pdf" rel="noopener nofollow" target="_blank">e</a><a href="/files/2024/2024_SEd_Letter_for_PG___Opt_Out_Form___Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">re</a>.
-The completed form is to be submitted by 14/02/2025.</p>
+<a href="https://form.gov.sg/6789b6daf1fdcd69fb141e1b" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>. The completed form is to be submitted by 14/02/2025.</p>
 <p>12. Parents who wish to opt their children out of the eTeens programme
-need to complete an opt-out form. This form can be accessed via <a href="https://form.gov.sg/6789c55e864ffc362d9c5ecc" rel="noopener noreferrer nofollow" target="_blank">FormSG</a> and
-is also downloadable <a href="/files/2024/2024_eTeens_Letter___Opt_Out_Form___Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">h</a>
-<a href="/files/2025 Sec 1 Registration/ANNEX_FormB.pdf" rel="noopener nofollow" target="_blank">er</a><a href="/files/2024/2024_eTeens_Letter___Opt_Out_Form___Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">e</a>.
+need to complete an opt-out form. This form can be accessed via <a href="https://form.gov.sg/6789c55e864ffc362d9c5ecc" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.
 The completed form is to be submitted by 14/02/2025.</p>
 <p>13. Parents can contact the school at (hyss@moe.edu.sg or 6563 4568) for
 discussion or to seek clarification about the school’s Sexuality Education
