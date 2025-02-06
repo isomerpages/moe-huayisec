@@ -16,7 +16,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Sec 1 School Leader's Talk</p>
+<p><a href="/files/2025/2025_SL_Talk_for_Parents__Sec_1__ForUpload.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 School Leader's Talk</a>
+</p>
 </li>
 </ul>
 <h4>NON-ACADEMIC</h4>
