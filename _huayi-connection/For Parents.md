@@ -16,19 +16,10 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Sec 1 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing</a>
-<a href="/files/2025 Sec 1 Registration/2025_SL_Talk_for_Parents__Sec_1__ForUpload.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank"> Slides</a>,
-<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP</a>, <a href="/files/2024/2024_SL_Talk_for_Parents__Sec_1____Sch_Experience.pdf" rel="noopener noreferrer nofollow" target="_blank">School Experience</a>)</p>
-</li>
-<li>
-<p>Sec 2 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_2____Compiled_FINAL_to_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>)</p>
-</li>
-<li>
-<p>Sec 4/5 School Leader's Talk (<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_45____Part_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>,
-<a href="/files/2024/2024_SL_Talk_for_Parents__Sec_45____Sch_Experience_compressed__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Experience</a>, <a href="/files/2024/2024_SL_Talk_for_Parents__Sec_45____Education_Pathway.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathway</a>)</p>
+<p><a href="/files/2025/2025_SL_Talk_for_Parents__Sec_1__ForUpload.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 School Leader's Talk</a>
+</p>
 </li>
 </ul>
-<h5></h5>
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">
 <li>
