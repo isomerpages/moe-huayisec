@@ -20,7 +20,17 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p></p>
+<p>Sec 1 Briefing for Parents</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/2025_Sec_1_Briefing_for_Parents__FSBB__CCA__LEAPS2_0__sch_website.pdf" rel="noopener nofollow" target="_blank">FSBB, CCA and LEAPS 2.0 Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Sec_1___3_Camp_Briefing__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 1 &amp; 3 Camp Briefing</a>
+</p>
+</li>
+</ul>
 </li>
 </ul>
 <h4>NON-ACADEMIC</h4>
