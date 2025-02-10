@@ -19,6 +19,36 @@ variant: tiptap
 <p><a href="/files/2025/2025_SL_Talk_for_Parents__Sec_1__ForUpload.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 School Leader's Talk</a>
 </p>
 </li>
+<li>
+<p>Sec 1 Briefing for Parents</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/2025_Sec_1_Briefing_for_Parents__FSBB__CCA__LEAPS2_0__sch_website.pdf" rel="noopener nofollow" target="_blank">FSBB, CCA and LEAPS 2.0 Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Sec_1___3_Camp_Briefing__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 1 &amp; 3 Camp Briefing</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Sec 3 SL's Talk</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/Sec_3_SL_s_Talk__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 3 SL’s talk</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Sec_3_School_Experience__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 3 Experience</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Sec_1___3_Camp_Briefing__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 1 &amp; 3 Camp Briefing</a>
+</p>
+</li>
+</ul>
+</li>
 </ul>
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">
