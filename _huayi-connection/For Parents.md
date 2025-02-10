@@ -32,6 +32,23 @@ variant: tiptap
 </li>
 </ul>
 </li>
+<li>
+<p>Sec 3 SL's Talk</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/Sec_3_SL_s_Talk__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 3 SL’s talk</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Sec_3_School_Experience__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 3 Experience</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Sec_1___3_Camp_Briefing__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 1 &amp; 3 Camp Briefing</a>
+</p>
+</li>
+</ul>
+</li>
 </ul>
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">
