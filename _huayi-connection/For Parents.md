@@ -8,9 +8,6 @@ variant: tiptap
 <h4>ACADEMIC</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
-</li>
-<li>
 <p><a href="/files/2025_Learning_Dispositions___School_website_CL_ML__final__new.pdf" rel="noopener nofollow" target="_blank">Hua Yi Learning Dispositions</a>
 </p>
 </li>
