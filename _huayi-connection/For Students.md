@@ -8,16 +8,42 @@ variant: tiptap
 <h4>ACADEMIC</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2024 Summative Review Timetable (<a href="/files/2024/Sec_1_2024_SR_Timetable_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>, <a href="/files/2024/Sec_2_2024_SR_Timetable_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>,
-<a href="/files/2024/Sec_3_2024_SR_Timetable_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>)</p>
-</li>
-<li>
 <p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/files/HYSS%20Learning%20Dispositions%202020%20(for%20school%20website%202020)%20(with%20translations).pdf" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Learning Dispositions</a>
 </p>
 </li>
 <li>
 <p><a href="/files/2025/2025_SL_Talk_for_Parents__Sec_1__ForUpload.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 School Leader's Talk</a>
 </p>
+</li>
+<li>
+<p>Sec 1 Briefing for Parents</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/2025_Sec_1_Briefing_for_Parents__FSBB__CCA__LEAPS2_0__sch_website.pdf" rel="noopener nofollow" target="_blank">FSBB, CCA and LEAPS 2.0 Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Sec_1___3_Camp_Briefing__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 1 &amp; 3 Camp Briefing</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Sec 3 SL's Talk</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/Sec_3_SL_s_Talk__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 3 SL’s talk</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Sec_3_School_Experience__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 3 Experience</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Sec_1___3_Camp_Briefing__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 1 &amp; 3 Camp Briefing</a>
+</p>
+</li>
+</ul>
 </li>
 </ul>
 <h4>NON-ACADEMIC</h4>
