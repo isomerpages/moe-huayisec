@@ -53,6 +53,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://go.gov.sg/hysscardecal" rel="noopener nofollow" target="_blank">Application for Car Decal (Parents)</a>
+</p>
+</li>
+<li>
 <p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/files/Student%20handbook%202022_Counselling%20info%20June12.pdf" rel="noopener noreferrer nofollow" target="_blank">Counselling Information</a>
 </p>
 </li>
