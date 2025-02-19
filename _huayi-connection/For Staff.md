@@ -150,7 +150,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/hysscardecalapplication" rel="noopener nofollow" target="_blank">Application for Car Decal (Parents)</a>
+<p><a href="https://go.gov.sg/hysscardecal" rel="noopener nofollow" target="_blank">Application for Car Decal (Parents)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
