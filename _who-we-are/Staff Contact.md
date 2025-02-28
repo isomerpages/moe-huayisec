@@ -564,8 +564,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2321</p>
 <p>2443</p>
-<p>TBA</p>
 </td>
 </tr>
 <tr>
