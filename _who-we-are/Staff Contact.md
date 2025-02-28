@@ -553,13 +553,14 @@ variant: tiptap
 <br>(Latius)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Wai Kit</p>
+<p>Ms O Ming Fen</p>
 <p>Mr Huang Wei Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:o_ming_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wai_kit@schools.gov.sg</a>
+<p><a href="mailto: o_ming_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">o_ming_fen@schools.gov.sg</a>
 </p>
-<p><a href="mailto:heng_wei_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_wei_jie@schools.gov.sg</a>
+<p></p>
+<p><a href="mailto: wong_wai_kit@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wai_kit@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
