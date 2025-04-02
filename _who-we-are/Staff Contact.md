@@ -228,6 +228,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Adlin Ratini Binte ANWAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Adlin_ratini_anwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Adlin_ratini_anwar@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2322</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
