@@ -183,7 +183,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tok Peilin</p>
