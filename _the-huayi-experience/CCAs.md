@@ -410,7 +410,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chinese Language, Drama and Debate</strong>
+<p><strong>Chinese Language, Drama and Debating</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -427,7 +427,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>English Language, Drama and Debate</strong>
+<p><strong>English Language, Drama and Debating</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
