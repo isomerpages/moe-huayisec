@@ -183,7 +183,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tok Peilin</p>
@@ -224,6 +223,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2312</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Adlin Ratini Binte ANWAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Adlin_ratini_anwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Adlin_ratini_anwar@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2322</p>
 </td>
 </tr>
 <tr>
@@ -643,7 +657,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joo_chan_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joo_chan_hock@schools.gov.sg</a>
 </p>
-<p><a href="mailto:lee_yu_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin@schools.gov.sg</a>
+<p><a href="mailto:lee_yu_xin_f@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin_f@schools.gov.sg</a>
 </p>
 <p><a href="mailto:eleanor_teng_kah_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eleanor_teng_kah_hwee@schools.gov.sg</a>
 </p>
@@ -691,7 +705,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2424</p>
-<p>TBA</p>
+<p>2445</p>
 </td>
 </tr>
 </tbody>
@@ -920,7 +934,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2436
-<br>TBC</p>
+<br>2446</p>
 </td>
 </tr>
 <tr>
@@ -1375,10 +1389,10 @@ variant: tiptap
 <p>(Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tham Chee Yong</p>
+<p>Mr Tham Chee Yoong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tham_chee_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_chee_yong@schools.gov.sg</a>
+<p><a href="mailto:tham_chee_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_chee_yoong@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1394,10 +1408,11 @@ variant: tiptap
 <p>Clemence Albert</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p><a href="mailto:Clemence_Albert@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">clemence_albert@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>2517</p>
 </td>
 </tr>
 <tr>
