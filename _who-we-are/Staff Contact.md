@@ -41,8 +41,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2301</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1161,11 +1159,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khoo Wei Lun Edwin</p>
-<p>Ms Wendy Ng</p>
+<p>Ms Wendy Ng Wei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="khoo_wei_lun_edwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_wei_lun_edwin@schools.gov.sg</a> 
-<br>TBA</p>
+<br><a href="mailto:Ng_wei_ling_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_wei_ling_wendy@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2329</p>
