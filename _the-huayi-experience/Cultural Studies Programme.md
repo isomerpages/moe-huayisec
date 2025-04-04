@@ -19,13 +19,13 @@ scale by allowing students to take charge in coordinating visits to Hua
 Yi, as well as plan and conduct research on various cultures for outbound
 trips.</p>
 <p>The programme takes a three-tier approach:</p>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/photo1669741054.jpeg">
-</div>
 <p>
 <br>
-<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Cultural_Studies_Exp_1.jpg">
+</div>
+<p></p>
 <p>'Cherishing our Hua Yi Heritage' at Secondary 1
 <br>
 <br>(e.g. Adopt-a-Bonsai programme, Heritage Gallery Tour, Calligraphy)
@@ -53,4 +53,9 @@ trips.</p>
 <p>'Understanding Global Culture' at
 <br>Secondary 2 and 3
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Cultural_Studies_Exp_2.jpg">
+</div>
+<p>
 <br>(e.g. Internationalisation programme, hosting visitors to the school)</p>
