@@ -29,6 +29,27 @@ variant: tiptap
 </ul>
 </li>
 <li>
+<p>Sec 2 SL's Talk</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/Sec_2_SL_s_Talk_ver2.pdf" rel="noopener nofollow" target="_blank">Sec 2 SL's Talk</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Sec_2_Experience.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Experience</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Sec_2_ECG_Talk.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 ECG Talk</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/Subject_Option_Briefing_for_2025_Sec_2_students.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Option Briefing for 2025 Sec 2 students</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
 <p>Sec 3 SL's Talk</p>
 <ul data-tight="true" class="tight">
 <li>
