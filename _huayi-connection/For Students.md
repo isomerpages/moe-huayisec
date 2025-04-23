@@ -82,7 +82,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025/2025_CWA2_Timetable__5_G2__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">Sec 5 G2 CWA Timetable</a>
+<p><a href="/files/2025/2025_CWA2_Timetable__5_G2__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">Sec 5 G2 CWA2 Timetable</a>
 </p>
 </li>
 </ul>
