@@ -18,11 +18,9 @@ experience.</p>
 </li>
 <li>
 <p>Red Cross Youth (Boys &amp; Girls)</p>
-<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/9__Combined_Uniform_Group__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Uniformed_Groups_2.jpg">
 </div>
 <p></p>
