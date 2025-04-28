@@ -66,6 +66,7 @@ school</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/VB_v2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/BB_v2.jpg">
 </div>
