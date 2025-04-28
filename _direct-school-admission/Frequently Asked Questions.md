@@ -125,7 +125,7 @@ that the school offers.
 <br>
 </p>
 <p><strong>11. How many applicants will be admitted under the DSA exercise for Hua Yi Sec School?</strong>
-<br>About 20% of the 2025 Secondary One cohort.
+<br>About 20% of the 2026 Secondary One cohort.
 <br>
 </p>
 <p><strong>12. How many schools can my child apply to through the DSA-Sec portal?</strong>
@@ -141,7 +141,7 @@ the time and effort participating in multiple trials and interviews.
 <br>
 </p>
 <p><strong>13. How many years do the DSA applicants need to commit to the CCA in Hua Yi?</strong>
-<br>They are expected to honour the commitment to the allocated CCA for the
+<br>They are required to honour the commitment to the allocated CCA for the
 entire duration of their schooling years in Hua Yi.
 <br>
 </p>
