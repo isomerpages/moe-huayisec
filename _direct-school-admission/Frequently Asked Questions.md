@@ -26,54 +26,38 @@ Posting instead, in which students are admitted based on their PSLE scores.
 <br>
 <br>
 </p>
-<p><strong>2.&nbsp;&nbsp;&nbsp; What is the DSA process in 2024?</strong>
-</p>
-<p>
+<p><strong>2.&nbsp;&nbsp;&nbsp; What is the DSA process in 2025?</strong>
 <br>The selection exercise will be conducted in person with shortlisted students
 in the DSA-Sec school. The session may consist of interview components
 and/or performance tasks (e.g. demonstration of skills such as the applicant’s
 individual movement ability for Sports, or performances of voice, dance
-and/or instruments for Performing Arts).
-<br>
-<br>For shortlisted students, the DSA-Sec school may request for the submission
-of additional documents such as: (i) existing portfolios or (ii) write-ups
+and/or instruments for Performing Arts).</p>
+<p>For shortlisted students, the DSA-Sec school may request for the submission
+of additional documents such as: (i) existing portfolios (e.g. Art e-portfolios
+comprising works done in school Art lesson/Art CCA); or (ii) write-ups
 (e.g. personal statement, short essay), or CCA/VIA record.
-<br>
-<br>
 <br>
 </p>
 <p><strong>3.&nbsp;&nbsp;&nbsp; What happens after my child has submitted a DSA application?</strong>
+<br>
 </p>
-<p>
-<br><u>Performing Arts/Sports and Games</u>
-</p>
-<p>
+<p><u>Performing Arts/Sports and Games/Visual Arts</u>
 <br><strong><u>Short-listed applicants</u></strong>&nbsp;will be invited to
 attend an audition or sports trial in the DSA-Sec school. The DSA selection
 outcome will be determined by a panel comprising staff members and the
 coaches/instructors for the respective talent areas.
-<br>
 <br>The details of the audition or sports trial will be communicated in advance
 to the shortlisted applicants. The interview will consist of a series of
 questions to help the panel better understand the child’s motivation and
 suitability.
 <br>
-<br>
-<br>
-</p>
-<p><u>Student Leadership &amp; Uniformed Groups</u>
-</p>
-<p>
+<br><u>Student Leadership</u>
 <br><strong><u>Short-listed applicants</u></strong>&nbsp;for Student Leadership
-&amp; Uniformed Groups will be invited to attend an interview by a panel
-of staff members to determine if they will be a good fit for the school.
-<br>
-<br>
+will be invited to attend an interview by a panel of staff members to determine
+if they will be a good fit for the school.
 <br>
 </p>
 <p><strong>4.&nbsp;&nbsp;&nbsp; How will the applicants be short-listed?</strong>
-</p>
-<p>
 <br>Applicants will be shortlisted based on their achievements and experience
 in the selected talent area. Students should possess personal qualities
 and strengths that are indicative of their potential in the relevant talent
@@ -81,22 +65,16 @@ areas. Applicants should include in their application any relevant certificates
 or documentation that indicates their competencies or skills relevant to
 their selected talent area.
 <br>
-<br>
-<br>
 </p>
 <p><strong>5.&nbsp;&nbsp;&nbsp; After my child has submitted the application form, when will my child know if he/she has been short-listed for the interviews?</strong>
-</p>
-<p>
 <br>Only shortlisted applicants will be informed by the first two weeks of
 July to attend an interview/audition/sports trial.
-<br>
-<br>
 <br>
 </p>
 <p><strong>6.&nbsp;&nbsp;&nbsp; What do my child need to do during the audition or sports trial?</strong>
 </p>
 <p>
-<br><u>Performing Arts</u>
+<br><u>Performing Arts/Visual Arts</u>
 </p>
 <p>At the Audition, applicants’ level of proficiency in the relevant talent
 areas will be assessed.</p>
@@ -107,26 +85,13 @@ areas will be assessed.</p>
 sport will be assessed. Applicants are to be dressed in appropriate sports
 attire.
 <br>
-<br>
-<br>
 </p>
 <p><strong>7.&nbsp;&nbsp;&nbsp; When is the selection and when will the outcome be known?</strong>
-</p>
-<p>
-<br>Selection for short-listed applicants will take place between 10 July
-and 16 August.
-<br>
-<br>All short-listed applicants will receive a reply of the selection outcome
-via email by 5 September.
-<br>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
-<br>
-</p>
+<br>Selection for short-listed applicants will take place between 30 June
+and 4 September.</p>
+<p>All short-listed applicants will receive a reply of the selection outcome
+via email between 25 August and 4 September.</p>
+<p></p>
 <p><strong>8.&nbsp;&nbsp;&nbsp; What happens after an applicant receives an offer?</strong>
 </p>
 <p>
@@ -140,12 +105,8 @@ their primary school.
 This means that they will go through the S1 Posting Exercise, together
 with other non-DSA students.
 <br>
-<br>
-<br>
 </p>
 <p><strong>9.&nbsp;&nbsp;&nbsp; When will applicants be informed of their DSA posting results?</strong>
-</p>
-<p>
 <br>Applicants will receive their DSA results, together with their PSLE results,
 from their primary schools. If they are allocated a DSA school, they will
 not be allowed to change schools or participate in the S1 Posting Exercise.
@@ -156,30 +117,18 @@ the students to develop their talents and interests in that school.
 Exercise, they will participate in the S1 Posting Exercise for their application
 to secondary school.
 <br>
-<br>
-<br>
 </p>
 <p><strong>10. If my child is offered a DSA-Sec place in a secondary school, does my child have to meet the school’s indicative cut-off point for Secondary One posting?</strong>
-</p>
-<p>
 <br>To be successfully admitted to a DSA-Sec school, your child's Primary
 School Leaving Examination (PSLE) results must qualify them for a course
 that the school offers.
 <br>
-<br>
-<br>
 </p>
 <p><strong>11. How many applicants will be admitted under the DSA exercise for Hua Yi Sec School?</strong>
-</p>
-<p>
 <br>About 20% of the 2025 Secondary One cohort.
-<br>
-<br>
 <br>
 </p>
 <p><strong>12. How many schools can my child apply to through the DSA-Sec portal?</strong>
-</p>
-<p>
 <br>Your child can indicate up to three choices during the application. For
 each choice, your child needs to choose a secondary school and a talent
 area from that school.
@@ -190,28 +139,18 @@ with different talent areas.
 <br>Your child is encouraged to consider his/her choices carefully and manage
 the time and effort participating in multiple trials and interviews.
 <br>
-<br>
-<br>
 </p>
 <p><strong>13. How many years do the DSA applicants need to commit to the CCA in Hua Yi?</strong>
-</p>
-<p>
 <br>They are expected to honour the commitment to the allocated CCA for the
 entire duration of their schooling years in Hua Yi.
 <br>
-<br>
-<br>
 </p>
 <p><strong>14. How many offers will my child receive from a DSA-Sec school if my child has applied to two talent areas from the same school?</strong>
-</p>
-<p>
 <br>If your child has applied to two talent areas in a school, the school
 will make <u>only one DSA offer </u>in a specific talent area. The offer
 will be made based on school's assessment of your child's talent and the
 school's judgement on which talent area the school can better develop your
 child in.
-<br>
-<br>
 <br>
 </p>
 <p><strong>15. If my child with Wait List offer from School A indicates the school as a choice during School Preference Submission and is allocated to the school, does my child still have another chance to accept or reject the allocation?</strong>
@@ -226,12 +165,8 @@ secondary schools after the release of PSLE results.
 <br>If you do not wish your child to commit to the DSA school, you should
 not submit any school preference during the School Preference Submission.
 <br>
-<br>
-<br>
 </p>
 <p><strong>16. My child only received one Wait List (WL) offer. Should my child still submit the preference since the chance of getting into that school may be quite slim?</strong>
-</p>
-<p>
 <br>Your child can submit his/her preference if he/she is still keen on admission
 into the school via DSA-Sec. If the school has enough remaining DSA-Sec
 places after the other students given Confirmed Offers have made their
@@ -242,16 +177,10 @@ PSLE results qualify him/her for an academic course offered by the school.
 transfer to another school after the release of PSLE results or participate
 in Secondary 1 Posting to opt for secondary schools.
 <br>
-<br>
-<br>
 </p>
 <p><strong>17. What should I do if my child’s application is unsuccessful in the DSA-Sec?</strong>
-</p>
-<p>
 <br>If your child is currently studying in an MOE school and unsuccessful
 in DSA-Sec, they will participate in the centralised S1 Posting.
-<br>
-<br>
 <br>
 </p>
 <p><strong>18. For more information you may refer to the following links to the MOE webpage on DSA:</strong>
