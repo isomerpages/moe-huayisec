@@ -43,5 +43,6 @@ description: ""
 <br>Buses 49, 98, 99, 157, 185, 187, 198, 334, 335, 502</p>
 <p><strong>MRT Stations</strong> 
 <br>Jurong East, Lakeside, Chinese Garden</p>
-<p>Map of Hua Yi Secondary School</p>
+<p><a href="https://www.bing.com/maps?q=map+of+Hua+Yi+Secondary+School&amp;form=ANNH01&amp;refig=7e079339d9fa4516a6244828f043bfc4&amp;pc=U531" rel="noopener nofollow" target="_blank">Map of Hua Yi Secondary School</a>
+</p>
 <p>60, Jurong West, Street 42, Singapore 649371</p>
