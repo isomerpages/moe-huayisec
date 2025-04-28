@@ -38,11 +38,6 @@ and co-planning of school-based events</p>
 <p>Opportunities to interact with overseas student leaders</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/eng1.jpeg">
-</div>
-<p><strong>IMAGE SIZE EXCEEDS 5MB</strong>
-</p>
 <p>Shoutout to all primary sixers: If you demonstrate good leadership abilities,
 and you're looking for a comprehensive support to develop your passion
 and leadership abilities, as well as to develop as an active contributor
