@@ -7,7 +7,11 @@ variant: tiptap
 ---
 <h2>Uniformed Groups</h2>
 <p>Uniformed Groups plays a significant role in our students’ holistic education
-experience.</p>
+experience. Hua Yi Secondary School offers its DSA under Uniformed Groups
+(UG) and is focused on developing&nbsp;leadership opportunities in the
+UG. Hua Yians in the UG will enjoy opportunities to develop skills, dispositions,
+and talents to equip them with the skills and support required to lead
+others as well as to serve the community.</p>
 <p>Uniformed Groups:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -21,6 +25,12 @@ experience.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Uniform_Groups_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Uniformed_Groups_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Uniformed_Groups_3.jpg">
 </div>
 <p></p>
