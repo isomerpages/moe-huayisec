@@ -10,11 +10,14 @@ variant: tiptap
 &amp; Field (Boys &amp; Girls) &amp; Netball</p>
 <p>Sports participation plays a significant role in students’ character development
 and holistic education. Hua Yi has a long history of sporting excellence,
-with our volleyball girls attaining 1st and 2nd runner-up in the West Zone
-‘B’ Division Girls Inter-School Volleyball Championship consistently and
-our basketball boys being shortlisted for national trials.&nbsp;</p>
-<p>P6 students with a flair for volleyball, basketball, badminton or track
-&amp; field can seek admission to Hua Yi through the DSA-Sec Exercise.</p>
+with our volleyball girls attaining 2nd runner-up in the 2025 West Zone
+‘B’ Division Girls &amp; 2025 National ‘B’ Division Girls Volleyball Championship
+and our basketball boys being shortlisted for national trials.</p>
+<p>P6 students with a flair for Volleyball, Basketball, Badminton, Netball
+or Track &amp; Field can seek admission to Hua Yi through the DSA-Sec Exercise.
+DSA students will be given comprehensive support to develop their ability
+and interests in taking up leadership roles, and to achieve a well-rounded
+education in Hua Yi.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Sports_1.jpg">
@@ -31,9 +34,11 @@ our basketball boys being shortlisted for national trials.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Sports_4.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Sports_5.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Sports_6.jpg">
 </div>
@@ -83,10 +88,23 @@ will be a good fit for the school.</p>
 </li>
 <li>
 <p>The trials are conducted based on the rubrics</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Basketball: Passing, Dribbling, Shooting &amp; Lay-Ups</p>
+</li>
+<li>
+<p>Volleyball: Service, Setting &amp; Spiking</p>
+</li>
+<li>
+<p>Badminton: Service, Returning Shot &amp; Footwork</p>
+</li>
+<li>
+<p>Netball: Passing, Shooting &amp; Footwork</p>
+</li>
+<li>
+<p>Track &amp; Field: Sprints, Distance Running</p>
 </li>
 </ul>
-<p>o&nbsp;&nbsp; Dribbling, Lay-Ups &amp; Shooting (Basketball)</p>
-<p>o&nbsp;&nbsp; Servicing, Setting &amp; Spiking (Volleyball)</p>
-<p>o&nbsp;&nbsp; Servicing, Receiving &amp; Footwork (Badminton)</p>
-<p>o&nbsp;&nbsp; Sprints, Distance Running (Track &amp; Field)</p>
-<p>o&nbsp;&nbsp; Dribbling, Footwork &amp; Shooting (Netball)</p>
+</li>
+</ul>
+<p></p>
