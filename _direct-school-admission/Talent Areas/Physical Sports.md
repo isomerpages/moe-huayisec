@@ -15,7 +15,7 @@ variant: tiptap
 <p>Sports participation plays a significant role in students’ character development
 and holistic education. Hua Yi has a long history of sporting excellence,
 with our volleyball girls attaining 2nd runner-up in the 2025 West Zone
-‘B’ Division Girls &amp; 2025 National ‘B’ Division Girls Volleyball Championship
+‘B’ Division Girls &amp; 2025 National ‘B’ Division Girls Volleyball Championships
 and our basketball boys being shortlisted for national trials.</p>
 <p>P6 students with a flair for Volleyball, Basketball, Badminton, Netball
 or Track &amp; Field can seek admission to Hua Yi through the DSA-Sec Exercise.
