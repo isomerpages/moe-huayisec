@@ -41,7 +41,7 @@ comprising works done in school Art lesson/Art CCA); or (ii) write-ups
 <p><strong>3.&nbsp;&nbsp;&nbsp; What happens after my child has submitted a DSA application?</strong>
 <br>
 </p>
-<p><u>Performing Arts/Sports and Games/Visual Arts</u>
+<p><u>Performing Arts/Sports and Games</u>
 <br><strong><u>Short-listed applicants</u></strong>&nbsp;will be invited to
 attend an audition or sports trial in the DSA-Sec school. The DSA selection
 outcome will be determined by a panel comprising staff members and the
@@ -74,7 +74,7 @@ July to attend an interview/audition/sports trial.
 <p><strong>6.&nbsp;&nbsp;&nbsp; What do my child need to do during the audition or sports trial?</strong>
 </p>
 <p>
-<br><u>Performing Arts/Visual Arts</u>
+<br><u>Performing Arts</u>
 </p>
 <p>At the Audition, applicants’ level of proficiency in the relevant talent
 areas will be assessed.</p>
