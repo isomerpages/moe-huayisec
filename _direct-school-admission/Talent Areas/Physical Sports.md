@@ -6,8 +6,12 @@ third_nav_title: Talent Areas
 variant: tiptap
 ---
 <h2>Physical Sports</h2>
-<p>Volleyball (Girls), Basketball (Boys), Badminton (Boys &amp; Girls), Track
-&amp; Field (Boys &amp; Girls) &amp; Netball</p>
+<p>DSA Talent Areas in Physical Sports (for 2025):</p>
+<p>• Badminton (Boys &amp; Girls)</p>
+<p>• Basketball (Boys)</p>
+<p>• Netball (Girls)</p>
+<p>• Track &amp; Field (Boys &amp; Girls)</p>
+<p>• Volleyball (Girls)</p>
 <p>Sports participation plays a significant role in students’ character development
 and holistic education. Hua Yi has a long history of sporting excellence,
 with our volleyball girls attaining 2nd runner-up in the 2025 West Zone
