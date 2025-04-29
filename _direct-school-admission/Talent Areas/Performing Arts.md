@@ -14,7 +14,7 @@ art forms. Our rich heritage has enabled us to build strong partnerships
 and ties with our alumni and parents who contribute actively to the provision
 of a rich aesthetics education for all Hua Yians. These partnerships include
 combined training and performances such as the school.</p>
-<p>Performing Arts:</p>
+<p>DSA Talent Areas in Performing Arts (for 2025):</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Cultural Dance (Dance - Chinese)</p>
