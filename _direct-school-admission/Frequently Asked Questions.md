@@ -7,15 +7,12 @@ description: ""
 <p>&nbsp;</p>
 <p><strong>1.&nbsp;&nbsp;&nbsp; What is DSA-Sec?</strong>
 </p>
-<p>
-<br>DSA-Sec is an admission exercise to allow participating schools to select
+<p>DSA-Sec is an admission exercise to allow participating schools to select
 some Primary Six students for admission to Secondary One based on their
 achievements and talents before the PSLE results are released.
-<br>
 <br>For students, the DSA-Sec Exercise provides them the opportunity to demonstrate
 a more diverse range of achievements and talents when seeking admission
 to secondary schools.
-<br>
 <br>Students successfully allocated to a school through the DSA-Sec will not
 be allowed to participate in the Secondary 1 (S1) Posting to opt for secondary
 schools or to transfer to another school after the release of the PSLE
@@ -23,25 +20,18 @@ results. Students who are not ready to commit to studying in a particular
 school to develop their chosen talent areas may wish to consider the S1
 Posting instead, in which students are admitted based on their PSLE scores.
 <br>
-<br>
-<br>
-</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp; What is the DSA process in 2025?</strong>
+<br><strong>2.&nbsp;&nbsp;&nbsp; What is the DSA process in 2025?</strong>
 <br>The selection exercise will be conducted in person with shortlisted students
 in the DSA-Sec school. The session may consist of interview components
 and/or performance tasks (e.g. demonstration of skills such as the applicant’s
 individual movement ability for Sports, or performances of voice, dance
 and/or instruments for Performing Arts).</p>
 <p>For shortlisted students, the DSA-Sec school may request for the submission
-of additional documents such as: (i) existing portfolios (e.g. Art e-portfolios
-comprising works done in school Art lesson/Art CCA); or (ii) write-ups
-(e.g. personal statement, short essay), or CCA/VIA record.
-<br>
-</p>
+of additional documents such as write-ups (eg. personal statement, short
+essay), or CCA/VIA record.</p>
+<p></p>
 <p><strong>3.&nbsp;&nbsp;&nbsp; What happens after my child has submitted a DSA application?</strong>
-<br>
-</p>
-<p><u>Performing Arts/Sports and Games</u>
+<br><u>Performing Arts/Sports and Games</u>
 <br><strong><u>Short-listed applicants</u></strong>&nbsp;will be invited to
 attend an audition or sports trial in the DSA-Sec school. The DSA selection
 outcome will be determined by a panel comprising staff members and the
@@ -72,8 +62,6 @@ July to attend an interview/audition/sports trial.
 <br>
 </p>
 <p><strong>6.&nbsp;&nbsp;&nbsp; What do my child need to do during the audition or sports trial?</strong>
-</p>
-<p>
 <br><u>Performing Arts</u>
 </p>
 <p>At the Audition, applicants’ level of proficiency in the relevant talent
@@ -87,20 +75,16 @@ attire.
 <br>
 </p>
 <p><strong>7.&nbsp;&nbsp;&nbsp; When is the selection and when will the outcome be known?</strong>
-<br>Selection for short-listed applicants will take place between 30 June
-and 4 September.</p>
-<p>All short-listed applicants will receive a reply of the selection outcome
-via email between 25 August and 4 September.</p>
+<br>Selection for short-listed applicants will take place between 14 July
+to 24 August. All short-listed applicants will receive a reply of the selection
+outcome via email between 25 August and 4 September.</p>
 <p></p>
 <p><strong>8.&nbsp;&nbsp;&nbsp; What happens after an applicant receives an offer?</strong>
-</p>
-<p>
 <br>Applicants with at least one confirmed offer or are on the waiting list
 of at least one school that they applied for will get a School Preference
 Form from their respective primary school. Applicants will then submit
 their ranked school preferences via the DSA-Sec Internet System or through
 their primary school.
-<br>
 <br>Applicants may also withdraw from the DSA-Sec Exercise at this stage.
 This means that they will go through the S1 Posting Exercise, together
 with other non-DSA students.
@@ -112,7 +96,6 @@ from their primary schools. If they are allocated a DSA school, they will
 not be allowed to change schools or participate in the S1 Posting Exercise.
 This is because the confirmation of a DSA offer is a commitment made by
 the students to develop their talents and interests in that school.
-<br>
 <br>However, if they have not been allocated a school through the DSA-Sec
 Exercise, they will participate in the S1 Posting Exercise for their application
 to secondary school.
@@ -132,10 +115,8 @@ that the school offers.
 <br>Your child can indicate up to three choices during the application. For
 each choice, your child needs to choose a secondary school and a talent
 area from that school.
-<br>
 <br>Of the three choices, a maximum of two choices can be from the same school
 with different talent areas.
-<br>
 <br>Your child is encouraged to consider his/her choices carefully and manage
 the time and effort participating in multiple trials and interviews.
 <br>
@@ -154,8 +135,6 @@ child in.
 <br>
 </p>
 <p><strong>15. If my child with Wait List offer from School A indicates the school as a choice during School Preference Submission and is allocated to the school, does my child still have another chance to accept or reject the allocation?</strong>
-</p>
-<p>
 <br>By submitting the school preference, you have agreed for your child to
 commit to the DSA-Sec school that is allocated to them. If your child is
 successfully admitted via DSA-Sec, they will not be allowed to transfer
