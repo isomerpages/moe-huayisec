@@ -95,7 +95,7 @@ will be a good fit for the school.</p>
 <p>The trials are conducted based on the sports-specific skills.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Basketball: Passing, Dribbling, Shooting &amp; Lay-Ups</p>
+<p>Basketball: Passing, Dribbling, Shooting &amp; Lay-Up</p>
 </li>
 <li>
 <p>Volleyball: Service, Setting &amp; Spiking</p>
