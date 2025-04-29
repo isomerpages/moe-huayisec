@@ -88,7 +88,7 @@ conducted by school staff, followed by an interview to determine if they
 will be a good fit for the school.</p>
 </li>
 <li>
-<p>The trials are conducted based on the rubrics</p>
+<p>The trials are conducted based on the sports-specific skills.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Basketball: Passing, Dribbling, Shooting &amp; Lay-Ups</p>
