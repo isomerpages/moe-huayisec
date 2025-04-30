@@ -143,6 +143,10 @@ will need to fill up a request form. See link: <a href="https://form.gov.sg/671a
 following guides are available:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/2025/iPad_DMA_Parent_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">DMA Default Option</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2025/iPad_DMA_Parent_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">DMA Option A</a>
 </p>
 </li>
