@@ -66,6 +66,27 @@ variant: tiptap
 </li>
 </ul>
 </li>
+<li>
+<p>2025 Coordinated WA2 Timetable</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/2025_CWA2_Timetable__4_G1__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">Sec 4 G1 CWA2 Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/2025_CWA2_Timetable__4_G2__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">Sec 4 G2 CWA2 Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/2025_CWA2_Timetable__4_G3__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">Sec 4 G3 CWA2 Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/2025_CWA2_Timetable__5_G2__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">Sec 5 G2 CWA2 Timetable</a>
+</p>
+</li>
+</ul>
+</li>
 </ul>
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">

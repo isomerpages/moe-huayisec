@@ -13,7 +13,7 @@ equip them with the skills and support required to lead others as well
 as to serve the community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/27__Student_Leaders__11_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Student_Leadership_3.jpg">
 </div>
 <h4>Programme</h4>
 <p>DSA students will be given comprehensive support to develop their ability
@@ -39,11 +39,6 @@ and co-planning of school-based events</p>
 <p>Opportunities to interact with overseas student leaders</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/eng1.jpeg">
-</div>
-<p><strong>IMAGE SIZE EXCEEDS 5MB</strong>
-</p>
 <p>Shoutout to all primary sixers: If you demonstrate good leadership abilities,
 and you're looking for a comprehensive support to develop your passion
 and leadership abilities, as well as to develop as an active contributor
@@ -66,4 +61,5 @@ their CCA or VIA records, a personal statement and character referees.</p>
 will be a good fit for the school.</p>
 </li>
 </ul>
+<p></p>
 <p></p>

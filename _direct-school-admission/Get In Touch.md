@@ -10,7 +10,7 @@ description: ""
 <p>For general admission enquiries, please contact:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Ramesh (HOD/PE, CCA &amp; Aesthetics), <a rel="noopener noreferrer nofollow" target="_blank">sivagnanam_rameswaran@schools.gov.sg</a>
+<p>Mr Colin Wong (HOD PE, CCA &amp; Aesthetics), <a rel="noopener noreferrer nofollow" target="_blank">colin_wong@schools.gov.sg</a>
 </p>
 </li>
 <li>
@@ -21,7 +21,7 @@ description: ""
 <p>For enquiries related to a specific talent area, please contact:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Wendy Ng, (Sports &amp; Games), <a rel="noopener noreferrer nofollow" target="_blank">ng_wei_ling_wendy@schools.gov.sg</a>
+<p>Mr Oliver Ong, (Sports &amp; Games), <a rel="noopener noreferrer nofollow" target="_blank">ong_tzuen_wee_oliver@schools.gov.sg</a>
 </p>
 </li>
 <li>
@@ -29,12 +29,13 @@ description: ""
 </p>
 </li>
 <li>
-<p>Ms O Ming Fen, (Student Leadership), <a rel="noopener noreferrer nofollow" target="_blank">o_ming_fen@schools.gov.sg</a>
+<p>Ms Lee Taojing, (Student Leadership), <a rel="noopener noreferrer nofollow" target="_blank">lee_taojing@schools.gov.sg</a>
 </p>
 </li>
 <li>
-<p>Mr See Chee Wah, (Uniformed Groups), <a rel="noopener noreferrer nofollow" target="_blank">see_chee_wah@schools.gov.sg</a>
+<p>Mr Ramachandran S/O Palanisamy, (Uniformed Groups), <a rel="noopener noreferrer nofollow" target="_blank">ramachandran_palanisamy@schools.gov.sg</a>
 </p>
+<p></p>
 </li>
 </ul>
 <h4>Directions to Hua Yi</h4>
@@ -42,5 +43,6 @@ description: ""
 <br>Buses 49, 98, 99, 157, 185, 187, 198, 334, 335, 502</p>
 <p><strong>MRT Stations</strong> 
 <br>Jurong East, Lakeside, Chinese Garden</p>
-<p>Map of Hua Yi Secondary School</p>
+<p><a href="https://www.bing.com/maps?q=map+of+Hua+Yi+Secondary+School&amp;form=ANNH01&amp;refig=7e079339d9fa4516a6244828f043bfc4&amp;pc=U531" rel="noopener nofollow" target="_blank">Map of Hua Yi Secondary School</a>
+</p>
 <p>60, Jurong West, Street 42, Singapore 649371</p>

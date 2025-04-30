@@ -6,21 +6,7 @@ third_nav_title: Talent Areas
 variant: tiptap
 ---
 <h2>Performing Arts</h2>
-<p>Aesthetics play a significant role in our students’ holistic education
-experience. At Hua Yi Secondary School, we aim to nurture the diverse artistic
-and musical talents of our students; we provide different opportunities
-for exposure to and platforms for participation in multiple and varied
-art forms. Our rich heritage has enabled us to build strong partnerships
-and ties with our alumni and parents who contribute actively to the provision
-of a rich aesthetics education for all Hua Yians. These partnerships include
-combined training and performances such as the school.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/DSA_Performing_Arts.jpg">
-</div>
-<p></p>
-<p></p>
-<p>Performing Arts:</p>
+<p>DSA Talent Areas in Performing Arts (for 2025):</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Cultural Dance (Dance - Chinese)</p>
@@ -38,6 +24,34 @@ combined training and performances such as the school.</p>
 <p>Show Choir</p>
 </li>
 </ul>
+<p>Aesthetics play a significant role in our students’ holistic education
+experience. At Hua Yi Secondary School, we aim to nurture the diverse artistic
+and musical talents of our students; we provide different opportunities
+for exposure to and platforms for participation in multiple and varied
+art forms. Our rich heritage has enabled us to build strong partnerships
+and ties with our alumni and parents who contribute actively to the provision
+of a rich aesthetics education for all Hua Yians. These partnerships include
+combined training and performances such as the school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Performing_Arts_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Performing_Arts_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Performing_Arts_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Performing_Arts_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Performing_Arts_5.jpg">
+</div>
 <h4>Programme</h4>
 <p>DSA students will be given comprehensive support to develop their ability
 and interests in taking up leadership roles, and to achieve a well-rounded
