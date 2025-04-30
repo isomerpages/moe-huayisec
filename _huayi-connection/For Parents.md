@@ -132,5 +132,23 @@ contact Thye Hua Kwan (THK) Family Service Centre @ Jurong at 6747 7514.</p>
 </p>
 <p>Article:&nbsp;<a href="https://www.schoolbag.edu.sg/story/suicide-games-and-online-media-what-should-parents-do?utm_source=tr.im&amp;utm_medium=no_referer&amp;utm_campaign=tr.im%2F1yNMt&amp;utm_content=direct_input" rel="noopener noreferrer nofollow" target="_blank">Suicide Games and Online Media: What should Parents do?</a>
 </p>
-<p></p>
+<h4>PLD DMA Options</h4>
+<p>MOE Device Management Application (DMA) solution for student Personal
+Learning Device (PLD) is Jamf. There are 3 restriction options, namely
+Option Default, Option A and Option B. PLD is setup by default as Default
+Option. Parent who wishes to change restriction option for his/her child
+will need to fill up a request form. See link: <a href="https://form.gov.sg/671aef83c5e90c8bcae4de63" rel="noopener noreferrer nofollow" target="_blank">Indication of After-School DMA Parent Options for iPad PLDs | FormSG.</a>
+</p>
+<p>For Option A and Option B, parent needs to download Jamf Parent app. The
+following guides are available:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/iPad_DMA_Parent_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">DMA Option A</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/iPad_DMA_Parent_Guide_for_Option_B.pdf" rel="noopener nofollow" target="_blank">DMA Option B</a>
+</p>
+</li>
+</ul>
 <p></p>
