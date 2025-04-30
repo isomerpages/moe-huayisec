@@ -22,54 +22,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>New Year Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Day of School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4/5 Poly Visit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Puasa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Good Friday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1 May</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,6 +34,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Vesak Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 May to 29 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Int'l Trips - Bangkok, Hanoi &amp; Medan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jun to 3 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Uniform Group Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE O level MTL</p>
 </td>
 </tr>
 <tr>
@@ -106,6 +82,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Youth Day Designated Off-in-lieu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Jul to 11 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEP Youth Camp 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Jul to 18 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE O &amp; N Level Oral Exams</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 NRIC Registration</p>
 </td>
 </tr>
 <tr>
