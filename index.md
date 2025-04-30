@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hua yi sec homepage.gif
+      background: /images/2025/Performing_Arts_Slides.gif
       key_highlights:
         - title: GLOCALISED CITIZENS
           description: ""
