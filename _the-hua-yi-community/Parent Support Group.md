@@ -56,15 +56,15 @@ Day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Immediate Past Chairperson</p>
+<p>Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Vivian Liang</p>
+<p>Mdm Yammie Yam</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson</p>
+<p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Robin Soo</p>
@@ -72,7 +72,7 @@ Day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairperson</p>
+<p>Vice Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yammie Yam</p>
@@ -83,7 +83,7 @@ Day.</p>
 <p>Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jasline Lou &amp; Mdm Rachel Lim</p>
+<p>Mdm Veronica Maratha &amp; Mdm Priscilla Tan</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ Day.</p>
 <p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm N Vasuntha Devi</p>
+<p>Mdm Christina Neo</p>
 </td>
 </tr>
 <tr>
@@ -99,13 +99,14 @@ Day.</p>
 <p>Executive Committee</p>
 </td>
 <td rowspan="7" colspan="1">
-<p>Mdm PriscillaTan</p>
+<p>Mdm Jasline Lau</p>
 <p>Mdm Mabel Chin</p>
-<p>Mdm Aw Pei Feng</p>
-<p>Mdm Veronika Maretha</p>
-<p>Mdm Joanne Lee</p>
 <p>Mr Allex Ang</p>
-<p>Mr Gabriel Yeo</p>
+<p>Mdm Joanna Lee</p>
+<p>Mdm Aw Pei Feng</p>
+<p>Mr Gabirel Yeo</p>
+<p>Mdm Devi Vasuntha</p>
+<p>Mdm Vivian Liang</p>
 </td>
 </tr>
 <tr></tr>
