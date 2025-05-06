@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Parent Support Group</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSRkZsnLRAxCmtnGteojutOw1Tuqk0pKcpEbCceENA4P63XIHC4Oyj3nxyvME48wiIWeR9u9EAyFgW/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmO4AWOdZDuW3lDlGV_4at7S3UoUKhp02i7ulC3LQhN5VSIuF3KULJpaIsqoTtGrDndwm-P5yJvWZN/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Hua Yi has an active and dedicated Parent Support Group (PSG) which supports
 school programmes and activities for students’ holistic development. The
