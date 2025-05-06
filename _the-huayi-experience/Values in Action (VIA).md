@@ -13,12 +13,13 @@ and contribute to the community after they leave Hua Yi.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Interclass_Sustainability_Challenge.jpg">
 </div>
-<p>Secondary 1 students are immersed in Interdisciplinary Project Work (IPW),
-where they apply what they have learnt in their Humanities and Science
-lessons on Environmental Sustainability into their Service Learning projects.
-Students make use of the Design Thinking framework to propose solutions
-to environmental issues and exercise social responsibility in their spheres
-of influence.</p>
+<p>Secondary 1 students make use of the Design Thinking framework to propose
+solutions to environmental issues and exercise social responsibility in
+their spheres of influence. Through this process, they not only develop
+innovative ideas but also actively implement their proposed solutions,
+taking concrete steps to conserve the environment. This hands-on approach
+enables students to translate their learning into meaningful action, making
+a tangible impact in their school and community.</p>
 <h5>SECONDARY 2</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_VIA_at_elderly_centre.jpg">
