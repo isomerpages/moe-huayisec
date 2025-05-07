@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Parent Support Group</h2>
 <div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmO4AWOdZDuW3lDlGV_4at7S3UoUKhp02i7ulC3LQhN5VSIuF3KULJpaIsqoTtGrDndwm-P5yJvWZN/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmO4AWOdZDuW3lDlGV_4at7S3UoUKhp02i7ulC3LQhN5VSIuF3KULJpaIsqoTtGrDndwm-P5yJvWZN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Hua Yi has an active and dedicated Parent Support Group (PSG) which supports
 school programmes and activities for students’ holistic development. The
@@ -39,7 +39,7 @@ activities they are involved in throughout the year include the Secondary
 1 School Leader’s Talk, Parenting workshops and meetings, Values-in-Action
 (VIA) projects, as well as showing appreciation to teachers during Teachers’
 Day.</p>
-<h4>PSG Executive Committee 2023-2025</h4>
+<h4>PSG Executive Committee 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
