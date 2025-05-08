@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Parent Support Group</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSRkZsnLRAxCmtnGteojutOw1Tuqk0pKcpEbCceENA4P63XIHC4Oyj3nxyvME48wiIWeR9u9EAyFgW/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmO4AWOdZDuW3lDlGV_4at7S3UoUKhp02i7ulC3LQhN5VSIuF3KULJpaIsqoTtGrDndwm-P5yJvWZN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Hua Yi has an active and dedicated Parent Support Group (PSG) which supports
 school programmes and activities for students’ holistic development. The
@@ -39,7 +39,7 @@ activities they are involved in throughout the year include the Secondary
 1 School Leader’s Talk, Parenting workshops and meetings, Values-in-Action
 (VIA) projects, as well as showing appreciation to teachers during Teachers’
 Day.</p>
-<h4>PSG Executive Committee 2023-2025</h4>
+<h4>PSG Executive Committee 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -56,15 +56,15 @@ Day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Immediate Past Chairperson</p>
+<p>Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Vivian Liang</p>
+<p>Mdm Yammie Yam</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson</p>
+<p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Robin Soo</p>
@@ -72,7 +72,7 @@ Day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairperson</p>
+<p>Vice Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yammie Yam</p>
@@ -83,7 +83,7 @@ Day.</p>
 <p>Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jasline Lou &amp; Mdm Rachel Lim</p>
+<p>Mdm Veronica Maratha &amp; Mdm Priscilla Tan</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ Day.</p>
 <p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm N Vasuntha Devi</p>
+<p>Mdm Christina Neo</p>
 </td>
 </tr>
 <tr>
@@ -99,13 +99,14 @@ Day.</p>
 <p>Executive Committee</p>
 </td>
 <td rowspan="7" colspan="1">
-<p>Mdm PriscillaTan</p>
+<p>Mdm Jasline Lau</p>
 <p>Mdm Mabel Chin</p>
-<p>Mdm Aw Pei Feng</p>
-<p>Mdm Veronika Maretha</p>
-<p>Mdm Joanne Lee</p>
 <p>Mr Allex Ang</p>
-<p>Mr Gabriel Yeo</p>
+<p>Mdm Joanna Lee</p>
+<p>Mdm Aw Pei Feng</p>
+<p>Mr Gabirel Yeo</p>
+<p>Mdm Devi Vasuntha</p>
+<p>Mdm Vivian Liang</p>
 </td>
 </tr>
 <tr></tr>
