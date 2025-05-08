@@ -13,7 +13,7 @@ domains, fosters meaningful opportunities for connection and contribution,
 and provides a vibrant platform for showcasing their personal and academic
 growth.</p>
 <p>The festival features a wide array of engaging activities that help students
-develop E21st Century Competencies. These include Values-in-Action (VIA)
+develop E21st Century Competencies. These include Values in Action (VIA)
 initiatives, where students make meaningful contributions to the community,
 as well as workshops on Financial Literacy and Social Entrepreneurship,
 aimed at cultivating essential life skills and a strong sense of social
