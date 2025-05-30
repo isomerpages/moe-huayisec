@@ -22,6 +22,14 @@ sections:
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
   - infopic:
+      title: 2025 DSA
+      subtitle: Add an image and text
+      id: infopic
+      description: Direct School Admission
+      button: Button Text
+      image: /images/DSA_Intro.jpg
+      alt: Image alt text
+  - infopic:
       title: LATEST EVENTS
       button: More upcoming events
       url: https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/calendar/
