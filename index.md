@@ -34,6 +34,14 @@ sections:
       image: /images/img_6005.jpg
       alt: Image alt text
   - infopic:
+      title: 2025 DSA
+      subtitle: Add an image and text
+      id: infopic
+      description: Direct School Admission
+      button: Button Text
+      image: /images/DSA_Intro.jpg
+      alt: Image alt text
+  - infopic:
       title: THE HUA YI FAMILY
       description: What does it feel like to be part of the Hua Yi family?
       button: Click here to view
