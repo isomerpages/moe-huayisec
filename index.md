@@ -32,7 +32,7 @@ sections:
   - infopic:
       title: LATEST EVENTS
       button: More upcoming events
-      url: /latest-updates/latest/
+      url: https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/calendar/
       image: /images/2025/June_to_July_2.png
       alt: Image alt text
   - infopic:
