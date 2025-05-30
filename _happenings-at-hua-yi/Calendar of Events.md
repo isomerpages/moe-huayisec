@@ -22,18 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 May</p>
+<p>26 May to 28 May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Labour Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vesak Day</p>
+<p>Learning Festival</p>
 </td>
 </tr>
 <tr>

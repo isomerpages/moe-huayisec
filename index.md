@@ -22,18 +22,10 @@ sections:
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
   - infopic:
-      title: Sec 1 Registration
-      id: infopic
-      button: Click here
-      url: https://www.huayisec.moe.edu.sg/sec-1-registration-for-2025-cohort/
-      image: /images/2025 Sec 1 Registration/welcome.png
-      subtitle: 2025 Cohort
-      alt: Welcome
-  - infopic:
       title: LATEST EVENTS
       button: More upcoming events
-      url: /latest-updates/latest/
-      image: /images/2025/Calendar9jan.jpg
+      url: https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/calendar/
+      image: /images/2025/June_to_July_2.png
       alt: Image alt text
   - infopic:
       title: QUICK FACTS ABOUT HUA YI
