@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h2>Personalised Digital Learning Programme (PDLP)</h2>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QherIzQvi04?si=1wjRQdR8H8O70NEl"></iframe>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/PDLP.jpg">
 </div>
