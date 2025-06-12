@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>Personalised Digital Learning Programme (PDLP)</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/PDLP.jpg">
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QherIzQvi04?si=1wjRQdR8H8O70NEl"></iframe>
 </div>
 <p>Embracing the use of technology to spark the joy of learning in our students
 and inspire their pursuit of excellence, Hua Yi has rolled out the use
@@ -25,6 +26,9 @@ ahead!</p>
 <img style="width:85%" height="auto" width="100%" src="/images/image1.jpg">
 </div>
 <h4>Personal Learning Device</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/PDLP.jpg">
+</div>
 <p>Every Hua Yian will be using the Apple iPad as their personal learning
 device. Every iPad will come bundled with the Apple pencil and keyboard
 to maximise the affordances of the iPad as a learning tool.</p>
