@@ -150,7 +150,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/hyssbusbooking" rel="noopener nofollow" target="_blank">Bus Booking Form</a>
+<p><a href="https://form.gov.sg/681add90c950b77d847a87ad" rel="noopener nofollow" target="_blank">Bus Booking Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
