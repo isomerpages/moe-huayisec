@@ -75,7 +75,7 @@ Day.</p>
 <p>Vice Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yammie Yam</p>
+<p>Mdm Rachel Lim</p>
 </td>
 </tr>
 <tr>
