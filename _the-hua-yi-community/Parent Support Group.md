@@ -75,7 +75,7 @@ Day.</p>
 <p>Vice Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yammie Yam</p>
+<p>Mdm Rachel Lim</p>
 </td>
 </tr>
 <tr>
@@ -103,8 +103,7 @@ Day.</p>
 <p>Mdm Mabel Chin</p>
 <p>Mr Allex Ang</p>
 <p>Mdm Joanna Lee</p>
-<p>Mdm Aw Pei Feng</p>
-<p>Mr Gabirel Yeo</p>
+<p>Mr Gabriel Yeo</p>
 <p>Mdm Devi Vasuntha</p>
 <p>Mdm Vivian Liang</p>
 </td>
