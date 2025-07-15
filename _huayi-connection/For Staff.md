@@ -178,7 +178,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://form.gov.sg/68551c10f6c9af6a320dee8f" rel="noopener nofollow" target="_blank">Online Purchase Form</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
