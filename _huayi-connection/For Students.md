@@ -67,31 +67,19 @@ variant: tiptap
 </ul>
 </li>
 <li>
-<p>2025 Coordinated WA2 Timetable</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2025/2025_CWA2_Timetable__4_G1__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">Sec 4 G1 CWA2 Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025/2025_CWA2_Timetable__4_G2__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">Sec 4 G2 CWA2 Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025/2025_CWA2_Timetable__4_G3__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">Sec 4 G3 CWA2 Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025/2025_CWA2_Timetable__5_G2__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">Sec 5 G2 CWA2 Timetable</a>
-</p>
-</li>
-</ul>
-</li>
-<li>
 <p>2025 Sec 4 &amp; 5 Prelim Timetable</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="" rel="noopener nofollow" target="_blank">2025_4G1_Prelims_Timetable</a>
+<p><a href="/files/2025/2025_4G1_Prelims_Timetable.pdf" rel="noopener nofollow" target="_blank">2025_4G1_Prelims_Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/2025_4G2_Prelims_Timetable.pdf" rel="noopener nofollow" target="_blank">2025_4G2_Prelims_Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/2025_CWA2_Timetable__4_G3__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">2025_4G3_5G2_Prelims_T</a>
+<a href="/files/2025/2025_4G3_5G2_Prelims_Timetable.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2025/2025_CWA2_Timetable__4_G3__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">imetable</a>
 </p>
 </li>
 </ul>
