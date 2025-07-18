@@ -78,8 +78,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025/2025_CWA2_Timetable__4_G3__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">2025_4G3_5G2_Prelims_T</a>
-<a href="/files/2025/2025_4G3_5G2_Prelims_Timetable.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2025/2025_CWA2_Timetable__4_G3__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">imetable</a>
+<p><a href="/files/2025/2025_CWA2_Timetable__4_G3__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">2025_4G3_5G2_Prelims_Timetable</a>
 </p>
 </li>
 </ul>
