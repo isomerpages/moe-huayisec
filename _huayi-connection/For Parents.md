@@ -46,7 +46,6 @@ variant: tiptap
 <li>
 <p><a href="/files/2025/Subject_Option_Briefing_for_2025_Sec_2_students.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Option Briefing for 2025 Sec 2 students</a>
 </p>
-<p></p>
 </li>
 </ul>
 </li>
@@ -63,6 +62,25 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/2025/Sec_1___3_Camp_Briefing__School_website.pdf" rel="noopener nofollow" target="_blank">Sec 1 &amp; 3 Camp Briefing</a>
+</p>
+</li>
+</ul>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>2025 Sec 4 &amp; 5 Prelim Timetable</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/2025_4G1_Prelims_Timetable.pdf" rel="noopener nofollow" target="_blank">2025_4G1_Prelims_Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/2025_4G2_Prelims_Timetable.pdf" rel="noopener nofollow" target="_blank">2025_4G2_Prelims_Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/2025_CWA2_Timetable__4_G3__Edited_22_April.pdf" rel="noopener nofollow" target="_blank">2025_4G3_5G2_Prelims_Timetable</a>
 </p>
 </li>
 </ul>
