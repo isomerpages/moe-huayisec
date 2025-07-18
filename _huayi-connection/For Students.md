@@ -87,6 +87,14 @@ variant: tiptap
 </li>
 </ul>
 </li>
+<li>
+<p>2025 Sec 4 &amp; 5 Prelim Timetable</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2025_4G1_Prelims_Timetable</p>
+</li>
+</ul>
+</li>
 </ul>
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">
