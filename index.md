@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025/School_Banner_6.gif
+      background: /images/2025/School_Banner_7.gif
       key_highlights:
         - title: GLOCALISED CITIZENS
           description: ""
