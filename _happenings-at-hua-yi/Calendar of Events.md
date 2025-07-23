@@ -78,6 +78,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>26 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Graduation Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,10 +94,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>6 Oct to 14 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE N Level Written Exam Phase II</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Oct to 22 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Festival II</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>20 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deepavali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Oct to 10 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE N Level Written Exam Phase II</p>
 </td>
 </tr>
 <tr>
