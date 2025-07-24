@@ -137,7 +137,7 @@ variant: tiptap
 <p>16 Oct to 10 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GCE N Level Written Exam Phase II</p>
+<p>GCE O Level Written Exam</p>
 </td>
 </tr>
 <tr>
