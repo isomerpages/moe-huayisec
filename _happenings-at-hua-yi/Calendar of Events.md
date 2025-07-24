@@ -22,82 +22,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 May to 28 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learning Festival</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 May to 29 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Int'l Trips - Bangkok, Hanoi &amp; Medan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Jun to 3 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Uniform Group Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GCE O level MTL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Haji</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Haji Designated Off-in-lieu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Youth Day Designated Off-in-lieu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 Jul to 11 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEP Youth Camp 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14 Jul to 18 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GCE O &amp; N Level Oral Exams</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>23 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3 NRIC Registration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Aug to 28 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 Prelim</p>
 </td>
 </tr>
 <tr>
@@ -118,6 +54,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 Sep to 2 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MTL Oral</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,10 +70,74 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>15 Sep to 25 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE N Level Written Exam Phase I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Graduation Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE O Level Sci Practical (Chemistry)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Oct to 14 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE N Level Written Exam Phase II</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Oct to 22 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Festival II</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>20 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deepavali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Last Day of School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1-3 PTM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Oct to 10 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE N Level Written Exam Phase II</p>
 </td>
 </tr>
 <tr>
