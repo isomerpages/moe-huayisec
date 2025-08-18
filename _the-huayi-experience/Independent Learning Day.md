@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Independent Learning Day</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSnIDI3Jp8CDM9riOo_LsgiUMlKv59vuhTxurAVaQgAhJrrKxBQw7VwpcYQ2Q4Cu8r0ceX59SJvNIT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUuKuWuEDoGkuPPyizsQlAt3au3sdGGLhqSqkRJ8aPHb6HTBLyGK9utgURfIEBgp4O-SvihNmZDQBY/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>To develop students who are self-directed and passionate, a suite of programmes
 has been designed for our Independent Learning Days (ILDs). This is in
