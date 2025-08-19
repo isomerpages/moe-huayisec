@@ -24,7 +24,7 @@ variant: tiptap
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kenny Sim</p>
+<p>Mr Winston Wang</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ variant: tiptap
 <p>Vice-Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Winston Wang</p>
+<p>Ms Melissa Tan</p>
 </td>
 </tr>
 <tr>
@@ -41,14 +41,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Iris Lim
-<br>Mr Francis lee
 <br>Mdm Vivian Liang
 <br>Ms Jasmine Ong
 <br>Ms Serene Ong
 <br>Mr Patrick Koh
 <br>Mr Robin Soo
-<br>Ms Melissa Tan</p>
-<p>Mr Scott Cham</p>
+<br>Mr Scott Cham</p>
 </td>
 </tr>
 <tr>
