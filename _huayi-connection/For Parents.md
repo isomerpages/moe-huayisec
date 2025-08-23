@@ -85,6 +85,23 @@ variant: tiptap
 </li>
 </ul>
 </li>
+<li>
+<p>Sec 1 to Sec 3 Summative Review Schedule</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/2025_SR_Timetable_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 SR Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/2025_SR_Timetable_Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 SR Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/2025_SR_Timetable_Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 SR Timetable</a>
+</p>
+</li>
+</ul>
+</li>
 </ul>
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">
