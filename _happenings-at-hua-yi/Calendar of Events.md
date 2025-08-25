@@ -22,14 +22,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 NRIC Registration</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4 Aug to 28 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,6 +66,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>GCE N Level Written Exam Phase I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Sep to 10 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to 3 Summative Reviews</p>
 </td>
 </tr>
 <tr>
