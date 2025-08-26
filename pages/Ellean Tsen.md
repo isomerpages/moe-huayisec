@@ -4,10 +4,8 @@ permalink: /ellean-tsen/
 variant: tiptap
 description: ""
 ---
-<p><strong>Congratulations HYSS Alumna, Ellean!</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>Congratulations HYSS Alumna, Ellean!</strong></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
