@@ -4,7 +4,7 @@ permalink: /the-huayi-experience/stud-ss/
 description: ""
 variant: tiptap
 ---
-<h2>Student Success Stories</h2>
+<h3>Celebrating our HYSS Alumni</h3>
 <p>Many have passed through the gates of Hua Yi, and what brings us great
 joy is hearing the stories of our students who have growth through their
 experiences with us, and emerged stronger and better.</p>
