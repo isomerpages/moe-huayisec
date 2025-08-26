@@ -31,10 +31,7 @@ experiences with us and emerged stronger and better.</p>
 <p></p><a class="isomer-image-wrapper" href="https://www.huayisec.moe.edu.sg/sss/michael/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669830879.jpeg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025/Ellean_Tsen_A.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/sites/moe-huayisec/editPage/Ellean%20Tsen.md"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025/Ellean_Tsen_A.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
