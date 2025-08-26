@@ -21,12 +21,19 @@ sections:
         - title: PASSIONATE LEARNERS
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
-  - infopic:
-      title: 2025 DSA
-      id: infopic
-      description: Direct School Admission
-      image: /images/DSA_Intro.jpg
-      alt: Image alt text
+  - announcements:
+      title: Teachers' Day 2025
+      id: announcements
+      announcement_items:
+        - title: Date
+          date: 04 September 2025
+          announcement: Our teachers will be leaving school to attend the Teachers’ Day
+            Lunch on 4th Sept 2025. We kindly seek our Alumni to arrange visits
+            to your teachers on other days, or to convey your well-wishes
+            through other means. We thank you for your thoughtfulness & support
+            and have a meaningful Teachers’ Day.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: LATEST EVENTS
       button: More upcoming events
@@ -46,17 +53,4 @@ sections:
       url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       image: /images/family-bg.jpg
       alt: Image alt text
-  - announcements:
-      title: Teachers' Day 2025
-      id: announcements
-      announcement_items:
-        - title: Date
-          date: 04 September 2025
-          announcement: Our teachers will be leaving school to attend the Teachers’ Day
-            Lunch.  We kindly seek our Alumni to arrange visits to your teachers
-            on other days, or to convey your well-wishes through other
-            means.  We thank all Alumni for your thoughtfulness & support and
-            have a meaningful Teachers’ Day.
-          link_text: ""
-          link_url: ""
 ---
