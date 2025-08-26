@@ -49,7 +49,6 @@ sections:
   - announcements:
       title: Teachers' Day 2025
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Date
           date: 04 September 2025
