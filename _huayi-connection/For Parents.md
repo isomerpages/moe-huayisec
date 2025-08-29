@@ -106,10 +106,6 @@ variant: tiptap
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">MOE e-FAS application forms</a>
-</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/hysscardecal" rel="noopener nofollow" target="_blank">Application for Car Decal (Parents)</a>
 </p>
 </li>
@@ -130,7 +126,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/60c010245259b6001101815d" rel="noopener noreferrer nofollow" target="_blank">Application Form for Leave of Absence</a>
+<p><a href="https://form.gov.sg/68b1229b1a9627e1d1d6ee20" rel="noopener noreferrer nofollow" target="_blank">Application Form for Leave of Absence</a>
 </p>
 </li>
 <li>
