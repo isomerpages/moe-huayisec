@@ -1456,32 +1456,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor (Untrained)</p>
+<p>ECG Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Norullayaley Binte Mohd Ikbal</p>
+<p>S. Thiruselvan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Norullayaley_Mohd_Ikbal@schools.gov.sg" rel="noopener nofollow" target="_blank">Norullayaley_Mohd_Ikbal@schools.gov.sg</a>
-</p>
+<p>s_thiruselvan@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2505</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lead Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Andrew Tang Wing Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:andrew_tang_wing_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">andrew_tang_wing_hong@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2502</p>
+<p>TBD</p>
 </td>
 </tr>
 <tr>
