@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h2>Hua Yi Alumni Society (HYAS)</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/HYAS_Members.png">
+</div>
+<p></p>
 <p>The Hua Yi Alumni Society (HYAS) has continued to strengthen the bonds
 between our alumni and their alma mater. Through the organisation of various
 signature events and collaborative efforts, HYAS has successfully gathered
