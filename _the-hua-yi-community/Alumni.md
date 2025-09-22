@@ -126,25 +126,28 @@ in a shared spirit of gratitude, service, and pride.</p>
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Choon Geok
-<br>Ho Kin Huat
-<br>Joanne Soo
-<br>Koh Chye Koon
-<br>Lee Whye Fang
-<br>Lim Kai Xin Jasmine
-<br>Lim Lay Fui
-<br>Ng Chin Yong
-<br>Pong Cheong Lye
-<br>See Kwee Hoon
-<br>Tay Lee Meng
-<br>Tan Siang Huat, Eddie
-<br>Teo Chang Pin
-<br>Tng Say Beng
-<br>Wong Kah Hock
-<br>Yeo Kong Tai
-<br>Yeo Liu Cheh
-<br>Chua Boon Mei
-<br>Chua Poh Tin</p>
+<p>Koh Chye Koon</p>
+<p>Lee Whye Fang Alison</p>
+<p>Goh Choon Geok Nancy</p>
+<p>Yeo Kong Tai Eric</p>
+<p>Ho Kin Huat Adrian</p>
+<p>Yeo Liu Cheh</p>
+<p>Heng Cher Siew Diana</p>
+<p>Cher Chiew Hiang</p>
+<p>Tan Gak Chiew</p>
+<p>Soo Mei Ying Joanne</p>
+<p>Pong Cheong Lye</p>
+<p>Tay Lee Meng</p>
+<p>Lim Yi Qian</p>
+<p>Soo Yew Ping Robin</p>
+<p>Png Seow Nan Daphne</p>
+<p>Bryan Pang Jun Meng</p>
+<p>Hon Meng Mak</p>
+<p>Hor Tuck Choy</p>
+<p>Joselyn Yeo Hwee Bing</p>
+<p>Lee Kuan Seng (Ivan)</p>
+<p>Chua Boon Mei</p>
+<p>Chua Poh Tin</p>
 </td>
 </tr>
 <tr>
