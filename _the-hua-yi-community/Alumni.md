@@ -55,7 +55,7 @@ in a shared spirit of gratitude, service, and pride.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Honorary President</p>
+<p>Honorary Presidents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Chin Beng, Benny</p>
@@ -80,17 +80,10 @@ in a shared spirit of gratitude, service, and pride.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-President</p>
+<p>Vice-Presidents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Ching Ann, Francis</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lim Kai Xin Jasmine</p>
 </td>
 </tr>
