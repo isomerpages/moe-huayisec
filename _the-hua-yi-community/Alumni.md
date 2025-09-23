@@ -39,6 +39,8 @@ a vital bridge between past, present, and future Hua Yians—uniting generations
 in a shared spirit of gratitude, service, and pride.</p>
 <p></p>
 <h4>7th&nbsp;HYAS Committee List</h4>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
