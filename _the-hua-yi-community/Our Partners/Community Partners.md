@@ -8,7 +8,7 @@ variant: tiptap
 <h2>Community Partners</h2>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOYV_OJXpo_xCsuzGFc_Eyp2LZ2QGTx5lm2iO7snsYvFHwD9OJf_zqVbrhCGvyq9wcWArqnOAnr10y/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="850" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOYV_OJXpo_xCsuzGFc_Eyp2LZ2QGTx5lm2iO7snsYvFHwD9OJf_zqVbrhCGvyq9wcWArqnOAnr10y/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Building on our school’s rich history and heritage, Hua Yi has established
 sustainable and strategic home-school-community partnerships with various
