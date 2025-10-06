@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Mathematics Department</h2>
 <div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHegR6CZKDJOabR4jzHmaSCRAd9fwGuF9dlz5uyfSxA112xdxK4jlszTiW2c-Rna2Vn5dICauFR455/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTM0FlqT8SNnfL-emtpV0E-YwEuNNDSdAq8tUqAj3W6mQ6nVouRPLD7x0HTqt9eYVxVh5QNx2YiqEHH/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Learning Outcomes</h4>
 <ul data-tight="true" class="tight">
