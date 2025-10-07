@@ -124,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/clubs-n-societies/nyfc/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669660225.jpeg"></a>
+<p></p><a class="isomer-image-wrapper" href="/clubs-n-societies/syfc/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669660225.jpeg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
