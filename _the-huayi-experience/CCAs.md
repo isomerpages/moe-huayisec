@@ -32,10 +32,7 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="/physical-sports/fb/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659565.jpeg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659575.jpeg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/physical-sports/netball/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659575.jpeg"></a>
 </td>
 </tr>
 </tbody>
