@@ -18,7 +18,7 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="/physical-sports/bball/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659474.jpeg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/physical-sports/batminton/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659466.jpeg"></a>
+<p></p><a class="isomer-image-wrapper" href="/physical-sports/badminton/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659466.jpeg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/physical-sports/tnf/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659682.jpeg"></a>
