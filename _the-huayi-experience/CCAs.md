@@ -47,22 +47,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659913.jpeg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/uniformed-groups/ncc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659913.jpeg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659905.jpeg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/uniformed-groups/npcc/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659905.jpeg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659895.jpeg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/uniformed-groups/rcy/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669659895.jpeg"></a>
 </th>
 </tr>
 </tbody>
