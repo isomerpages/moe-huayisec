@@ -69,22 +69,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669660000.jpeg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/visual-performing-arts/sc/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669660000.jpeg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669660021.jpeg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/visual-performing-arts/cb/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669660021.jpeg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669660011.jpeg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/visual-performing-arts/cds"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669660011.jpeg"></a>
 </th>
 </tr>
 <tr>
