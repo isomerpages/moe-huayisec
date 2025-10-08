@@ -30,14 +30,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Graduation Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
