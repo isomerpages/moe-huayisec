@@ -15,10 +15,7 @@ third_nav_title: Departments
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669655599.jpeg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/the-huayi-experience/Department-Programmes/el/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669655599.jpeg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
