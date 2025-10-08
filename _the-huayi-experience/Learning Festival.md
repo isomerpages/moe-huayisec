@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Learning Festival</h2>
 <div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVvbxXsKKWVlbBPp0fSr_yyFibZzq8Wp0NUqxqNA3RAW22xGbINn6i_bozqzdQdv9JZALusuG0xNRI/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVvbxXsKKWVlbBPp0fSr_yyFibZzq8Wp0NUqxqNA3RAW22xGbINn6i_bozqzdQdv9JZALusuG0xNRI/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>The Learning Festival nurtures students’ joy for learning across diverse
 domains, fosters meaningful opportunities for connection and contribution,

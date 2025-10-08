@@ -22,66 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Aug to 28 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Prelim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day Designated Off-in-lieu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Sep to 2 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MTL Oral</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers' Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 Sep to 25 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GCE N Level Written Exam Phase I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>22 Sep to 10 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 to 3 Summative Reviews</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Graduation Day</p>
 </td>
 </tr>
 <tr>
@@ -138,6 +82,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>GCE O Level Written Exam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open House</p>
 </td>
 </tr>
 <tr>

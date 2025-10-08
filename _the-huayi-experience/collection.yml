@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Academic Achievement.md
-      - Departments/.keep
       - Departments/Department Programmes.md
+      - Departments/.keep
       - Departments/English Department.md
       - Departments/Science Department.md
       - Departments/Mathematics Department.md

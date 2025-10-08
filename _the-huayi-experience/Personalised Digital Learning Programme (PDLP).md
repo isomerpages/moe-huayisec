@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h2>Personalised Digital Learning Programme (PDLP)</h2>
-<p></p>
 <div class="iframe-wrapper">
-<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QherIzQvi04?si=1wjRQdR8H8O70NEl"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/M-posaDExzY?si=DMhEl-pjhL6u3xqu"></iframe>
 </div>
+<p></p>
 <p>Embracing the use of technology to spark the joy of learning in our students
 and inspire their pursuit of excellence, Hua Yi has rolled out the use
 of iPads to all our Secondary 1, 2 and 3 students in 2021. With the latest

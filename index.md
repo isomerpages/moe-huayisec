@@ -21,24 +21,11 @@ sections:
         - title: PASSIONATE LEARNERS
           description: ""
           url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
-  - announcements:
-      title: Teachers' Day 2025
-      id: announcements
-      announcement_items:
-        - title: Date
-          date: 04 September 2025
-          announcement: Our teachers will be leaving school to attend the Teachers’ Day
-            Lunch on 4th Sept 2025. We kindly seek our Alumni to arrange visits
-            to your teachers on other days, or to convey your well-wishes
-            through other means. We thank you for your thoughtfulness & support
-            and have a meaningful Teachers’ Day.
-          link_text: ""
-          link_url: ""
   - infopic:
       title: LATEST EVENTS
       button: More upcoming events
       url: https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/calendar/
-      image: /images/2025/Jul_to_Dec.png
+      image: /images/2025/Oct_to_Dec.png
       alt: Image alt text
   - infopic:
       title: QUICK FACTS ABOUT HUA YI
@@ -53,4 +40,10 @@ sections:
       url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       image: /images/family-bg.jpg
       alt: Image alt text
+  - infopic:
+      title: Hua Yi Open House
+      id: infopic
+      description: 22 November 2025,  Saturday,   830am to 130pm
+      image: /images/2025/Open_House_2025_Banner__150_x_50_cm_.jpg
+      alt: 22 November 2025
 ---

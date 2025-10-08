@@ -7,7 +7,7 @@ variant: tiptap
 <h2>Principal's Message</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0864_Enhanced_AdjustedByLimSY2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_0864_Enhanced_AdjustedByLimSY2.jpg">
 </div>
 <h4><strong>Welcome to Hua Yi Secondary School!</strong></h4>
 <p>It is my privilege to introduce Hua Yi Secondary School to you. Hua Yi
@@ -47,4 +47,5 @@ others.</p>
 <p>Warm Regards,</p>
 <p>Dr Lim Siew Yee</p>
 <p>Principal, Hua Yi Secondary School</p>
+<p></p>
 <p></p>
