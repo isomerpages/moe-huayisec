@@ -6,8 +6,9 @@ third_nav_title: Staff (By Departments)
 variant: tiptap
 ---
 <h2>Executive &amp; Administrative Staff</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2__EAS_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Dept Photos/Executive___Administration_Staff.jpg">
 </div>
-<p><em>Accurate as of 7 Oct 2024</em>
+<p><em>image accurate as of 29 Sept 2025</em>
 </p>
