@@ -26,7 +26,7 @@ Suhaimi Binti Saat, Seng Pei Sze, Yeo Wan Qiu Jennifer</p>
 <p></p>
 <p><strong>(Bottom, left to right)</strong>
 </p>
-<p>Lee taoJing, Chen Cailing, Tok Peilin, Tan Kheng Wee, Ng Joo Koon, Lin
-Siew Yee, Tan Kay Bin, Pan-Ong Fei Eng, Kuek Shao Zhen, Aslin Ratini, Binte
+<p>Lee TaoJing, Chen Cailing, Tok Peilin, Tan Kheng Wee, Ng Joo Koon, Lim
+Siew Yee, Tan Kay Bin, Pan-Ong Fei Eng, Kuek Shao Zhen, Adlin Ratini Binte
 Anwar</p>
 <p></p>
