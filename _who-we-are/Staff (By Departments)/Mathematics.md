@@ -8,8 +8,8 @@ variant: tiptap
 <h2>Mathematics</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/8__Math__new__2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Dept Photos/Mathematics.jpg">
 </div>
-<p><em>image accurate as of 7 Oct 2024</em>
+<p><em>image accurate as of 29 Sept 2025</em>
 </p>
 <p></p>
