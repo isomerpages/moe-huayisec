@@ -8,13 +8,25 @@ variant: tiptap
 <h2>School Management Comittee</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1__SMC_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Dept Photos/School_Management_Committee.jpg">
 </div>
-<p><em>image accurate as of 7 Oct 2024</em>
+<p><em>image accurate as of 29 Sept 2025</em>
 </p>
-<h4>Staff in the photo (Not in any order):</h4>
-<p><em>Ms Sandra Gwee, Mrs Celine Wong, Dr Lim Siew Yee, Mrs Pan-Ong Fei Eng, Ms Seng Pei Sze, Mdm Lye Yoke Pheng Suzanne, Ms Teh Sieu Ching, Ms Kuek Shao Zhen, Mr Tan Kheng Wee, Mr Sivagnanam Rameswaran, Ms Lee Taojing, Mr Shaheful Mansor, Mdm Adlin Ratini, Mdm Quek Si Min, Ms Chen Cailing, Mdm Aishah Bte Abdul Rahman, Ms Joanna Lim, Ms Wee Wan Ying Susanna, Ms Chiang Wai Kit, Ms Ong Chi Yen, Mr Lim Kok Sing, Ms Tok Peilin, Ms Shirlynn Khoo, Ms O Ming Fen, Mr Lim Gim Siong, Mdm Farah Suhaimi Bte Saat, Mdm Rajeshwari Rajamanikam, Mdm Nur Zaheera Bte Abdul Rahim</em>
+<h4>Staff in the photo:</h4>
+<p><strong>(Top, left to right)</strong>
 </p>
+<p>Aishah Binte Abdul Rahman, Aneesah Bte Shaik Uthuman, Wong Zhiyong Colin,
+Nur Zaheera Bte Abdul Rahim, Rajeshwari Rajamanikam, Chiang Wai Kit, Ong
+Chi Yen, Lim Gim Siong, Lim Kok Sing</p>
+<p><strong>(Middle, left to right)</strong>
+</p>
+<p>Seow Jie Yi Keziah, Kalarani d/o Paneer Selvam, Wee Wan Ying Susanna,
+Wong Shuk Wai, Shaheful Bin Mansor, Lye Yoke Pheng, Teh Sieu Ching, Farah
+Suhaimi Binti Saat, Seng Pei Sze, Yeo Wan Qiu Jennifer</p>
 <p></p>
-<p><em>Lim, Mdm Rajeswari &amp; Mdm Zaheera</em>
+<p><strong>(Bottom, left to right)</strong>
 </p>
+<p>Lee TaoJing, Chen Cailing, Tok Peilin, Tan Kheng Wee, Ng Joo Koon, Lim
+Siew Yee, Tan Kay Bin, Pan-Ong Fei Eng, Kuek Shao Zhen, Adlin Ratini Binte
+Anwar</p>
+<p></p>

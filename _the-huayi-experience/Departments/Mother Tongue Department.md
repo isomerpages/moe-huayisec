@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Mother Tongue Department</h2>
 <div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKHXwiGYVv-ASvsiQvhQPVVgC-rSka2NNA8yT1RoctlUfbZEIJlAkEw-Y_s6MlAWZIvL2JTMZlaqph/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCqvcO8PqcBEt1IBVbXvTEDFFAXtVkHl9Ak8yMZqUf0P4dDdv5Ia4S6Z909LR7ndPR-MZBOscH197o/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Learning Outcomes</h4>
 <ul data-tight="true" class="tight">
