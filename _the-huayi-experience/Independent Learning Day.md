@@ -4,11 +4,10 @@ permalink: /the-huayi-experience/independent-day/
 description: ""
 variant: tiptap
 ---
-<h2>Independent Learning Day</h2>
+<h2>Blended Learning</h2>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUuKuWuEDoGkuPPyizsQlAt3au3sdGGLhqSqkRJ8aPHb6HTBLyGK9utgURfIEBgp4O-SvihNmZDQBY/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<h4>BLENDED LEARNING</h4>
 <p>Blended Learning (BL) has been a regular feature of Hua Yi school experience
 since 2021, to support MOE’s ongoing efforts to promote lifelong learning
 by encouraging the development of self-directed, independent, and passionate
@@ -17,7 +16,7 @@ Learners and Resilient Leaders.</p>
 <p>To achieve the intended outcomes of BL in Hua Yi, two components - JOY
 (to stand for Joy of learning; Ownership of learning; and applY learning)
 and Project Sandbox - are integrated into the curriculum.</p>
-<h4>Curriculum Coverage - JOY@Hua Yi </h4>
+<h4>Curriculum Coverage - JOY@Hua Yi</h4>
 <p>JOY offers our students opportunities to engage in problem-based learning,
 connecting knowledge acquired across different subjects. Throughout this
 problem-solving process, teachers act as facilitators rather than dispensers
