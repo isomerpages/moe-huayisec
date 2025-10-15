@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Humanities Department</h2>
 <div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGZi04b2ZqGxXLxnrcDA0H9cj2gWFLFgtlyU5BerZ1zPb409U3AS0D4S4Qr7wYH2IoLfdnpBUMHbW4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4FNkjOLrnWARJK3dccW3sFa8TTs1YiQqveUQt5YgRNm8M1F7BwmtVMDV79eF72A6S2bt4B40NlhHH/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Learning Outcomes</h4>
 <ul data-tight="true" class="tight">
@@ -23,7 +23,7 @@ communication crucial to independent and lifelong learning.</p>
 </li>
 </ul>
 <h4>Key Programmes</h4>
-<h5>G1 Humanities: Exploring Our World and Society </h5>
+<h5>G1 Humanities: Exploring Our World and Society</h5>
 <p>At the G1 level, students are introduced to the Humanities through exposure
 modules in Geography, History and Literature, apart from Social Studies.
 These modules help students explore how people interact with their environment,
@@ -36,7 +36,7 @@ bring the subjects to life. Through these experiences, they develop essential
 and responsible citizenship, nurturing curious minds ready to understand
 and contribute to the world around them.</p>
 <p></p>
-<h5>Social Studies Issues Investigations </h5>
+<h5>Social Studies Issues Investigations</h5>
 <p>In Social Studies, our Secondary 3 students take on real-world sustainability
 issues through the Issues Investigation project. Expanding beyond past
 topics like plastic waste management, this year’s students explored areas
@@ -47,7 +47,7 @@ and propose practical solutions for a more sustainable Singapore. These
 experiences nurture informed and responsible citizens who are ready to
 contribute meaningfully to society.</p>
 <p></p>
-<h5>History Learning Experiences </h5>
+<h5>History Learning Experiences</h5>
 <p>At the Lower Secondary level, History learning nurtures curiosity and
 critical thinking through inquiry-based and experiential experiences that
 make the study of the past relevant to students’ lives today. Lessons are
@@ -100,7 +100,7 @@ involved in addressing current geographical issues. Through these exercises,
 students learn to weigh environmental, economic, and social factors in
 decision-making — reinforcing their role as responsible and informed eco-stewards.</p>
 <p></p>
-<h5>MOE-NUS Geography Challenge </h5>
+<h5>MOE-NUS Geography Challenge</h5>
 <p>Geography students are given opportunities to participate in national
 competitions such as the annual NUS Geography Challenge (GC), organised
 by the National University of Singapore’s Department of Geography. As part
