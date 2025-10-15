@@ -23,93 +23,139 @@ communication crucial to independent and lifelong learning.</p>
 </li>
 </ul>
 <h4>Key Programmes</h4>
-<h5>Social Studies Issues Investigations</h5>
-<p>In Social Studies Issues Investigations, our Sec 3 students collaboratively
-explore pressing societal issues, such as Singapore's plastic waste management.
-By researching various stakeholders and utilising e-pedagogical tools,
-students develop their critical thinking skills while deepening their understanding
-of civic responsibilities. This project not only cultivates respect for
-diverse perspectives but also empowers students to propose collaborative
-solutions involving both government and non-government bodies.</p>
-<p>Through engaging discussions and initiatives like Issues Investigations,
-we nurture informed and concerned citizens with a global perspective, ready
-to contribute thoughtfully to society.</p>
-<h5>Historical Investigation</h5>
-<p>Every student will be introduced to the Inquiry-based approach and get
-to participate in a Historical Investigation (HI) project to reconstruct
-knowledge and answer an important question about the past. This approach
-enables students to inquire into history through the gathering of sources.
-With the sources of information, they exercise historical reasoning to
-turn these sources into evidence and finally engage in reflective thinking
-to make sound and well-supported interpretations. By engaging students
-in HI, they will develop into self-directed, critical and reflective thinkers.
-Through this process of inquiry, they will also learn to work collaboratively
-with others. Students will also learn how to conduct research using various
-National Library Board resource repositories such as Infopedia and NewspaperSG,
-or play historical board games, in order to experience the significance
-of past events and how historical evidence is used to reconstruct an understanding
-of the past.</p>
-<h5>Geographical Inquiry through Fieldwork</h5>
-<p>At the Lower Secondary level, students engage in various authentic learning
-experiences to enhance their awareness of environmental and social issues.
-For example, in studying water issues, Secondary 1 students investigate
-the impact of human activities on Singapore's waterways through on-site
-testing and evaluation of water samples collected at Jurong Lake. To deepen
-their understanding of ecosystems, students also embark on investigative
-journeys documenting their interactions with flora and fauna within the
-school compound. In Secondary 2, students explore the relevance of Geography
-in their everyday lives through investigative studies conducted at transport
-hubs (e.g. Jurong East Interchange).</p>
-<p>Such experiential learning continues at the Upper Secondary level with
-field studies conducted as part of the Geography curriculum at Kampong
-Glam (Tourism Studies), Choa Chu Kang Transport Hub (Everyday Geography),
-and Science Centre Earth Alive! (Tectonic Studies).</p>
-<p>In Geography education within the school, eco-stewardship is emphasised
-as an essential value. Lessons incorporate decision-making scenarios where
-students evaluate environmental policies or analyse the pros and cons of
-land-use practices. Through these exercises, students learn to weigh environmental,
-economic, and social factors, reinforcing their role as eco-stewards.</p>
-<h5>MOE-NUS Geography Challenge</h5>
-<p>Geography students are given opportunities to participate in competitions
-such as the annual NUS Geography Challenge. Through the competition, the
-participants were given the opportunity to explore the topic of sustainability
-and Singapore Green Plan 2030 using a geographical lens. Also, through
-gamification, the participants gained insights to the idea of trade-offs,
-as well as learned how global issues of sustainability can be understood
-in a fun and interesting way.</p>
+<h5>G1 Humanities: Exploring Our World and Society </h5>
+<p>At the G1 level, students are introduced to the Humanities through exposure
+modules in Geography, History and Literature, apart from Social Studies.
+These modules help students explore how people interact with their environment,
+understand significant events and issues that shape societies, and appreciate
+how stories and texts reflect human experiences and emotions.</p>
+<p>Learning in Humanities goes beyond the coursebooks— students engage in
+hands-on activities, discussions, and digital learning experiences that
+bring the subjects to life. Through these experiences, they develop essential
+21st-century skills such as critical thinking, empathy, communication,
+and responsible citizenship, nurturing curious minds ready to understand
+and contribute to the world around them.</p>
+<p></p>
+<h5>Social Studies Issues Investigations </h5>
+<p>In Social Studies, our Secondary 3 students take on real-world sustainability
+issues through the Issues Investigation project. Expanding beyond past
+topics like plastic waste management, this year’s students explored areas
+such as energy, water, health and wellbeing, and sustainable urban living.</p>
+<p>Through research, stakeholder analysis, and the use of digital tools,
+students learned to think critically, appreciate diverse perspectives,
+and propose practical solutions for a more sustainable Singapore. These
+experiences nurture informed and responsible citizens who are ready to
+contribute meaningfully to society.</p>
+<p></p>
+<h5>History Learning Experiences </h5>
+<p>At the Lower Secondary level, History learning nurtures curiosity and
+critical thinking through inquiry-based and experiential experiences that
+make the study of the past relevant to students’ lives today. Lessons are
+designed to help students explore historical perspectives, analyse evidence,
+and reflect on how Singapore’s past shapes its identity and values.</p>
+<p>In Secondary One, students use educational technology tools such as Gemini
+to explore life in Singapore in the 1300s. By posing questions, analysing
+findings, and discussing interpretations, they develop inquiry skills and
+deepen their appreciation of Singapore’s early history in an engaging and
+interactive way.</p>
+<p>In Secondary Two, game-based pedagogy brings historical learning to life
+through an in-house designed board game that simulates the political tensions
+of post-war Singapore. Through card mechanics and decision-making tasks,
+students experience the trade-offs and dilemmas faced by different factions
+— the British, Communists, and Non-Communists — cultivating historical
+empathy and understanding of the complexities in Singapore’s road to independence.</p>
+<p>Students undertake Historical Investigations (HI) to examine key questions
+about the past, evaluate sources, and construct evidence-based interpretations.
+As part of their investigations, students engage with authentic historical
+materials using National Library Board resource repositories such as Infopedia
+and NewspaperSG, as well as the National Archives’ Oral History Interviews
+collection. These experiences allow them to apply inquiry skills to real-world
+sources and deepen their appreciation of how evidence is used to reconstruct
+the past.</p>
+<p>Ultimately, History education in Hua Yi serves as a platform for developing
+civic, global, and cross-cultural literacy, enabling students to make sense
+of the world around them and contribute thoughtfully as informed citizens
+in a diverse society.</p>
+<p></p>
+<h5>Geography Learning Experiences: Cultivating Inquiry and Eco-Stewardship</h5>
+<p>At the Lower Secondary level, Geography learning is designed to nurture
+students’ curiosity and deepen their understanding of real-world environmental
+and social issues. Through inquiry-based and authentic learning experiences,
+students explore the dynamic relationships between people and the environment.</p>
+<p>In Secondary 1, students participate in outdoor geographical investigations
+that develop their spatial awareness and encourage reflection on sustainable
+actions in their daily lives. In Secondary 2, collaborative research projects
+on housing and transport issues strengthen students’ inquiry, critical
+thinking, and teamwork skills as they analyse patterns, propose solutions,
+and appreciate diverse perspectives on sustainable living.</p>
+<p>The experiential learning approach continues at the Upper Secondary level,
+where field studies are conducted as part of the Geography curriculum at
+key sites such as Choa Chu Kang Transport Hub (Insights into Urban Planning),
+Bird Paradise (Tourism Studies), and the Science Centre’s Earth Alive!
+exhibition (Tectonic Studies).</p>
+<p>Across all levels, eco-stewardship is emphasised as a core value in Geography
+education. Lessons incorporate decision-making scenarios that challenge
+students to evaluate environmental policies and analyse the trade-offs
+involved in addressing current geographical issues. Through these exercises,
+students learn to weigh environmental, economic, and social factors in
+decision-making — reinforcing their role as responsible and informed eco-stewards.</p>
+<p></p>
+<h5>MOE-NUS Geography Challenge </h5>
+<p>Geography students are given opportunities to participate in national
+competitions such as the annual NUS Geography Challenge (GC), organised
+by the National University of Singapore’s Department of Geography. As part
+of their preparation, students undergo school-based training sessions that
+strengthen their geographical concepts, sharpen their analytical skills,
+and build confidence in applying inquiry-based thinking to current issues.</p>
+<p>Through this competition, students explore themes such as sustainability
+and the Singapore Green Plan 2030 using a geographical lens. They also
+engage in gamified learning experiences that help them understand trade-offs
+and global sustainability challenges in a fun and meaningful way, while
+developing critical thinking, problem-solving, and collaborative skills
+alongside peers from other schools.</p>
+<p></p>
 <h5>History Competitions</h5>
 <p>Our Secondary Two students take part in the Historical Scene Investigation
-and Prove It! Contest, both organised by the National Library Board and
-supported by the Ministry of Education. In both inter-school competitions,
-our students put their historical inquiry and research skills to the test,
-researching on topics such as past pandemics or the significance of events
-that happened in Singapore after the Second World War. Students will present
-their findings through creative end products such as animations, videos,
-posters, or even as a skit. They also get the opportunity to hone their
-public speaking skills by presenting their findings to their schoolmates
-during morning assembly. In 2024, our students clinched the Gold Award
-(Top 10 Teams) in the Prove It! Contest and two teams earned the Silver
-Award in the Historical Scene Investigation.</p>
-<h5>Humanities Youth Leaders and ECG Programme</h5>
-<p>Our Upper Secondary Humanities students have the opportunity to participate
-in the Humanities Youth Leaders and ECG Programme. Through participating
-in online forums, students get the opportunity to interact with guest speakers
-who provide deep insights to the skills set important for the 21st century
-employment landscape. Workshops are also conducted to enhance students’
-proficiency in technological applications and skills, and students also
-go on learning journeys which allow them to appreciate the real-world applications
-of the Humanities.</p>
-<h5>NJC International Humanities Symposium (IHS) (Social Studies)</h5>
-<p>Our Upper Secondary Humanities students actively participate in the NJC
-International Humanities Symposium (IHS), a platform that showcases their
-research on vital global issues. This initiative explicitly aligns with
-E21CC principles, fostering civic, global, and cross-cultural competencies.
-By exploring themes such as resource depletion and social inequality, our
-students engage in critical discussions that enhance their understanding
-of civic responsibility and global interconnectedness. The symposium encourages
-collaboration with peers from diverse backgrounds, promoting cross-cultural
-understanding and respect. Through their involvement in the IHS, students
-develop innovative solutions for a sustainable future, empowering them
-to become informed and proactive citizens ready to effect positive change
-in their communities and beyond.</p>
+and Prove It! contests, both organised by the National Library Board and
+supported by the Ministry of Education. In these inter-school competitions,
+students apply their historical inquiry and research skills to investigate
+topics such as past pandemics or the significance of events that shaped
+Singapore after the Second World War. They present their findings through
+creative end products such as animations, videos, posters, or skits, and
+hone their public speaking skills by sharing their work with peers during
+morning assembly.</p>
+<p>In the Historical Scene Investigation, our students achieved two Silver
+Awards in 2024 and went on to earn one Gold and one Silver Team Award in
+2025. In the Prove It! contest, our students clinched the Gold Award (Top
+10 Teams) in 2024 and followed up with two Silver Awards in 2025, which
+is a testament to our students’ consistency and growing expertise in historical
+inquiry.</p>
+<p>Our Secondary Three students also participated in the annual War &amp;
+Diplomacy Challenge hosted by Bendemeer Secondary School, a strategy card
+game of survival and conquest that simulates the experience of governments
+during the turbulent era of 1918–1945. The game challenges students to
+make political decisions related to invasion, trade, diplomacy, reparations,
+sanctions, propaganda, and appeasement. Closely aligned with the Upper
+Secondary History syllabus, the competition brings historical concepts
+to life and deepens students’ engagement with the subject. In 2025, our
+school won the 1st Runner-Up Team Award, with seven students reaching the
+semi-finals and one finalist in the competition.</p>
+<p>The MOE History Challenge also engages our Secondary Three students in
+the disciplinary thinking of History. Through this quiz-based competition,
+they demonstrate their historical knowledge and apply conceptual understanding
+across different historical periods. The experience strengthens their mastery
+of key historical concepts while developing confidence in articulating
+evidence-based arguments.</p>
+<p></p>
+<h5>Voices of Humanities</h5>
+<p>Voices of Humanities (VOH) offers students authentic opportunities to
+connect classroom learning with the real world. In 2025, students explored
+themes such as the Green Economy, AI and Digital Business, and Sustainability,
+deepening their understanding of how the Humanities relate to Singapore’s
+future.</p>
+<p>Through factory visits, entrepreneurship workshops, digital marketing
+projects with real startups, eSports broadcasting, and photography competitions,
+students learned to think critically, communicate confidently, and appreciate
+diverse perspectives.</p>
+<p></p>
 <p></p>
