@@ -12,4 +12,11 @@ variant: tiptap
 </div>
 <p><em>image accurate as of 29 Sept 2025</em>
 </p>
-<p></p>
+<p><strong>(Top, left to right)</strong>
+</p>
+<p>Ms Ng Bee Lay Joan, Mdm Siti Bte Ismail, Mr Ong Tzuen Wee, Miss Khatijah
+Bee Bte Syed Abdul Kadir</p>
+<p><strong>(Bottom, left to right)</strong>
+</p>
+<p>Mr Fong Kai Pew , Mdm Keh Hwee Peng, Mr Tan Kheng Wee, Mr Joo Chan Hock,
+Mdm Anggreini Bte Hamid</p>
