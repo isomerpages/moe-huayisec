@@ -11,3 +11,10 @@ variant: tiptap
 </div>
 <p><em>image accurate as of 7 Oct 2024</em>
 </p>
+<p><strong>(Top, left to right)</strong>
+</p>
+<p>Ms Lee Taojing, Mr Lim Kok Sing, Miss Chong Hui Min, Mr Seo Hong Choon</p>
+<p><strong>(Bottom, left to right)</strong>
+</p>
+<p>Mr Sivagnanam Rameswaran, Ms Wee Wan Ying Susanna, Mr Wong Zhiyong Colin,
+Ms O Ming Fen&nbsp;</p>
