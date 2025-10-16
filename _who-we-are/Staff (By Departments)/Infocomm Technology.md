@@ -12,3 +12,9 @@ variant: tiptap
 </div>
 <p><em>image accurate as of 29 Sept 2025</em>
 </p>
+<p><strong>(Top, left to right)</strong>
+</p>
+<p>Mr Vickneswaran Selvaraja, Mr Sng Eng Guan Vincent. Mr Zulfadli B Zamri</p>
+<p><strong>(Bottom, left to right)</strong>
+</p>
+<p>Ms Ong Chi Yen, Mr Shaheful Bin Mansor, Mdm Nur Zaheera Bte Abdul Rahim</p>
