@@ -12,3 +12,11 @@ variant: tiptap
 </div>
 <p><em>image accurate as of 29 Sept 2025</em>
 </p>
+<p><strong>(Top, left to right)</strong>
+</p>
+<p>Mdm Eleanor Teng Kah Hwee, Mr Chong Kai Qin, Mr Wong Wai Kit, Mrs Magdalena
+Sii Sian Min, Mr Tan Jit Chong Gilbert, Mr Seah Jim Chew</p>
+<p><strong>(Bottom, left to right)</strong>
+</p>
+<p>Miss Lim Kai Xin, Mdm Chen Cailing, Ms Tok Peilin, Ms Chiang Wai Kit,
+Mr Khoo Wei Lun Edwin, Mdm Seow Jie Yi Keziah</p>

@@ -30,8 +30,9 @@ Community. Our students are involved in planning and executing educational
 and interactive activities that support active and healthy aging among
 the elderly.</p>
 <h5>UPPER SECONDARY</h5>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_Service_Learning.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/VIA1.jpg">
 </div>
 <p>Upper Secondary students are engaged in Service Learning projects where
 they design, implement, and evaluate student-initiated activities to benefit
