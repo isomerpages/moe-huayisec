@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>House System</h2>
 <div class="iframe-wrapper">
-<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkjGI23l3RTxJjqJJ-JaFg8phwAJ1YAPsa_pSdlAuV5HKs08LiG7qekGe-G0DSzFJ68OV-6IFjpLit/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRS39QdkLRcldTqJEUSEw1vKrFUhEWW2gguxd1W7bOhjNhf05kBBBC7nUKNK5eyzpcYVlsfJD16IVAf/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>The House system in Hua Yi aims to give students an identity within the
 school, and a sense of pride in a supportive and secure environment. Each
