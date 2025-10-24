@@ -23,6 +23,38 @@ inculcates sportsmanship, fair play and team spirit.</p>
 </tr>
 </tbody>
 </table>
+<h4>Schedule</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday and Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Field</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Achievements</h4>
 <table style="minWidth: 25px">
 <colgroup>
