@@ -12,14 +12,18 @@ variant: tiptap
 to serve humanity and save lives. Our core values of excellence, care and
 learning undergirds our mission, cadet training and developmental programmes.</p>
 <h4>Schedule</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Teacher in charge</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -31,6 +35,16 @@ learning undergirds our mission, cadet training and developmental programmes.</p
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Ms Lim Kai Xin (I/C)</p>
+</li>
+<li>
+<p>Ms Nur Diyanah</p>
+</li>
+</ul>
+</td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
 </td>
