@@ -13,6 +13,51 @@ genres such as Lyrical Hip hop, Street Jazz, Modern, etc. We strive to
 cultivate students’ confidence and professionalism in performances and
 competitions, while fostering team spirit, good discipline and community
 spirit amongst students.</p>
+<h4>Schedule</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Staff Training Room
+<br>(Blk A, Level 4, A4-05)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Studio</p>
+<p>(Blk A, Level 3, A3-05)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Achievements</h4>
 <h4>2025</h4>
 <ul>
