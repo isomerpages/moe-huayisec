@@ -28,7 +28,43 @@ exposure to the sport.</p>
 </tbody>
 </table>
 <h4>Schedule</h4>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday and Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arena (ISH)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><em>Additional training on Friday during competition season</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Achievements</h4>
 <h4>2025</h4>
 <ul>
