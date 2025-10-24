@@ -17,14 +17,18 @@ respectful, resilient, and loyal individuals.</p>
 such as Singapore Youth Arts Presentations. We engage in enriching inter-school
 exchanges to broaden perspectives and build lasting relationships.</p>
 <h4>Schedule</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Teacher in charge</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -36,6 +40,16 @@ exchanges to broaden perspectives and build lasting relationships.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Eleanor Chen (I/C)</p>
+</li>
+<li>
+<p>Ms He Tianchan</p>
+</li>
+</ul>
+</td>
 <td rowspan="1" colspan="1">
 <p>Monday</p>
 </td>
@@ -49,14 +63,24 @@ exchanges to broaden perspectives and build lasting relationships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Eleanor Chen (I/C)</p>
+</li>
+<li>
+<p>Ms He Tianchan</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:15 – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Studio</p>
-<p>(Blk A, Level 3, A3-05)</p>
+<p>Dance Studio
+<br>(Blk A, Level 3, A3-05)</p>
 </td>
 </tr>
 </tbody>
