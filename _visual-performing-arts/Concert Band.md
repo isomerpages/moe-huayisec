@@ -17,7 +17,39 @@ such as exchanges and performances, to gain more experiences and build
 up their confidence.&nbsp;</p>
 <p>They will also be able to experience performing, exchanging ideas, and
 honing their skills with talented musicians from other local bands.</p>
-<p></p>
+<h4>Schedule</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday and Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Room
+<br>(Blk G, Level 3, G3-02)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Achievements</h4>
 <h4>2025</h4>
 <ul>
