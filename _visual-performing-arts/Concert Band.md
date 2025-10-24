@@ -18,14 +18,18 @@ up their confidence.&nbsp;</p>
 <p>They will also be able to experience performing, exchanging ideas, and
 honing their skills with talented musicians from other local bands.</p>
 <h4>Schedule</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Teacher in charge</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -37,6 +41,19 @@ honing their skills with talented musicians from other local bands.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Mr Beh Yong Hua (I/C)</p>
+</li>
+<li>
+<p>Ms Jennifer Yeo</p>
+</li>
+<li>
+<p>Mdm Sherindar Kaur</p>
+</li>
+</ul>
+</td>
 <td rowspan="1" colspan="1">
 <p>Monday and Thursday</p>
 </td>
