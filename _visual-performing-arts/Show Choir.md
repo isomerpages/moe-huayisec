@@ -66,8 +66,8 @@ by sharing their talents during Values-in-Action activities.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Studio</p>
-<p>(Blk A, Level 3, A3-05)</p>
+<p>Dance Studio
+<br>(Blk A, Level 3, A3-05)</p>
 </td>
 </tr>
 </tbody>
