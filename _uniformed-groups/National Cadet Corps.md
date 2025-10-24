@@ -13,14 +13,18 @@ and successful young citizens. The unit strives to develop cadets to be
 loyal young leaders and team players through fun, challenging and adventurous
 military-related activities.</p>
 <p>Schedule</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Teacher in charge</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -32,6 +36,16 @@ military-related activities.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Mr See Chee Wah (I/C)</p>
+</li>
+<li>
+<p>Mr Wong Liang Wee</p>
+</li>
+</ul>
+</td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
 </td>
