@@ -14,14 +14,18 @@ by showcasing our culinary skills and creativity; and work together as
 a team, demonstrating leadership, cooperation and responsibility in every
 activity.</p>
 <h4>Schedule</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Teacher in charge</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -33,6 +37,9 @@ activity.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Anggreini</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Monday
 <br>
