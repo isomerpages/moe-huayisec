@@ -14,6 +14,39 @@ learn the art of performance and expression, while debate activities help
 them develop critical thinking, argumentation, and public speaking skills.
 We aspire to groom confident, articulate communicators who can express
 themselves with clarity and creativity.</p>
+<h4>Schedule</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate: Blk E, Level 4, E4-02</p>
+<p>Drama: Blk C, Level 4, C4-04</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Achievements</h4>
 <h4>2025</h4>
 <ul>
