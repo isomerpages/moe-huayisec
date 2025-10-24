@@ -634,7 +634,7 @@ variant: tiptap
 <p>3:15 – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Seminar Room 8/ Comp Lab 3</p>
+<p>Comp Lab 3</p>
 <p>(Blk F, Level 4, F4-02)</p>
 </td>
 </tr>
