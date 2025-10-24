@@ -46,7 +46,7 @@ court.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday and Friday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.15 pm – 6.15 pm</p>
