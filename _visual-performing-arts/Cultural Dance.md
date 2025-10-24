@@ -38,13 +38,9 @@ exchanges to broaden perspectives and build lasting relationships.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Monday</p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:15 – 6:15 pm</p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff Training Room
