@@ -34,26 +34,14 @@ spirit amongst students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday</p>
+<p>Monday and Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:15 – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff Training Room
-<br>(Blk A, Level 4, A4-05)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3:15 – 6:15 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dance Studio</p>
-<p>(Blk A, Level 3, A3-05)</p>
+<p>Dance Studio (Blk A, Level 3, A3-05)</p>
+<p>Seminar Room 4 (Blk D, Level 3, D3-02)</p>
 </td>
 </tr>
 </tbody>
