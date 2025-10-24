@@ -2,19 +2,60 @@
 title: Football
 permalink: /physical-sports/football/
 description: ""
+variant: tiptap
 ---
-## Football
-
-<img src="/images/CCA-11.jpg" style="width:85%">
-
-Our Football CCA focuses on cultivating a strong character with self-discipline and leadership qualities while developing the interest and passion for soccer. Through friendly matches and inter-school competitions, the team inculcates sportsmanship, fair play and team spirit.
-
-#### Achievements
-
-##### 2019
-
-*   **B Division Boys: League 3 Quarter Finalist** <br>
-    National School Games (NSG) Football Championship  
-      
-*   **Top 8** <br>
-    FC Bayern Youth Cup Singapore 2019
+<h2>Football</h2>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/CCA-11.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Football CCA focuses on cultivating a strong character with self-discipline
+and leadership qualities while developing the interest and passion for
+soccer. Through friendly matches and inter-school competitions, the team
+inculcates sportsmanship, fair play and team spirit.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Achievements</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>2025</h4>
+<ul>
+<li>
+<p>National B Division Boys League 4 Championship 2025 - Champion/ Promoted
+to League 3 for 2026</p>
+</li>
+<li>
+<p>National C Division Boys League 4 Championship 2025 - Top 8/ Promoted
+to League 4 for 2026
+<br>
+</p>
+</li>
+</ul>
+<h4>2024</h4>
+<ul>
+<li>
+<p>National B Division Boys League 5 Championship 2025 – Champion/ Promoted
+to League 4 for 2025</p>
+</li>
+<li>
+<p>National C Division Boys League 5 Championship 2025 - Unplacing&nbsp;&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
