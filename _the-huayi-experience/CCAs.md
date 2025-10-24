@@ -215,8 +215,8 @@ variant: tiptap
 <br>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:15 – 6:15 pm
-<br>3:15 – 6:15 pm</p>
+<p>3:30 – 6:15 pm
+<br>3:30 – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball Court</p>
@@ -409,12 +409,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Wednesday (Vocals)</p>
 <p></p>
-<p></p>
 <p>Friday (Dance)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:15 – 5:45 pm</p>
-<p>2.30 pm – 5.00 pm</p>
+<p>3:15 pm – 6:15 pm</p>
+<p></p>
+<p></p>
+<p>2.30 pm – 5.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff Training Room (Blk A, Level 4, A4-05)</p>
@@ -428,7 +429,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday
-<br>Wednesday</p>
+<br>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:15 – 6:15 pm
@@ -452,6 +453,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>3:15 – 6:15 pm
 <br>
+</p>
+<p>
 <br>3:15 – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -634,7 +637,7 @@ variant: tiptap
 <p>3:15 – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Seminar Room 8/ Comp Lab 3</p>
+<p>Comp Lab 3</p>
 <p>(Blk F, Level 4, F4-02)</p>
 </td>
 </tr>
