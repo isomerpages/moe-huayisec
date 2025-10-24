@@ -38,7 +38,7 @@ activity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Anggreini</p>
+<p>Mdm Anggreini Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday
