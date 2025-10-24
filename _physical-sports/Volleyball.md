@@ -28,14 +28,18 @@ exposure to the sport.</p>
 </tbody>
 </table>
 <h4>Schedule</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Teacher in charge</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -48,6 +52,19 @@ exposure to the sport.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Ms Chong Hui Min (I/C)</p>
+</li>
+<li>
+<p>Mdm Lee Sin Yi</p>
+</li>
+<li>
+<p>Mr Chong Pin Pir</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
 <p>Monday and Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,7 +75,7 @@ exposure to the sport.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="4">
 <p><em>Additional training on Friday during competition season</em>
 </p>
 </td>
