@@ -409,12 +409,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Wednesday (Vocals)</p>
 <p></p>
-<p></p>
 <p>Friday (Dance)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:15 – 5:45 pm</p>
-<p>2.30 pm – 5.00 pm</p>
+<p>3:15 pm – 6:15 pm</p>
+<p></p>
+<p></p>
+<p>2.30 pm – 5.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff Training Room (Blk A, Level 4, A4-05)</p>
