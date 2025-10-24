@@ -27,14 +27,18 @@ by sharing their talents during Values-in-Action activities.</p>
 </tbody>
 </table>
 <h4>Schedule</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Teacher in charge</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -47,6 +51,19 @@ by sharing their talents during Values-in-Action activities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Ms Serene Hiew (I/C)</p>
+</li>
+<li>
+<p>Mdm Jayati Deb</p>
+</li>
+<li>
+<p>Ms Khatijah</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
 <p>Wednesday (Vocals)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,6 +75,19 @@ by sharing their talents during Values-in-Action activities.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Ms Serene Hiew (I/C)</p>
+</li>
+<li>
+<p>Mdm Jayati Deb</p>
+</li>
+<li>
+<p>Ms Khatijah</p>
+</li>
+</ul>
+</td>
 <td rowspan="1" colspan="1">
 <p>Friday (Dance)</p>
 </td>
