@@ -215,8 +215,8 @@ variant: tiptap
 <br>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:15 – 6:15 pm
-<br>3:15 – 6:15 pm</p>
+<p>3:30 – 6:15 pm
+<br>3:30 – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball Court</p>
