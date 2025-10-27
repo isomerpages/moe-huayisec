@@ -838,24 +838,32 @@ to apply their knowledge and skills.</p>
 </p>
 <p>Hua Yi offers a wide range of after-school engagement programmes to help
 students develop critical soft-skills such as:</p>
-<p><strong>a) Mentoring Program by the GRIT Academy (TGA)</strong>A 6 to
-9 month mentoring programme by the youth branch of the Lakeside Family
-Services. Students undergo a journey of self-discovery through experential
-activities supported by mentors and friends. <strong>b) The Discovery Program</strong>A
-creative program to empower students with skills to enhance their self-awareness
+<p><strong>a) Mentoring Program by the GRIT Academy (TGA)</strong>
+</p>
+<p>A 6 to 9 month mentoring programme by the youth branch of the Lakeside
+Family Services. Students undergo a journey of self-discovery through experential
+activities supported by mentors and friends.</p>
+<p><strong>b) The Discovery Program</strong>
+</p>
+<p>A creative program to empower students with skills to enhance their self-awareness
 and manage positive relationships with others. Students learn strategies
 for self-management, coping skills and the activities help them to build
-up their readiness and resilience. <strong>c) Youth Venture (partnership with Lakeside Family Service Centre)</strong>An
-8-month adventure-themed based programme to develop and build character
-and resilience. <strong>d) Student Support Programme</strong>Programmes
-focus on behavioral, social emotional skills or meaningful holiday engagement.</p>
+up their readiness and resilience.</p>
+<p><strong>c) Youth Venture (partnership with Lakeside Family Service Centre)</strong>
+</p>
+<p>An 8-month adventure-themed based programme to develop and build character
+and resilience.</p>
+<p><strong>d) Student Support Programme</strong>
+</p>
+<p>Programmes focus on behavioral, social emotional skills or meaningful
+holiday engagement.</p>
 <p>Hangout @ Hua Yi is run by our school’s learning mentor. The venue is
 a vibrant space equipped with a variety of facilities and activities for
 students to engage in after school. The learning mentor establishes a strong
 level of rapport with students and helps inculcate in them stronger self-management
 skills. There are also constant innovations for Hangout to make it ever
 more attractive for students to drop in.</p>
-<p><strong>8 . House System</strong>
+<p><strong>8. House System</strong>
 </p>
 <p>In 2022, Hua Yi made a major change to the way the school was structured.
 The school adopted a house system, with the school and student body organised
@@ -870,32 +878,45 @@ levels. It also created opportunities for a stronger house spirit to shine
 through in each house, as many school activities and programmes leveraged
 the house system to promote a spirit of friendly competition.</p>
 <h4>HIGHER MOTHER TONGUE/ CLB/ THIRD LANGUAGE</h4>
-<p><strong>1 . Can my child do&nbsp;HCL/ HML?</strong>Yes. If your child
-is given an option letter (form) by MOE during the collection of the PSLE
-result slips stating that they are eligible to read&nbsp;HCL/HML. If he/she
-is not given this option form, it means that the child is not eligible.</p>
-<p><strong>2 . If the child is not given the option form and is still interested to read HCL, they can apply in accordance to Hua Yi MTL policy for HCL:</strong>In
-Hua Yi, there will be 2 chances given for application to do&nbsp;HCL as
-long as the following criteria are met:</p>
+<p><strong>1. Can my child do&nbsp;HCL/ HML?</strong>
+</p>
+<p>Yes. If your child is given an option letter (form) by MOE during the
+collection of the PSLE result slips stating that they are eligible to read&nbsp;HCL/HML.
+If he/she is not given this option form, it means that the child is not
+eligible.</p>
+<p><strong>2. If the child is not given the option form and is still interested to read HCL, they can apply in accordance to Hua Yi MTL policy for HCL</strong>
+</p>
+<p>In Hua Yi, there will be 2 chances given for application to do&nbsp;HCL
+as long as the following criteria are met:</p>
 <p>a. Excellent results for CL for the academic year (75% and above) b. Results
 of the core subjects will be taken into consideration</p>
 <p>c. Coupled with strong recommendation by subject teachers.</p>
-<p><strong>3 . Does the school offer HML?</strong>Hua Yi does not offer HML.&nbsp;For
-students taking HML, they attend the lessons at external venues.&nbsp;</p>
-<p><strong>4 . Does the school offer TL or HTL?</strong>Hua Yi does not offer
-TL.&nbsp;For Students taking TL or HTL, they attend the lessons at external
-venues.&nbsp;</p>
-<p><strong>5 . Does the school offer CLB?</strong>Hua Yi does not offer CLB.
-Students taking CLB have their lessons at external venues.</p>
-<p><strong>6 . Can my child read a third language?</strong>As for 3rd&nbsp;language,
-MOE will inform eligible students concerned directly. Students will be
-given an option form to indicate their interest in taking up a third language.</p>
+<p><strong>3 . Does the school offer HML?</strong>
+</p>
+<p>Hua Yi does not offer HML.&nbsp;For students taking HML, they attend the
+lessons at external venues.&nbsp;</p>
+<p><strong>4 . Does the school offer TL or HTL?</strong>
+</p>
+<p>Hua Yi does not offer TL.&nbsp;For Students taking TL or HTL, they attend
+the lessons at external venues.&nbsp;</p>
+<p><strong>5 . Does the school offer CLB?</strong>
+</p>
+<p>Hua Yi does not offer CLB. Students taking CLB have their lessons at external
+venues.</p>
+<p><strong>6 . Can my child read a third language?</strong>
+</p>
+<p>As for 3rd&nbsp;language, MOE will inform eligible students concerned
+directly. Students will be given an option form to indicate their interest
+in taking up a third language.</p>
 <h4>ASSESSMENTS</h4>
-<p><strong>1 . How are students assessed in your school?</strong>For Sec
-1s: Formative assessment, no Mid-Year Exam and a summative review at the
-end of the year.</p>
-<p><strong>2 . Is there any support for students who cannot cope/ need more help with their studies?</strong>There
-are structured programmes and remedial lessons to support these students.</p>
+<p><strong>1 . How are students assessed in your school?</strong>
+</p>
+<p>For Sec 1s: Formative assessment, no Mid-Year Exam and a summative review
+at the end of the year.</p>
+<p><strong>2 . Is there any support for students who cannot cope/ need more help with their studies?</strong>
+</p>
+<p>There are structured programmes and remedial lessons to support these
+students.</p>
 <h4>CCA</h4>
 <p><strong>1 . What are the CCAs available at Hua Yi? What are the CCAs for DSA? What CCAs does Hua Yi excel in?</strong>
 </p>
@@ -947,6 +968,7 @@ Club</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2 . My child is interested in XYZ CCA, can the school offer that? Can my child take up external CCA activities instead of the CCAs offered in school?</strong>Please
-email <a href="mailto:hyss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hyss@moe.edu.sg</a> and
+<p><strong>2 . My child is interested in XYZ CCA, can the school offer that? Can my child take up external CCA activities instead of the CCAs offered in school?</strong>
+</p>
+<p>Please email <a href="mailto:hyss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hyss@moe.edu.sg</a> and
 your queries will be directed to the HOD (PE &amp; CCA).</p>
