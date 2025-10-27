@@ -14,18 +14,14 @@ cultivate students’ confidence and professionalism in performances and
 competitions, while fostering team spirit, good discipline and community
 spirit amongst students.</p>
 <h4>Schedule</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teacher in charge</p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -37,16 +33,6 @@ spirit amongst students.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Mr Bibek Ray (I/C)</p>
-</li>
-<li>
-<p>Ms Wendy Ng</p>
-</li>
-</ul>
-</td>
 <td rowspan="1" colspan="1">
 <p>Monday and Thursday</p>
 </td>
@@ -60,6 +46,15 @@ spirit amongst students.</p>
 </tr>
 </tbody>
 </table>
+<h4>Teacher in charge</h4>
+<ul>
+<li>
+<p>Mr Bibek Ray (I/C)</p>
+</li>
+<li>
+<p>Ms Wendy Ng</p>
+</li>
+</ul>
 <h4>Achievements</h4>
 <h4>2025</h4>
 <ul>
