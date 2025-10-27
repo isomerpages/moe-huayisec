@@ -25,18 +25,14 @@ that build responsibility, sportsmanship, and teamwork.</p>
 </tbody>
 </table>
 <h4>Schedule</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teacher in charge</p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -49,19 +45,6 @@ that build responsibility, sportsmanship, and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Mr Seah Jim Chew (I/C)</p>
-</li>
-<li>
-<p>Mr Edwin Khoo</p>
-</li>
-<li>
-<p>Ms O Ming Fen</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
 <p>Monday and Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,6 +56,18 @@ that build responsibility, sportsmanship, and teamwork.</p>
 </tr>
 </tbody>
 </table>
+<h4>Teacher in charge</h4>
+<ul>
+<li>
+<p>Mr Seah Jim Chew (I/C)</p>
+</li>
+<li>
+<p>Mr Edwin Khoo</p>
+</li>
+<li>
+<p>Ms O Ming Fen</p>
+</li>
+</ul>
 <h4>Achievements</h4>
 <table style="minWidth: 25px">
 <colgroup>
