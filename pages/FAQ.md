@@ -936,26 +936,39 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Physical sports</strong>1. Badminton (Boys/Girls) (DSA)2. Basketball
-(Boys) (DSA)3. Volleyball (Girls) (DSA)4. Track &amp; Field (Boys/Girls)
-**(DSA)**5. Football (Boys)6. Netball (Girls)</p>
+<p><strong>Physical sports</strong>
+</p>
+<p>1. Badminton (Boys/Girls) (DSA)</p>
+<p>2. Basketball (Boys) (DSA)</p>
+<p>3. Volleyball (Girls) (DSA)</p>
+<p>4. Track &amp; Field (Boys/Girls) (DSA)</p>
+<p>5. Football (Boys) (DSA)</p>
+<p>6. Netball (Girls) (DSA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Uniformed groups</strong>1. NCC (Boys)2. NPCC (Boys/Girls)3. Red
-Cross Youth</p>
+<p><strong>Uniformed groups</strong>
+</p>
+<p>1. NCC (Boys) (DSA)</p>
+<p>2. NPCC (Boys/Girls) (DSA)</p>
+<p>3. Red Cross Youth (Boys/Girls) (DSA)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Visual &amp; Performing Arts</strong>1. Show Choir (DSA)2. Concert
-Band (DSA)3. Cultural Dance (DSA)4. Modern Dance (DSA)5. Guzheng Ensemble
-(DSA)6. Chinese Language Drama and Debate Society (CLDDS) (DSA)7. English
-Literary Drama and Debate Society (ELDDS) (DSA)</p>
+<p><strong>Visual &amp; Performing Arts</strong>
+</p>
+<p>1. Show Choir (DSA)</p>
+<p>2. Concert Band (DSA)</p>
+<p>3. Cultural Dance (DSA)</p>
+<p>4. Modern Dance (DSA)</p>
+<p>5. Guzheng Ensemble (DSA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Clubs &amp; Societies</strong>1. Art &amp; Craft Club (DSA)2.
-Info-comm Club3. Nutrition and Food Science Club4. Singapore Youth Flying
-Club</p>
+<p><strong>Clubs &amp; Societies</strong>
+</p>
+<p>1. Info-comm Club</p>
+<p>2 Nutrition and Food Science Club</p>
+<p>3. Singapore Youth Flying Club</p>
 </td>
 </tr>
 <tr>
@@ -968,7 +981,7 @@ Club</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2 . My child is interested in XYZ CCA, can the school offer that? Can my child take up external CCA activities instead of the CCAs offered in school?</strong>
+<p><strong>2. My child is interested in XYZ CCA, can the school offer that? Can my child take up external CCA activities instead of the CCAs offered in school?</strong>
 </p>
 <p>Please email <a href="mailto:hyss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hyss@moe.edu.sg</a> and
 your queries will be directed to the HOD (PE &amp; CCA).</p>
