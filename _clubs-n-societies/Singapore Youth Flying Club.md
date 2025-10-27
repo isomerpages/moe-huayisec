@@ -53,7 +53,11 @@ are all bonded by our strong friendship and commitment to the club.</p>
 </tbody>
 </table>
 <h4>Teacher in charge</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr Chong Kai Qin</p>
+</li>
+</ul>
 <h4>Achievements</h4>
 <h4>2025</h4>
 <ul>
