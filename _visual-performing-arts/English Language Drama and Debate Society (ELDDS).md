@@ -15,18 +15,14 @@ them develop critical thinking, argumentation, and public speaking skills.
 We aspire to groom confident, articulate communicators who can express
 themselves with clarity and creativity.</p>
 <h4>Schedule</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teacher in charge</p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -38,16 +34,6 @@ themselves with clarity and creativity.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Ms Kalpana (I/C)</p>
-</li>
-<li>
-<p>Ms Norhayati</p>
-</li>
-</ul>
-</td>
 <td rowspan="1" colspan="1">
 <p>Monday</p>
 </td>
@@ -61,6 +47,15 @@ themselves with clarity and creativity.</p>
 </tr>
 </tbody>
 </table>
+<h4>Teacher in charge</h4>
+<ul>
+<li>
+<p>Ms Kalpana (I/C)</p>
+</li>
+<li>
+<p>Ms Norhayati</p>
+</li>
+</ul>
 <h4>Achievements</h4>
 <h4>2025</h4>
 <ul>
