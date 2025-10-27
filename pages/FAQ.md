@@ -807,12 +807,12 @@ Technologies.&nbsp;</p>
 </li>
 </ul>
 <p>For more information on ALP:</p>
-<p><strong>LLP:</strong> Hua Yi Secondary’s Learning for Life Programme (LLP)
-focuses on Community Youth Leadership (CYL). The LLP aims to help students
-develop life skills and values. Through this, students will discover their
-strengths, interests and talents.&nbsp;CYL focuses on providing students
-with opportunities to lead in serving the community and developing them
-as leaders of empathy.</p>
+<p><strong>LLP:</strong> Hua Yi Secondary’s Learning for Life Programme (
+<a href="/the-huayi-experience/llp/" rel="noopener nofollow" target="_blank">LLP</a>) focuses on Community Youth Leadership (CYL). The LLP aims to
+help students develop life skills and values. Through this, students will
+discover their strengths, interests and talents.&nbsp;CYL focuses on providing
+students with opportunities to lead in serving the community and developing
+them as leaders of empathy.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tier 1: The students will learn about the Leadership Challenge Module
