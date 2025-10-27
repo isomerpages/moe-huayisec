@@ -13,7 +13,7 @@ through an engaging training programme. Through the trainings provided,
 members develop creative and entrepreneurial dare by applying infocomm
 skills such as technical knowledge of sound systems, coding and programming
 skills in school and the community.</p>
-<p>Schedule</p>
+<h4>Schedule</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -46,7 +46,7 @@ skills in school and the community.</p>
 </tr>
 </tbody>
 </table>
-<p>Teacher in charge</p>
+<h4>Teacher in charge</h4>
 <ul>
 <li>
 <p>Mr Leow Guan Sin (I/C)</p>
