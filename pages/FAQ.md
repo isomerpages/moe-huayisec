@@ -789,8 +789,8 @@ Hua Yi will be shared during the Secondary 1 Registration event in December.</p>
 </p>
 <p>Some of the highlights of Hua Yi in terms of learning programmes and opportunities
 given to students can be found in the brochure.</p>
-<p><strong>ALP:</strong> Hua Yi’s Applied Learning Programme (ALP) aims to
-prepare our students for the challenges in this digital age.</p>
+<p><strong>ALP:</strong> Hua Yi’s Applied Learning Programme (<a href="/the-huayi-experience/alp/" rel="noopener nofollow" target="_blank">ALP</a>) aims
+to prepare our students for the challenges in this digital age.</p>
 <p>The programme will nurture the Joy of Learning in students. Students will
 work with their peers to generate solutions to real life problems and in
 the process, their creativity, communication skills and confidence will
