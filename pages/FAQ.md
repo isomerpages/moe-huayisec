@@ -891,11 +891,11 @@ as long as the following criteria are met:</p>
 <p>a. Excellent results for CL for the academic year (75% and above) b. Results
 of the core subjects will be taken into consideration</p>
 <p>c. Coupled with strong recommendation by subject teachers.</p>
-<p><strong>3 . Does the school offer HML?</strong>
+<p><strong>3. Does the school offer HML?</strong>
 </p>
 <p>Hua Yi does not offer HML.&nbsp;For students taking HML, they attend the
 lessons at external venues.&nbsp;</p>
-<p><strong>4 . Does the school offer TL or HTL?</strong>
+<p><strong>4. Does the school offer TL or HTL?</strong>
 </p>
 <p>Hua Yi does not offer TL.&nbsp;For Students taking TL or HTL, they attend
 the lessons at external venues.&nbsp;</p>
@@ -903,17 +903,17 @@ the lessons at external venues.&nbsp;</p>
 </p>
 <p>Hua Yi does not offer CLB. Students taking CLB have their lessons at external
 venues.</p>
-<p><strong>6 . Can my child read a third language?</strong>
+<p><strong>6. Can my child read a third language?</strong>
 </p>
 <p>As for 3rd&nbsp;language, MOE will inform eligible students concerned
 directly. Students will be given an option form to indicate their interest
 in taking up a third language.</p>
 <h4>ASSESSMENTS</h4>
-<p><strong>1 . How are students assessed in your school?</strong>
+<p><strong>1. How are students assessed in your school?</strong>
 </p>
 <p>For Sec 1s: Formative assessment, no Mid-Year Exam and a summative review
 at the end of the year.</p>
-<p><strong>2 . Is there any support for students who cannot cope/ need more help with their studies?</strong>
+<p><strong>2. Is there any support for students who cannot cope/ need more help with their studies?</strong>
 </p>
 <p>There are structured programmes and remedial lessons to support these
 students.</p>
