@@ -37,7 +37,7 @@ in a competitive setting.</p>
 <p>Monday and Wednesday (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:15 – 6:15 pm</p>
+<p>3:15 pm – 6:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Centrestage (Hall)</p>
@@ -45,7 +45,7 @@ in a competitive setting.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday and Thursday</p>
+<p>Tuesday and Thursday (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.15 pm – 6.15 pm</p>
@@ -79,7 +79,6 @@ in a competitive setting.</p>
 </li>
 </ul>
 <h4>Achievements</h4>
-<p></p>
 <h4>2025</h4>
 <p><strong>Boys:</strong>
 </p>
