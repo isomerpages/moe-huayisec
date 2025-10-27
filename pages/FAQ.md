@@ -17,10 +17,10 @@ variant: tiptap
 entered the school with a cut-off aggregate score of:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>10 - 15 (G3)</p>
+<p>10 - 14 (G3)</p>
 </li>
 <li>
-<p>21 - 23 (G2)</p>
+<p>21 - 22 (G2)</p>
 </li>
 <li>
 <p>25 - 26 (G1)</p>
