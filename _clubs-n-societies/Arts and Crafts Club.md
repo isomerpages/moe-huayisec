@@ -14,6 +14,38 @@ of students through art activities, and provides opportunities to excel
 in art practice through participation and exposure in National Art competitions.</p>
 <h4>Schedule</h4>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Room 1
+<br>(Blk F, Level 2, F2-04)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Teacher in charge</h4>
 <ul>
 <li>
@@ -23,9 +55,6 @@ in art practice through participation and exposure in National Art competitions.
 <p>Ms Lee Yu Xin</p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
 <h4>Achievements</h4>
 <h4>2024</h4>
 <ul data-tight="true" class="tight">
