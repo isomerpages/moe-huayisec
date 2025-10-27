@@ -691,12 +691,13 @@ History, Literature in English)</p>
 <br>
 <br><em>G1 Humanities would comprise Social Studies and choice of one Humanities Exposure Module in Geography, History or Literature in English, and G2/3 Humanities would comprise Social Studies and Geography, History or Literature in English</em>
 </p>
-<p><strong>2 . What is Hua Yi’s strategy for Blended Learning?</strong>Blended
-Learning in Hua Yi takes the form of ILD (Independent Learning Day) every
-even Friday. There are 2 segments to each session:</p>
+<p><strong>2 . What is Hua Yi’s strategy for Blended Learning?</strong>
+</p>
+<p>Blended Learning in Hua Yi takes the form of ILD (Independent Learning
+Day) every even Friday. There are 2 segments to each session:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Curriculum coverage within and outside school, which focuses on JOY -
+<p>Curriculum coverage within and outside school, which focuses on <strong>JOY</strong> -
 Joy in learning, Ownership of Learning and Applying learning.</p>
 </li>
 <li>
@@ -707,17 +708,19 @@ can be pursued in school, at home, or other locations, with teachers acting
 as mentors and co learners!</p>
 </li>
 </ol>
-<p><strong>3 . How will the Personal Device be implemented in Hua Yi?</strong>Every
-Hua Yian will be using the Apple iPad as their personal learning device.
-Every iPad will come bundled with the Apple pencil and keyboard to maximise
-the affordances of the iPad as a learning tool.</p>
+<p><strong>3 . How will the Personal Device be implemented in Hua Yi?</strong>
+</p>
+<p>Every Hua Yian will be using the Apple iPad as their personal learning
+device. Every iPad will come bundled with the Apple pencil and keyboard
+to maximise the affordances of the iPad as a learning tool.</p>
 <p>Not only is the iPad a portable device that offers students convenient
 learning on-the-move, it also allows for a seamless learning experience
 alongside existing learning technologies such as the Student Learning Space
 (SLS) and Team Model Smarter Classroom System.&nbsp; For more information
 on PDLP:</p>
-<p>**4 . How will Full Subject-Based Banding (FSBB) look like in Hua Yi?**In
-2021, we have integrated the Normal Academic and Normal Technical stream.
+<p><strong>4 . How will Full Subject-Based Banding (FSBB) look like in Hua Yi?</strong>
+</p>
+<p>In 2021, we have integrated the Normal Academic and Normal Technical stream.
 The integration of both streams is Hua Yi’s first step towards Full Subject-Based
 Banding (FSBB) in 2022 as we celebrate the unique strengths and diversity
 of our students.</p>
@@ -776,14 +779,16 @@ subjects at G1, G2 or G3 level.</p>
 <p>Literature in English</p>
 </li>
 </ul>
-<p>**5 . Does the school offer SBB?**Hua Yi currently offers Subject-Based
-Banding (SBB) for English, Mother Tongues, Mathematics, Science, Humanities
-subjects (Geography and History) and Literature in English. Further information
-and details about SBB in Hua Yi will be shared during the Secondary 1 Registration
-event in December.</p>
-<p>**6 . What is ALP and/ or LLP about?**Some of the highlights of Hua Yi
-in terms of learning programmes and opportunities given to students can
-be found in the brochure.</p>
+<p><strong>5. Does the school offer SBB?</strong>
+</p>
+<p>Hua Yi currently offers Subject-Based Banding (SBB) for English, Mother
+Tongues, Mathematics, Science, Humanities subjects (Geography and History)
+and Literature in English. Further information and details about SBB in
+Hua Yi will be shared during the Secondary 1 Registration event in December.</p>
+<p><strong>6. What is ALP and/ or LLP about?</strong>
+</p>
+<p>Some of the highlights of Hua Yi in terms of learning programmes and opportunities
+given to students can be found in the brochure.</p>
 <p><strong>ALP:</strong> Hua Yi’s Applied Learning Programme (ALP) aims to
 prepare our students for the challenges in this digital age.</p>
 <p>The programme will nurture the Joy of Learning in students. Students will
@@ -829,9 +834,10 @@ to apply their knowledge and skills.</p>
 </li>
 </ul>
 <p>For more information on LLP:</p>
-<p>**7 . What after-school engagement programmes are available in your school?**Hua
-Yi offers a wide range of after-school engagement programmes to help students
-develop critical soft-skills such as:</p>
+<p><strong>7. What after-school engagement programmes are available in your school?</strong>
+</p>
+<p>Hua Yi offers a wide range of after-school engagement programmes to help
+students develop critical soft-skills such as:</p>
 <p><strong>a) Mentoring Program by the GRIT Academy (TGA)</strong>A 6 to
 9 month mentoring programme by the youth branch of the Lakeside Family
 Services. Students undergo a journey of self-discovery through experential
@@ -849,19 +855,20 @@ students to engage in after school. The learning mentor establishes a strong
 level of rapport with students and helps inculcate in them stronger self-management
 skills. There are also constant innovations for Hangout to make it ever
 more attractive for students to drop in.</p>
-<p><strong>8 . House System</strong>In 2022, Hua Yi made a major change to
-the way the school was structured. The school adopted a house system, with
-the school and student body organised by their house (Altius, Citius, Diutius,
-Fortius, Latius) instead of level. Taking reference from the Olympic motto,
-each house espouses an Olympic ideal to inspire every student and staff
-to give their all in the pursuit of excellence. Headed by a House Master,
-guided by a House Discipline Master, managed by two House Managers, and
-led by two House Leaders from each class, every house is a unique ecosystem
-by itself! This organisational move helped to strengthen the camaraderie
-of students from different classes across levels. It also created opportunities
-for a stronger house spirit to shine through in each house, as many school
-activities and programmes leveraged the house system to promote a spirit
-of friendly competition.</p>
+<p><strong>8 . House System</strong>
+</p>
+<p>In 2022, Hua Yi made a major change to the way the school was structured.
+The school adopted a house system, with the school and student body organised
+by their house (Altius, Citius, Diutius, Fortius, Latius) instead of level.
+Taking reference from the Olympic motto, each house espouses an Olympic
+ideal to inspire every student and staff to give their all in the pursuit
+of excellence. Headed by a House Master, guided by a House Discipline Master,
+managed by two House Managers, and led by two House Leaders from each class,
+every house is a unique ecosystem by itself! This organisational move helped
+to strengthen the camaraderie of students from different classes across
+levels. It also created opportunities for a stronger house spirit to shine
+through in each house, as many school activities and programmes leveraged
+the house system to promote a spirit of friendly competition.</p>
 <h4>HIGHER MOTHER TONGUE/ CLB/ THIRD LANGUAGE</h4>
 <p><strong>1 . Can my child do&nbsp;HCL/ HML?</strong>Yes. If your child
 is given an option letter (form) by MOE during the collection of the PSLE
