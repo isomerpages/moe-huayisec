@@ -20,18 +20,14 @@ perseverance, and will learn that there is never a detail too small. We
 are all bonded by our strong friendship and commitment to the club.</p>
 <p>Access the main SYFC website&nbsp;<a href="https://www.syfc.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>Schedule</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teacher in charge</p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -43,9 +39,6 @@ are all bonded by our strong friendship and commitment to the club.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chong Kai Qin</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
 </td>
@@ -59,6 +52,8 @@ are all bonded by our strong friendship and commitment to the club.</p>
 </tr>
 </tbody>
 </table>
+<h4>Teacher in charge</h4>
+<p>Mr Chong Kai Qin</p>
 <h4>Achievements</h4>
 <h4>2025</h4>
 <ul>
