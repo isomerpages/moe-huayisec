@@ -13,7 +13,38 @@ for them to hone their musical skills. Providing learning opportunities
 for interested students without music background, Guzheng Ensemble strives
 to develop and enhance leadership skills of potential student leaders.</p>
 <h4>Schedule</h4>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday and Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:15 – 6:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AVA Room
+<br>(Blk A, Level 3, A3-06)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Teacher in charge</h4>
 <ul>
 <li>
