@@ -55,7 +55,13 @@ are all bonded by our strong friendship and commitment to the club.</p>
 <h4>Teacher in charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Chong Kai Qin</p>
+<p>Mr Chong Kai Xin (I/C)</p>
+</li>
+<li>
+<p>Ms Lee Huiling</p>
+</li>
+<li>
+<p>Mr Loh Kuin Phei</p>
 </li>
 </ul>
 <h4>Achievements</h4>
