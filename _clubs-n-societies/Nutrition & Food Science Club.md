@@ -14,18 +14,14 @@ by showcasing our culinary skills and creativity; and work together as
 a team, demonstrating leadership, cooperation and responsibility in every
 activity.</p>
 <h4>Schedule</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teacher in charge</p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -37,9 +33,6 @@ activity.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Anggreini Hamid</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Monday
 <br>
@@ -53,6 +46,11 @@ activity.</p>
 <td rowspan="1" colspan="1">
 <p>Food Lab 1 &amp; 2
 <br>(Blk F, Level 1, F1-03)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Teacher in charge:</strong> Mdm Anggreini Hamid</p>
 </td>
 </tr>
 </tbody>
