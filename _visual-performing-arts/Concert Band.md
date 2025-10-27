@@ -42,17 +42,7 @@ honing their skills with talented musicians from other local bands.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Mr Beh Yong Hua (I/C)</p>
-</li>
-<li>
-<p>Ms Jennifer Yeo</p>
-</li>
-<li>
-<p>Mdm Sherindar Kaur</p>
-</li>
-</ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday and Thursday</p>
@@ -67,6 +57,18 @@ honing their skills with talented musicians from other local bands.</p>
 </tr>
 </tbody>
 </table>
+<h4>Teacher in charge</h4>
+<ul>
+<li>
+<p>Mr Beh Yong Hua (I/C)</p>
+</li>
+<li>
+<p>Ms Jennifer Yeo</p>
+</li>
+<li>
+<p>Mdm Sherindar Kaur</p>
+</li>
+</ul>
 <h4>Achievements</h4>
 <h4>2025</h4>
 <ul>
