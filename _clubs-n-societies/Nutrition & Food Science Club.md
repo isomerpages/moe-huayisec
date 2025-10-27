@@ -48,14 +48,10 @@ activity.</p>
 <br>(Blk F, Level 1, F1-03)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Teacher in charge:</strong> Mdm Anggreini Hamid</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
+<h4>Teacher in charge</h4>
+<p>Mdm Anggreini Hamid</p>
 <h4>Achievements</h4>
 <h5>2024</h5>
 <ul data-tight="true" class="tight">
