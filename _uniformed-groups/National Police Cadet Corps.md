@@ -15,18 +15,14 @@ and build a well-rounded character. The unit aims to instil qualities of
 self-reliance, resilience, sense of responsibility and leadership, inculcating
 loyalty to the Group, Corps and State.</p>
 <h4>Schedule</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teacher in charge</p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Training Days</p>
 </th>
@@ -38,19 +34,6 @@ loyalty to the Group, Corps and State.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Mr Ramachandran (I/C)</p>
-</li>
-<li>
-<p>Mr Daniel Soh</p>
-</li>
-<li>
-<p>Ms Lim Ai Hong</p>
-</li>
-</ul>
-</td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
 </td>
@@ -64,6 +47,18 @@ loyalty to the Group, Corps and State.</p>
 </tr>
 </tbody>
 </table>
+<h4>Teacher in charge</h4>
+<ul>
+<li>
+<p>Mr Ramachandran (I/C)</p>
+</li>
+<li>
+<p>Mr Daniel Soh</p>
+</li>
+<li>
+<p>Ms Lim Ai Hong</p>
+</li>
+</ul>
 <h4>Achievements</h4>
 <table style="minWidth: 25px">
 <colgroup>
