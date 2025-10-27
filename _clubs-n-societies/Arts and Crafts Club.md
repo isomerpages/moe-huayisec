@@ -12,6 +12,20 @@ variant: tiptap
 fun and meaningful art activities. The club promotes experiential learning
 of students through art activities, and provides opportunities to excel
 in art practice through participation and exposure in National Art competitions.</p>
+<h4>Schedule</h4>
+<p></p>
+<h4>Teacher in charge</h4>
+<ul>
+<li>
+<p>Mr Joo Chan Hock (I/C)</p>
+</li>
+<li>
+<p>Ms Lee Yu Xin</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
 <h4>Achievements</h4>
 <h4>2024</h4>
 <ul data-tight="true" class="tight">
