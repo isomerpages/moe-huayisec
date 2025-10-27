@@ -51,7 +51,11 @@ activity.</p>
 </tbody>
 </table>
 <h4>Teacher in charge</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mdm Anggreini Hamid</p>
+</li>
+</ul>
 <h4>Achievements</h4>
 <h5>2024</h5>
 <ul data-tight="true" class="tight">
