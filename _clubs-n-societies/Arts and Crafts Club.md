@@ -56,6 +56,44 @@ in art practice through participation and exposure in National Art competitions.
 </li>
 </ul>
 <h4>Achievements</h4>
+<h4>2025</h4>
+<ul>
+<li>
+<p>Yellowren Inter-School Canvas Art - Secondary School - Silver Award</p>
+</li>
+<li>
+<p>17th SWS National Junior Watercolour Competition 2025 - Category On the
+Spot Painting Consulation Award:</p>
+</li>
+<li>
+<p>2025 “3 Acts of Goodness” Painting Competition (Upper Secondary Category)
+– Second Prize Winner: May Myanmar</p>
+</li>
+<li>
+<p>Lantern Painting Competition 2024 (D Group) - First Prize Winner: Regina
+Liu Zinuo</p>
+</li>
+<li>
+<p>2024 “3 Acts of Goodness” Painting Competition (Lower Secondary Category)
+– First Prize Winner: Regina Liu Zinuo</p>
+</li>
+<li>
+<p>16th&nbsp;SWS National Junior On-the-Spot Watercolour Painting Competition
+@ Clarke Quay</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Certificate of Distinction: Avoe Kum Tian Wen</p>
+</li>
+<li>
+<p>Certificate of Merit: Sun Boyuan</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4>2024</h4>
 <ul data-tight="true" class="tight">
 <li>
