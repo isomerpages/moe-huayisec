@@ -17,7 +17,6 @@ variant: tiptap
 <iframe height="370" width="650" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ze-M2cP2yp4?si=deB5l7Qs9Hre2nL6"></iframe>
 </div>
 <h4>Why Hua Yi?</h4>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3UpIWEum9bo?si=R8ltpgL5ML_wlHqx"></iframe>
 </div>
