@@ -28,6 +28,7 @@ sections:
       image: /images/2025/Open_House_2025_Banner__150_x_50_cm_.jpg
       alt: 22 November 2025
       url: /open-house-hy/
+      button: Enter Here
   - infopic:
       title: LATEST EVENTS
       button: More upcoming events
