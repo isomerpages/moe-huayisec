@@ -2,8 +2,8 @@ collections:
   huayi-connection:
     output: true
     order:
-      - FAQ.md
       - For Parents.md
       - For Students.md
       - For Staff.md
       - Contact Us.md
+      - FAQ.md
