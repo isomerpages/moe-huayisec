@@ -7,17 +7,18 @@ variant: tiptap
 <h2>Frequently Asked Questions</h2>
 <h4>General Information</h4>
 <p><strong>1 . What time does school start?</strong>
-<br>School starts at 7.30a.m.</p>
+<br>School starts at 7.30 am.</p>
 <p><strong>2 . What time does school end?</strong>
-<br>School typically ends by 3:00p.m. (Monday, Tuesday, Wednesday, and Thursday)
-<br>School ends at 12:20p.m. or 1:40p.m. (HMT students) on Friday.
-<br>CCAs are held twice every week from 3:15p.m. to 6:15p.m.</p>
+<br>School typically ends by 3:00 pm. (Monday, Tuesday, Wednesday, and Thursday)
+<br>School ends at 12:20 pm on Friday. For HMT students, school ends at 1:40
+pm.
+<br>CCAs are held twice every week from 3:15 pm to 6:15pm.</p>
 <p><strong>3 . What are the aggregate scores required to enter Hua Yi?</strong>
-<br>The aggregate score may change from year to year. For 2024 Sec 1s, students
+<br>The aggregate score may change from year to year. For 2025 Sec 1s, students
 entered the school with a cut-off aggregate score of:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>10 - 14 (G3)</p>
+<p>6 - 14 (G3)</p>
 </li>
 <li>
 <p>21 - 22 (G2)</p>
@@ -27,18 +28,24 @@ entered the school with a cut-off aggregate score of:&nbsp;</p>
 </li>
 </ul>
 <p><strong>4 . How are your current students’ progression to post-secondary institutions?</strong>
-<br>Our students are taking pathways that best suit their needs and passion
-at the JCs, polytechnics, and ITE. Majority of our Express students are
-eligible for JC and almost all are eligible for polytechnic. Normal Academic
-students are eligible for ITE/EAE/PFP. More information on our students
-Academic Achievement can be found here:
+<br>Our students are pursuing pathways that align with their strengths, interests,
+and aspirations across the junior colleges, polytechnics, and the Institute
+of Technical Education (ITE). The majority of students who offered mainly
+G3 subjects are eligible for JC admission, with almost all qualifying for
+polytechnic courses. Students who offered mainly G1 or G2 subjects are
+eligible for progression through the ITE, Direct-Entry-Scheme to Polytechnic
+Programme (DPP), Early Admissions Exercise (EAE), or Polytechnic Foundation
+Programme (PFP) respectively.</p>
+<p>More information on our students Academic Achievement can be found here:
 <br><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/aa/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-huayi-experience/aa/</a>
 </p>
 <p><strong>5 . How is the culture of the school?</strong>
-<br>Since 1985, Hua Yi has transitioned into a co-educational school with
-English as its primary medium of instruction. Calligraphy lessons are conducted
-as part of the Lower Secondary Chinese curriculum to instil in students
-an appreciation of Chinese culture as well as a link to Hua Yi’s heritage.</p>
+<br>Hua Yi’s culture is one that honours our heritage while embracing the
+future. Since becoming a co-educational school in 1985, we have grown into
+a caring and inclusive community where English serves as the main language
+of learning. Through experiences such as calligraphy lessons and cultural
+programmes, students gain a deeper appreciation of their roots while developing
+global perspectives and strong values that prepare them for the world ahead.</p>
 <p><strong>6 . How is the discipline of the school?</strong>
 <br>The school takes a very strong stand on appropriate behaviour of Hua Yians.
 More information on the school rules and regulations can be found here:
@@ -51,10 +58,11 @@ to join the Hua Yi family through the Direct School Admission-Secondary
 (DSA-Sec) Exercise. For more information:
 <br><a href="https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/Direct-School-Admission/ta/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/Direct-School-Admission/ta/</a>
 </p>
-<p><strong>8 . Are the staff and students friendly?</strong>
-<br>All staff and students of Hua Yi believe in the value of “Togetherness”.
-We learn and grow together in harmony regardless of the differences in
-our multicultural society.</p>
+<p><strong>8 . What is it like to be part of the Hua Yi family? </strong>
+<br>Guided by our core value of Togetherness, staff and students care for
+one another and work hand in hand to create a welcoming and inclusive environment.
+We believe that when we learn and grow in harmony, every Hua Yian feels
+seen, supported, and part of something bigger.</p>
 <p><strong>9 . How can my child get to the school?</strong>
 </p>
 <p>Our Address
@@ -322,7 +330,7 @@ History, Literature in English)</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Upper Secondary Total Subject Offerings (as at Dec 2023)</u></strong>
+<p><strong><u>Upper Secondary Total Subject Offerings (as at Dec 2024)</u></strong>
 <br>
 </p>
 <table style="minWidth: 100px">
@@ -425,7 +433,7 @@ History, Literature in English)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>✓</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -439,7 +447,7 @@ History, Literature in English)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>✓</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -453,7 +461,7 @@ History, Literature in English)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>✓</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
