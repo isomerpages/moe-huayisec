@@ -413,7 +413,7 @@ History, Literature in English)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Humanities</p>
+<p>Humanities *</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✓</p>
@@ -427,7 +427,7 @@ History, Literature in English)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Geography</p>
+<p>Full Geography</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -441,7 +441,7 @@ History, Literature in English)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>History</p>
+<p>Full History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -455,7 +455,7 @@ History, Literature in English)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Literature in English</p>
+<p>Full Literature in English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -640,7 +640,7 @@ History, Literature in English)</p>
 <p>Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>✓</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -695,18 +695,21 @@ History, Literature in English)</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br><em>G1 Humanities would comprise Social Studies and choice of one Humanities Exposure Module in Geography, History or Literature in English, and G2/3 Humanities would comprise Social Studies and Geography, History or Literature in English</em>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>G1 Humanities would comprise Social Studies and a choice of one Humanities Exposure Module in Geography or History or Literature in English, and G2/3 Humanities would comprise Social Studies and a choice of one Elective in Geography, History or Literature in English</em>
 </p>
-<p><strong>2 . What is Hua Yi’s strategy for Blended Learning?</strong>
+</li>
+</ul>
+<p><strong>2. What is Hua Yi’s strategy for Blended Learning?</strong>
 </p>
 <p>Blended Learning in Hua Yi takes the form of ILD (Independent Learning
 Day) every even Friday. There are 2 segments to each session:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Curriculum coverage within and outside school, which focuses on <strong>JOY</strong> -
-Joy in learning, Ownership of Learning and Applying learning.</p>
+<p>Curriculum coverage within and outside school, which focuses on <strong>JOY</strong> - <strong>J</strong>oy
+in learning, <strong>O</strong>wnership of Learning and Appl<strong>y</strong>ing
+learning.</p>
 </li>
 <li>
 <p>Student initiated learning called Project Sandbox where students will
@@ -724,9 +727,9 @@ to maximise the affordances of the iPad as a learning tool.</p>
 <p>Not only is the iPad a portable device that offers students convenient
 learning on-the-move, it also allows for a seamless learning experience
 alongside existing learning technologies such as the Student Learning Space
-(SLS) and Team Model Smarter Classroom System.&nbsp; For more information
-on PDLP:</p>
-<p><strong>4 . How will Full Subject-Based Banding (FSBB) look like in Hua Yi?</strong>
+(SLS) and Goodnotes Classroom. For more information on PDLP: <a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/pdlp/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-huayi-experience/pdlp/</a>
+</p>
+<p><strong>4. How will Full Subject-Based Banding (FSBB) look like in Hua Yi?</strong>
 </p>
 <p>In 2021, we have integrated the Normal Academic and Normal Technical stream.
 The integration of both streams is Hua Yi’s first step towards Full Subject-Based
@@ -814,7 +817,8 @@ Education (CCE).</p>
 Technologies.&nbsp;</p>
 </li>
 </ul>
-<p>For more information on ALP:</p>
+<p>For more information on ALP: <a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/alp/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-huayi-experience/alp/</a>
+</p>
 <p><strong>LLP:</strong> Hua Yi Secondary’s Learning for Life Programme (
 <a href="/the-huayi-experience/llp/" rel="noopener nofollow" target="_blank">LLP</a>) focuses on Community Youth Leadership (CYL). The LLP aims to
 help students develop life skills and values. Through this, students will
@@ -841,7 +845,8 @@ beyond the school. Student leaders will also be provided with opportunities
 to apply their knowledge and skills.</p>
 </li>
 </ul>
-<p>For more information on LLP:</p>
+<p>For more information on LLP: <a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/llp/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-huayi-experience/llp/</a>
+</p>
 <p><strong>7. What after-school engagement programmes are available in your school?</strong>
 </p>
 <p>Hua Yi offers a wide range of after-school engagement programmes to help
@@ -948,10 +953,11 @@ students.</p>
 </p>
 <p>1. Badminton (Boys/Girls) (DSA)</p>
 <p>2. Basketball (Boys) (DSA)</p>
-<p>3. Volleyball (Girls) (DSA)</p>
+<p>3. Netball (Girls) (DSA)</p>
 <p>4. Track &amp; Field (Boys/Girls) (DSA)</p>
-<p>5. Football (Boys) (DSA)</p>
-<p>6. Netball (Girls) (DSA)</p>
+<p>5. Volleyball (Girls) (DSA)</p>
+<p>6. Football (Boys) (DSA)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Uniformed groups</strong>
@@ -965,18 +971,29 @@ students.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Visual &amp; Performing Arts</strong>
 </p>
-<p>1. Show Choir (DSA)</p>
-<p>2. Concert Band (DSA)</p>
-<p>3. Cultural Dance (DSA)</p>
+<p></p>
+<p>1. Concert Band (DSA)</p>
+<p>2. Cultural Dance (DSA)</p>
+<p>3. Guzheng Ensemble (DSA)</p>
 <p>4. Modern Dance (DSA)</p>
-<p>5. Guzheng Ensemble (DSA)</p>
+<p>5. Show Choir (DSA)</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>English Literary Drama and Debate Society (ELDDS)</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Clubs &amp; Societies</strong>
 </p>
-<p>1. Info-comm Club</p>
-<p>2 Nutrition and Food Science Club</p>
-<p>3. Singapore Youth Flying Club</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Art &amp; Craft Club</p>
+</li>
+</ol>
+<p>2. Info-comm Club</p>
+<p>3. Nutrition and Food Science Club</p>
+<p>4. Singapore Youth Flying Club</p>
 </td>
 </tr>
 <tr>
@@ -992,4 +1009,4 @@ students.</p>
 <p><strong>2. My child is interested in XYZ CCA, can the school offer that? Can my child take up external CCA activities instead of the CCAs offered in school?</strong>
 </p>
 <p>Please email <a href="mailto:hyss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hyss@moe.edu.sg</a> and
-your queries will be directed to the HOD (PE &amp; CCA).</p>
+your queries will be directed to the HOD (PE, CCA &amp; Aesthetics).</p>
