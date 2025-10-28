@@ -901,8 +901,8 @@ eligible.</p>
 </p>
 <p>In Hua Yi, there will be 2 chances given for application to do&nbsp;HCL
 as long as the following criteria are met:</p>
-<p>a. Excellent results for CL for the academic year (75% and above) b. Results
-of the core subjects will be taken into consideration</p>
+<p>a. Excellent results for CL for the academic year (75% and above)</p>
+<p>b. Results of the core subjects will be taken into consideration</p>
 <p>c. Coupled with strong recommendation by subject teachers.</p>
 <p><strong>3. Does the school offer HML?</strong>
 </p>
@@ -956,7 +956,7 @@ students.</p>
 <p>3. Netball (Girls) (DSA)</p>
 <p>4. Track &amp; Field (Boys/Girls) (DSA)</p>
 <p>5. Volleyball (Girls) (DSA)</p>
-<p>6. Football (Boys) (DSA)</p>
+<p>6. Football (Boys)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
