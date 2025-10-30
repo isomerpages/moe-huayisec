@@ -2,30 +2,135 @@
 title: Track & Field
 permalink: /physical-sports/tnf/
 description: ""
+variant: tiptap
 ---
-## Track & Field
-
-<img src="/images/CCA-13.jpg" style="width:85%">
-
-Our Track & Field CCA provides a platform to uncover the students’ strengths and nurture them to their fullest potential. The team trains tirelessly to prepare young athletes to compete and perform at their optimal best in races.
-
-#### Achievements
-
-##### 2019
-
-*   **8th (out of 68) – Vellaichamy Karnan Tharun**<br> 
-    Wings Cross Country, 4.8km  
-
-*   **A Division Boys: 4th (16:53.45) – Vellaichamy Karnan Tharun**<br>
-    National Inter-School Track & Field Championships, 5km Finals  
-
-*   **A Division Boys: 9th (4:25.66) – Vellaichamy Karnan Tharun**<br>
-    National Inter-School Track & Field Championships, 1.5km Finals  
-
-*   **B Division Girls: Valarie Soh Yu Ting (13:26.81)**<br>
-    National Inter-School Track & Field Championships, 3km Finals
-
-##### 2018
-
-*   **4th – Vellaichamy Karnan Tharun**<br>
-    National Inter-School Cross Country Championships
+<h2>Track &amp; Field</h2>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/CCA-13.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Track and Field CCA seeks to nurture disciplined, resilient, and self-motivated
+athletes. Through structured training and participation in inter-school
+competitions, members strive to achieve their personal best while learning
+the value of perseverance and teamwork. The CCA cultivates sportsmanship
+and a spirit of excellence that extends beyond the track.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Schedule</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday and Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.00 pm – 6.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clementi Stadium</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><em>Additional training on Friday during competition season</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Teacher in charge</h4>
+<ul>
+<li>
+<p>Mr Lim Gim Siong (I/C)</p>
+</li>
+<li>
+<p>Mr Justin Ho</p>
+</li>
+<li>
+<p>Mr Andrew Low</p>
+</li>
+</ul>
+<h4>Achievements</h4>
+<h4>2025</h4>
+<ul>
+<li>
+<p>B Boys 100m - 22-4C, Chng Zhi Xiang, Mathias qualified for Semi-Finals
+(15th in SF)</p>
+</li>
+<li>
+<p>B Boys 100m - 22-4C, Muhammad Iqmal Bin Abdullah qualified for Semi-Finals
+(20th in SF)</p>
+</li>
+<li>
+<p>B Boys 200m - 22-4C, Chng Zhi Xiang, Mathias qualified for Semi-Finals
+(17th in SF)</p>
+</li>
+<li>
+<p>B Boys 4x100m relay - 22-4C, Muhammad Iqmal Bin Abdullah; 22-4C, Chng
+Zhi Xiang, Mathias; 22-4D, Benjamin Loo Kin Wai; 22-4E, Braydon Hue Yu
+Han qualified for Semi-Finals (11th in SF)</p>
+</li>
+</ul>
+<h4>2024</h4>
+<ul>
+<li>
+<p>B Boys 100m - 21-4D, Pang Cheng Heng qualified for Semi-Finals (17th in
+SF)</p>
+</li>
+<li>
+<p>B Boys 200m - 21-4D, Pang Cheng Heng qualified for Semi-Finals (19th in
+SF)</p>
+</li>
+<li>
+<p>C Boys 400m - 23-2C, Audi Anaqi Bin Mohamad Amri qualified for Semi-Finals
+(20th in SF)</p>
+</li>
+</ul>
+<h4>2023</h4>
+<ul>
+<li>
+<p>C Girls 400m - 22-2B, Yap Shu Wen qualified for Semi-Finals (22nd in SF)</p>
+</li>
+<li>
+<p>C Boys 100m - 22-2C, Muhammad Iqmal Bin Abdullah qualified for Semi-Finals
+(11th in SF)</p>
+</li>
+<li>
+<p>C Boys 200m - 22-2D, Benjamin Loo Kin Wai qualified for Semi-Finals (21st
+in SF)</p>
+</li>
+<li>
+<p>C Boys 400m - 22-2D, Benjamin Loo Kin Wai qualified for Semi-Finals (21st
+in SF)</p>
+</li>
+<li>
+<p>C Boys 4x100m relay - 23-1F, Jarrett Chen; 22-2C, Muhammad Iqmal Bin Abdullah;
+22-2D, Benjamin Loo Kin Wai; 22-2E, Braydon Hue Yu Han qualified for Finals
+(8th in Finals)</p>
+</li>
+</ul>
+<p></p>
