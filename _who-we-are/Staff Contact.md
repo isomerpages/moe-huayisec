@@ -360,21 +360,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms O Ming Fen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:o_ming_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">o_ming_fen@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2321</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Malay</p>
 </td>
 <td rowspan="1" colspan="1">
