@@ -375,7 +375,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH History (COvering)</p>
+<p>SH History (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Gim Siong</p>
@@ -386,6 +386,81 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2323</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Wellbeing (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aneesah Bte SHAIK UTHUMAN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aneesah_shaik_uthuman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aneesah_shaik_uthuman@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2401</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Management (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kalarani d/o PANEER SELVAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kalarani_paneer_selvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kalarani_paneer_selvam@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2411</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH English (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeo Wan Qiu Jennifer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_wan_qiu_jennifer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_wan_qiu_jennifer@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2438</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rajeshwari RAJAMANIKAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Rajeshwari_RAJAMANIKAM@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rajeshwari_RAJAMANIKAM@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2331</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Zaheera Bte ABDUL RAHIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_zaheera@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_zaheera@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2332</p>
 </td>
 </tr>
 </tbody>
@@ -517,6 +592,36 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2415</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (CL) (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shen Yuanyuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shen_yuanyuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shen_yuanyuan@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2428</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (CCE) (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soh Fu Quan Daniel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_fu_quan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_fu_quan@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2430</p>
 </td>
 </tr>
 </tbody>
