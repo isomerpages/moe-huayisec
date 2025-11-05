@@ -178,7 +178,7 @@ following guides are available:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2025/iPad_DMA_Parent_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">DMA Option A</a>
+<p><a href="/files/2025/iPad_DMA_Parent_Guide_for_Option_A_v1_1.pdf" rel="noopener nofollow" target="_blank">DMA Option A</a>
 </p>
 </li>
 <li>
