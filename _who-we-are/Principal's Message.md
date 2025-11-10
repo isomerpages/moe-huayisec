@@ -48,4 +48,8 @@ others.</p>
 <p>Dr Lim Siew Yee</p>
 <p>Principal, Hua Yi Secondary School</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/P_Message_w_photo.png">
+</div>
+<p></p>
 <p></p>
