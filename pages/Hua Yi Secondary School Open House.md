@@ -7,6 +7,7 @@ variant: tiptap
 <h2>Hua Yi Secondary School Open House</h2>
 <p></p><a class="isomer-image-wrapper" href="https://view.genially.com/5efe77148b60f50d80f848aa/interactive-image-hyss-open-house-map"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Open_House_2025_Banner__150_x_50_cm_.jpg"></a>
 <h5>Physical Open House will be held on 22 November 2025 from 830am to 130pm. Visitors can enter the school via the back gate and front entrance.</h5>
+<p></p><a class="isomer-image-wrapper" href="https://view.genially.com/5efe77148b60f50d80f848aa/interactive-image-hyss-open-house-map"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_Virtual_Tour.png"></a>
 <p><strong>Click image above for virtual tour</strong>
 </p>
 <h4>Principal's Message</h4>
