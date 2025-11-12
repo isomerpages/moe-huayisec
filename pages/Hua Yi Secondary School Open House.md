@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <h4>Principal's Message</h4>
 <div class="iframe-wrapper">
-<iframe height="370" width="650" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ze-M2cP2yp4?si=deB5l7Qs9Hre2nL6"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/goAn4duCep8?si=Imh6uhB2GrA0LTq3"></iframe>
 </div>
 <h4>Why Hua Yi?</h4>
 <div class="iframe-wrapper">
