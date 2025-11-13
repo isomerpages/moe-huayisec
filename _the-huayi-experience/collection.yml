@@ -2,7 +2,6 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - Academic Achievement.md
       - Departments/Department Programmes.md
       - Departments/.keep
       - Departments/English Department.md
