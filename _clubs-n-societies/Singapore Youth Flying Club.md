@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Singapore Youth Flying Club</h2>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA-07.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Clubs n Societies/Singapore_Youth_Flying_Club1.jpg">
 </div>
 <p>The Singapore Youth Flying Club (SYFC) aims to promote aviation, inculcate
 a strong passion for flying among our cadets and explore potential careers
