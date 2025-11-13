@@ -15,22 +15,13 @@ third_nav_title: Departments
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tiles/English_Tile.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/the-huayi-experience/Department-Programmes/el/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tiles/English_Tile.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tiles/Science_Tile.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/the-huayi-experience/Department-Programmes/sd/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tiles/Science_Tile.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tiles/Maths_Tile.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/the-huayi-experience/Department-Programmes/mathd/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tiles/Maths_Tile.png"></a>
 </th>
 </tr>
 <tr>
@@ -38,10 +29,7 @@ third_nav_title: Departments
 <p></p><a class="isomer-image-wrapper" href="/the-huayi-experience/Department-Programmes/humanitiesd/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tiles/Humanities_Tile.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tiles/PE_Tile.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/the-huayi-experience/Department-Programmes/ped/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tiles/PE_Tile.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/the-huayi-experience/Department-Programmes/cntd/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tiles/CnT_Tile.png"></a>
