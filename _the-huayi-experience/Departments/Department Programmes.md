@@ -43,7 +43,7 @@ third_nav_title: Departments
 <p></p><a class="isomer-image-wrapper" href="/the-huayi-experience/Department-Programmes/cced/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tiles/CCE_Tile.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/the-huayi-experience/Department-Programmes/itd/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669655819.jpeg"></a>
+<p></p><a class="isomer-image-wrapper" href="/the-huayi-experience/Department-Programmes/itd/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tiles/IT_Tile.png"></a>
 </td>
 </tr>
 </tbody>
