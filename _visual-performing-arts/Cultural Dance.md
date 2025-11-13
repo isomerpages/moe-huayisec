@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Cultural Dance</h2>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA-20.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Performing Arts/Cultural_Dance1.jpg">
 </div>
 <p>Where Tradition Meets Excellence</p>
 <p>Our Cultural Dance CCA is a vibrant community where students come together
