@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Badminton</h2>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA-08.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CCA/Badminton6.jpg">
 </div>
 <p>Our Badminton CCA supports the development of 21st&nbsp;Century Competencies
 skills and inculcates sportsmanship in our students, and aims to develop
