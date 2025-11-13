@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Modern Dance</h2>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA-21.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Performing Arts/Modern_Dance6.jpg">
 </div>
 <p>Our Modern Dance Society aims to expose students to a variety of dance
 genres such as Lyrical Hip hop, Street Jazz, Modern, etc. We strive to
