@@ -6,7 +6,6 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <h2>Information Technology Department</h2>
-<h4>Learning Outcomes</h4>
 <h5>General Technical Support:</h5>
 <p>For technical difficulties, please go to the ICT Helpdesk (Level 1, Beside
 Bookshop).</p>
