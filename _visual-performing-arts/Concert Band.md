@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Concert Band</h2>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA-18.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Performing Arts/Concert_Band2.jpg">
 </div>
 <p>Hua Yi’s Concert Band provides students with an enriching music education.
 Striving to develop students’ knowledge of music and instrumental/ensemble
