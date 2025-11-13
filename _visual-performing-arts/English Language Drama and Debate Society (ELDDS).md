@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>English Language Drama and Debate Society (ELDDS)</h2>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA-03_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Performing Arts/ELDDS2.jpg">
 </div>
 <p>The ELDDS aims to nurture students’ communication and performance skills
 through drama, theatre, and debate. Through stagecraft training, members
