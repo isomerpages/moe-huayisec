@@ -11,16 +11,16 @@ sections:
       key_highlights:
         - title: GLOCALISED CITIZENS
           description: ""
-          url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/csp/
+          url: ""
         - title: RESILIENT LEADERS
           description: ""
-          url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/sl/
+          url: ""
         - title: EMPATHETIC CONTRIBUTORS
           description: ""
-          url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/alp/
+          url: ""
         - title: PASSIONATE LEARNERS
           description: ""
-          url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/aa/
+          url: ""
   - infopic:
       title: Hua Yi Open House
       id: infopic
