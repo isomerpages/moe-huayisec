@@ -8,6 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/CCA-01.jpg">
 </div>
+<p></p>
 <p>The Aesthetics &amp; Design club hopes to improve art appreciation through
 fun and meaningful art activities. The club promotes experiential learning
 of students through art activities, and provides opportunities to excel
