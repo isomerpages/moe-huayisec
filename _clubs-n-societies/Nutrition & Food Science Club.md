@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Nutrition &amp; Food Science Club</h2>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA-06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Clubs n Societies/Nutrition_and_Food_Science_Club3.jpg">
 </div>
 <p>Hua Yi’s Nutrition &amp; Food Science Club aims to nurture a passion for
 cooking and healthy eating through hands-on experiences, build confidence
