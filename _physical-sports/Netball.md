@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Netball</h2>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA-12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/CCA/Netball4.jpg">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
