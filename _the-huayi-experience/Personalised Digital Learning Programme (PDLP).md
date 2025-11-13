@@ -35,13 +35,12 @@ to maximise the affordances of the iPad as a learning tool.</p>
 <p>Not only is the iPad a portable device that offers students convenient
 learning on-the-move, it also allows for a seamless learning experience
 alongside existing learning technologies such as the Student Learning Space
-(SLS) and Team Model Smarter Classroom System. In addition to apps within
-Apple’s eco-system, students will also gain access a wide range of programmes
-from other developers (eg. Google Suite and Microsoft Office etc), making
-it the device of choice in developing students’ application and creative
-skills.</p>
+(SLS). In addition to apps within Apple’s eco-system, students will also
+gain access a wide range of programmes from other developers (eg. Google
+Suite and Microsoft Office etc), making it the device of choice in developing
+students’ application and creative skills.</p>
 <p>Each bundle consists of:
-<br>1 . Apple iPad 10.9" 64gb Wifi
+<br>1 . Apple iPad 10.9" 128gb Wifi
 <br>2 . Logitech Ruggedized Keyboard Case
 <br>3 . Apple Pencil</p>
 <p></p>
@@ -77,9 +76,6 @@ part of Google Suite.</p>
 <p>(b)&nbsp;<strong>Microsoft Pro Plus:</strong>&nbsp;every secondary school
 will be granted a licence to use Microsoft Office tools that include Word,
 PowerPoint and Excel.</p>
-<p>(c)&nbsp;<strong>Zoom:</strong>&nbsp;MOE will set up Zoom free account
-with 40 mins time limit using Student iCON for the schools’ video conferencing
-needs.</p>
 <p>The school will need to use your child/ward’s personal data such as his/her
 name and class to set up user accounts. Please refer to our Frequently
 Asked Questions section for more information on the collection of data
@@ -105,10 +101,6 @@ of use, which can be found here:&nbsp;</p>
 <p>Microsoft Pro Plus:&nbsp;<a href="https://portal.office.com/commerce/mosa.aspx" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com/commerce/mosa.aspx</a>
 </p>
 </li>
-<li>
-<p>Zoom:&nbsp;<a href="https://explore.zoom.us/en/schools-privacy-statement/" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/docs/en-us/schools-privacy-statement.html</a>
-</p>
-</li>
 </ul>
 <p>2 . Where will the data collected by DMA and IT Applications for NDLP
 be stored?&nbsp;</p>
@@ -121,9 +113,7 @@ this website for more information on these laws and</p>
 <p>3 . Where can I find the full terms of purchase of the PLD?</p>
 <p>&nbsp;Parents/guardians will be purchasing the PLD directly from the vendor,
 not MOE. This is pursuant to a bulk tender agreement between MOE and the
-vendor. The tender documents set out the full terms and conditions of such
-a purchase, and can be found at this website:&nbsp;<a href="https://go.gov.sg/pldtermsandconditions" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pldtermsandconditions</a>  <strong>PDF NOT FOUND</strong>
-</p>
+vendor.</p>
 <h4>References</h4>
 <div class="iframe-wrapper">
 <iframe height="410" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3FKftVAU4eI"></iframe>
