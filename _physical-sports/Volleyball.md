@@ -5,9 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>VolleyBall</h2>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA-14.jpg">
-</div>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
