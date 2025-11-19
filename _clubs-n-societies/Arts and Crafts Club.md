@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Arts and Crafts Club</h2>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA-01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Clubs n Societies/Arts___Crafts_Club6.jpg">
 </div>
 <p>The Aesthetics &amp; Design club hopes to improve art appreciation through
 fun and meaningful art activities. The club promotes experiential learning

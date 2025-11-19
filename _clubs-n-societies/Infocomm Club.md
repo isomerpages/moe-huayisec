@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>Infocomm Club</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA-04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Clubs n Societies/Infocomm_Club1.jpg">
 </div>
 <p>Hua Yi’s Infocomm Club excites Hua Yians about the possibilities of infocomm
 through an engaging training programme. Through the trainings provided,

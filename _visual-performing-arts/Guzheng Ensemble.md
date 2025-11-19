@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Guzheng Ensemble</h2>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/CCA-19.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Performing Arts/Guzheng_Ensemble9.jpg">
 </div>
 <p>Guzheng Ensemble showcases students’ musical talents and provides a platform
 for them to hone their musical skills. Providing learning opportunities
