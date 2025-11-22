@@ -385,7 +385,7 @@ History, Literature in English)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Mother Tongue Languages (Higher Chinese)</p>
+<p>Higher Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -906,8 +906,9 @@ as long as the following criteria are met:</p>
 <p>c. Coupled with strong recommendation by subject teachers.</p>
 <p><strong>3. Does the school offer HML?</strong>
 </p>
-<p>Hua Yi does not offer HML.&nbsp;For students taking HML, they attend the
-lessons at external venues.&nbsp;</p>
+<p>Hua Yi does offer HML.&nbsp;Hua Yi offers Lower Sec G3 HML from 2026 onwards.
+In 2027, we will progressively offer Sec 3 G3 HML. By 2028, we will offer
+G3 HML for Sec 1-4.</p>
 <p><strong>4. Does the school offer TL or HTL?</strong>
 </p>
 <p>Hua Yi does not offer TL.&nbsp;For Students taking TL or HTL, they attend
