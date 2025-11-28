@@ -544,61 +544,40 @@ on Higher Mother Tongue, MTL in-lieu, NTIL and Third Language. &nbsp;</p>
 refer to the information below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sec 1 Registration/Art_Elective.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Art_Elective.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music_Elective.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Music_Elective.png">
 </div>
-<p></p>
 <h4><strong>Transfers &amp; Appeals</strong></h4>
 <p>Do take note of the information regarding transfer to another school,
 or for appeals to Hua Yi.
 <br>
 <br><strong>Transfer to another school</strong>
 </p>
-<ul>
-<li>
-<p>Ensure that you acknowledge the message sent in Parents Gateway to secure
-a place for your child at Hua Yi Secondary&nbsp;</p>
-</li>
-<li>
-<p>Ensure that your child meets the cut-off for the school that you wish
-to transfer your child to&nbsp;</p>
-</li>
-<li>
-<p>Submit an appeal form at the school that you wish to transfer your child
-to&nbsp;</p>
-</li>
-<li>
-<p>Wait for the results of your appeal</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensure that you acknowledge the
+message sent in Parents Gateway to secure a place for your child at Hua
+Yi Secondary&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensure that your child meets the
+cut-off for the school that you wish to transfer your child to&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit an appeal form at the school
+that you wish to transfer your child to&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wait for the results of your appeal</p>
 <p>
 <br><strong>Appeal to Hua Yi Secondary</strong>
 </p>
-<ul>
-<li>
-<p>Ensure that you have secured a place at the school your child has been
-posted to</p>
-</li>
-<li>
-<p>Ensure that you meet the cut-off for Hua Yi Secondary&nbsp;School</p>
-</li>
-<li>
-<p>Submit an appeal form&nbsp;to Hua Yi Secondary School at <a href="https://go.gov.sg/2025hysss1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025hysss1appeal</a>
-</p>
-</li>
-<li>
-<p>Wait for the results of your appeal</p>
-</li>
-<li>
-<p>The application is deemed to be unsuccessful if you do not hear from the
-school by 2 January 2025</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensure that you have secured a place
+at the school your child has been posted to</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensure that you meet the cut-off
+for Hua Yi Secondary&nbsp;School</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit an appeal form&nbsp;to Hua
+Yi Secondary School at XXXXX (link)</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wait for the results of your appeal</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application is deemed to be
+unsuccessful if you do not hear from the school by 2 January 2026</p>
 <p>
-<br>All appeals must be submitted latest by&nbsp;<strong><u>23 December 2024, 12.00pm.</u></strong>
+<br>All appeals must be submitted latest by&nbsp;<strong><u>XX December 2025, 12.00pm (at least 5 calendar days)</u></strong>
 </p>
 <p>
 <br>
