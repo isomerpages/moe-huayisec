@@ -22,14 +22,6 @@ sections:
           description: ""
           url: ""
   - infopic:
-      title: Hua Yi Open House
-      id: infopic
-      description: 22 November 2025,  Saturday,   830am to 130pm
-      image: /images/2025/Open_House_2025_Banner__150_x_50_cm_.jpg
-      alt: 22 November 2025
-      url: /open-house-hy/
-      button: Enter Here
-  - infopic:
       title: LATEST EVENTS
       button: More upcoming events
       url: https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/calendar/
