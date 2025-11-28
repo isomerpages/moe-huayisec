@@ -530,14 +530,16 @@ setup for fees and school charges deduction under the Services Tab.</p>
 <h4><strong>Taking Subjects at a More Demanding Level</strong></h4>
 <p>For students who qualify to take subjects at a more demanding level, a
 message will be sent via Parents Gateway by <strong>23 December 2025, 5:00 p.m.</strong>,
-and a response will be required. More information can be found in the&nbsp;<strong>attached slides.</strong>
+and a response will be required. More information can be found in the<strong> </strong>
+<a href="/files/2026 Files/Sec_1_FSBB_Slides__2026_intake__final_.pdf" rel="noopener nofollow" target="_blank">attached slides</a><strong>.</strong>
 </p>
 <h4><strong>Higher Mother Tongue and other MTL (MTL in-lieu, NTIL &amp; Third Language)</strong></h4>
 <p>For students who qualify for Higher Mother Tongue, a message will be sent
 via Parents Gateway in the next few days, and a response will be required.
 <br>
-<br>Please refer to the&nbsp;<strong>attached FAQ</strong>&nbsp;for more information
-on Higher Mother Tongue, MTL in-lieu, NTIL and Third Language. &nbsp;</p>
+<br>Please refer to the&nbsp;<a href="/files/2026 Files/2026_Sec_1_Registration_MTL_FAQ.pdf" rel="noopener nofollow" target="_blank">attached FAQ</a>&nbsp;for
+more information on Higher Mother Tongue, MTL in-lieu, NTIL and Third Language.
+&nbsp;</p>
 <p></p>
 <h4><strong>Art Elective Programme &amp; Music Elective Programme</strong>.</h4>
 <p>For students who are interested in the Art/Music Elective Programme, please
