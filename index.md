@@ -40,4 +40,10 @@ sections:
       url: https://staging.d24qp50d0iaegk.amplifyapp.com/the-huayi-experience/stud-ss/
       image: /images/family-bg.jpg
       alt: Image alt text
+  - infopic:
+      title: Sec 1 Registration for 2026 Cohort
+      id: infopic
+      button: Enter Here
+      url: /sec-1-registration-for-2026-cohort/
+      alt: Image alt text
 ---
