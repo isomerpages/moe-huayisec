@@ -49,29 +49,32 @@ report in their primary school uniform.</p>
 <h4><strong>Uniform Guidelines</strong></h4>
 <p>Please refer to the table below on the details for school attire. Students
 will be briefed on the first day of school as well.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sec 1 Registration/uniform.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Uniform_Guidelines.png">
+</div>
 <h4><strong>House Allocation</strong></h4>
 <p>Please refer to the table below for the House allocation of the Sec 1
 classes. Each class is allocated to one of the 5 Houses in our school,
 and students would need to purchase the House T-shirt, which serves as
 their PE T-shirt.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sec 1 Registration/House.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/House_Allocation.png">
 </div>
 <p>
 <br>Parents will be notified of their child’s class allocation via Parents
-Gateway by 20 December 2024. We kindly request your response through PG
-to a few questions (e.g., camp T-shirt size, dietary requirement(s), medical
-condition(s), attendance for School Leader’s Talk and Secondary 1 Orientation
-Campfire) by 23 December 2024.</p>
+Gateway (PG) by <strong>TBD</strong>. We kindly request your response through
+PG to a few questions (e.g., level T-shirt size, dietary requirement(s),
+medical condition(s), attendance for Secondary 1 Orientation Camp Finale)
+by <strong>TBD,</strong>
+</p>
 <h4><strong>Sec 1 Start-It-Right and Orientation Programme</strong></h4>
-<p>For the first week of school, a Start-it-right and Orientation Programme
+<p>For the first week of school, a Start-It-Right and Orientation Programme
 has been planned for the students, to facilitate their transition to secondary
 school. Please see the table below for the relevant information. More details
-will be provided to the students on the first day of school.</p>
+will be provided to the students on the first day of school.
+<br>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -83,7 +86,7 @@ will be provided to the students on the first day of school.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date</strong>
+<p><strong>Day / Date</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,96 +108,40 @@ will be provided to the students on the first day of school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Thursday<br>2 Jan</strong>
+<p><strong>Friday<br>2 Jan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7.30am – 5.30pm</strong>
+<p><strong>7.30 a.m. – 12.20 p.m.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Respective Sec 1 Classrooms (Level 4)</strong>
+<p><strong>Respective Sec 1 Classrooms (Level 2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PE T-shirt with Uniform Bottoms</strong>
+<p><strong>PE/House Tee with Uniform Bottoms</strong>
 </p>
-<p><strong>(Note: Bring PE shorts)</strong>
-</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start it Right Programme - Sec 1 Orientation Camp</strong>
+<p><strong>Start-It-Right Programme</strong>
 </p>
-<ul>
-<li>
-<p>Principal’s Welcome</p>
-</li>
-<li>
-<p>Grand Welcome House Assembly</p>
-</li>
-<li>
-<p>House Engagement Session</p>
-</li>
-<li>
-<p>Form Teacher Time</p>
-</li>
-<li>
-<p>Lunch Break</p>
-</li>
-<li>
-<p>Sec 1 Orientation Programme</p>
-<p></p>
-<p><strong>Note:</strong> Lunch and afternoon tea provided&nbsp;</p>
-</li>
-</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Principal’s Welcome</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grand Welcome House Assembly</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; House Engagement Session</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whole School &amp; House Cheer Session</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Friday<br>3 Jan</strong>
+<p><strong>Monday<br>5 Jan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7.30am – 9.30pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Quadrangle</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>PE T-shirt with Uniform Bottoms</strong>
-</p>
-<p><strong>(Note: Bring PE shorts)</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Start-it-Right Programme - Sec 1 Orientation Camp</strong>
-</p>
-<ul>
-<li>
-<p>Whole School Physical Activity</p>
-</li>
-<li>
-<p>Whole School &amp; House Cheer Session</p>
-</li>
-<li>
-<p>Sec 1 Orientation Camp / Campfire</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Note:</strong> Morning Snack, Lunch and dinner provided</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Monday<br>6 Jan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>7.30am – 2.00pm</strong>
+<p><strong>7.30 a.m. – 5.00 p.m.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,83 +151,117 @@ will be provided to the students on the first day of school.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Full School Uniform with School Tie</strong>
 </p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>(Note: Bring PE attire to change)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start-it-Right Programme</strong>
+<p><strong>Start-It-Right Programme - <br>Sec 1 Orientation Camp</strong>
 </p>
-<ul>
-<li>
-<p>Form Teacher Time</p>
-</li>
-<li>
-<p>Discipline Talk</p>
-</li>
-<li>
-<p>Transition Programme</p>
-</li>
-</ul>
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Form Teacher Time</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start-It-Right Talk</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Decoration Planning</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sec 1 Orientation Camp</p>
+<p>&nbsp;</p>
+<p><strong>Note:</strong> Lunch and afternoon tea provided</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tues<br>7 Jan</strong>
+<p><strong>Tuesday<br>6 Jan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7.30am – 1.00pm</strong>
+<p><strong>7.30 a.m. – 7.30 p.m.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Centrestage (School Hall)</strong>
+<p><strong>Respective Sec 1 Classrooms (Level 2)</strong>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Polo Tee with Uniform Bottoms</strong>
+<p><strong>House Tee with Uniform Bottoms</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>(Note: Bring PE shorts to change)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start-it-Right Programme</strong>
+<p><strong>Start-It-Right Programme - Sec 1 Orientation Camp</strong>
 </p>
-<ul>
-<li>
-<p>Hua Yi Bonsai Programme</p>
-</li>
-<li>
-<p>CCA Selection Talk</p>
-</li>
-<li>
-<p>PDLP Briefing</p>
-</li>
-<li>
-<p>Goal-setting Session</p>
-</li>
-<li>
-<p>Class Bonding Activity</p>
-</li>
-</ul>
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hua Yi Bonsai Programme</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA Selection Talk</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PDLP Briefing</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sec 1 Orientation Camp / Finale
+Performance</p>
+<p>&nbsp;</p>
+<p><strong>Note:</strong> Morning tea, lunch and dinner provided</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wednesday<br>7 Jan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7.30 a.m. – 1.40 p.m.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Respective Sec 1 Classrooms (Level 2)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Hua Yi Polo Tee with Uniform Bottom</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Start-It-Right Programme</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transition Programme</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Bonding Activity</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><br><strong>School Leaders' Talk and Sec 1 Orientation Campfire with Secondary 1 Parents</strong></h4>
-<p>We warmly invite all Secondary 1 parents to attend the <strong>School Leaders’ Talk</strong> and
-the <strong>Secondary 1 Orientation Campfire</strong>. Please confirm your
-attendance by responding to the message regarding your child’s class allocation,
-which will be sent via <strong>Parents Gateway</strong>.
+<h4><strong><br>Sec 1 Orientation Camp Finale with Secondary 1 Parents</strong></h4>
+<p>We warmly invite all Secondary 1 parents to attend the <strong>Secondary One Orientation Camp Finale</strong>.
+Please confirm your attendance by responding to the message regarding your
+child’s class allocation, which will be sent via <strong>Parents Gateway</strong>.
 <br>
-<br>Date: 3 January 2025 (Friday)
-<br>Time: 6.00 – 9.30 pm
-<br><strong>Programme Overview and Venues:<br></strong>6.00 - 6.30pm: Refreshments
-@ HYSS Centrestage (Level 2)</p>
-<p>6.30 - 7.00pm: Sharing by School Leaders @ HYSS Centrestage (Level 2)
-<br>7.00 - 9.30pm: Secondary 1 Campfire @ Quadrangle</p>
+<br><strong>Date: </strong>6 Jan 2026 (Tues)
+<br><strong>Time: </strong>5.00 pm&nbsp; - 7.30 pm</p>
+<p><strong>Venue: </strong>HYSS Centrestage (Level 2)</p>
+<p>
+<br><strong>Programme Overview:<br></strong>5.00 - 5.30pm: Refreshments</p>
+<p>5.30 - 7.30pm: Secondary 1 Orientation Camp Finale</p>
 <h4><strong>Sale of Uniform, Textbooks and Stationery</strong></h4>
-<p>Uniforms, textbooks and stationery will be sold at our school. Please
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sale of Uniform, Textbooks and Stationery</u></strong>
+</p>
+<p>
+<br>Uniforms, textbooks and stationery will be sold at our school. Please
 see the table below for the operating dates and time.
 <br>
-<br>Mode of payment: Cash or PayNow</p>
+<br>Mode of payment: Cash or PayNow
+<br>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -299,7 +280,7 @@ see the table below for the operating dates and time.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19, 20, 23, 26 &amp; 27 December</p>
+<p>18, 19, 22, 23 &amp; 26 December</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00 am – 3.00 pm</p>
@@ -307,22 +288,29 @@ see the table below for the operating dates and time.
 </tr>
 </tbody>
 </table>
-<p><strong>Venue</strong>
-<br>Bookshop – Books
+<p>
+<br><strong>Venue</strong>
+<br>Blk D Level 1 classrooms – Books
 <br>Blk E Level 1 classrooms – Uniform
 <br>
-<br>Alternatively, you may wish to purchase the books online, <a href="asenciobookshop.sg" rel="noopener nofollow" target="_blank">asenciobookshop.sg</a>.</p>
-<p><strong><u>Textbooks and Stationery</u></strong>
+<br>Alternatively, you may wish to purchase the books online, <a rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>
 </p>
-<p>Please refer to the <a href="/files/2025 Sec 1 Registration/Hua_Yi_Sec_1.pdf" rel="noopener nofollow" target="_blank">attached booklist</a> the
-<a href="https://drive.google.com/file/d/1LF7kgG6AdUIt_NamGG4QF2gu9hJUMyqr/view?usp=sharing" rel="noopener nofollow" target="_blank">attached booklist</a>for the required books and stationery.</p>
 <p>
-<br>For <strong>online purchases</strong>, orders must be completed by <strong>21 December 2024</strong> to
-ensure delivery before the start of the school year.</p>
-<p>Please note that <strong>online sales are not applicable to FAS students</strong>.</p>
-<p>
+<br><strong>Textbooks &amp; Stationery</strong>
+<br>
 <br>
 </p>
+<p>Please refer to the <strong><a href="https://huayisec.moe.edu.sg/qql/slot/u175/Latest%20News/2022/Sec%201%20Registration/Sec%201%20Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">attached booklist</a></strong> for
+the required books and stationery.</p>
+<p>For <strong>online purchases</strong>, orders must be completed by <strong>20 December 2025</strong> to
+ensure delivery before the start of the school year.</p>
+<p>Please note that <strong>online sales are not applicable to FAS students</strong>.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>CCA Information</strong></h4>
 <p>Below is the list of CCAs offered in our school:</p>
 <table style="minWidth: 100px">
@@ -335,6 +323,14 @@ ensure delivery before the start of the school year.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Clubs and Societies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Physical Sports</strong>
 </p>
 </td>
@@ -342,121 +338,99 @@ ensure delivery before the start of the school year.</p>
 <p><strong>Uniformed Groups</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Visual and Performing Arts</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Clubs and Societies</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Badminton (Boys/Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Cadet Corps (Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Show Choir</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Art &amp; Crafts Club</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basketball (Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Police Cadet Corps (Boys/Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cultural Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>InfoComm Technology Club</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Football (Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Red Cross Youth (Boys/Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Cadet Corps (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>InfoComm Technology Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cultural Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Nutrition &amp; Food Science Club</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Netball (Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Modern Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Flying Club</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track &amp; Field (Boys/Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language, Drama &amp; Debating&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Football (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Volleyball (Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language, Drama &amp; Debating</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Youth Flying Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Guzheng Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Netball (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Track &amp; Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Show Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>
-<br>Please refer to the <a href="https://drive.google.com/file/d/1gfXnFJWxk9YqonG92_LLqN2giXuI1FdJ/view?usp=sharing" rel="noopener nofollow" target="_blank">attached document</a>&nbsp;for
-the timeline of the CCA Experience for Secondary One students in Hua Yi.
-The CCA Experience includes trials, experiencing the CCA activities and
-programmes, registration and allocation. Students will receive a detailed
-briefing in Term 1 Week 1.&nbsp;</p>
+<br>Please refer to the&nbsp;<strong>attached document</strong>&nbsp;for the
+timeline of the CCA Experience for Secondary One students at Hua Yi. The
+CCA Experience includes trials, experiencing the CCA activities and programmes,
+registration and allocation). Students will receive a detailed briefing
+in Term 1 Week 1.</p>
 <p>
 <br><strong>Personalised Digital Learning Programme (PDLP)</strong>
 </p>
@@ -467,32 +441,31 @@ more details.
 <br>
 <br>Information on procurement of devices for Secondary One students will
 be provided in due course.</p>
-<p></p>
 <h4><strong>Parent Support Group</strong></h4>
-<p>Hua Yi is proud to have an <strong>active and committed Parent Support Group (PSG)</strong> that
+<p>Hua Yi is proud to have an <strong>active and dedicated Parent Support Group (PSG)</strong> that
 plays a key role in supporting school programmes and activities to enhance
 students' holistic development.</p>
-<p>
-<br>The PSG’s vision is to partner closely with the school to provide the
+<p>The PSG’s vision is to partner closely with the school to provide the
 best possible support for our children’s education. We warmly invite parents
 to join us in this meaningful effort, where we can collaborate, network
 and share resources to offer strategic support for our students’ growth
 and success.</p>
+<p>&nbsp;</p>
+<p>You can find out more about HYSS PSG at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/</a></strong>
+</p>
 <p>
-<br>You can find out more about HYSS PSG at&nbsp;<strong><a href="https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/</a></strong>
-<br>
 <br>If you would like to work with the school to enhance learning experiences
 for our students, and connect with other parents, we invite you to join
 our Parent Support Group through this link:
-<br><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScjK-zWdtQk5pIRjQvzU3U1cvUpH0bFD8ks_8i-ZlUOwTnUrQ/viewform" rel="noopener noreferrer nofollow" target="_blank">PSG Application Form</a></strong>
+<br><strong><a rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLScjK-zWdtQk5pIRjQvzU3U1cvUpH0bFD8ks_8i-ZlUOwTnUrQ/viewf</a><a href="https://docs.google.com/forms/d/e/1FAIpQLScjK-zWdtQk5pIRjQvzU3U1cvUpH0bFD8ks_8i-ZlUOwTnUrQ/viewform" rel="noopener noreferrer nofollow" target="_blank">orm</a></strong>
 </p>
 <h4><strong>Car Decal&nbsp;</strong></h4>
 <p>Cars entering the school compound for drop-off and pick-up are required
 to display a designated car decal daily. Each decal cost $3 and remains
 valid until your child graduates from Hua Yi.&nbsp;</p>
-<p>Kindly complete the form below by 30 December 2024 to purchase a decal.
+<p>Kindly complete the form below by 30 December 2025 to purchase a decal.
 Payment will be deducted via Giro and additional details will be provided
-on the decal collection date. <strong><br><a href="https://go.gov.sg/hysscardecal" rel="noopener noreferrer nofollow" target="_blank"><u>Car Decal Purchase Form 2024</u></a></strong>
+on the decal collection date. <strong><br><a href="https://go.gov.sg/hysscardecalapplication" rel="noopener noreferrer nofollow" target="_blank"><u>Car Decal Purchase Form 2025</u></a></strong>
 </p>
 <h4><strong>HPB Child Consent Portal</strong></h4>
 <p>There will be HPB's health, immunisation and dental screening for the
