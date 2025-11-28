@@ -22,74 +22,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 Sep to 10 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 to 3 Summative Reviews</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GCE O Level Sci Practical (Chemistry)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Oct to 14 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GCE N Level Written Exam Phase II</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 Oct to 22 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learning Festival II</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deepavali</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Last Day of School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1-3 PTM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 Oct to 10 Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GCE O Level Written Exam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>22 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open House</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18, 19, 22, 23 &amp; 26 Dec (9.00am - 3.00pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sale of Uniform, Textbooks and Stationery</p>
 </td>
 </tr>
 <tr>
@@ -102,5 +46,109 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>2026</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New Year's Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Day of School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Jan - 7 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Orientation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Feb - 18 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Mar - 22 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 1 Break</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Puasa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Good Friday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Labour Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Haji</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vesak Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 May - 28 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 1 Break</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
