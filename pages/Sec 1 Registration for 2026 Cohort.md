@@ -438,7 +438,6 @@ briefing in Term 1 Week 1.</p>
 a personal tablet or laptop. In Hua Yi, students use an iPad for their
 learning. Please refer to <strong><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/pdlp/" rel="noopener noreferrer nofollow" target="_blank">PDLP</a></strong> for
 more details.
-<br>
 <br>Information on procurement of devices for Secondary One students will
 be provided in due course.</p>
 <h4><strong>Parent Support Group</strong></h4>
@@ -450,10 +449,7 @@ best possible support for our children’s education. We warmly invite parents
 to join us in this meaningful effort, where we can collaborate, network
 and share resources to offer strategic support for our students’ growth
 and success.</p>
-<p>&nbsp;</p>
 <p>You can find out more about HYSS PSG at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/</a></strong>
-</p>
-<p>
 <br>If you would like to work with the school to enhance learning experiences
 for our students, and connect with other parents, we invite you to join
 our Parent Support Group through this link:
@@ -485,7 +481,6 @@ they receive their new card (till end April 2025).</p>
 <li>
 <p>Students would need to purchase the Bus Concession Pass for Secondary
 students while using their old card.</p>
-<p></p>
 </li>
 </ul>
 <h4><strong>POSB Smart Buddy Programme (For Non-FAS students )</strong></h4>
@@ -505,11 +500,9 @@ to track your child’s payments and savings.</p>
 <br>Please login to the MOE FAS Application using the e-FAS form which is
 available on Parents Gateway (under Services tab – Financial Assistance)
 via Singpass login.</p>
-<p></p>
 <p>Alternatively, the 2026 e-FAS link/ QR code is provided below.&nbsp;</p>
 <p><strong>eFAS <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68b7e92465cd36be287889c6</a></strong>
 </p>
-<p></p>
 <p>Please submit the online application together with the supporting documents
 or contact us at 6563 4568 should you have further queries.</p>
 <p></p>
@@ -523,7 +516,6 @@ Services Tab by the end of January.</p>
 <p>This form is to be used by the parent/guardian of a Singapore citizen
 student to use the Edusave account of his/her child to pay for approved
 fees by MOE and enrichment programmes.</p>
-<p></p>
 <h4><strong>Apply for eGiro</strong></h4>
 <p>Please login to Parents Gateway and complete the online form for e-GIRO
 setup for fees and school charges deduction under the Services Tab.</p>
@@ -536,11 +528,9 @@ and a response will be required. More information can be found in the<strong> </
 <h4><strong>Higher Mother Tongue and other MTL (MTL in-lieu, NTIL &amp; Third Language)</strong></h4>
 <p>For students who qualify for Higher Mother Tongue, a message will be sent
 via Parents Gateway in the next few days, and a response will be required.
-<br>
 <br>Please refer to the&nbsp;<a href="/files/2026 Files/2026_Sec_1_Registration_MTL_FAQ.pdf" rel="noopener nofollow" target="_blank">attached FAQ</a>&nbsp;for
 more information on Higher Mother Tongue, MTL in-lieu, NTIL and Third Language.
 &nbsp;</p>
-<p></p>
 <h4><strong>Art Elective Programme &amp; Music Elective Programme</strong>.</h4>
 <p>For students who are interested in the Art/Music Elective Programme, please
 refer to the information below.</p>
