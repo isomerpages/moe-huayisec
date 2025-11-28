@@ -9,23 +9,23 @@ description: ""
 <br>We are delighted to welcome your child to the Hua Yi family, and we look
 forward to partnering with you to nurture and develop your child to their
 fullest potential. Please take a moment to watch the video below for a
-welcome message from our Principal-Designate.</p>
-<div class="iframe-wrapper">
-<iframe height="390" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oBlY2QJBoq0?si=gVCWgA8PUn9Kly8T"></iframe>
-</div>
+welcome message from our Principal.</p>
+<p><u>To embed Youtube video link here.</u>
+</p>
 <h4><strong>Important Information for ALL Students</strong></h4>
+<p><strong>Secondary 1 Registration Information</strong>
+</p>
 <p>All Secondary 1 students posted to Hua Yi Secondary school are required
-to review through the registration details below carefully. Additional
-details will be sent via Parents Gateway (PG).</p>
+to review the registration details below carefully. Additional details
+will be sent via Parents Gateway (PG).</p>
 <p>The e-Registration process will be conducted through PG. Information regarding
 class allocation and Subject-Based Banding (SBB) offerings will be shared
-on PG, typically 1 - 2 days after the posting is confirmed.&nbsp;</p>
-<p>
-<br><strong>Please note: </strong>Parents are strongly encouraged to purchase
-uniforms and books <strong>only after receiving the class allocation</strong> on
-Parents Gateway.<strong><br><br></strong>The first day of School will be
-on <strong><u>Thursday, 2 January 2025.</u></strong>
+on PG, typically 1 - 2 days after the posting is confirmed.</p>
+<p>Please note: Parents are strongly encouraged to purchase uniforms and
+books only after receiving the class allocation on Parents Gateway.</p>
+<p><strong>The first day of school will be on Friday, 2 January 2026.</strong>
 </p>
+<p></p>
 <h4><strong>Reporting Time</strong></h4>
 <p>The <strong>Flag-Raising Ceremony</strong> begins promptly at <strong>7.30am</strong> daily.
 All students are expected to be present and prepared before it starts.
@@ -34,16 +34,18 @@ bags in the classroom and place their phones in the lockers before proceeding
 to the ceremony.</p>
 <p></p>
 <h4><strong>First Day of School</strong></h4>
-<p>On the first day of school, students should report in their Hua Yi PE
-Attire with Uniform Bottoms, and gather at their respective Secondary 1
-Classroom on Level 4. From there, their seniors will then lead them to
-the School Hall (Centrestage) for the Flag-Raising Ceremony.</p>
-<p>Please see the <a href="https://drive.google.com/file/d/1MVhAb5qs3nA95acZTUAACZ7beaMHIsF6/view?usp=drive_link" rel="noopener nofollow" target="_blank">attached file</a> the
-for the classroom allocation.</p>
+<p>The Flag-Raising Ceremony begins promptly at 7:30 a.m. daily. All students
+are expected to be present and prepared before it starts. To ensure this,
+students should allow sufficient time to deposit their bags in the classroom
+and place their phones in the lockers before proceeding to the ceremony.</p>
+<p>First Day of School</p>
+<p>On the first day of school, students should report in their PE/House Tee
+with Uniform Bottoms, and gather at their respective Secondary 1 Classroom
+on Level 2. From there, their seniors will then lead them to the School
+Hall (Centrestage) for the Flag-Raising Ceremony.</p>
+<p>Please see the <strong>attached file</strong> for the classroom allocation.</p>
 <p>Students who did not manage to purchase the Hua Yi school uniform can
 report in their primary school uniform.</p>
-<p>Students will be dismissed at 5.30pm on 2 January after Day 1 of Sec 1
-Orientation Camp (S1OC).</p>
 <h4><strong>Uniform Guidelines</strong></h4>
 <p>Please refer to the table below on the details for school attire. Students
 will be briefed on the first day of school as well.</p>
