@@ -498,17 +498,16 @@ be able to experience digital payments in a safe and secured environment.</p>
 </p>
 <p>You can also download the POSB Smart Buddy mobile app and link these cards/watches
 to track your child’s payments and savings.</p>
-<p><strong><a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy%23slideToN101C3" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy#slideToN101C3</u></a></strong>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>https://www.posb.com.sg/personal/deposits/bank-with-ease/sb-card</u></a></strong>
 </p>
-<p></p>
 <h3><strong>Important Information for SELECTED Students</strong></h3>
-<p><strong><u>Financial Assistance Scheme (2025)</u></strong>
+<p><strong><u>Financial Assistance Scheme (2026)</u></strong>
 <br>Please login to the MOE FAS Application using the e-FAS form which is
 available on Parents Gateway (under Services tab – Financial Assistance)
-via Singpass login.&nbsp;</p>
+via Singpass login.</p>
 <p></p>
-<p>Alternatively, the 2025 e-FAS link is provided below.&nbsp;&nbsp;</p>
-<p><strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a></strong>
+<p>Alternatively, the 2026 e-FAS link/ QR code is provided below.&nbsp;</p>
+<p><strong>eFAS <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68b7e92465cd36be287889c6</a></strong>
 </p>
 <p></p>
 <p>Please submit the online application together with the supporting documents
@@ -520,26 +519,25 @@ or contact us at 6563 4568 should you have further queries.</p>
 are collecting the approval letter for your MOE FAS Application.&nbsp;</p>
 <h4><strong>Standing Order for Use of Edusave Account (EPSO)</strong></h4>
 <p>Please login to Parents Gateway and complete the online form under the
-Services Tab. This form is to be used by the parent/guardian of a Singapore
-citizen student to use the Edusave account of his/her child to pay for
-approved fees by MOE and enrichment programmes.</p>
+Services Tab by the end of January.</p>
+<p>This form is to be used by the parent/guardian of a Singapore citizen
+student to use the Edusave account of his/her child to pay for approved
+fees by MOE and enrichment programmes.</p>
 <p></p>
 <h4><strong>Apply for eGiro</strong></h4>
-<p>Please login to Parents gateway and complete the online form for e-GIRO
-setup for fees deduction under the Services Tab.</p>
+<p>Please login to Parents Gateway and complete the online form for e-GIRO
+setup for fees and school charges deduction under the Services Tab.</p>
 <h4><strong>Taking Subjects at a More Demanding Level</strong></h4>
 <p>For students who qualify to take subjects at a more demanding level, a
-message will be sent via Parents Gateway by 23 December 2024, 5.00pm, and
-a response will be required. More information can be found in the attached
-slides&nbsp;<a href="https://drive.google.com/file/d/1LRtJrMZ3prtoRSBe9R8J9v41qni6J_DP/view?usp=sharing" rel="noopener nofollow" target="_blank">attached slides.</a>
+message will be sent via Parents Gateway by <strong>23 December 2025, 5:00 p.m.</strong>,
+and a response will be required. More information can be found in the&nbsp;<strong>attached slides.</strong>
 </p>
-<p></p>
-<h4><strong>Higher Mother Tongue</strong></h4>
+<h4><strong>Higher Mother Tongue and other MTL (MTL in-lieu, NTIL &amp; Third Language)</strong></h4>
 <p>For students who qualify for Higher Mother Tongue, a message will be sent
 via Parents Gateway in the next few days, and a response will be required.
 <br>
-<br>Please refer to the <a href="https://drive.google.com/file/d/1yqivlV1wMbR5AMOwQiOT-R0-d4gYwpkr/view?usp=sharing" rel="noopener nofollow" target="_blank">attached FAQ</a>&nbsp;for
-more information on Higher Mother Tongue and Non-Conventional Mother Tongue.</p>
+<br>Please refer to the&nbsp;<strong>attached FAQ</strong>&nbsp;for more information
+on Higher Mother Tongue, MTL in-lieu, NTIL and Third Language. &nbsp;</p>
 <p></p>
 <h4><strong>Art Elective Programme &amp; Music Elective Programme</strong>.</h4>
 <p>For students who are interested in the Art/Music Elective Programme, please
