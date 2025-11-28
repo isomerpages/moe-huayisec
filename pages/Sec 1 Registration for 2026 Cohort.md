@@ -240,9 +240,8 @@ Please confirm your attendance by responding to the message regarding your
 child’s class allocation, which will be sent via <strong>Parents Gateway</strong>.
 <br>
 <br><strong>Date: </strong>6 Jan 2026 (Tues)
-<br><strong>Time: </strong>5.00 pm&nbsp; - 7.30 pm</p>
-<p><strong>Venue: </strong>HYSS Centrestage (Level 2)</p>
-<p>
+<br><strong>Time: </strong>5.00 pm&nbsp;- 7.30 pm</p>
+<p><strong>Venue: </strong>HYSS Centrestage (Level 2)
 <br><strong>Programme Overview:<br></strong>5.00 - 5.30pm: Refreshments</p>
 <p>5.30 - 7.30pm: Secondary 1 Orientation Camp Finale</p>
 <h4><strong>Sale of Uniform, Textbooks and Stationery</strong></h4>
