@@ -25,7 +25,7 @@ sections:
       title: LATEST EVENTS
       button: More upcoming events
       url: https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/calendar/
-      image: /images/2025/Oct_to_Dec.png
+      image: /images/2026/22_Nov_2025___1_May_2026.png
       alt: Image alt text
   - infopic:
       title: QUICK FACTS ABOUT HUA YI
