@@ -535,7 +535,13 @@ more information on Higher Mother Tongue, MTL in-lieu, NTIL and Third Language.
 <p>For students who are interested in the Art/Music Elective Programme, please
 refer to the information below.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Art_Elective.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Music_Elective.png">
+</div>
 <h4><strong>Transfers &amp; Appeals</strong></h4>
 <p>Do take note of the information regarding transfer to another school,
 or for appeals to Hua Yi.
