@@ -521,7 +521,7 @@ setup for fees and school charges deduction under the Services Tab.</p>
 <p>For students who qualify to take subjects at a more demanding level, a
 message will be sent via Parents Gateway by <strong>23 December 2025, 5:00 p.m.</strong>,
 and a response will be required. More information can be found in the<strong> </strong>
-<a href="/files/2026 Files/Sec_1_FSBB_Slides__2026_intake__final_.pdf" rel="noopener nofollow" target="_blank">attached slifiledes</a><strong>.</strong>
+<a href="/files/2026 Files/Sec_1_FSBB_Slides__2026_intake__final_.pdf" rel="noopener nofollow" target="_blank">attached slides</a><strong>.</strong>
 </p>
 <h4><strong>Higher Mother Tongue and other MTL (MTL in-lieu, NTIL &amp; Third Language)</strong></h4>
 <p>For students who qualify for Higher Mother Tongue, a message will be sent
