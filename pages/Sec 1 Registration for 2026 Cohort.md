@@ -240,10 +240,10 @@ Performance</p>
 Please confirm your attendance by responding to the message regarding your
 child’s class allocation, which will be sent via <strong>Parents Gateway</strong>.
 <br>
-<br><strong>Date: </strong>6 Jan 2026 (Tues)
-<br><strong>Time: </strong>5.00 pm&nbsp;- 7.30 pm</p>
-<p><strong>Venue: </strong>HYSS Centrestage (Level 2)
-<br><strong>Programme Overview:<br></strong>5.00 - 5.30pm: Refreshments</p>
+<br><strong>Date: </strong>6 Jan 2026 (Tues)</p>
+<p><strong>Time: </strong>5.00 pm&nbsp;- 7.30 pm</p>
+<p><strong>Venue: </strong>HYSS Centrestage (Level 2)</p>
+<p><strong>Programme Overview:<br></strong>5.00 - 5.30pm: Refreshments</p>
 <p>5.30 - 7.30pm: Secondary 1 Orientation Camp Finale</p>
 <h4><strong>Sale of Uniform, Textbooks and Stationery</strong></h4>
 <table style="minWidth: 25px">
@@ -255,8 +255,7 @@ child’s class allocation, which will be sent via <strong>Parents Gateway</stro
 <td rowspan="1" colspan="1">
 <p><strong><u>Sale of Uniform, Textbooks and Stationery</u></strong>
 </p>
-<p>
-<br>Uniforms, textbooks and stationery will be sold at our school. Please
+<p>Uniforms, textbooks and stationery will be sold at our school. Please
 see the table below for the operating dates and time.
 <br>
 <br>Mode of payment: Cash or PayNow
@@ -288,20 +287,19 @@ see the table below for the operating dates and time.
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>Venue</strong>
+<p><strong>Venue</strong>
 <br>Blk D Level 1 classrooms – Books
 <br>Blk E Level 1 classrooms – Uniform
 <br>
-<br>Alternatively, you may wish to purchase the books online, <a rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>
+<br>Alternatively, you may wish to purchase the books online, <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>
 </p>
 <p>
 <br><strong>Textbooks &amp; Stationery</strong>
 <br>
 <br>
 </p>
-<p>Please refer to the <strong><a href="https://huayisec.moe.edu.sg/qql/slot/u175/Latest%20News/2022/Sec%201%20Registration/Sec%201%20Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">attached booklist</a></strong> for
-the required books and stationery.</p>
+<p>Please refer to the <strong><u>attached booklist</u></strong> for the required
+books and stationery.</p>
 <p>For <strong>online purchases</strong>, orders must be completed by <strong>20 December 2025</strong> to
 ensure delivery before the start of the school year.</p>
 <p>Please note that <strong>online sales are not applicable to FAS students</strong>.</p>
@@ -426,7 +424,7 @@ ensure delivery before the start of the school year.</p>
 </tbody>
 </table>
 <p>
-<br>Please refer to the&nbsp;<a href="/files/2026 Files/Sec_1_2026_CCA_Experience_Programme.pdf" rel="noopener nofollow" target="_blank">attached document</a>for
+<br>Please refer to the&nbsp;<a href="/files/2026 Files/Sec_1_2026_CCA_Experience_Programme.pdf" rel="noopener nofollow" target="_blank">attached document </a>for
 the timeline of the CCA Experience for Secondary One students at Hua Yi.
 The CCA Experience includes trials, experiencing the CCA activities and
 programmes, registration and allocation). Students will receive a detailed
@@ -449,11 +447,11 @@ best possible support for our children’s education. We warmly invite parents
 to join us in this meaningful effort, where we can collaborate, network
 and share resources to offer strategic support for our students’ growth
 and success.</p>
-<p>You can find out more about HYSS PSG at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/</a></strong>
+<p>You can find out more about HYSS PSG at&nbsp;<strong><a href="https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/</a></strong>
 <br>If you would like to work with the school to enhance learning experiences
 for our students, and connect with other parents, we invite you to join
 our Parent Support Group through this link:
-<br><strong><a rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLScjK-zWdtQk5pIRjQvzU3U1cvUpH0bFD8ks_8i-ZlUOwTnUrQ/viewf</a><a href="https://docs.google.com/forms/d/e/1FAIpQLScjK-zWdtQk5pIRjQvzU3U1cvUpH0bFD8ks_8i-ZlUOwTnUrQ/viewform" rel="noopener noreferrer nofollow" target="_blank">orm</a></strong>
+<br><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScjK-zWdtQk5pIRjQvzU3U1cvUpH0bFD8ks_8i-ZlUOwTnUrQ/viewform" rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLScjK-zWdtQk5pIRjQvzU3U1cvUpH0bFD8ks_8i-ZlUOwTnUrQ/viewform</a></strong>
 </p>
 <h4><strong>Car Decal&nbsp;</strong></h4>
 <p>Cars entering the school compound for drop-off and pick-up are required
@@ -493,15 +491,15 @@ be able to experience digital payments in a safe and secured environment.</p>
 </p>
 <p>You can also download the POSB Smart Buddy mobile app and link these cards/watches
 to track your child’s payments and savings.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>https://www.posb.com.sg/personal/deposits/bank-with-ease/sb-card</u></a></strong>
+<p><strong><a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/sb-card" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.posb.com.sg/personal/deposits/bank-with-ease/sb-card</u></a></strong>
 </p>
 <h3><strong>Important Information for SELECTED Students</strong></h3>
 <p><strong><u>Financial Assistance Scheme (2026)</u></strong>
 <br>Please login to the MOE FAS Application using the e-FAS form which is
 available on Parents Gateway (under Services tab – Financial Assistance)
 via Singpass login.</p>
-<p>Alternatively, the 2026 e-FAS link/ QR code is provided below.&nbsp;</p>
-<p><strong>eFAS <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68b7e92465cd36be287889c6</a></strong>
+<p>Alternatively, the 2026 e-FAS link is provided below.&nbsp;</p>
+<p><strong>eFAS <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68b7e92465cd36be287889c6</a></strong>
 </p>
 <p>Please submit the online application together with the supporting documents
 or contact us at 6563 4568 should you have further queries.</p>
