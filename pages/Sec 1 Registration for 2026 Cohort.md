@@ -35,6 +35,10 @@ bags in the classroom and place their phones in the lockers before proceeding
 to the ceremony.</p>
 <p></p>
 <h4><strong>First Day of School</strong></h4>
+<p>On the first day of school, students should report in their PE/House Tee
+with Uniform Bottoms, and gather at their respective Secondary 1 Classroom
+on Level 2. From there, their seniors will then lead them to the School
+Hall (Centrestage) for the Flag-Raising Ceremony.</p>
 <p>Please see the <strong>attached file</strong> for the classroom allocation.</p>
 <p>Students who did not manage to purchase the Hua Yi school uniform can
 report in their primary school uniform.</p>
@@ -559,7 +563,4 @@ Yi Secondary School at XXXXX (link)</p>
 unsuccessful if you do not hear from the school by 2 January 2026</p>
 <p>
 <br>All appeals must be submitted latest by&nbsp;<strong><u>XX December 2025, 12.00pm (at least 5 calendar days)</u></strong>
-</p>
-<p>
-<br>
 </p>
