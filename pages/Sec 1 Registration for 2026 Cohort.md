@@ -35,10 +35,6 @@ bags in the classroom and place their phones in the lockers before proceeding
 to the ceremony.</p>
 <p></p>
 <h4><strong>First Day of School</strong></h4>
-<p>The Flag-Raising Ceremony begins promptly at 7:30 a.m. daily. All students
-are expected to be present and prepared before it starts. To ensure this,
-students should allow sufficient time to deposit their bags in the classroom
-and place their phones in the lockers before proceeding to the ceremony.</p>
 <p>Please see the <strong>attached file</strong> for the classroom allocation.</p>
 <p>Students who did not manage to purchase the Hua Yi school uniform can
 report in their primary school uniform.</p>
