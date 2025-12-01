@@ -22,7 +22,8 @@ will be sent via Parents Gateway (PG).</p>
 class allocation and Subject-Based Banding (SBB) offerings will be shared
 on PG, typically 1 - 2 days after the posting is confirmed.</p>
 <p>Please note: Parents are strongly encouraged to purchase uniforms and
-books only after receiving the class allocation on Parents Gateway.</p>
+books <strong>only after receiving the class allocation</strong> on Parents
+Gateway.</p>
 <p><strong>The first day of school will be on Friday, 2 January 2026.</strong>
 </p>
 <p></p>
