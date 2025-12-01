@@ -39,11 +39,6 @@ to the ceremony.</p>
 are expected to be present and prepared before it starts. To ensure this,
 students should allow sufficient time to deposit their bags in the classroom
 and place their phones in the lockers before proceeding to the ceremony.</p>
-<p>First Day of School</p>
-<p>On the first day of school, students should report in their PE/House Tee
-with Uniform Bottoms, and gather at their respective Secondary 1 Classroom
-on Level 2. From there, their seniors will then lead them to the School
-Hall (Centrestage) for the Flag-Raising Ceremony.</p>
 <p>Please see the <strong>attached file</strong> for the classroom allocation.</p>
 <p>Students who did not manage to purchase the Hua Yi school uniform can
 report in their primary school uniform.</p>
