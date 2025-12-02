@@ -10,7 +10,7 @@ description: ""
 forward to partnering with you to nurture and develop your child to their
 fullest potential. Please take a moment to watch the video below for a
 welcome message from our Principal.</p>
-<p><u>To embed Youtube video link here.</u>
+<p><a href="https://youtu.be/Y_cyCZwtRIs" rel="noopener nofollow" target="_blank">Principal welcome message</a>
 </p>
 <h4><strong>Important Information for ALL Students</strong></h4>
 <p><strong>Secondary 1 Registration Information</strong>
