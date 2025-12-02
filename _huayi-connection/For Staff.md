@@ -132,7 +132,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/66135d7f6e46a546501eef1c" rel="noopener nofollow" target="_blank">Application for Time Off</a>
+<p><a href="https://form.gov.sg/692e3cc154a9b65d4c26eaf0" rel="noopener nofollow" target="_blank">Application for Time Off</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/hysscardecal" rel="noopener nofollow" target="_blank">Application for Car Decal (Parents)</a>
+<p><a href="https://go.gov.sg/hysscardecalapplication2026" rel="noopener nofollow" target="_blank">Application for Car Decal (Parents)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
