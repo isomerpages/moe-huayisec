@@ -59,10 +59,10 @@ their PE T-shirt.</p>
 </div>
 <p>
 <br>Parents will be notified of their child’s class allocation via Parents
-Gateway (PG) by <strong>TBD</strong>. We kindly request your response through
+Gateway (PG) by 22 December 2025. We kindly request your response through
 PG to a few questions (e.g., level T-shirt size, dietary requirement(s),
 medical condition(s), attendance for Secondary 1 Orientation Camp Finale)
-by <strong>TBD,</strong>
+by 23 December 2025<strong>,</strong>
 </p>
 <h4><strong>Sec 1 Start-It-Right and Orientation Programme</strong></h4>
 <p>For the first week of school, a Start-It-Right and Orientation Programme
@@ -454,7 +454,7 @@ to display a designated car decal daily. Each decal cost $3 and remains
 valid until your child graduates from Hua Yi.&nbsp;</p>
 <p>Kindly complete the form below by 30 December 2025 to purchase a decal.
 Payment will be deducted via Giro and additional details will be provided
-on the decal collection date. <strong><br><a href="https://go.gov.sg/hysscardecalapplication" rel="noopener noreferrer nofollow" target="_blank"><u>Car Decal Purchase Form 2025</u></a></strong>
+on the decal collection date. <strong><br><a href="https://go.gov.sg/hysscardecalapplication2026" rel="noopener noreferrer nofollow" target="_blank"><u>Car Decal Purchase Form 2026</u></a></strong>
 </p>
 <h4><strong>HPB Child Consent Portal</strong></h4>
 <p>There will be HPB's health, immunisation and dental screening for the
@@ -557,10 +557,11 @@ at the school your child has been posted to</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensure that you meet the cut-off
 for Hua Yi Secondary&nbsp;School</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit an appeal form&nbsp;to Hua
-Yi Secondary School at XXXXX (link)</p>
+Yi Secondary School at <a href="https://go.gov.sg/2026hysss1appeal" rel="noopener nofollow" target="_blank">2026 HYSS S1 Appeal</a>
+</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wait for the results of your appeal</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application is deemed to be
 unsuccessful if you do not hear from the school by 2 January 2026</p>
 <p>
-<br>All appeals must be submitted latest by&nbsp;<strong><u>XX December 2025, 12.00pm (at least 5 calendar days)</u></strong>
+<br>All appeals must be submitted latest by <strong><u>26 December 2025, 12.00pm</u></strong>
 </p>
