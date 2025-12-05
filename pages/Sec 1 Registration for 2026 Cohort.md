@@ -293,8 +293,8 @@ see the table below for the operating dates and time.
 <br>
 <br>
 </p>
-<p>Please refer to the <strong><u>attached booklist</u></strong> for the required
-books and stationery.</p>
+<p>Please refer to the <strong><a href="/files/2026 Files/S1_Booklist__YR2026_.pdf" rel="noopener nofollow" target="_blank">booklist</a> </strong>for
+the required books and stationery.</p>
 <p>For <strong>online purchases</strong>, orders must be completed by <strong>20 December 2025</strong> to
 ensure delivery before the start of the school year.</p>
 <p>Please note that <strong>online sales are not applicable to FAS students</strong>.</p>
