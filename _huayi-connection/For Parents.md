@@ -15,7 +15,7 @@ variant: tiptap
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/hysscardecal" rel="noopener nofollow" target="_blank">Application for Car Decal (Parents)</a>
+<p><a href="https://go.gov.sg/hysscardecalapplication2026" rel="noopener nofollow" target="_blank">Application for Car Decal (Parents)</a>
 </p>
 </li>
 <li>
