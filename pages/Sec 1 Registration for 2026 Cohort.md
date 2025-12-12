@@ -26,14 +26,12 @@ books <strong>only after receiving the class allocation</strong> on Parents
 Gateway.</p>
 <p><strong>The first day of school will be on Friday, 2 January 2026.</strong>
 </p>
-<p></p>
 <h4><strong>Reporting Time</strong></h4>
-<p>The <strong>Flag-Raising Ceremony</strong> begins promptly at <strong>7.30am</strong> daily.
+<p>The <strong>Flag-Raising Ceremony</strong> begins promptly at <strong>7.30 a.m.</strong> daily.
 All students are expected to be present and prepared before it starts.
 To ensure this, students should allow sufficient time to deposit their
 bags in the classroom and place their phones in the lockers before proceeding
 to the ceremony.</p>
-<p></p>
 <h4><strong>First Day of School</strong></h4>
 <p>On the first day of school, students should report in their PE/House Tee
 with Uniform Bottoms, and gather at their respective Secondary 1 Classroom
@@ -45,7 +43,6 @@ report in their primary school uniform.</p>
 <h4><strong>Uniform Guidelines</strong></h4>
 <p>Please refer to the table below on the details for school attire. Students
 will be briefed on the first day of school as well.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Uniform_Guidelines.png">
 </div>
@@ -62,184 +59,27 @@ their PE T-shirt.</p>
 Gateway (PG) by 22 December 2025. We kindly request your response through
 PG to a few questions (e.g., level T-shirt size, dietary requirement(s),
 medical condition(s), attendance for Secondary 1 Orientation Camp Finale)
-by 23 December 2025<strong>,</strong>
+by 23 December 2025<strong>.</strong>
 </p>
 <h4><strong>Sec 1 Start-It-Right and Orientation Programme</strong></h4>
 <p>For the first week of school, a Start-It-Right and Orientation Programme
 has been planned for the students, to facilitate their transition to secondary
 school. Please see the table below for the relevant information. More details
-will be provided to the students on the first day of school.
-<br>
-</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Day / Date</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Reporting Venue</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Reporting Attire</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Event</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Friday<br>2 Jan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>7.30 a.m. – 12.20 p.m.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Respective Sec 1 Classrooms (Level 2)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>PE/House Tee with Uniform Bottoms</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Start-It-Right Programme</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Principal’s Welcome</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grand Welcome House Assembly</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; House Engagement Session</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whole School &amp; House Cheer Session</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Monday<br>5 Jan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>7.30 a.m. – 5.00 p.m.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Centrestage (School Hall)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Full School Uniform with School Tie</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>(Note: Bring PE attire to change)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Start-It-Right Programme - <br>Sec 1 Orientation Camp</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Form Teacher Time</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start-It-Right Talk</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Decoration Planning</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sec 1 Orientation Camp</p>
-<p>&nbsp;</p>
-<p><strong>Note:</strong> Lunch and afternoon tea provided</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tuesday<br>6 Jan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>7.30 a.m. – 7.30 p.m.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Respective Sec 1 Classrooms (Level 2)</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>House Tee with Uniform Bottoms</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>(Note: Bring PE shorts to change)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Start-It-Right Programme - Sec 1 Orientation Camp</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hua Yi Bonsai Programme</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA Selection Talk</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PDLP Briefing</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sec 1 Orientation Camp / Finale
-Performance</p>
-<p>&nbsp;</p>
-<p><strong>Note:</strong> Morning tea, lunch and dinner provided</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Wednesday<br>7 Jan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>7.30 a.m. – 1.40 p.m.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Respective Sec 1 Classrooms (Level 2)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Hua Yi Polo Tee with Uniform Bottom</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Start-It-Right Programme</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transition Programme</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class Bonding Activity</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong><br>Sec 1 Orientation Camp Finale with Secondary 1 Parents</strong></h4>
+will be provided to the students on the first day of school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Sec1_Orientation_2026.jpg">
+</div>
+<h4><strong>Sec 1 Orientation Camp Finale with Secondary 1 Parents</strong></h4>
 <p>We warmly invite all Secondary 1 parents to attend the <strong>Secondary One Orientation Camp Finale</strong>.
 Please confirm your attendance by responding to the message regarding your
 child’s class allocation, which will be sent via <strong>Parents Gateway</strong>.
 <br>
 <br><strong>Date: </strong>6 Jan 2026 (Tues)</p>
-<p><strong>Time: </strong>5.00 pm&nbsp;- 7.30 pm</p>
+<p><strong>Time: </strong>5.00 p.m.&nbsp;- 7.30 p.m.</p>
 <p><strong>Venue: </strong>HYSS Centrestage (Level 2)</p>
-<p><strong>Programme Overview:<br></strong>5.00 - 5.30pm: Refreshments</p>
-<p>5.30 - 7.30pm: Secondary 1 Orientation Camp Finale</p>
+<p><strong>Programme Overview:<br></strong>5.00 - 5.30 p.m.: Refreshments</p>
+<p>5.30 - 7.30 p.m.: Secondary 1 Orientation Camp Finale</p>
 <h4><strong>Sale of Uniform, Textbooks and Stationery</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -277,7 +117,7 @@ see the table below for the operating dates and time.
 <p>18, 19, 22, 23 &amp; 26 December</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 am – 3.00 pm</p>
+<p>9.00 a.m. – 3.00 p.m.</p>
 </td>
 </tr>
 </tbody>
@@ -285,12 +125,10 @@ see the table below for the operating dates and time.
 <p><strong>Venue</strong>
 <br>Blk D Level 1 classrooms – Books
 <br>Blk E Level 1 classrooms – Uniform
-<br>
 <br>Alternatively, you may wish to purchase the books online, <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>
 </p>
 <p>
 <br><strong>Textbooks &amp; Stationery</strong>
-<br>
 <br>
 </p>
 <p>Please refer to the <strong><a href="/files/2026 Files/S1_Booklist__YR2026_.pdf" rel="noopener nofollow" target="_blank">booklist</a> </strong>for
@@ -298,12 +136,10 @@ the required books and stationery.</p>
 <p>For <strong>online purchases</strong>, orders must be completed by <strong>20 December 2025</strong> to
 ensure delivery before the start of the school year.</p>
 <p>Please note that <strong>online sales are not applicable to FAS students</strong>.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>CCA Information</strong></h4>
 <p>Below is the list of CCAs offered in our school:</p>
 <table style="minWidth: 100px">
@@ -476,7 +312,16 @@ they receive their new card (till end April 2025).</p>
 students while using their old card.</p>
 </li>
 </ul>
-<h4><strong>POSB Smart Buddy Programme (For Non-FAS students )</strong></h4>
+<h4><strong>Standing Order for Use of Edusave Account (EPSO)</strong></h4>
+<p>Please login to Parents Gateway and complete the online form under the
+Services Tab by the end of January.</p>
+<p>This form is to be used by the parent/guardian of a Singapore citizen
+student to use the Edusave account of his/her child to pay for approved
+fees by MOE and enrichment programmes.</p>
+<h4><strong>Apply for eGiro</strong></h4>
+<p>Please login to Parents Gateway and complete the online form for e-GIRO
+setup for fees and school charges deduction under the Services Tab.</p>
+<h4><strong>POSB Smart Buddy Programme (For Non-FAS students)</strong></h4>
 <p>We have successfully implemented POSB Smart Buddy as an e-payment option
 in our school canteen. With this implementation in Hua Yi Secondary School,
 all our students can now opt to use e-payments for their in-school purchases.
@@ -503,15 +348,6 @@ or contact us at 6563 4568 should you have further queries.</p>
 </p>
 <p>Please register your School Smart Card with the General Office when you
 are collecting the approval letter for your MOE FAS Application.&nbsp;</p>
-<h4><strong>Standing Order for Use of Edusave Account (EPSO)</strong></h4>
-<p>Please login to Parents Gateway and complete the online form under the
-Services Tab by the end of January.</p>
-<p>This form is to be used by the parent/guardian of a Singapore citizen
-student to use the Edusave account of his/her child to pay for approved
-fees by MOE and enrichment programmes.</p>
-<h4><strong>Apply for eGiro</strong></h4>
-<p>Please login to Parents Gateway and complete the online form for e-GIRO
-setup for fees and school charges deduction under the Services Tab.</p>
 <h4><strong>Taking Subjects at a More Demanding Level</strong></h4>
 <p>For students who qualify to take subjects at a more demanding level, a
 message will be sent via Parents Gateway by <strong>23 December 2025, 5:00 p.m.</strong>,
@@ -537,8 +373,8 @@ refer to the information below.</p>
 </div>
 <h4><strong>Transfers &amp; Appeals</strong></h4>
 <p>Do take note of the information regarding transfer to another school,
-or for appeals to Hua Yi.
-<br>
+or for appeals to Hua Yi.</p>
+<p>
 <br><strong>Transfer to another school</strong>
 </p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensure that you acknowledge the
