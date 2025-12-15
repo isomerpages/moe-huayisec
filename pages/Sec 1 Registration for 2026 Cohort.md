@@ -400,5 +400,5 @@ Yi Secondary School at <a href="https://go.gov.sg/2026hysss1appeal" rel="noopene
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application is deemed to be
 unsuccessful if you do not hear from the school by 2 January 2026</p>
 <p>
-<br>All appeals must be submitted latest by <strong><u>26 December 2025, 12.00pm</u></strong>
+<br>All appeals must be submitted latest by <strong><u>23 December 2025, 12.00pm</u></strong>
 </p>
