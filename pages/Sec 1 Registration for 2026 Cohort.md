@@ -15,7 +15,7 @@ welcome message from our Principal.</p>
 <h4><strong>Important Information for ALL Students</strong></h4>
 <p><strong>Secondary 1 Registration Information</strong>
 </p>
-<p>All Secondary 1 students posted to Hua Yi Secondary school are required
+<p>All Secondary 1 students posted to Hua Yi Secondary School are required
 to review the registration details below carefully. Additional details
 will be sent via Parents Gateway (PG).</p>
 <p>The e-Registration process will be conducted through PG. Information regarding
@@ -37,7 +37,8 @@ to the ceremony.</p>
 with Uniform Bottoms, and gather at their respective Secondary 1 Classroom
 on Level 2. From there, their seniors will then lead them to the School
 Hall (Centrestage) for the Flag-Raising Ceremony.</p>
-<p>Please see the <strong>attached file</strong> for the classroom allocation.</p>
+<p>Please see the<strong> <a href="/files/2026 Files/Classroom_Allocation_for_2026.pdf" rel="noopener nofollow" target="_blank">attached file</a></strong> for
+the classroom allocation.</p>
 <p>Students who did not manage to purchase the Hua Yi school uniform can
 report in their primary school uniform.</p>
 <h4><strong>Uniform Guidelines</strong></h4>
@@ -56,10 +57,10 @@ their PE T-shirt.</p>
 </div>
 <p>
 <br>Parents will be notified of their child’s class allocation via Parents
-Gateway (PG) by 22 December 2025. We kindly request your response through
-PG to a few questions (e.g., level T-shirt size, dietary requirement(s),
-medical condition(s), attendance for Secondary 1 Orientation Camp Finale)
-by 23 December 2025<strong>.</strong>
+Gateway (PG) by <strong>22 December 2025</strong>. We kindly request your
+response through PG to a few questions (e.g., level T-shirt size, dietary
+requirement(s), medical condition(s), attendance for Secondary 1 Orientation
+Camp Finale) by <strong>23 December 2025.</strong>
 </p>
 <h4><strong>Sec 1 Start-It-Right and Orientation Programme</strong></h4>
 <p>For the first week of school, a Start-It-Right and Orientation Programme
@@ -67,9 +68,6 @@ has been planned for the students, to facilitate their transition to secondary
 school. Please see the table below for the relevant information. More details
 will be provided to the students on the first day of school.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Sec1_Orientation_2026.jpg">
-</div>
 <h4><strong>Sec 1 Orientation Camp Finale with Secondary 1 Parents</strong></h4>
 <p>We warmly invite all Secondary 1 parents to attend the <strong>Secondary One Orientation Camp Finale</strong>.
 Please confirm your attendance by responding to the message regarding your
