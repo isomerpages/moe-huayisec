@@ -68,6 +68,9 @@ has been planned for the students, to facilitate their transition to secondary
 school. Please see the table below for the relevant information. More details
 will be provided to the students on the first day of school.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Sec_1_Orientation_2026.png">
+</div>
 <h4><strong>Sec 1 Orientation Camp Finale with Secondary 1 Parents</strong></h4>
 <p>We warmly invite all Secondary 1 parents to attend the <strong>Secondary One Orientation Camp Finale</strong>.
 Please confirm your attendance by responding to the message regarding your
