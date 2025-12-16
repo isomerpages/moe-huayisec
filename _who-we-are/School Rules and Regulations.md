@@ -162,8 +162,8 @@ Students may be asked to purchase a new set of uniform or shoes if their
 attire does not meet school standards.</p>
 <p>7. The school reserves the right to take disciplinary action against any
 student found with tattoos and/or body piercings. This may include suspension.</p>
-<p><strong>D. Classroom Expectations</strong> 
-<br>1. Classrooms are used for the purpose of learning only.</p>
+<h4><strong>D. Classroom Expectations</strong> </h4>
+<p>1. Classrooms are used for the purpose of learning only.</p>
 <p>2. Each class should take personal responsibility for the cleanliness
 and neatness of the classroom.</p>
 <p>3. Students are not allowed to consume food and drinks in the classrooms
