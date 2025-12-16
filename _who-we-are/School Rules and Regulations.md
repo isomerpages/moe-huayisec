@@ -444,9 +444,746 @@ the school in the National School Games or in internationalisation trips.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
+<p><strong>SCHOOL AND CCA ATTENDANCE</strong>
+</p>
+<p>Regular attendance and punctuality for both school and Co-Curricular Activities
+(CCA) are essential to a student’s learning and character development.</p>
+<p>For conduct grading, school attendance includes the percentage of days
+the student attends school punctually, as well as absences supported by
+a valid medical certificate (MC).</p>
+<p>Similarly, CCA attendance includes the percentage of sessions the student
+attends punctually, and absences supported by a valid MC.</p>
+<p>Late-coming or absence from school or CCA without a valid medical certificate
+will adversely affect the student’s Conduct Grade.</p>
+<p><strong>MERIT AND DEMERIT SYSTEM</strong>
+</p>
+<p>Every student begins each year with a benchmark of 75 points, which is
+equivalent to a “Very Good” conduct grade. Merit points will raise the
+benchmark and demerit points will reduce it. Every teacher can award merit
+and demerit points to deserving students.</p>
+<p><strong>Merit points</strong>
+</p>
+<p>Students can be awarded merit points for good behaviour or socially-responsible
+acts such as those specified below:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>COMMENDABLE ACTIONS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>POINTS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><u>BENEVOLENCE</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Displaying a consistently high level of courtesy or respect towards others</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Going out of the way to help a schoolmate, staff or member of public</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><u>JUSTICE</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reporting or stopping offensive behaviour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Displaying acts of bravery or public spiritedness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><u>WISDOM</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Demonstrating a consistently high level of responsibility towards self
+and others</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Putting in consistent effort to improve behaviour or performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><u>TOGETHERNESS</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Achieving good performance as a class in level or school activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspiring others to display good behaviour or performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<strong>Demerit points</strong>
+</p>
+<p>All students are empowered to make responsible choices aligned to the
+school values. At the same time, students can expect to face disciplinary
+consequences if they choose to behave irresponsibly or violate school rules.</p>
+<p>Students will receive demerit points and disciplinary consequences for
+offences committed in accordance with the Table of Offences on the next
+page:</p>
+<p>&nbsp;</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OFFENCES</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DESCRIPTIONS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>POINTS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>OTHER ACTIONS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong><u>ATTENDANCE</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Late-coming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Late arrival at school without a valid reason</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>School attendance/ Conduct grade will be affected</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents informed</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suspension</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Barred from taking examination</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not allowed to represent the school
+in National School Games and/or internationalisation trips.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Truancy</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Absence from school on a school day without valid reasons</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Skipping CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Complete absence from CCA without valid reasons</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Skipping classes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Absence from lessons without a valid reason despite being present in school</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leaving school grounds without permission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leaving the school grounds after reporting for school but before the end
+of the school session without approval</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong><u>MISUSE OF DIGITAL DEVICES</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OFFENCES</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DESCRIPTIONS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>POINTS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>OTHER ACTIONS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inappropriate use of mobile devices/ personal learning devices</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of mobile devices in school
+campus without teacher’s permission</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of personal learning devices
+for non-educational purposes in school</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1<sup>st</sup> and 2<sup>nd</sup> time:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mobile devices/ personal learning
+devices to be confiscated until 5 p.m. on the day of confiscation.</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ≥ 3 times</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mobile devices/ personal learning
+devices to be confiscated for 1 week.</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents informed</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Abuse of technology / Non-compliance with PDLP Acceptable Use Policy (AUP)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inappropriate or unlawful
+use of mobile devices e.g. computer, personal learning device, mobile devices
+etc. that breaches the AUP</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Making, or circulating offensive
+comments or content in a digital medium such as social media</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents informed</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suspension</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confiscation of item</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notify relevant authorities</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong><u>MISCONDUCT</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OFFENCES</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DESCRIPTIONS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>POINTS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>OTHER ACTIONS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Improper attire &amp; grooming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not complying with school rules on attire, hairdo, jewellery and other
+grooming requirements</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents informed</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suspension</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not allowed to represent the
+school in National School Games and/or internationalisation trips.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Late or non-submission of work</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not submitting class work, homework, project work or other assignments
+on time without a valid reason</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Littering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Littering on school premises or in public places</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Disruptive behaviour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Act or conduct that interferes with the smooth running of lessons or school
+events</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mischief</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Causing trouble or disturbance on school premises or in public spaces</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Abetment of a serious offence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Failing to report, or failing to provide truthful information regarding
+the commission of a serious offence to school authorities.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheating in tests / exams</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Violation of examination regulations (e.g., possession of notes, copying,
+allowing others to copy, tampering with marks).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents informed</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zero mark awarded</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Forgery</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Forging of signatures, medical certificates, consent forms, etc with the
+intention to deceive</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>10</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents informed</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confiscation of item</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suspension</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notify relevant authorities</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not allowed to represent the
+school in National School Games and/or internationalisation trips.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scams and Frauds</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Engaging in any act of deception, scam, or fraudulent behaviour intended
+to cheat, mislead, or obtain benefits dishonestly.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gambling</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Use of money for games, betting or other gambling-related activities.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Theft</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stealing school property or the property of others.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Defiance and rudeness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acts of rudeness or disrespect towards others.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong><u>DAMAGE/INFRINGEMENT OF PROPERTY</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OFFENCES</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DESCRIPTIONS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>POINTS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>OTHER ACTIONS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cybersecurity violations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unauthorised access to, misuse of, or tampering with digital accounts,
+systems, networks or data.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>10</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents informed</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confiscation of item</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suspension</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notify relevant authorities</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trespassing and unauthorised access</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Entering restricted areas or accessing facilities without authorisation.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Planting of explosives or setting of property on fire, whether attempted
+or actual</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents informed</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restitution</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Service to school</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suspension</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notify relevant authorities</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not allowed to represent the
+school in National School Games and/or internationalisation trips.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vandalism</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wilful and malicious destruction of school or personal property, writing
+of graffiti</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong><u>OTHER SERIOUS OFFENCES</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OFFENCES</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DESCRIPTIONS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>POINTS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>OTHER ACTIONS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bullying (cyber, physical, social, verbal)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A repeated pattern of behaviour where a student or group intentionally
+targets others to cause distress.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents informed</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detention</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suspension</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notify relevant authorities</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not allowed to represent the
+school in National School Games and/or internationalisation trips.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Substance abuse</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alcohol</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inhalant</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smoking</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vaping</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drug use</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Use/possession/distribution/sale of alcohol, drugs, inhalants</p>
+<p>&nbsp;</p>
+<p>Use/ possession/ distribution/ sale of cigarettes or other tobacco-related
+products (e.g. e-cigarettes etc)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents informed</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smoking cessation counselling</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suspension</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notify relevant authorities</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not allowed to represent the
+school in National School Games and/or internationalisation trips.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assault</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Violent attack against person(s), regardless of injury</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents informed</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suspension</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notify relevant authorities</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not allowed to represent the
+school in National School Games and/or internationalisation trips.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fighting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical confrontation between individuals or groups, involving attempts
+to harm, intimidate, or gain dominance over others, whether with bodily
+force or with the use of objects as weapons.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gangsterism</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gang assault threat/ harassment/extortion, whether actual or attempted</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Possession of weapons</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Possession of weapon or weapon-like item which can be used or intended to be used to cause harm to others</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sexual Misconduct</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pornography</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual harassment</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual exploitation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual abuse/assault</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other forms of sexual misconduct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consumption/possession/ distribution/sale of pornographic materials</p>
+<p>&nbsp;</p>
+<p>Illegal/inappropriate acts of a sexual nature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Other serious offences that do not fall in above categories</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The nature of these offences would be so serious that they may cause harm
+to person(s) or smear the reputation of person(s) or institution(s) etc.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
