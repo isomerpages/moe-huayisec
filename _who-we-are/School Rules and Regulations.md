@@ -10,112 +10,105 @@ develop self-discipline and to imbibe a sense of accountability to self
 and others in the school and community.</p>
 <h4>Attendance</h4>
 <h5>Flag-raising and Pledge-taking Ceremony</h5>
-<p>1 . Students should arrive in school by 7.30am in accordance with the
-timetable and be ready at the assembly point for the flag-raising ceremony.
-Attendance will be taken at the assembly point.</p>
-<p>2 . Students who are Singapore citizens must sing the National Anthem
-and take the Pledge. Pupils will take the Pledge with the right fist over
+<p>1. Students should be ready at the assembly point for the flag-raising
+ceremony which commences at 7.30 a.m. sharp. Attendance will be taken at
+the assembly point.</p>
+<p>2. Students who are Singapore Citizens must sing the National Anthem and
+take the Pledge. Students will take the Pledge with the right fist over
 the heart.</p>
-<p>3 . Students in the vicinity of the ceremony are to stand at attention
-and face the National Flag.</p>
+<p>3. Students in the vicinity of the ceremony are to stand at attention
+and face the National flag.</p>
 <h5>Punctuality for School</h5>
-<p>1 . A student is considered late when he/she is not able to arrive at
-the assembly point on time to attend the flag-raising and pledge-taking
-ceremony.</p>
-<p>2 . Latecomers will assemble at the basketball court below the Indoor
-Sports Hall.</p>
-<p>3 . Latecomers must be attired in school uniform when entering the school.</p>
-<p>4 . No extra time will be given for students who turn up late for tests
+<p>1 . A student is considered late when he/she is not at the assembly point
+on time to attend the flag-raising and pledge-taking ceremony.</p>
+<p>2. Latecomers will be required to take their attendance near to Security
+Guardhouse.</p>
+<p>3. Latecomers must be attired in school uniform when entering the school.
+The top must be neatly tucked in.</p>
+<p>4. No extra time will be given for students who turn up late for tests
 or examinations.</p>
-<p>5 . Punctuality for school is a component in the assessment of a student’s
-conduct grade (refer to “Conduct Grading” section).</p>
+<p>5. Punctuality for school is a component in the assessment of a student’s
+conduct grade (refer to Conduct Grading section).</p>
 <h5>Absence from School</h5>
-<p>1 . A student who is absent due to sickness must submit the original medical
-certificate (M.C.) from a certified doctor to the Form Teacher on the day
-he/she returns to school. The school should be informed via telephone on
-the day of absence by 7.30am.</p>
-<p>2 . Medical certificates from non-MOH registered clinics (e.g. Chinese
-medical halls, homeopathy clinics) will not be accepted.</p>
-<p>3 . For non-medical reasons (such as a bereavement in the family), a letter
+<p>1. Students who are absent due to illness must submit the original medical
+certificate (MC) issued by a registered medical practitioner to their Form
+Teacher on the day they return to school. Parents/guardians are required
+to inform the school of the student’s absence via telephone by 7.30 a.m.
+on the day of absence.</p>
+<p>2. Medical certificates from non-MOH registered clinics (Chinese medical
+halls/ homeopathy clinics etc.) will not be accepted.</p>
+<p>3. For non-medical reasons (such as a bereavement in the family), a letter
 from the parent/guardian should be produced. Such a letter should be neatly
 written or typed and enclosed in an envelope. Students should not submit
 more than five letters from parent/guardian per semester.</p>
-<p>4 . The following reasons for absences are strongly discouraged:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Going on overseas trips or holidays during curriculum time</p>
-</li>
-<li>
-<p>Engaging in unofficial activities during school hours</p>
-</li>
-<li>
-<p>Allowing a child to be absent from school to study at home</p>
-</li>
-</ul>
-<p>Students who may be absent due to any of the above reasons should consult
-the school at least two weeks in advance.</p>
-<p>5 . Absence without a medical certificate or a parent/guardian’s letter
-may be regarded as a truancy case.</p>
-<p>6 . School attendance is a component in the assessment of a student’s
-conduct grade (refer to “Conduct Grading” section).</p>
-<p>7 . Letters from a parent/guardian will be considered on a case-by-case
-basis in determining whether an absent student can re-sit for weighted
-assessments that they missed.</p>
-<p>8 . Students who are absent for summative reviews will not be allowed
-to re-sit for the paper. Students who are absent without M.C. for a summative
-review will be awarded a zero mark.</p>
+<p>4. The following reasons for absences are strongly discouraged:</p>
+<p>a. Going on overseas trips or holidays during curriculum time</p>
+<p>b. Engaging in unofficial activities during school hours</p>
+<p>c. Allowing a child to be absent from school to study at home</p>
+<p>Students who may be absent due to any of the above reasons should seek
+permission from the school at least two weeks in advance.</p>
+<p>5. Absence without a valid M.C. or a parent’s/guardian’s letter may be
+regarded as a truancy case.</p>
+<p>6. School attendance is a component in the assessment of a student’s conduct
+grade (refer to Conduct Grading section).</p>
+<p>7. Students must produce a valid MC to be eligible to sit for a make-up
+weighted assessment (WA) or to be considered for special considerations.
+Letters from parents/guardians will be considered on a case-by-case basis
+when determining whether an absent student may take the make-up assessment.</p>
+<p>8. There will be no make-up paper for students who miss Coordinated WA2,
+the Preliminary Examination, or the Summative Review. Students who are
+absent without a valid MC for the Summative Review will be awarded zero
+mark.</p>
 <h4>Movement</h4>
 <h5>Leaving class during lessons</h5>
-<p>1 . If the need arises, a student can leave the class after obtaining
-the teacher’s permission.</p>
-<p>2 . A student who does not need to attend any lesson during curriculum
-time should engage in self-study during his/her free periods at the designated
-study areas.</p>
+<p>1. If the need arises, a student can leave the class after obtaining the
+teacher’s permission.</p>
+<p>2. A student who does not need to attend any lesson during curriculum
+time should engage in self-study during his/her free periods at study areas
+such as Library.</p>
 <h5>Movement between lessons</h5>
-<p>1 . Students should line up in two rows and walk in a brisk and orderly
-manner to the venue for the next lesson.</p>
-<p>2 . A student is not allowed to detour to other areas of the school without
-first obtaining permission from the teacher of the next lesson.</p>
+<p>1. Students should line up in two rows and walk in a brisk and orderly
+manner to the venue for the next lesson. Students must bring all necessary
+resources for their lessons and should not return to their classrooms to
+retrieve any materials. Students are not allowed to detour to other areas
+of the school without first obtaining permission from the teacher of the
+next lesson.</p>
 <h5>Leaving school premises during school hours</h5>
-<p>1 . A student must inform his/her Form Teacher if he/she needs to leave
+<p>1. A student must inform his/her Form Teacher if he/she needs to leave
 the school premises during school hours.</p>
-<p>2 . A parent/guardian should accompany a student home after registering
+<p>2. A parent/guardian should accompany a student home after registering
 with the General Office.</p>
 <h4>Attire and Grooming</h4>
 <h5>Uniform</h5>
-<p>1 . Students are to wear the prescribed full uniform every Monday.</p>
-<p>2 . Short-sleeved plain white shirt is worn for boys and blouse for girls.
-The breast pocket on the left should be embroidered with the words ‘Hua
-Yi’ in blue.</p>
-<p>3 . Shirt or blouse must be properly buttoned, and the uniform should
-be smartly worn at all times. Shirt sleeves must not be folded.</p>
-<p>4 . Plain white shorts is worn for lower secondary boys and long white
-pants for upper secondary boys. Pants must cover the ankle and socks. Unauthorized
-tailoring of pants is not allowed.</p>
-<p>5 . Light blue skirt is worn for girls. The hem of the skirt must not
-be above the knee-cap.</p>
-<p>6 . Any unauthorized modification to the uniform is not allowed.</p>
-<p>7 . The school collar badge must be worn on the left collar.</p>
-<p>8 . Student leaders are to wear their name tags above the left breast
-pocket of their shirt or blouse. They are not required to wear collar badges.</p>
-<p>9 . Shoes worn should be white-based with white laces. Any brand/icon/stripes
-that adorn the shoes should be kept to a maximum of one colour.</p>
-<p>10 . School shoes should be worn with plain white socks covering the ankles.
-Slippers or sandals are not allowed.</p>
+<p>1 . 1. Students are to wear the prescribed school uniform and modification
+to the uniform is not allowed.</p>
+<p>2. Students are to wear the school uniform with the school tie every Monday.
+The tie must be neatly knotted at the first button of the shirt or blouse.</p>
+<p>3. Boys are to wear a short-sleeved plain white shirt and girls a short-sleeved
+plain white blouse. The breast pocket on the left must be embroidered with
+the words “Hua Yi” in blue.</p>
+<p>4. Shirts and blouses must be properly buttoned at all times and neatly
+tucked in. Tops must remain tucked in throughout the school day and during
+all school activities.</p>
+<p>5. Lower Secondary boys are to wear plain white shorts, while Upper Secondary
+boys are to wear long white pants. Pants must cover the ankle and socks.
+Unauthorised tailoring of pants is not allowed.</p>
+<p>6. Girls are to wear the light blue skirt. The hem of the skirt must be
+at or below the knee-cap.</p>
+<p>7. The school collar badge must be worn on the left collar.</p>
+<p>8. Student Leaders are to wear their name tags above the left breast pocket
+of their shirt or blouse. They are not required to wear collar badges.</p>
+<p>9. Shoes must be white-based with white laces. Any brand, icon or stripes
+on the shoes should be limited to a maximum of one colour.</p>
+<p>10. School shoes must be worn with plain white socks that cover the ankles.
+Slippers and sandals are not allowed.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Uniform_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Uniform_2026.jpg">
 </div>
-<h5>Polo-Tee Uniform</h5>
-<p>1 . Students may wear the prescribed polo-tee with the respective uniform
-bottoms from Tuesday to Friday.</p>
-<p>2 . Only the topmost button of the polo-tee may be unbuttoned. Sleeves
-must not be folded.</p>
-<p>3 . Student leaders are to wear their name tags above the crest on the
-polo-tee uniform.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Polo_T_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Polo_2026.jpg">
 </div>
 <h5>Hairstyle</h5>
 <p><strong>For Boys:</strong> 
