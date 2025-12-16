@@ -77,10 +77,8 @@ Please confirm your attendance by responding to the message regarding your
 child’s class allocation, which will be sent via <strong>Parents Gateway</strong>.
 <br>
 <br><strong>Date: </strong>6 Jan 2026 (Tues)</p>
-<p><strong>Time: </strong>5.00 p.m.&nbsp;- 7.30 p.m.</p>
+<p><strong>Time: </strong>5.30 p.m.&nbsp;- 7.30 p.m.</p>
 <p><strong>Venue: </strong>HYSS Centrestage (Level 2)</p>
-<p><strong>Programme Overview:<br></strong>5.00 - 5.30 p.m.: Refreshments</p>
-<p>5.30 - 7.30 p.m.: Secondary 1 Orientation Camp Finale</p>
 <h4><strong>Sale of Uniform, Textbooks and Stationery</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -400,5 +398,5 @@ Yi Secondary School at <a href="https://go.gov.sg/2026hysss1appeal" rel="noopene
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application is deemed to be
 unsuccessful if you do not hear from the school by 2 January 2026</p>
 <p>
-<br>All appeals must be submitted latest by <strong><u>23 December 2025, 12.00pm</u></strong>
+<br>All appeals must be submitted latest by <strong><u>24 December 2025, 12.00pm</u></strong>
 </p>
