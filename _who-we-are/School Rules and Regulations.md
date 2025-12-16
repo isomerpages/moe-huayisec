@@ -112,53 +112,56 @@ Slippers and sandals are not allowed.</p>
 </div>
 <h5>Hairstyle</h5>
 <p><strong>For Boys:</strong> 
-<br>1 . Hair is to be kept clean, neat and short.</p>
-<p>2 . Hair at the front must be above both eyebrows AT ALL TIMES. When combed
-downwards, it should not cover the eyes.</p>
-<p>3 . Hair at the back should not touch the collar. There should be a distinct
-and gradual slope. The slope should not be stepped or undercut.</p>
-<p>4 . Hair at the crown must not be too thick or bushy.</p>
-<p>5 . Hair at the sides must not touch the ears. Sideburns must be short.</p>
-<p>6 . Hair should not incorporate any inappropriate, outlandish or extreme
+<br>1. Hair must be kept clean, neat and short at all times.</p>
+<p>2. Hair at the front must be kept above both eyebrows at all times. When
+combed downwards, it should not cover the eyes.</p>
+<p>3. Hair at the back must not touch the collar. There should be a distinct
+and gradual slope, without stepped cuts, undercuts, or extreme tapering.</p>
+<p>4. Hair at the crown must not be too thick or bushy.</p>
+<p>5. Hair at the sides must not touch the ears. Sideburns must be kept short.</p>
+<p>6. Hairstyles must not incorporate inappropriate, outlandish or extreme
 styles.</p>
-<p>7 . Hair must also be of its natural colour and should not be dyed, tinted
-or permed.</p>
-<p>8 . Boys should be clean shaven. No beard or moustache are allowed.</p>
+<p>7. Hair must be of its natural colour and must not be dyed, tinted or
+permed.</p>
+<p>8. Male students must be neat in appearance, clean shaven and no facial
+hair is allowed.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Uniform_Boy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Boys_hair_2026.png">
 </div>
 <p><strong>For Girls:</strong> 
-<br>1 . Girls with hair of shoulder length or longer must tie it up neatly.
-Only plain hair accessories may be used.</p>
-<p>2 . Hair at the front must be above both eyebrows AT ALL TIMES. When combed
-downwards, it should not cover the eyes.</p>
-<p>3 . Hair products are to be used only to keep the hair neat and in place.</p>
-<p>4 . They are not meant to create fancy designs like spiky hair.</p>
-<p>5 . Hair must be of its natural colour and should not be dyed or tinted.</p>
-<p>6 . Hair should not incorporate any inappropriate, outlandish or extreme
-styles.</p>
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp; Girls with hair that is shoulder-length or
+longer must tie it up neatly. Only black, plain hair accessories may be
+used.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Hair at the front must be kept above both eyebrows
+at all times. When combed downwards, it should not cover the eyes.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Hair products may be used only to keep hair
+neat and in place.
+<br>They must not be used to create fancy or stylised looks (e.g., spiky designs).</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Hair must be of its natural colour and must
+not be dyed, tinted or permed.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp; Hairstyles must not incorporate inappropriate,
+outlandish or extreme styles.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/Uniform_Girl.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Girls_Hair_2026.jpg">
 </div>
 <h5>Other Guidelines on Attire and Grooming</h5>
-<p>1 . Ties are to be worn every Monday. Students should knot their ties
-neatly at the first button of their uniform.</p>
-<p>2 . Accessories deemed inappropriate by the school should not be worn
-by students. This includes earrings, chokers, and neck/wrist chains etc.</p>
-<p>3 . Tinted contact lenses are not allowed to be worn.</p>
-<p>4 . Girls are allowed to wear one pair of ear studs or ear sticks on the
-ear lobes which should be transparent, black, white, gold or silver in
-colour. The diameter of the studs should not exceed 0.5 cm.</p>
-<p>5 . Boys are not allowed to wear ear studs or ear sticks.</p>
-<p>6 . Students must not have long or painted nails and must not wear cosmetics
+<p>1. Students must not wear accessories deemed inappropriate by the school.
+This includes items such as earrings (for boys), chokers, and neck or wrist
+chains.</p>
+<p>2. Tinted or coloured contact lenses are not allowed.</p>
+<p>3. Girls may wear one pair of ear studs or ear sticks on the ear lobes.
+These should be transparent, black, white, gold, or silver, and the diameter
+must not exceed 0.5 cm</p>
+<p>4. Boys are not allowed to wear ear studs or ear sticks.</p>
+<p>5. Students must not have long or painted nails, and must not wear cosmetics
 or make-up.</p>
-<p>7 . The school reserves the right to confiscate accessories deemed inappropriate
-by the school. Student may also be requested to purchase a new set of uniform
-or shoes if their attire does not meet the school’s standards.</p>
-<p>8 . The school reserves the right to discipline any student found with
-tattoos and/or body piercings. Disciplinary action may include suspension.</p>
+<p>6. The school reserves the right to confiscate inappropriate accessories.
+Students may be asked to purchase a new set of uniform or shoes if their
+attire does not meet school standards.</p>
+<p>7. The school reserves the right to take disciplinary action against any
+student found with tattoos and/or body piercings. This may include suspension.</p>
 <p><strong>Classroom Expectations</strong> 
 <br>1 . Classrooms are used for the purpose of learning only.</p>
 <p>2 . Each class should take personal responsibility for the cleanliness
