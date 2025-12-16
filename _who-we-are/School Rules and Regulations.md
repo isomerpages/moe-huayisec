@@ -9,7 +9,7 @@ variant: tiptap
 develop self-discipline and to imbibe a sense of accountability to self
 and others in the school and community.</p>
 <h4>A. Attendance</h4>
-<h5>Flag-raising and Pledge-taking Ceremony</h5>
+<h5><u>Flag-raising and Pledge-taking Ceremony</u></h5>
 <p>1. Students should be ready at the assembly point for the flag-raising
 ceremony which commences at 7.30 a.m. sharp. Attendance will be taken at
 the assembly point.</p>
@@ -18,7 +18,7 @@ take the Pledge. Students will take the Pledge with the right fist over
 the heart.</p>
 <p>3. Students in the vicinity of the ceremony are to stand at attention
 and face the National flag.</p>
-<h5>Punctuality for School</h5>
+<h5><u>Punctuality for School</u></h5>
 <p>1 . A student is considered late when he/she is not at the assembly point
 on time to attend the flag-raising and pledge-taking ceremony.</p>
 <p>2. Latecomers will be required to take their attendance near to Security
@@ -29,7 +29,7 @@ The top must be neatly tucked in.</p>
 or examinations.</p>
 <p>5. Punctuality for school is a component in the assessment of a student’s
 conduct grade (refer to Conduct Grading section).</p>
-<h5>Absence from School</h5>
+<h5><u>Absence from School</u></h5>
 <p>1. Students who are absent due to illness must submit the original medical
 certificate (MC) issued by a registered medical practitioner to their Form
 Teacher on the day they return to school. Parents/guardians are required
@@ -60,26 +60,26 @@ the Preliminary Examination, or the Summative Review. Students who are
 absent without a valid MC for the Summative Review will be awarded zero
 mark.</p>
 <h4>B. Movement</h4>
-<h5>Leaving class during lessons</h5>
+<h5><u>Leaving class during lessons</u></h5>
 <p>1. If the need arises, a student can leave the class after obtaining the
 teacher’s permission.</p>
 <p>2. A student who does not need to attend any lesson during curriculum
 time should engage in self-study during his/her free periods at study areas
 such as Library.</p>
-<h5>Movement between lessons</h5>
+<h5><u>Movement between lessons</u></h5>
 <p>1. Students should line up in two rows and walk in a brisk and orderly
 manner to the venue for the next lesson. Students must bring all necessary
 resources for their lessons and should not return to their classrooms to
 retrieve any materials. Students are not allowed to detour to other areas
 of the school without first obtaining permission from the teacher of the
 next lesson.</p>
-<h5>Leaving school premises during school hours</h5>
+<h5><u>Leaving school premises during school hours</u></h5>
 <p>1. A student must inform his/her Form Teacher if he/she needs to leave
 the school premises during school hours.</p>
 <p>2. A parent/guardian should accompany a student home after registering
 with the General Office.</p>
 <h4>C. Attire and Grooming</h4>
-<h5>Uniform</h5>
+<h5><u>Uniform</u></h5>
 <p>1 . 1. Students are to wear the prescribed school uniform and modification
 to the uniform is not allowed.</p>
 <p>2. Students are to wear the school uniform with the school tie every Monday.
@@ -110,7 +110,7 @@ Slippers and sandals are not allowed.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Polo_2026.jpg">
 </div>
-<h5>Hairstyle</h5>
+<h5><u>Hairstyle</u></h5>
 <p><strong>For Boys:</strong> 
 <br>1. Hair must be kept clean, neat and short at all times.</p>
 <p>2. Hair at the front must be kept above both eyebrows at all times. When
@@ -146,7 +146,7 @@ outlandish or extreme styles.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Girls_Hair_2026.jpg">
 </div>
-<h5>Other Guidelines on Attire and Grooming</h5>
+<h5><u>Other Guidelines on Attire and Grooming</u></h5>
 <p>1. Students must not wear accessories deemed inappropriate by the school.
 This includes items such as earrings (for boys), chokers, and neck or wrist
 chains.</p>
@@ -225,8 +225,8 @@ use during lessons.</p>
 </table>
 <p>5 . Students should also observe discipline and orderliness during and
 between lessons.</p>
-<p><strong>E. Use of Digital Devices</strong> 
-<br>1. The school operates as a mobile phone–free learning environment.</p>
+<h4><strong>E. Use of Digital Devices</strong></h4>
+<p>1. The school operates as a mobile phone–free learning environment.</p>
 <p>2. Students must deposit their mobile devices in their assigned lockers
 upon arrival in school.</p>
 <p>3. Students must not retrieve or use their mobile devices during breaks,
@@ -293,8 +293,7 @@ on the day of confiscation.</p>
 in a secure location in the General Office.</p>
 </li>
 </ol>
-<p><strong>F.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physical Education Lessons</strong>
-</p>
+<h4><strong>F.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physical Education Lessons</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/PE_Uniform_2026.jpg">
@@ -324,8 +323,7 @@ pass for the item. The pass will be returned upon the return of the equipment.</
 <p>8. Students will be given at least one water break during each PE lesson.
 Water breaks will be provided after 20–25 minutes, depending on the intensity
 of the activities.</p>
-<p><strong>CONDUCT GRADING</strong>
-</p>
+<h4><strong>CONDUCT GRADING</strong></h4>
 <p>At the end of each semester, students will be awarded a Conduct Grade,
 which reflects their conduct and behaviour.</p>
 <p>The Conduct Grade is determined based on a student’s attendance for school
@@ -444,8 +442,7 @@ the school in the National School Games or in internationalisation trips.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>SCHOOL AND CCA ATTENDANCE</strong>
-</p>
+<h4><strong>SCHOOL AND CCA ATTENDANCE</strong></h4>
 <p>Regular attendance and punctuality for both school and Co-Curricular Activities
 (CCA) are essential to a student’s learning and character development.</p>
 <p>For conduct grading, school attendance includes the percentage of days
@@ -455,14 +452,12 @@ a valid medical certificate (MC).</p>
 attends punctually, and absences supported by a valid MC.</p>
 <p>Late-coming or absence from school or CCA without a valid medical certificate
 will adversely affect the student’s Conduct Grade.</p>
-<p><strong>MERIT AND DEMERIT SYSTEM</strong>
-</p>
+<h4><strong>MERIT AND DEMERIT SYSTEM</strong></h4>
 <p>Every student begins each year with a benchmark of 75 points, which is
 equivalent to a “Very Good” conduct grade. Merit points will raise the
 benchmark and demerit points will reduce it. Every teacher can award merit
 and demerit points to deserving students.</p>
-<p><strong>Merit points</strong>
-</p>
+<h4><strong><u>Merit points</u></strong></h4>
 <p>Students can be awarded merit points for good behaviour or socially-responsible
 acts such as those specified below:</p>
 <table style="minWidth: 50px">
@@ -572,8 +567,7 @@ and others</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>Demerit points</strong>
-</p>
+<h4>&nbsp;<strong><u>Demerit points</u></strong></h4>
 <p>All students are empowered to make responsible choices aligned to the
 school values. At the same time, students can expect to face disciplinary
 consequences if they choose to behave irresponsibly or violate school rules.</p>
@@ -1153,8 +1147,8 @@ force or with the use of objects as weapons.</p>
 <p>Possession of weapons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Possession of weapon or weapon-like item which can be used or intended to be used to cause harm to others</a>
-</p>
+<p>Possession of weapon or weapon-like item which can be used or intended
+to be used to cause harm to others</p>
 </td>
 </tr>
 <tr>
