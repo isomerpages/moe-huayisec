@@ -8,7 +8,7 @@ variant: tiptap
 <p>The following rules and regulations have been crafted to help students
 develop self-discipline and to imbibe a sense of accountability to self
 and others in the school and community.</p>
-<h4>Attendance</h4>
+<h4>A. Attendance</h4>
 <h5>Flag-raising and Pledge-taking Ceremony</h5>
 <p>1. Students should be ready at the assembly point for the flag-raising
 ceremony which commences at 7.30 a.m. sharp. Attendance will be taken at
@@ -59,7 +59,7 @@ when determining whether an absent student may take the make-up assessment.</p>
 the Preliminary Examination, or the Summative Review. Students who are
 absent without a valid MC for the Summative Review will be awarded zero
 mark.</p>
-<h4>Movement</h4>
+<h4>B. Movement</h4>
 <h5>Leaving class during lessons</h5>
 <p>1. If the need arises, a student can leave the class after obtaining the
 teacher’s permission.</p>
@@ -78,7 +78,7 @@ next lesson.</p>
 the school premises during school hours.</p>
 <p>2. A parent/guardian should accompany a student home after registering
 with the General Office.</p>
-<h4>Attire and Grooming</h4>
+<h4>C. Attire and Grooming</h4>
 <h5>Uniform</h5>
 <p>1 . 1. Students are to wear the prescribed school uniform and modification
 to the uniform is not allowed.</p>
@@ -162,16 +162,15 @@ Students may be asked to purchase a new set of uniform or shoes if their
 attire does not meet school standards.</p>
 <p>7. The school reserves the right to take disciplinary action against any
 student found with tattoos and/or body piercings. This may include suspension.</p>
-<p><strong>Classroom Expectations</strong> 
-<br>1 . Classrooms are used for the purpose of learning only.</p>
-<p>2 . Each class should take personal responsibility for the cleanliness
+<p><strong>D. Classroom Expectations</strong> 
+<br>1. Classrooms are used for the purpose of learning only.</p>
+<p>2. Each class should take personal responsibility for the cleanliness
 and neatness of the classroom.</p>
-<p>3 . Students are not allowed to consume food and drinks in the classroom
+<p>3. Students are not allowed to consume food and drinks in the classrooms
 or at any location other than the canteen and other areas designated for
 food consumption.</p>
-<p>4 . Students are expected to adhere to the<strong> START</strong> approach
-at the start of every lesson so that effective learning can take place
-in the classrooms.</p>
+<p>4. Students are expected to adhere to the START approach at the start
+of every lesson so that effective learning can take place in the classrooms.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -179,28 +178,21 @@ in the classrooms.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>S</strong>tart and greet</p>
+<p><strong>S</strong>tand, bow and greet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Greet your teachers at the start of the lesson</p>
+<p>Greet your teachers at the start of the lesson. Show respect and readiness.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>T</strong>idy up</p>
+<p><strong>T</strong>idy<strong> </strong>up</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ensure that your attire is appropriate, neat and the classroom is clean
-(e.g. pick up litter, clean whiteboard for next lesson)</p>
+<p>Ensure your attire is appropriate and neat with top tucked in.</p>
+<p>Ensure the classroom is clean (e.g. pick up litter, clean whiteboard for
+next lesson), and tables and chairs are neatly arranged.</p>
 </td>
 </tr>
 <tr>
@@ -208,7 +200,7 @@ in the classrooms.</p>
 <p><strong>A</strong>ttendance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Attend all lessons on time</p>
+<p>Be present and punctual for school and all lessons.</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +208,7 @@ in the classrooms.</p>
 <p><strong>R</strong>eady</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Have the necessary materials for lesson</p>
+<p>Have the necessary materials for lessons and fully charged iPads.</p>
 </td>
 </tr>
 <tr>
@@ -224,54 +216,33 @@ in the classrooms.</p>
 <p><strong>T</strong>echnology check</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ensure mobile devices/ smart watches in lockers, and iPads are put away
-when not in use.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Deposit mobile devices in students’ lockers upon arrival in school. iPads
+shall be kept in bags when unused for lessons or screen-down when not in
+use during lessons.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>5 . Students should also observe discipline and orderliness during and
 between lessons.</p>
-<p><strong>Use of Digital Devices</strong> 
-<br>1. Students must deposit their mobile devices at assigned lockers before
-first period lesson.</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Students should not retrieve their mobile devices from lockers in between
-lessons and/or use their mobile devices during school activities, lessons
-and CCAs, unless permission is given.</p>
-</li>
-<li>
-<p>Students are allowed to use their mobile devices in canteen area (designated
-area) during their breaks.</p>
-</li>
-<li>
-<p>Students are to abide by the Acceptable Use Policy when using their personal
-learning devices</p>
-</li>
-<li>
-<p>Charging of mobile phones/personal learning devices using school facilities
-is not allowed without permission.</p>
-</li>
-<li>
-<p>No recording in any form (audio or video) is permitted. Recording is allowed
-only if the explicit consent of the school administration and the persons
-involved is obtained.</p>
-</li>
-<li>
-<p>Students found using their mobile phones/PLDs inappropriately, or having
-those items ringing, beeping, etc. during curriculum time, will be dealt
-with as follows:</p>
-</li>
-</ol>
+<p><strong>E. Use of Digital Devices</strong> 
+<br>1. The school operates as a mobile phone–free learning environment.</p>
+<p>2. Students must deposit their mobile devices in their assigned lockers
+upon arrival in school.</p>
+<p>3. Students must not retrieve or use their mobile devices during breaks,
+between lessons, or during school activities, lessons, and CCAs, unless
+permission is granted.</p>
+<p>4. Students must abide by the school’s Acceptable Use Policy (AUP) when
+using their personal learning devices.</p>
+<p>5. Charging of mobile devices or personal learning devices using school
+facilities is not allowed.</p>
+<p>6. No recording of any form (audio, video or otherwise) is permitted.
+Recording is allowed only with explicit consent from the school administration
+and the individuals involved.</p>
+<p>7. Students who use their mobile devices or personal learning devices
+inappropriately, or whose devices ring, beep, or cause disruption during
+curriculum time or CCA, will face disciplinary consequences as outlined
+below.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -280,55 +251,232 @@ with as follows:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Frequency</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Action to be taken</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Demerit points</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Frequency</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Action to be taken</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Demerit points</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st time</p>
+<p>1<sup>st</sup> and 2<sup>nd</sup> time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mobile devices / personal learning devices to be confiscated until 5 p.m.
+<p>Mobile devices/personal learning devices to be confiscated until 5 p.m.
 on the day of confiscation.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>3</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 times and more</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mobile devices / personal learning devices to be confiscated for 1 week.</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p>&nbsp;</p>
 <p>3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 times and more</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mobile devices/personal learning devices to be confiscated for 1 week.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>6 . Confiscated mobile phones and personal learning devices will be kept
-in a secured location in the General Office.</p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Confiscated mobile devices and personal learning devices will be kept
+in a secure location in the General Office.</p>
+</li>
+</ol>
+<p><strong>F.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physical Education Lessons</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/PE_Uniform_2026.jpg">
+</div>
+<p>1. The attire for Physical Education lessons is the school PE T-shirt
+and black shorts with the letters “HYSS” embroidered in red. The PE T-shirt
+must be neatly tucked in at all times.</p>
+<p>2. CCA attire (e.g., jerseys and team shorts) must not be worn during
+PE lessons. Recalcitrant students who fail to wear the stipulated PE attire
+will be dealt with according to school rules.</p>
+<p>3. Students are to change into their PE attire only during their PE period.</p>
+<p>Students who have PE lessons before their break must change back into
+their school uniform by the end of the break.</p>
+<p>4. Students who are exempted from physical activities or are physically
+unfit to participate in PE lessons must present a valid medical certificate
+(MC) to the PE teachers. PE teachers may assign light duties such as timekeeper,
+recorder, or equipment assistant, and students may also be advised to bring
+reading materials.</p>
+<p>5. Students who are unwell without an MC must still change into their
+PE attire and report for the lesson. They may be exempted from physical
+activity at the teacher’s discretion.</p>
+<p>6. All students are encouraged to deposit their valuables with their PE
+teachers at the start of the lesson. Valuables will be returned at the
+end of the lesson.</p>
+<p>7. Students who wish to borrow PE equipment must exchange their student
+pass for the item. The pass will be returned upon the return of the equipment.</p>
+<p>8. Students will be given at least one water break during each PE lesson.
+Water breaks will be provided after 20–25 minutes, depending on the intensity
+of the activities.</p>
+<p><strong>CONDUCT GRADING</strong>
+</p>
+<p>At the end of each semester, students will be awarded a Conduct Grade,
+which reflects their conduct and behaviour.</p>
+<p>The Conduct Grade is determined based on a student’s attendance for school
+and Co-Curricular Activities (CCA), as well as records under the Merit
+and Demerit System (MDS).</p>
+<p>Students who receive a Conduct Grade of ‘Fair’ or ‘Poor’ at the end of
+the year will have their eligibility for MOE Edusave awards affected. Students
+with a ‘Fair’ or ‘Poor’ Conduct Grade may also be disallowed from representing
+the school in the National School Games or in internationalisation trips.</p>
+<p>&nbsp;</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Conduct Grade (Lowest of</strong>
+</p>
+<p><strong>A, B and C)</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Attendance</strong>
+</p>
+<p><strong>(A)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Attendance</strong>
+</p>
+<p><strong>(B)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MDS</strong>
+</p>
+<p><strong>(C)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Excellent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minimum 95%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minimum 95%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 and above</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Very Good</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minimum 95%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minimum 90%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>75 - 79</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Good</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minimum 85%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minimum 75%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65 - 74</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>75 - 84%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50 - 74%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>55 -64</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Poor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Less than 75%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Less than 50%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>54 and below</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4>Use of School Facilities</h4>
 <h5>General Guidelines</h5>
 <p>1 . There should be no removal of furniture or equipment without the approval
