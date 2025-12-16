@@ -257,7 +257,7 @@ ensure delivery before the start of the school year.</p>
 <br>Please refer to the&nbsp;<a href="/files/2026 Files/Sec_1_2026_CCA_Experience_Programme.pdf" rel="noopener nofollow" target="_blank">attached document </a>for
 the timeline of the CCA Experience for Secondary One students at Hua Yi.
 The CCA Experience includes trials, experiencing the CCA activities and
-programmes, registration and allocation). Students will receive a detailed
+programmes, registration and allocation. Students will receive a detailed
 briefing in Term 1 Week 1.</p>
 <p>
 <br><strong>Personalised Digital Learning Programme (PDLP)</strong>
@@ -299,12 +299,12 @@ medical information accordingly.</p>
 <h4><strong>School Smart Card</strong></h4>
 <ul>
 <li>
-<p>All students entering Secondary School for the first time in Jan 2025
+<p>All students entering Secondary School for the first time in Jan 2026
 will be issued with a new Secondary level School Smart Card (SSC).&nbsp;</p>
 </li>
 <li>
 <p>Students can use their Primary level SSC for concessionary travel until
-they receive their new card (till end April 2025).</p>
+they receive their new card (till end April 2026).</p>
 </li>
 <li>
 <p>Students would need to purchase the Bus Concession Pass for Secondary
