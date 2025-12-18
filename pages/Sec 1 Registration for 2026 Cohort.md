@@ -11,10 +11,8 @@ forward to partnering with you to nurture and develop your child to their
 fullest potential. Please take a moment to watch the video below for a
 welcome message from our Principal.</p>
 <div class="iframe-wrapper">
-<iframe height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y_cyCZwtRIs?si=axMkROEpBXVtfDpl"></iframe>
+<iframe height="400" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y_cyCZwtRIs?si=axMkROEpBXVtfDpl"></iframe>
 </div>
-<p><a href="https://youtu.be/Y_cyCZwtRIs" rel="noopener nofollow" target="_blank">Principal welcome message</a>
-</p>
 <h4><strong>Important Information for ALL Students</strong></h4>
 <p><strong>Secondary 1 Registration Information</strong>
 </p>
