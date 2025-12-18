@@ -22,9 +22,8 @@ will be sent via Parents Gateway (PG).</p>
 class allocation and Subject-Based Banding (SBB) offerings will be shared
 on PG, typically 1 - 2 days after the posting is confirmed.</p>
 <p>Please note: Parents are strongly encouraged to purchase uniforms and
-books <strong>only after receiving the class allocation</strong> on Parents
-Gateway.</p>
-<p><strong>The first day of school will be on Friday, 2 January 2026.</strong>
+books <strong>only after receiving the class allocation</strong> on PG.</p>
+<p><strong>The first day of school will be Friday, 2 January 2026.</strong>
 </p>
 <h4><strong>Reporting Time</strong></h4>
 <p>The <strong>Flag-Raising Ceremony</strong> begins promptly at <strong>7.30 a.m.</strong> daily.
@@ -35,8 +34,8 @@ to the ceremony.</p>
 <h4><strong>First Day of School</strong></h4>
 <p>On the first day of school, students should report in their PE/House Tee
 with Uniform Bottoms, and gather at their respective Secondary 1 Classroom
-on Level 2. From there, their seniors will then lead them to the School
-Hall (Centrestage) for the Flag-Raising Ceremony.</p>
+on Level 2. From there, their seniors will lead them to the School Hall
+(Centrestage) for the Flag-Raising Ceremony.</p>
 <p>Please see the<strong> <a href="/files/2026 Files/Classroom_Allocation_for_2026.pdf" rel="noopener nofollow" target="_blank">attached file</a></strong> for
 the classroom allocation.</p>
 <p>Students who did not manage to purchase the Hua Yi school uniform can
@@ -56,11 +55,10 @@ their PE T-shirt.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/House_Allocation.png">
 </div>
 <p>
-<br>Parents will be notified of their child’s class allocation via Parents
-Gateway (PG) by <strong>22 December 2025</strong>. We kindly request your
-response through PG to a few questions (e.g., level T-shirt size, dietary
-requirement(s), medical condition(s), attendance for Secondary 1 Orientation
-Camp Finale) by <strong>23 December 2025.</strong>
+<br>Parents will be notified of their child’s class allocation via PG by <strong>22 December 2025</strong>.
+We kindly request your response through PG to a few questions (e.g., level
+T-shirt size, dietary requirement(s), medical condition(s), attendance
+for Secondary 1 Orientation Camp Finale) by <strong>23 December 2025.</strong>
 </p>
 <h4><strong>Sec 1 Start-It-Right and Orientation Programme</strong></h4>
 <p>For the first week of school, a Start-It-Right and Orientation Programme
@@ -72,9 +70,9 @@ will be provided to the students on the first day of school.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Sec_1_Orientation_2026.png">
 </div>
 <h4><strong>Sec 1 Orientation Camp Finale with Secondary 1 Parents</strong></h4>
-<p>We warmly invite all Secondary 1 parents to attend the <strong>Secondary One Orientation Camp Finale</strong>.
+<p>We warmly invite all Secondary 1 parents to attend the <strong>Secondary 1 Orientation Camp Finale</strong>.
 Please confirm your attendance by responding to the message regarding your
-child’s class allocation, which will be sent via <strong>Parents Gateway</strong>.
+child’s class allocation, which will be sent via <strong>PG</strong>.
 <br>
 <br><strong>Date: </strong>6 Jan 2026 (Tues)</p>
 <p><strong>Time: </strong>5.30 p.m.&nbsp;- 7.30 p.m.</p>
@@ -87,8 +85,6 @@ child’s class allocation, which will be sent via <strong>Parents Gateway</stro
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Sale of Uniform, Textbooks and Stationery</u></strong>
-</p>
 <p>Uniforms, textbooks and stationery will be sold at our school. Please
 see the table below for the operating dates and time.
 <br>
@@ -259,9 +255,7 @@ the timeline of the CCA Experience for Secondary One students at Hua Yi.
 The CCA Experience includes trials, experiencing the CCA activities and
 programmes, registration and allocation. Students will receive a detailed
 briefing in Term 1 Week 1.</p>
-<p>
-<br><strong>Personalised Digital Learning Programme (PDLP)</strong>
-</p>
+<h4><br><strong>Personalised Digital Learning Programme (PDLP)</strong></h4>
 <p>In line with MOE policy, all secondary school students will be getting
 a personal tablet or laptop. In Hua Yi, students use an iPad for their
 learning. Please refer to <strong><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/pdlp/" rel="noopener noreferrer nofollow" target="_blank">PDLP</a></strong> for
@@ -269,18 +263,20 @@ more details.
 <br>Information on procurement of devices for Secondary One students will
 be provided in due course.</p>
 <h4><strong>Parent Support Group</strong></h4>
-<p>Hua Yi is proud to have an <strong>active and dedicated Parent Support Group (PSG)</strong> that
-plays a key role in supporting school programmes and activities to enhance
-students' holistic development.</p>
+<p>Hua Yi is proud to have an active and dedicated Parent Support Group (PSG)
+that plays a key role in supporting school programmes and activities to
+enhance students' holistic development.</p>
 <p>The PSG’s vision is to partner closely with the school to provide the
 best possible support for our children’s education. We warmly invite parents
 to join us in this meaningful effort, where we can collaborate, network
 and share resources to offer strategic support for our students’ growth
 and success.</p>
 <p>You can find out more about HYSS PSG at&nbsp;<strong><a href="https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-hua-yi-community/psg/</a></strong>
+</p>
+<p>
 <br>If you would like to work with the school to enhance learning experiences
 for our students, and connect with other parents, we invite you to join
-our Parent Support Group through this link:
+our PSG through this link:
 <br><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScjK-zWdtQk5pIRjQvzU3U1cvUpH0bFD8ks_8i-ZlUOwTnUrQ/viewform" rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLScjK-zWdtQk5pIRjQvzU3U1cvUpH0bFD8ks_8i-ZlUOwTnUrQ/viewform</a></strong>
 </p>
 <h4><strong>Car Decal&nbsp;</strong></h4>
@@ -288,7 +284,7 @@ our Parent Support Group through this link:
 to display a designated car decal daily. Each decal cost $3 and remains
 valid until your child graduates from Hua Yi.&nbsp;</p>
 <p>Kindly complete the form below by 30 December 2025 to purchase a decal.
-Payment will be deducted via Giro and additional details will be provided
+Payment will be deducted via GIRO and additional details will be provided
 on the decal collection date. <strong><br><a href="https://go.gov.sg/hysscardecalapplication2026" rel="noopener noreferrer nofollow" target="_blank"><u>Car Decal Purchase Form 2026</u></a></strong>
 </p>
 <h4><strong>HPB Child Consent Portal</strong></h4>
@@ -312,14 +308,14 @@ students while using their old card.</p>
 </li>
 </ul>
 <h4><strong>Standing Order for Use of Edusave Account (EPSO)</strong></h4>
-<p>Please login to Parents Gateway and complete the online form under the
-Services Tab by the end of January.</p>
+<p>Please log in to PG and complete the online form under the Services Tab
+by the end of January.</p>
 <p>This form is to be used by the parent/guardian of a Singapore citizen
 student to use the Edusave account of his/her child to pay for approved
 fees by MOE and enrichment programmes.</p>
-<h4><strong>Apply for eGiro</strong></h4>
-<p>Please login to Parents Gateway and complete the online form for e-GIRO
-setup for fees and school charges deduction under the Services Tab.</p>
+<h4><strong>Apply for eGIRO</strong></h4>
+<p>Please log in to PG and complete the online form for e-GIRO setup for
+fees and school charges deduction under the Services Tab.</p>
 <h4><strong>POSB Smart Buddy Programme (For Non-FAS students)</strong></h4>
 <p>We have successfully implemented POSB Smart Buddy as an e-payment option
 in our school canteen. With this implementation in Hua Yi Secondary School,
@@ -334,9 +330,8 @@ to track your child’s payments and savings.</p>
 </p>
 <h3><strong>Important Information for SELECTED Students</strong></h3>
 <p><strong><u>Financial Assistance Scheme (2026)</u></strong>
-<br>Please login to the MOE FAS Application using the e-FAS form which is
-available on Parents Gateway (under Services tab – Financial Assistance)
-via Singpass login.</p>
+<br>Please log in to the MOE FAS Application using the e-FAS form which is
+available on PG (under Services tab – Financial Assistance) via Singpass.</p>
 <p>Alternatively, the 2026 e-FAS link is provided below.&nbsp;</p>
 <p><strong>eFAS <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68b7e92465cd36be287889c6</a></strong>
 </p>
@@ -349,13 +344,13 @@ or contact us at 6563 4568 should you have further queries.</p>
 are collecting the approval letter for your MOE FAS Application.&nbsp;</p>
 <h4><strong>Taking Subjects at a More Demanding Level</strong></h4>
 <p>For students who qualify to take subjects at a more demanding level, a
-message will be sent via Parents Gateway by <strong>23 December 2025, 5:00 p.m.</strong>,
+message will be sent via PG by <strong>23 December 2025, 5:00 p.m.</strong>,
 and a response will be required. More information can be found in the<strong> </strong>
 <a href="/files/2026 Files/Sec_1_FSBB_Slides__2026_intake__final_.pdf" rel="noopener nofollow" target="_blank">attached slides</a><strong>.</strong>
 </p>
 <h4><strong>Higher Mother Tongue and other MTL (MTL in-lieu, NTIL &amp; Third Language)</strong></h4>
 <p>For students who qualify for Higher Mother Tongue, a message will be sent
-via Parents Gateway in the next few days, and a response will be required.
+via PG in the next few days, and a response will be required.
 <br>Please refer to the&nbsp;<a href="/files/2026 Files/2026_Sec_1_Registration_MTL_FAQ.pdf" rel="noopener nofollow" target="_blank">attached FAQ</a>&nbsp;for
 more information on Higher Mother Tongue, MTL in-lieu, NTIL and Third Language.
 &nbsp;</p>
@@ -377,13 +372,17 @@ or for appeals to Hua Yi.</p>
 <br><strong>Transfer to another school</strong>
 </p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensure that you acknowledge the
-message sent in Parents Gateway to secure a place for your child at Hua
-Yi Secondary&nbsp;</p>
+message sent in PG to secure a place for your child at Hua Yi Secondary&nbsp;</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensure that your child meets the
 cut-off for the school that you wish to transfer your child to&nbsp;</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit an appeal form at the school
 that you wish to transfer your child to&nbsp;</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wait for the results of your appeal</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who have not received a
+response regarding their transfer request to another school are required
+to report to Hua Yi Secondary School on <strong>Friday, 2 January 2026</strong>
+</p>
+<p></p>
 <p>
 <br><strong>Appeal to Hua Yi Secondary</strong>
 </p>
@@ -398,5 +397,5 @@ Yi Secondary School at <a href="https://go.gov.sg/2026hysss1appeal" rel="noopene
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application is deemed to be
 unsuccessful if you do not hear from the school by 2 January 2026</p>
 <p>
-<br>All appeals must be submitted latest by <strong><u>24 December 2025, 12.00pm</u></strong>
+<br>All appeals must be submitted latest by <strong><u>24 December 2025, 12.00p.m.</u></strong>
 </p>
