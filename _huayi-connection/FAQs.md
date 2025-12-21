@@ -18,13 +18,13 @@ pm.
 entered the school with a cut-off aggregate score of:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>6 - 14 (G3)</p>
+<p>8 - 14 (G3)</p>
 </li>
 <li>
-<p>21 - 22 (G2)</p>
+<p>21 - 23 (G2)</p>
 </li>
 <li>
-<p>25 - 26 (G1)</p>
+<p>25 - 27 (G1)</p>
 </li>
 </ul>
 <p><strong>4 . How are your current students’ progression to post-secondary institutions?</strong>
@@ -36,9 +36,7 @@ polytechnic courses. Students who offered mainly G1 or G2 subjects are
 eligible for progression through the ITE, Direct-Entry-Scheme to Polytechnic
 Programme (DPP), Early Admissions Exercise (EAE), or Polytechnic Foundation
 Programme (PFP) respectively.</p>
-<p>More information on our students Academic Achievement can be found here:
-<br><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/aa/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-huayi-experience/aa/</a>
-</p>
+<p></p>
 <p><strong>5 . How is the culture of the school?</strong>
 <br>Hua Yi’s culture is one that honours our heritage while embracing the
 future. Since becoming a co-educational school in 1985, we have grown into
@@ -127,7 +125,7 @@ seen, supported, and part of something bigger.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Mother Tongue Languages (Higher Chinese)</p>
+<p>Higher Mother Tongue Languages (Higher Chinese &amp; Higher Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -664,6 +662,20 @@ History, Literature in English)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Computing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✓</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Common Curriculum Subjects</p>
 </th>
@@ -703,20 +715,21 @@ History, Literature in English)</p>
 </ul>
 <p><strong>2. What is Hua Yi’s strategy for Blended Learning?</strong>
 </p>
-<p>Blended Learning in Hua Yi takes the form of ILD (Independent Learning
-Day) every even Friday. There are 2 segments to each session:</p>
+<p>Blended Learning in Hua Yi comprises of two segments.</p>
 <ol data-tight="true" class="tight">
-<li>
-<p>Curriculum coverage within and outside school, which focuses on <strong>JOY</strong> - <strong>J</strong>oy
-in learning, <strong>O</strong>wnership of Learning and Appl<strong>y</strong>ing
-learning.</p>
-</li>
 <li>
 <p>Student initiated learning called Project Sandbox where students will
 get the opportunity to pursue interests of their choice such as Sports
-and Fitness, Music, Art and Craft, Languages, Botany etc. The activities
+and Fitness, Music, Art and Craft, Languages, Botany, etc. The activities
 can be pursued in school, at home, or other locations, with teachers acting
-as mentors and co learners!</p>
+as mentors and co partners ! These sessions are mainly during the afternoons
+of the even Fridays.</p>
+</li>
+<li>
+<p>Curriculum coverage within and outside school, which focuses on <strong>JOY</strong> – <strong>J</strong>oy
+in learning, <strong>O</strong>wnership of Learning and Appl<strong>y</strong>ing
+learning are scheduled during the three days of home-based learning in
+Semester 2.</p>
 </li>
 </ol>
 <p><strong>3 . How will the Personal Device be implemented in Hua Yi?</strong>
