@@ -14,7 +14,7 @@ variant: tiptap
 pm.
 <br>CCAs are held twice every week from 3:15 pm to 6:15pm.</p>
 <p><strong>3 . What are the aggregate scores required to enter Hua Yi?</strong>
-<br>The aggregate score may change from year to year. For 2025 Sec 1s, students
+<br>The aggregate score may change from year to year. For 2026 Sec 1s, students
 entered the school with a cut-off aggregate score of:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
