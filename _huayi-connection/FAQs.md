@@ -14,17 +14,17 @@ variant: tiptap
 pm.
 <br>CCAs are held twice every week from 3:15 pm to 6:15pm.</p>
 <p><strong>3 . What are the aggregate scores required to enter Hua Yi?</strong>
-<br>The aggregate score may change from year to year. For 2025 Sec 1s, students
+<br>The aggregate score may change from year to year. For 2026 Sec 1s, students
 entered the school with a cut-off aggregate score of:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>6 - 14 (G3)</p>
+<p>8 - 14 (G3)</p>
 </li>
 <li>
-<p>21 - 22 (G2)</p>
+<p>21 - 23 (G2)</p>
 </li>
 <li>
-<p>25 - 26 (G1)</p>
+<p>25 - 27 (G1)</p>
 </li>
 </ul>
 <p><strong>4 . How are your current students’ progression to post-secondary institutions?</strong>
@@ -36,9 +36,7 @@ polytechnic courses. Students who offered mainly G1 or G2 subjects are
 eligible for progression through the ITE, Direct-Entry-Scheme to Polytechnic
 Programme (DPP), Early Admissions Exercise (EAE), or Polytechnic Foundation
 Programme (PFP) respectively.</p>
-<p>More information on our students Academic Achievement can be found here:
-<br><a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/aa/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-huayi-experience/aa/</a>
-</p>
+<p></p>
 <p><strong>5 . How is the culture of the school?</strong>
 <br>Hua Yi’s culture is one that honours our heritage while embracing the
 future. Since becoming a co-educational school in 1985, we have grown into
@@ -46,11 +44,13 @@ a caring and inclusive community where English serves as the main language
 of learning. Through experiences such as calligraphy lessons and cultural
 programmes, students gain a deeper appreciation of their roots while developing
 global perspectives and strong values that prepare them for the world ahead.</p>
+<p></p>
 <p><strong>6 . How is the discipline of the school?</strong>
 <br>The school takes a very strong stand on appropriate behaviour of Hua Yians.
 More information on the school rules and regulations can be found here:
 <br><a href="https://www.huayisec.moe.edu.sg/who-we-are/our-code-of-conduct/school-rules-and-regulations/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/who-we-are/our-code-of-conduct/school-rules-and-regulations/</a>
 </p>
+<p></p>
 <p><strong>7 . How can my child enter Hua Yi through DSA?</strong>
 <br>Hua Yi welcomes prospective students with passion and talents from various
 fields, representing the different aspects of our holistic curriculum,
@@ -58,11 +58,13 @@ to join the Hua Yi family through the Direct School Admission-Secondary
 (DSA-Sec) Exercise. For more information:
 <br><a href="https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/Direct-School-Admission/ta/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/Direct-School-Admission/ta/</a>
 </p>
+<p></p>
 <p><strong>8 . What is it like to be part of the Hua Yi family? </strong>
 <br>Guided by our core value of Togetherness, staff and students care for
 one another and work hand in hand to create a welcoming and inclusive environment.
 We believe that when we learn and grow in harmony, every Hua Yian feels
 seen, supported, and part of something bigger.</p>
+<p></p>
 <p><strong>9 . How can my child get to the school?</strong>
 </p>
 <p>Our Address
@@ -127,7 +129,7 @@ seen, supported, and part of something bigger.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Mother Tongue Languages (Higher Chinese)</p>
+<p>Higher Mother Tongue Languages (Higher Chinese &amp; Higher Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -330,7 +332,7 @@ History, Literature in English)</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Upper Secondary Total Subject Offerings (as at Dec 2024)</u></strong>
+<p><strong><u>Upper Secondary Total Subject Offerings (as at Dec 2025)</u></strong>
 <br>
 </p>
 <table style="minWidth: 100px">
@@ -664,6 +666,20 @@ History, Literature in English)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Computing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✓</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>✓</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Common Curriculum Subjects</p>
 </th>
@@ -697,28 +713,71 @@ History, Literature in English)</p>
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>G1 Humanities would comprise Social Studies and a choice of one Humanities Exposure Module in Geography or History or Literature in English, and G2/3 Humanities would comprise Social Studies and a choice of one Elective in Geography, History or Literature in English</em>
+<p><em>G1 Humanities would comprise Social Studies and a choice of one Humanities Exposure Module in Geography or History or Literature in English, and G2/3 Humanities would comprise Social Studies and a choice of one Elective in Geography, History or Literature in English.</em>
 </p>
+</li>
+<li>
+<p><em>G3 Computing is taken at an external venue.</em>
+</p>
+<p></p>
 </li>
 </ul>
 <p><strong>2. What is Hua Yi’s strategy for Blended Learning?</strong>
 </p>
-<p>Blended Learning in Hua Yi takes the form of ILD (Independent Learning
-Day) every even Friday. There are 2 segments to each session:</p>
-<ol data-tight="true" class="tight">
+<p>Hua Yi’s approach to Blended Learning is aligned with MOE’s objectives,
+providing students with opportunities to take greater ownership of their
+learning, while developing self-efficacy, self-awareness, and self-management
+skills. This is achieved through a thoughtful integration of student-driven
+learning experiences and structured curriculum coverage.</p>
+<p>Through Blended Learning, teachers leverage the strengths of both in-person
+and distance learning to design lessons that are best suited to each mode
+of engagement. This approach also enables teachers to create meaningful
+learning experiences that may be challenging to implement within the constraints
+of classroom time or large-group settings, thereby enriching students’
+learning beyond the physical classroom.</p>
+<p>Blended Learning at Hua Yi comprises two key components:</p>
+<p><strong>I. Student-Initiated Learning: Project Sandbox</strong>
+</p>
+<p><strong>Description:</strong>
+<br>Project Sandbox, conducted on even-week Friday afternoons, empowers students
+to take ownership of their learning through the exploration of personal
+interests such as Art and Craft, Digital Literacy, Languages, Music, Sports
+and Fitness, and Technology. Students initiate ideas and drive their own
+learning, with teachers supporting them as mentors across learning contexts
+in and beyond school.</p>
+<p><strong>Objectives:</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Curriculum coverage within and outside school, which focuses on <strong>JOY</strong> - <strong>J</strong>oy
-in learning, <strong>O</strong>wnership of Learning and Appl<strong>y</strong>ing
-learning.</p>
+<p>Foster self-directed learning and encourage students to pursue their passions</p>
 </li>
 <li>
-<p>Student initiated learning called Project Sandbox where students will
-get the opportunity to pursue interests of their choice such as Sports
-and Fitness, Music, Art and Craft, Languages, Botany etc. The activities
-can be pursued in school, at home, or other locations, with teachers acting
-as mentors and co learners!</p>
+<p>Develop critical thinking, creativity, and problem-solving skills through
+experiential learning.</p>
 </li>
-</ol>
+<li>
+<p>Cultivate teacher–student partnerships that support student agency and
+reflective learning.</p>
+</li>
+</ul>
+<p>&nbsp;<strong>II. Curriculum Coverage on Home-Based Learning Days (HBL)</strong>
+</p>
+<p><strong>Description:</strong>
+<br>Home-Based Learning (HBL) days are scheduled across the year to support
+meaningful curriculum learning beyond the classroom. Lessons are thoughtfully
+designed to enable students to learn independently, consolidate key concepts,
+and apply their learning to real-life contexts through a range of self-directed,
+applied, and collaborative activities. Learning takes place through a combination
+of synchronous and asynchronous modes.</p>
+<p>Teachers leverage digital platforms such as the Singapore Student Learning
+Space (SLS) and Google Classroom to provide timely feedback and opportunities
+for self-assessment. Learning experiences are differentiated to cater to
+students’ readiness levels, interests, and learning preferences.</p>
+<p>&nbsp;In Term 3, students also experience three consecutive days of HBL
+during the national oral examinations. Guided by the principles of <strong>JOY — Joy in Learning, Ownership of Learning, and Applying Learning</strong>,
+students engage in integrated project work and apply their learning to
+authentic, real-world problems.</p>
+<p></p>
 <p><strong>3 . How will the Personal Device be implemented in Hua Yi?</strong>
 </p>
 <p>Every Hua Yian will be using the Apple iPad as their personal learning
@@ -729,6 +788,7 @@ learning on-the-move, it also allows for a seamless learning experience
 alongside existing learning technologies such as the Student Learning Space
 (SLS) and Goodnotes Classroom. For more information on PDLP: <a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/pdlp/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-huayi-experience/pdlp/</a>
 </p>
+<p></p>
 <p><strong>4. How will Full Subject-Based Banding (FSBB) look like in Hua Yi?</strong>
 </p>
 <p>In 2021, we have integrated the Normal Academic and Normal Technical stream.
@@ -790,12 +850,14 @@ subjects at G1, G2 or G3 level.</p>
 <p>Literature in English</p>
 </li>
 </ul>
+<p></p>
 <p><strong>5. Does the school offer SBB?</strong>
 </p>
 <p>Hua Yi currently offers Subject-Based Banding (SBB) for English, Mother
 Tongues, Mathematics, Science, Humanities subjects (Geography and History)
 and Literature in English. Further information and details about SBB in
 Hua Yi will be shared during the Secondary 1 Registration event in December.</p>
+<p></p>
 <p><strong>6. What is ALP and/ or LLP about?</strong>
 </p>
 <p>Some of the highlights of Hua Yi in terms of learning programmes and opportunities
@@ -847,6 +909,7 @@ to apply their knowledge and skills.</p>
 </ul>
 <p>For more information on LLP: <a href="https://www.huayisec.moe.edu.sg/the-huayi-experience/llp/" rel="noopener noreferrer nofollow" target="_blank">https://www.huayisec.moe.edu.sg/the-huayi-experience/llp/</a>
 </p>
+<p></p>
 <p><strong>7. What after-school engagement programmes are available in your school?</strong>
 </p>
 <p>Hua Yi offers a wide range of after-school engagement programmes to help
@@ -876,6 +939,7 @@ students to engage in after school. The learning mentor establishes a strong
 level of rapport with students and helps inculcate in them stronger self-management
 skills. There are also constant innovations for Hangout to make it ever
 more attractive for students to drop in.</p>
+<p></p>
 <p><strong>8. House System</strong>
 </p>
 <p>In 2022, Hua Yi made a major change to the way the school was structured.
