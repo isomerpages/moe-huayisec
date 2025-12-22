@@ -713,7 +713,11 @@ History, Literature in English)</p>
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>G1 Humanities would comprise Social Studies and a choice of one Humanities Exposure Module in Geography or History or Literature in English, and G2/3 Humanities would comprise Social Studies and a choice of one Elective in Geography, History or Literature in English</em>
+<p><em>G1 Humanities would comprise Social Studies and a choice of one Humanities Exposure Module in Geography or History or Literature in English, and G2/3 Humanities would comprise Social Studies and a choice of one Elective in Geography, History or Literature in English.</em>
+</p>
+</li>
+<li>
+<p><em>G3 Computing is taken at an external venue.</em>
 </p>
 <p></p>
 </li>
