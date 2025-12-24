@@ -4,7 +4,7 @@ permalink: /sec-1-registration-for-2026-cohort/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Principal's Welcome</strong></h4>
+<h4><strong>Principal's Welcome Message</strong></h4>
 <p>Dear Sec 1 Parents,
 <br>We are delighted to welcome your child to the Hua Yi family, and we look
 forward to partnering with you to nurture and develop your child to their
