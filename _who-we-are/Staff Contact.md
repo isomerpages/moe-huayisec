@@ -701,7 +701,10 @@ variant: tiptap
 <p>Mr Lim Gim Siong</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>TBA</p>
 <p></p>
+<p><a href="mailto:lim_gim_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_gim_siong@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -719,7 +722,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>TBA</p>
 <p></p>
+<p><a href="mailto:aneesah_shaik_uthuman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aneesah_shaik_uthuman@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -737,7 +743,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:norhayati_mohamed_jasni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhayati_mohamed_jasni@schools.gov.sg</a>
+</p>
 <p></p>
+<p><a href="mailto:ng_wei_ling_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wei_ling_wendy@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -754,7 +764,11 @@ variant: tiptap
 <p>Ms Stella Yap</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:lim_jia_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_jing@schools.gov.sg</a>
+</p>
 <p></p>
+<p><a href="mailto:yap_sze_hui_stella@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_sze_hui_stella@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
