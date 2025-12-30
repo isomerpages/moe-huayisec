@@ -633,11 +633,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yazid_hussein@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yazid_hussein@schools.gov.sg</a>
 </p>
-<p></p>
-<p>joanne_ang@schools.gov.sg</p>
+<p><a href="mailto:joanne_ang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joanne_ang@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2437</p>
 <p></p>
+<p>TBA</p>
 </td>
 </tr>
 <tr>
@@ -657,7 +659,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>TBA</p>
 <p></p>
+<p>TBA</p>
 </td>
 </tr>
 <tr>
@@ -677,7 +681,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>TBA</p>
 <p></p>
+<p>2323</p>
 </td>
 </tr>
 <tr>
@@ -699,6 +705,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p>2401</p>
 </td>
 </tr>
 <tr>
@@ -720,7 +728,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2421</p>
 <p></p>
+<p></p>
+<p>2420</p>
 </td>
 </tr>
 <tr>
@@ -730,6 +741,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Jia Jing</p>
+<p></p>
 <p></p>
 <p>Ms Stella Yap</p>
 </td>
@@ -741,7 +753,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>TBA</p>
 <p></p>
+<p></p>
+<p>TBA</p>
 </td>
 </tr>
 <tr>
@@ -769,10 +784,14 @@ variant: tiptap
 <p>Mdm Teo Chek Gin</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:chong_kai_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kai_qin@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2407</p>
 <p></p>
+<p>TBA</p>
 </td>
 </tr>
 </tbody>
@@ -867,8 +886,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2403</p>
 <p></p>
-<p></p>
-<p>TBA</p>
+<p>2448</p>
 </td>
 </tr>
 <tr>
@@ -930,9 +948,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_tat_chuan_justin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_tat_chuan_justin@schools.gov.sg</a>
 </p>
-<p></p>
+<p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2439</p>
+<p></p>
 <p>TBA</p>
 </td>
 </tr>
@@ -953,8 +973,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2424</p>
-<p></p>
-<p></p>
 <p></p>
 <p>2445</p>
 </td>
@@ -1031,8 +1049,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2415</p>
 <p></p>
-<p></p>
-<p>TBA</p>
+<p>2449</p>
 </td>
 </tr>
 <tr>
@@ -1151,8 +1168,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2425</p>
 <p></p>
-<p></p>
-<p>TBA</p>
+<p>2416</p>
 </td>
 </tr>
 </tbody>
@@ -1487,10 +1503,11 @@ variant: tiptap
 <p>S. Thiruselvan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>s_thiruselvan@schools.gov.sg</p>
+<p><a href="mailto:s_thiruselvan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">s_thiruselvan@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBD</p>
+<p>2505</p>
 </td>
 </tr>
 <tr>
