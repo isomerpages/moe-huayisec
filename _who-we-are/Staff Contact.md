@@ -490,21 +490,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (Art)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Keh Hwee Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:keh_hwee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">keh_hwee_peng@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2325</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lead Teacher (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -516,21 +501,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2326</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Hui Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_hui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_hui_ling@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2328</p>
 </td>
 </tr>
 <tr>
@@ -581,7 +551,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
-<p>(Physics) (covering)</p>
+<p>(Physics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Kai Xin</p>
