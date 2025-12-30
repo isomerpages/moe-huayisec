@@ -1339,7 +1339,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23-5A</p>
+<p>23-5A (Diutius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Shernice Chia</p>
