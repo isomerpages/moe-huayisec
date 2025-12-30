@@ -160,7 +160,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2307</p>
+<p>2336</p>
 </td>
 </tr>
 <tr>
@@ -356,21 +356,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2319</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Shuk Wai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_shuk_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shuk_wai@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2336</p>
 </td>
 </tr>
 <tr>
