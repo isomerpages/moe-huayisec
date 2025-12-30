@@ -623,7 +623,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25-1A
-<br>(Latius)</p>
+<br>(Altius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yazid B Hussein</p>
@@ -645,7 +645,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25-1B
-<br>(Altius)</p>
+<br>(Latius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sabrina Binte Jumadi</p>
@@ -667,7 +667,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25-1C
-<br>(Diutius)</p>
+<br>(Citius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nah Yan Ling Laura</p>
@@ -689,7 +689,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25-1D
-<br>(Fortius)</p>
+<br>(Diutius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Sze Ki</p>
@@ -712,7 +712,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25-1E
-<br>(Latius)</p>
+<br>(Altius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Norhayati Binte Mohamed Jasni</p>
@@ -737,7 +737,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>25-1F
-<br>(Citius)</p>
+<br>(Fortius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Jia Jing</p>
@@ -761,22 +761,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>25-1G
-<br>(Altius)</p>
+<br>(Latius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chong Kai Qin</p>
