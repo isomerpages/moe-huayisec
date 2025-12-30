@@ -8,19 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/2025/Home_Page_2.gif
-      key_highlights:
-        - title: GLOCALISED CITIZENS
-          description: ""
-          url: ""
-        - title: RESILIENT LEADERS
-          description: ""
-          url: ""
-        - title: EMPATHETIC CONTRIBUTORS
-          description: ""
-          url: ""
-        - title: PASSIONATE LEARNERS
-          description: ""
-          url: ""
   - infobar:
       title: Sec 1 Registration for 2026 Cohort
       id: infobar
