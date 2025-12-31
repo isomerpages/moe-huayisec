@@ -78,7 +78,7 @@ variant: tiptap
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lye Yong Pheng</p>
+<p>Mdm Lye Yoke Pheng Suzanne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lye_yoke_pheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lye_yoke_pheng@schools.gov.sg</a>
