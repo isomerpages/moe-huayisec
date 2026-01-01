@@ -375,7 +375,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH History (Covering)</p>
+<p>SH History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Gim Siong</p>
@@ -405,7 +405,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Management (Covering)</p>
+<p>SH Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kalarani d/o PANEER SELVAM</p>
