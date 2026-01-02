@@ -78,7 +78,7 @@ variant: tiptap
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lye Yong Pheng</p>
+<p>Mdm Lye Yoke Pheng Suzanne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lye_yoke_pheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lye_yoke_pheng@schools.gov.sg</a>
@@ -375,7 +375,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH History (Covering)</p>
+<p>SH History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Gim Siong</p>
@@ -393,7 +393,7 @@ variant: tiptap
 <p>SH Student Wellbeing (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aneesah Bte SHAIK UTHUMAN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Aneesah Bte Shaik Uthuman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aneesah_shaik_uthuman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aneesah_shaik_uthuman@schools.gov.sg</a>
@@ -405,7 +405,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Management (Covering)</p>
+<p>SH Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kalarani d/o PANEER SELVAM</p>
@@ -882,11 +882,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Anggreini</p>
+<p></p>
 <p>Ms Jasmine Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anggreini_hamid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anggreini_hamid@schools.gov.sg</a>
 </p>
+<p></p>
 <p><a href="mailto:tan_si_ying_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_si_ying_jasmine@schools.gov.sg</a>
 </p>
 </td>
@@ -905,7 +907,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Joo Chan Hock</p>
-<p></p>
 <p>Mrs Eleanor Chen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -948,7 +949,8 @@ variant: tiptap
 <br>(Altius)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ramachandran S/O Palanisamy</p>
+<p>Mr Ramachandran</p>
+<p></p>
 <p>Ms Lim Lee Lian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1328,6 +1330,7 @@ variant: tiptap
 <p><a href="mailto:chong_hui_min_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_hui_min_a@schools.gov.sg</a>
 </p>
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2406
@@ -1339,7 +1342,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23-5A</p>
+<p>23-5A (Diutius)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Shernice Chia</p>
@@ -1411,7 +1414,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sean Yee Kong Fong</p>
+<p>Mr Sean Fong Yew Kong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Sean_Fong_Yew_Kong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sean_Fong_Yew_Kong@schools.gov.sg</a>
@@ -1471,7 +1474,7 @@ variant: tiptap
 <p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm June Chen</p>
+<p>Ms June Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_yee_sing_june@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_yee_sing_june@schools.gov.sg</a>
@@ -1486,7 +1489,7 @@ variant: tiptap
 <p>ECG Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S. Thiruselvan</p>
+<p>Mr S. Thiruselvan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:s_thiruselvan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">s_thiruselvan@schools.gov.sg</a>
@@ -1513,6 +1516,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Hui Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
 <p>(Workshop)</p>
 </td>
@@ -1533,7 +1550,7 @@ variant: tiptap
 <p>(Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clemence Albert</p>
+<p>Mr Clemence Albert</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Clemence_Albert@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">clemence_albert@schools.gov.sg</a>
