@@ -730,18 +730,21 @@ alignment with our beliefs</p>
 </tbody>
 </table>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
-<p>8. eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
-<p>9. Students are taught skills such as decision-making, assertiveness and
+<p>eTeens is a programme that was developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective.
+With the formation of the Communicable Diseases Agency (CDA) on 1 April
+2025, the programme would now be managed by CDA’s Training and Education
+Division instead of HPB. eTeens is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the eTeens
+programme is that students are empowered to make wise, informed and sensible
+decisions to protect themselves from sexually transmitted infectious diseases</p>
+<p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Hua Yi Secondary School, the eTeens programme will be implemented as follows in 2025 :</strong>
+<p><strong>At Hua Yi Secondary School, the eTeens programme will be implemented as follows in 2026 :</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -763,21 +766,25 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Raise awareness and provide knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
-it spreads, how to prevent infection mainly through ABC (abstinence, being
-faithful, correct, and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.</p>
+<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact</p>
+<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p>c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
+<p></p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -793,7 +800,7 @@ of assertiveness and responsible decision-making</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -811,5 +818,5 @@ The completed form is to be submitted by 14/02/2025.</p>
 <p>13. Parents can contact the school at (hyss@moe.edu.sg or 6563 4568) for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p><em>Information is updated as of 17 Jan 2025.</em>
+<p><em>Information is updated as of 17 Jan 2026</em>
 </p>
