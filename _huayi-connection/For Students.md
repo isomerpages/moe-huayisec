@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://staging.d24qp50d0iaegk.amplifyapp.com/sex-ed/" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education Programme</a>
+<p><a href="https://www.huayisec.moe.edu.sg/sex-ed/" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education Programme</a>
 </p>
 </li>
 <li>
