@@ -819,5 +819,5 @@ The completed form is to be submitted by 12/02/2026.</p>
 <p>13. Parents can contact the school at (hyss@moe.edu.sg or 6563 4568) for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p><em>Information is updated as of 17 Jan 2026</em>
+<p><em>Information is updated as of 9 Jan 2026</em>
 </p>
