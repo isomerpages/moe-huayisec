@@ -412,7 +412,7 @@ is important when entering into a dating relationship</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -434,7 +434,7 @@ and that family and friends are important pillars of support.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>know that relationship-building involvespersonal emotions and vulnerabilities,
+<p>know that relationship-building involves personal emotions and vulnerabilities,
 and changes and challenges</p>
 </li>
 <li>
@@ -443,7 +443,7 @@ and others</p>
 </li>
 <li>
 <p>know that grief and loss due to rejections and broken relationships is
-normal and one can recover from the experienc</p>
+normal and one can recover from the experience</p>
 </li>
 <li>
 <p>know there are healthy ways of coping with broken relationships, and family
@@ -452,7 +452,7 @@ and friends are important pillars of support</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -487,7 +487,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
