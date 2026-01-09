@@ -35,9 +35,9 @@ and</p>
 <p>(iv) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">You may&nbsp;click here&nbsp;for more information on MOE Sexuality Education.</a>
-</p>
-<p><strong>Overview of</strong>&nbsp;<strong>Hua Yi Secondary School’s SEd Programme for 2025</strong>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+<p><strong>Overview of</strong>&nbsp;<strong>Hua Yi Secondary School’s SEd Programme for 2026</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality&nbsp;Education is grouped into five
@@ -69,13 +69,13 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Hua Yi Secondary School, the following lessons from the Growing Years Programme will be taught in&nbsp;2025:</strong>
+<p><strong>At Hua Yi Secondary School, the following lessons from the Growing Years Programme will be taught in&nbsp;2026:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2025/MOE_logo.jpg">
 </div>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h3>Secondary 1</h3>
 <table style="minWidth: 125px">
 <colgroup>
@@ -142,7 +142,7 @@ in dating vary among individuals</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -158,8 +158,8 @@ also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
 of self.
 <br>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -171,7 +171,7 @@ self-concept</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -188,8 +188,8 @@ downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.
 <br>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -207,7 +207,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -281,7 +281,7 @@ as a male or female</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -311,7 +311,7 @@ both online and offline</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -343,7 +343,7 @@ both offline and online</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -412,7 +412,7 @@ is important when entering into a dating relationship</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -487,7 +487,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7/8</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 </tbody>
@@ -555,7 +555,7 @@ and should be avoided</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -598,7 +598,7 @@ verbal ones, when communicatingpersonal and emotional boundaries in a relationsh
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6/8</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -636,7 +636,7 @@ of their marriage</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7/9</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -663,8 +663,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10/
-<br>Term 4 Week 1</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -725,7 +724,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 </tbody>
