@@ -35,9 +35,9 @@ and</p>
 <p>(iv) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">You may&nbsp;click here&nbsp;for more information on MOE Sexuality Education.</a>
-</p>
-<p><strong>Overview of</strong>&nbsp;<strong>Hua Yi Secondary School’s SEd Programme for 2025</strong>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+<p><strong>Overview of</strong>&nbsp;<strong>Hua Yi Secondary School’s SEd Programme for 2026</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality&nbsp;Education is grouped into five
@@ -69,13 +69,13 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Hua Yi Secondary School, the following lessons from the Growing Years Programme will be taught in&nbsp;2025:</strong>
+<p><strong>At Hua Yi Secondary School, the following lessons from the Growing Years Programme will be taught in&nbsp;2026:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2025/MOE_logo.jpg">
 </div>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h3>Secondary 1</h3>
 <table style="minWidth: 125px">
 <colgroup>
@@ -142,7 +142,7 @@ in dating vary among individuals</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -158,8 +158,8 @@ also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
 of self.
 <br>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -171,7 +171,7 @@ self-concept</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -188,8 +188,8 @@ downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.
 <br>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -207,7 +207,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -281,7 +281,7 @@ as a male or female</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -311,7 +311,7 @@ both online and offline</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -343,7 +343,7 @@ both offline and online</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -412,7 +412,7 @@ is important when entering into a dating relationship</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -434,7 +434,7 @@ and that family and friends are important pillars of support.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>know that relationship-building involvespersonal emotions and vulnerabilities,
+<p>know that relationship-building involves personal emotions and vulnerabilities,
 and changes and challenges</p>
 </li>
 <li>
@@ -443,7 +443,7 @@ and others</p>
 </li>
 <li>
 <p>know that grief and loss due to rejections and broken relationships is
-normal and one can recover from the experienc</p>
+normal and one can recover from the experience</p>
 </li>
 <li>
 <p>know there are healthy ways of coping with broken relationships, and family
@@ -452,7 +452,7 @@ and friends are important pillars of support</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -487,7 +487,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7/8</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
@@ -555,7 +555,7 @@ and should be avoided</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -598,7 +598,7 @@ verbal ones, when communicatingpersonal and emotional boundaries in a relationsh
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6/8</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -636,7 +636,7 @@ of their marriage</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7/9</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -663,8 +663,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10/
-<br>Term 4 Week 1</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -725,24 +724,27 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
-<p>8. eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
-<p>9. Students are taught skills such as decision-making, assertiveness and
+<p>eTeens is a programme that was developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective.
+With the formation of the Communicable Diseases Agency (CDA) on 1 April
+2025, the programme would now be managed by CDA’s Training and Education
+Division instead of HPB. eTeens is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the eTeens
+programme is that students are empowered to make wise, informed and sensible
+decisions to protect themselves from sexually transmitted infectious diseases</p>
+<p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Hua Yi Secondary School, the eTeens programme will be implemented as follows in 2025 :</strong>
+<p><strong>At Hua Yi Secondary School, the eTeens programme will be implemented as follows in 2026 :</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -764,21 +766,25 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Raise awareness and provide knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
-it spreads, how to prevent infection mainly through ABC (abstinence, being
-faithful, correct, and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.</p>
+<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact</p>
+<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p>c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
+<p></p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -794,23 +800,25 @@ of assertiveness and responsible decision-making</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Information for Parents</h3>
 <p>10.Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or suppl5mentary sexuality education programmes by MOE-approved
+eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
 <p>11. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form can be accessed via
-<a href="https://form.gov.sg/6789b6daf1fdcd69fb141e1b" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>. The completed form is to be submitted by 14/02/2025.</p>
+<a href="https://form.gov.sg/695f61753b9bc1861b3969bc" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>and is also downloadable <a href="/files/2026 Files/Sexual_Edu_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 12/02/2026.</p>
 <p>12. Parents who wish to opt their children out of the eTeens programme
-need to complete an opt-out form. This form can be accessed via <a href="https://form.gov.sg/6789c55e864ffc362d9c5ecc" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.
-The completed form is to be submitted by 14/02/2025.</p>
+need to complete an opt-out form. This form can be accessed via <a href="https://form.gov.sg/695f63b4d2b4c3a996193e13" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.
+and is also downloadable <a href="/files/2026 Files/Commumicable_Disease_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 12/02/2026.</p>
 <p>13. Parents can contact the school at (hyss@moe.edu.sg or 6563 4568) for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p><em>Information is updated as of 17 Jan 2025.</em>
+<p><em>Information is updated as of 9 Jan 2026</em>
 </p>
