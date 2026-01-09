@@ -815,6 +815,7 @@ lessons need to complete an opt-out form. This form can be accessed via
 form is to be submitted by 12/02/2026.</p>
 <p>12. Parents who wish to opt their children out of the eTeens programme
 need to complete an opt-out form. This form can be accessed via <a href="https://form.gov.sg/695f63b4d2b4c3a996193e13" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.
+and is also downloadable <a href="/files/2026 Files/Commumicable_Disease_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 12/02/2026.</p>
 <p>13. Parents can contact the school at (hyss@moe.edu.sg or 6563 4568) for
 discussion or to seek clarification about the school’s Sexuality Education
