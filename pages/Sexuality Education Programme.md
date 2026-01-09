@@ -807,11 +807,11 @@ of assertiveness and responsible decision-making</p>
 </table>
 <h3>Information for Parents</h3>
 <p>10.Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or suppl5mentary sexuality education programmes by MOE-approved
+eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
 <p>11. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form can be accessed via
-<a href="https://form.gov.sg/6789b6daf1fdcd69fb141e1b" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>. The completed form is to be submitted by 14/02/2025.</p>
+<a href="https://form.gov.sg/695f61753b9bc1861b3969bc" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>. The completed form is to be submitted by 12/02/2026.</p>
 <p>12. Parents who wish to opt their children out of the eTeens programme
 need to complete an opt-out form. This form can be accessed via <a href="https://form.gov.sg/6789c55e864ffc362d9c5ecc" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.
 The completed form is to be submitted by 14/02/2025.</p>
