@@ -53,7 +53,7 @@ resistant materials like wood, metal and plastic. At upper secondary, students
 will choose their own design situations before embarking on their design-and-make
 journeys.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-DhvOAvDkRO7beL-BINXrrfZmtKs5-u0GWNyEUfP2jijqffsrE8Dy62fJOh_ug3wuN7iAq0R4ta7E/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqYgoiIppQUlNjUZOqvDRkLJ7zak27zotG-hmRG8f_rrdl4fRxTaCKNJdGXnMBEiJDC3SZCzmsp0Oe/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>3. Food &amp; Consumer Education (Lower Secondary) and Nutrition &amp; Food Science (Upper Secondary)</h4>
 <p>Students taking FCE/NFS curriculum will have the opportunities to:</p>
