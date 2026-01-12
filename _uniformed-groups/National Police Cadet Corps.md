@@ -56,7 +56,7 @@ loyalty to the Group, Corps and State.</p>
 <p>Mr Daniel Soh</p>
 </li>
 <li>
-<p>Ms Lim Ai Hong</p>
+<p>Mdm Teo Chek Gin</p>
 </li>
 </ul>
 <h4>Achievements</h4>
