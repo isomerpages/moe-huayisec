@@ -65,13 +65,13 @@ and a spirit of excellence that extends beyond the track.</p>
 <h4>Teacher in charge</h4>
 <ul>
 <li>
-<p>Mr Lim Gim Siong (I/C)</p>
-</li>
-<li>
-<p>Mr Justin Ho</p>
+<p>Mr Justin Ho (I/C)</p>
 </li>
 <li>
 <p>Mr Andrew Low</p>
+</li>
+<li>
+<p>Ms Sabrina Binte Jumadi</p>
 </li>
 </ul>
 <h4>Achievements</h4>
