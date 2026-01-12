@@ -69,6 +69,9 @@ exchanges to broaden perspectives and build lasting relationships.</p>
 <li>
 <p>Ms He Tianchan</p>
 </li>
+<li>
+<p>Ms Chan Sze Ki</p>
+</li>
 </ul>
 <h4>Achievements</h4>
 <h4>2025</h4>
