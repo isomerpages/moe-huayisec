@@ -53,6 +53,9 @@ to develop and enhance leadership skills of potential student leaders.</p>
 <li>
 <p>Mdm Ma Ruike</p>
 </li>
+<li>
+<p>Ms Low Xuan Yin</p>
+</li>
 </ul>
 <h4>Achievements</h4>
 <h4>2025</h4>
