@@ -47,10 +47,10 @@ learning undergirds our mission, cadet training and developmental programmes.</p
 <h4>Teacher in charge</h4>
 <ul>
 <li>
-<p>Ms Lim Kai Xin (I/C)</p>
+<p>Ms Nur Diyanah (I/C)</p>
 </li>
 <li>
-<p>Ms Nur Diyanah</p>
+<p>Ms Lim Kai Xin</p>
 </li>
 </ul>
 <h4>Achievements</h4>
