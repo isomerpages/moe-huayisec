@@ -64,10 +64,13 @@ exchanges to broaden perspectives and build lasting relationships.</p>
 <h4>Teacher in charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Eleanor Chen (I/C)</p>
+<p></p>
 </li>
 <li>
-<p>Ms He Tianchan</p>
+<p>Ms Tan Wan Kiang (I/C)</p>
+</li>
+<li>
+<p>Mrs Eleanor Chen</p>
 </li>
 <li>
 <p>Ms Chan Sze Ki</p>
