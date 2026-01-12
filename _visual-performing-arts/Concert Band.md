@@ -68,6 +68,9 @@ honing their skills with talented musicians from other local bands.</p>
 <li>
 <p>Mdm Sherindar Kaur</p>
 </li>
+<li>
+<p>Ms Lim Jia Jing</p>
+</li>
 </ul>
 <h4>Achievements</h4>
 <h4>2025</h4>
