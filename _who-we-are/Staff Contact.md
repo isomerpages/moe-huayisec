@@ -608,7 +608,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Designation</p>
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
@@ -794,7 +794,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Designation</p>
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
@@ -979,7 +979,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>nation</p>
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
@@ -1172,7 +1172,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Designation</p>
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
