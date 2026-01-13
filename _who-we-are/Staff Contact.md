@@ -622,7 +622,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25-1A
+<p>26-1A
 <br>(Altius)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -644,7 +644,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25-1B
+<p>26-1B
 <br>(Latius)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -666,7 +666,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25-1C
+<p>26-1C
 <br>(Citius)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -675,8 +675,8 @@ variant: tiptap
 <p>Mr Lim Gim Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
-<p></p>
+<p><a href="mailto:Nah_Yan_Ling_Laura_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nah_Yan_Ling_Laura_A@schools.gov.sg</a>
+</p>
 <p><a href="mailto:lim_gim_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_gim_siong@schools.gov.sg</a>
 </p>
 </td>
@@ -688,7 +688,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25-1D
+<p>26-1D
 <br>(Diutius)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -698,8 +698,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
-<p></p>
+<p><a href="mailto:Chan_Sze_Ki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chan_Sze_Ki@schools.gov.sg</a>
+</p>
 <p><a href="mailto:aneesah_shaik_uthuman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aneesah_shaik_uthuman@schools.gov.sg</a>
 </p>
 </td>
@@ -711,7 +711,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25-1E
+<p>26-1E
 <br>(Altius)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -736,7 +736,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25-1F
+<p>26-1F
 <br>(Fortius)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -761,7 +761,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25-1G
+<p>26-1G
 <br>(Latius)</p>
 </td>
 <td rowspan="1" colspan="1">
