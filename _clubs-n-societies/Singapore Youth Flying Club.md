@@ -58,9 +58,6 @@ are all bonded by our strong friendship and commitment to the club.</p>
 <p>Mr Chong Kai Xin (I/C)</p>
 </li>
 <li>
-<p>Ms Lee Huiling</p>
-</li>
-<li>
 <p>Mr Loh Kuin Phei</p>
 </li>
 </ul>

@@ -82,7 +82,7 @@ by sharing their talents during Values-in-Action activities.</p>
 <p>Mdm Jayati Deb</p>
 </li>
 <li>
-<p>Ms Khatijah</p>
+<p>Ms Esther Cheah</p>
 </li>
 </ul>
 <h4>Achievements</h4>

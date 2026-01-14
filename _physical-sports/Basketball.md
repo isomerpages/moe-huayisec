@@ -60,13 +60,13 @@ that build responsibility, sportsmanship, and teamwork.</p>
 <h4>Teacher in charge</h4>
 <ul>
 <li>
-<p>Mr Seah Jim Chew (I/C)</p>
+<p>Ms O Ming Fen (I/C)</p>
+</li>
+<li>
+<p>Mr Seah Jim Chew</p>
 </li>
 <li>
 <p>Mr Edwin Khoo</p>
-</li>
-<li>
-<p>Ms O Ming Fen</p>
 </li>
 </ul>
 <h4>Achievements</h4>
