@@ -20,6 +20,10 @@ variant: tiptap
 <p>
 <br>
 </p>
+<h2><strong>OUR VALUES</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Values.jpg">
+</div>
 <p>
 <br>
 </p>
