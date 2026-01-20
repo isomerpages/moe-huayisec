@@ -16,25 +16,6 @@ description: ""
 <li>
 <p>Mr Lim Kok Sing (SH PE &amp; CCA &amp; Aesthetics), <a rel="noopener noreferrer nofollow" target="_blank">lim_kok_sing@schools.gov.sg</a>
 </p>
-</li>
-</ul>
-<p>For enquiries related to a specific talent area, please contact:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Oliver Ong, (Sports &amp; Games), <a rel="noopener noreferrer nofollow" target="_blank">ong_tzuen_wee_oliver@schools.gov.sg</a>
-</p>
-</li>
-<li>
-<p>Ms Susanna Wee, (Performing Arts), <a rel="noopener noreferrer nofollow" target="_blank">wee_wan_ying_susanna@schools.gov.sg</a>
-</p>
-</li>
-<li>
-<p>Ms Lee Taojing, (Student Leadership), <a rel="noopener noreferrer nofollow" target="_blank">lee_taojing@schools.gov.sg</a>
-</p>
-</li>
-<li>
-<p>Mr Ramachandran S/O Palanisamy, (Uniformed Groups), <a rel="noopener noreferrer nofollow" target="_blank">ramachandran_palanisamy@schools.gov.sg</a>
-</p>
 <p></p>
 </li>
 </ul>
