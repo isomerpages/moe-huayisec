@@ -639,7 +639,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2437</p>
 <p></p>
-<p>TBA</p>
+<p>2419</p>
 </td>
 </tr>
 <tr>
@@ -659,9 +659,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>2442</p>
 <p></p>
-<p>TBA</p>
+<p>2316</p>
 </td>
 </tr>
 <tr>
@@ -681,7 +681,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>2451</p>
 <p></p>
 <p>2323</p>
 </td>
@@ -753,10 +753,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>2441</p>
 <p></p>
 <p></p>
-<p>TBA</p>
+<p>2318</p>
 </td>
 </tr>
 <tr>
@@ -777,7 +777,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2407</p>
 <p></p>
-<p>TBA</p>
+<p>2450</p>
 </td>
 </tr>
 </tbody>
