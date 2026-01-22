@@ -2,7 +2,7 @@ collections:
   the-huayi-experience:
     output: true
     order:
-      - Departments/Department Programmes.md
+      - Departments/Departments.md
       - Departments/.keep
       - Departments/English Department.md
       - Departments/Science Department.md

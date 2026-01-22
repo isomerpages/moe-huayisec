@@ -1,5 +1,5 @@
 ---
-title: Department Programmes
+title: Departments
 permalink: /department-programmes/
 variant: tiptap
 description: ""

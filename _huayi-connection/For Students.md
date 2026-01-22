@@ -11,6 +11,10 @@ variant: tiptap
 <p><a href="/files/2025/HYSS_Learning_Dispositions___School_website_CL_ML__final_.pdf" rel="noopener nofollow" target="_blank">Hua Yi Learning Dispositions</a>
 </p>
 </li>
+<li>
+<p><a href="https://online.fliphtml5.com/imxpa/HuaYiSec_HB26_144129_Ebook/#p=1" rel="noopener nofollow" target="_blank">2026 Students' Handbook</a>
+</p>
+</li>
 </ul>
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">
