@@ -86,18 +86,7 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="/visual-performing-arts/ge/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669660072.jpeg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/visual-performing-arts/cldds/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669660088.jpeg"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/visual-performing-arts/eldds/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo1669660147.jpeg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
