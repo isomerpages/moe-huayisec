@@ -15,6 +15,10 @@ variant: tiptap
 <p><a href="https://online.fliphtml5.com/imxpa/HuaYiSec_HB26_144129_Ebook/#p=1" rel="noopener nofollow" target="_blank">2026 Students' Handbook</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2026 Files/2026_WA1_WA2_Schedule_updated_23Jan.pdf" rel="noopener nofollow" target="_blank">2026 WA1 and WA2 Schedule</a>
+</p>
+</li>
 </ul>
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">
