@@ -11,6 +11,10 @@ variant: tiptap
 <p><a href="/files/2025/HYSS_Learning_Dispositions___School_website_CL_ML__final_.pdf" rel="noopener nofollow" target="_blank">Hua Yi Learning Dispositions</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2026 Files/2026_WA1_WA2_Schedule_updated_23Jan.pdf" rel="noopener nofollow" target="_blank">2026 WA1 AND WA2 Schedule</a>
+</p>
+</li>
 </ul>
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">
@@ -54,7 +58,7 @@ variant: tiptap
 <h5></h5>
 <h4>PARENTS GATEWAY APP</h4>
 <div class="iframe-wrapper">
-<iframe height="467" width="824" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tW9jwyuovOo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="467" width="824" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tW9jwyuovOo"></iframe>
 </div>
 <h4>USEFUL RESOURCES</h4>
 <h5><strong><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GCE ‘N’ &amp; ‘O’ Level Syllabuses</a></strong></h5>
