@@ -67,7 +67,7 @@ Day.</p>
 <p>Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Veronica Maratha &amp; Mdm Priscilla Tan</p>
+<p>Mdm Veronika Maretha &amp; Mdm Ang Li Fong</p>
 </td>
 </tr>
 <tr>
