@@ -12,7 +12,7 @@ variant: tiptap
 Design Thinking and an interdisciplinary approach, integrating various
 subjects such as English, Design &amp; Technology, ICT, Science, and Character
 and Citizenship Education.</p>
-<p><strong>Our Aim</strong>
+<p><strong>Our Objective</strong>
 </p>
 <p>To equip and empower students to apply emerging technologies to solve
 authentic real-world challenges</p>
