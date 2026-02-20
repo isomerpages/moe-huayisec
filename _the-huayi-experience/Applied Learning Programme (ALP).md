@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Applied Learning Programme (ALP)</h2>
 <div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqxI8Qzu__iteEYb7LGdUHJjAdTRdIAaDRhA6utn_ECM0xDkNA7bkcZTsy3UupurAqLQZd2awxKdYq/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqxI8Qzu__iteEYb7LGdUHJjAdTRdIAaDRhA6utn_ECM0xDkNA7bkcZTsy3UupurAqLQZd2awxKdYq/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Hua Yi’s Applied Learning Programme is a distinctive programme that embraces
 Design Thinking and an interdisciplinary approach, integrating various
@@ -25,8 +25,9 @@ Socio-emotional Competencies such as problem-solving, interpersonal communicatio
 and situational analysis.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourage lifelong learning and
 adaptability through positive educational experiences.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tech_for_Active_Living.png">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Tiered Programme" src="/images/APPLIED_LEARNING_PROGRAMME_TIER.png">
 </div>
 <p>In ALP in Hua Yi aims to equip students with the skills and mindset needed
 to thrive in a rapidly evolving digital world. It fosters confidence in
