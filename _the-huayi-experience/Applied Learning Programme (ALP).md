@@ -26,8 +26,9 @@ and situational analysis.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourage lifelong learning and
 adaptability through positive educational experiences.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALP Tiered Programme" src="/images/APPLIED_LEARNING_PROGRAMME_TIER.png">
+<img style="width: 100%" height="auto" width="100%" alt="ALP TIERED APPROACH" src="/images/APPLIED_LEARNING_PROGRAMME_TIERv2.png">
 </div>
 <p>In ALP in Hua Yi aims to equip students with the skills and mindset needed
 to thrive in a rapidly evolving digital world. It fosters confidence in
