@@ -6,27 +6,18 @@ variant: tiptap
 ---
 <h2>Applied Learning Programme (ALP)</h2>
 <div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqxI8Qzu__iteEYb7LGdUHJjAdTRdIAaDRhA6utn_ECM0xDkNA7bkcZTsy3UupurAqLQZd2awxKdYq/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqxI8Qzu__iteEYb7LGdUHJjAdTRdIAaDRhA6utn_ECM0xDkNA7bkcZTsy3UupurAqLQZd2awxKdYq/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Hua Yi’s Applied Learning Programme is a distinctive programme that embraces
 Design Thinking and an interdisciplinary approach, integrating various
 subjects such as English, Design &amp; Technology, ICT, Science, and Character
 and Citizenship Education.</p>
-<p><strong>Our Aim is to</strong>
+<p><strong>Our Objective</strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Equip students with the skills to
-navigate the complexities and challenges of the digital age, addressing
-social and economic changes and fostering innovation.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Empower students with the confidence
-to solve real-world problems through technology and design thinking, enabling
-them to become creators, communicators, and contributors.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop Emerging 21st Century and
-Socio-emotional Competencies such as problem-solving, interpersonal communication,
-and situational analysis.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourage lifelong learning and
-adaptability through positive educational experiences.</p>
+<p>To equip and empower students to apply emerging technologies to solve
+authentic real-world challenges</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Tech_for_Active_Living.png">
+<img style="width: 100%" height="auto" width="100%" alt="ALP TIERED APPROACH" src="/images/APPLIED_LEARNING_PROGRAMME_TIERv2.png">
 </div>
 <p>In ALP in Hua Yi aims to equip students with the skills and mindset needed
 to thrive in a rapidly evolving digital world. It fosters confidence in
@@ -35,6 +26,14 @@ through a Design Thinking approach. Additionally, it develops essential
 21st Century Competencies and Social-Emotional skills such as critical
 thinking, communication, and situational awareness. The programme is tiered
 at three levels as shown in the diagram above.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALP Programme Approach v2" src="/images/APPLIED_LEARNING_PROGRAMME_TIER_V3.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Secondary 1 students now use Micro:bit kits (transitioning from M5GO)
 to learn block-based coding and computational thinking. The programme emphasizes
 hands-on learning through guided projects and design thinking, laying a
