@@ -182,7 +182,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://form.gov.sg/697306800ad6e0a3cc532f24" rel="noopener nofollow" target="_blank">A Note of Thanks</a>
+</p>
 </td>
 </tr>
 </tbody>
