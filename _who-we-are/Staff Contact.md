@@ -1528,10 +1528,11 @@ variant: tiptap
 <p>Ms Koh Hui Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto: koh_hui_yan@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_hui_yan@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2502</p>
 </td>
 </tr>
 <tr>
