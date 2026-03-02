@@ -1295,6 +1295,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2422</p>
+<p></p>
+<p></p>
+<p>2329</p>
 </td>
 </tr>
 <tr>
@@ -1335,14 +1338,15 @@ variant: tiptap
 <p><a href="mailto:chong_hui_min_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_hui_min_a@schools.gov.sg</a>
 </p>
 <p></p>
-<p></p>
+<p><a href="mailto: chan_jun_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">chan_jun_peng@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2406
 <br>
 </p>
 <p></p>
-<p></p>
+<p>2405</p>
 </td>
 </tr>
 <tr>
