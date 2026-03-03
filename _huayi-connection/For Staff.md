@@ -188,7 +188,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://form.gov.sg/69a631b13646169c05c7666c" rel="noopener nofollow" target="_blank">Performance Rating REMS</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
