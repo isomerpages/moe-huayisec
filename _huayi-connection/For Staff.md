@@ -182,13 +182,24 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/697306800ad6e0a3cc532f24" rel="noopener nofollow" target="_blank">A Note of Thanks</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/69a631b13646169c05c7666c" rel="noopener nofollow" target="_blank">Performance Rating REMS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
