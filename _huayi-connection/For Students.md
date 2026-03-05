@@ -78,4 +78,10 @@ in your CCA certificate.
 </p>
 <p><a href="https://docs.google.com/spreadsheets/d/136lLxQuarc4Hla_ha82pDwLyjJN9ZcDkO3WQlVLZvbM/edit#gid=0" rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/spreadsheets/d/136lLxQuarc4Hla_ha82pDwLyjJN9ZcDkO3WQlVLZvbM/edit#gid=0</a>
 </p>
+<h5>PDLP Acceptable Use Policy</h5>
+<p>This <a href="/files/2026 Files/2026_PDLP_AUP.pdf" rel="noopener nofollow" target="_blank">Acceptable User Policy</a> (AUP)
+establishes guidelines on the appropriate use of EdTech resources to help
+you understand how to use these resources safely and responsibly, in line
+with efforts to develop your digital literacies and growth as digitally
+responsible citizens.</p>
 <p></p>
