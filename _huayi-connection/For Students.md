@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026 Files/2026_WA2_Schedule_updated_01April.pdf" rel="noopener nofollow" target="_blank">2026 WA2 Schedule</a>
+<p><a href="/files/2026_WA2_Schedule_updated_07April.pdf" rel="noopener nofollow" target="_blank">2026 WA2 Schedule</a>
 </p>
 </li>
 <li>
