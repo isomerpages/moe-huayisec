@@ -330,7 +330,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH ICT</p>
+<p>SH ICT (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Low Xuan Yin</p>
@@ -371,6 +371,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2324</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Julinda Chan Mei Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:julinda_chan_mei_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">julinda_chan_mei_jun@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2316</p>
 </td>
 </tr>
 <tr>

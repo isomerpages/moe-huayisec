@@ -16,11 +16,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026 Files/2026_WA1_WA2_Schedule_updated_23Jan.pdf" rel="noopener nofollow" target="_blank">2026 WA1 and WA2 Schedule</a>
+<p><a href="/files/2026_WA2_Schedule_updated_07April.pdf" rel="noopener nofollow" target="_blank">2026 WA2 Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2026 Files/Hua_Yi_Sec_1_Outdoor_Adventue_Camp_2026_Parents_Briefing_Slides_10_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Sec 1 Outdoor Adventue Camp 2026 Parents Briefing Slides_10 Mar</a>
+<p><a href="/files/2026 Files/Hua_Yi_Sec_1_Outdoor_Adventue_Camp_2026_Parents_Briefing_Slides_10_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Sec 1 Outdoor Adventure Camp 2026 Parents Briefing Slides_10 Mar</a>
 </p>
 </li>
 </ul>
