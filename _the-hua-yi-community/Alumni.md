@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <h2>Hua Yi Alumni Society (HYAS)</h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/HYAS_Members.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="8th HYAS Committee" src="/images/8th_HYAS_Committee.jpg">
+</div>
 <p>The Hua Yi Alumni Society (HYAS) has continued to strengthen the bonds
 between our alumni and their alma mater. Through the organisation of various
 signature events and collaborative efforts, HYAS has successfully gathered
@@ -38,10 +38,11 @@ sense of affiliation and pride in the school</p>
 will remain a vital bridge between past, present, and future Hua Yians—uniting
 generations in a shared spirit of gratitude, service, and pride.</p>
 <p></p>
-<h4>7<sup>th</sup>&nbsp;HYAS Committee List</h4>
+<h4>8<sup>th</sup>&nbsp;HYAS Committee List</h4>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/HYAS_Members_Table.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HYAS_8th_Committee_List2.png">
 </div>
-<p></p>
 <p></p>
