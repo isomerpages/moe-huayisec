@@ -14,7 +14,7 @@ sections:
           url: https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/calendar/
         - title: Hua Yi Instagram
           description: ""
-          url: ""
+          url: https://www.instagram.com/huayisecondary/
   - infopic:
       title: QUICK FACTS ABOUT HUA YI
       button: Click Here To Learn More
