@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/2025/Home_Page_2.gif
+      key_highlights:
+        - title: School Calendar
+          description: ""
+          url: https://www.huayisec.moe.edu.sg/happenings-at-hua-yi/calendar/
+        - title: Hua Yi Instagram
+          description: ""
+          url: https://www.instagram.com/huayisecondary/
   - infopic:
       title: QUICK FACTS ABOUT HUA YI
       button: Click Here To Learn More
