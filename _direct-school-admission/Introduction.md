@@ -57,7 +57,7 @@ Four student, I have come to the realisation that opportunities in Hua
 Yi have helped me build a positive mindset in face of the different challenges
 over the years.</p>
 <p></p>
-<p><em>The selection criteria and process for the talent areas will be updated from early May. For more information on DSA-Sec, please refer to the MOE website at   </em>
+<p><em>The selection criteria and process for the talent areas will be updated from early May. For more information on DSA-Sec, please refer to the MOE website at </em>
 <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p></p>
