@@ -24,13 +24,13 @@ staying rooted to Singapore and relevant to the world.</p>
 fields, representing the different aspects of our holistic curriculum,
 to join the Hua Yi family through the Direct School Admission-Secondary
 (DSA-Sec) Exercise.</p>
-<p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA_Intro.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA_Poster_3.png">
 </div>
 <h4>School Publicity Video&nbsp;</h4>
 <div class="iframe-wrapper">
-<iframe height="408" width="727" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSA7uzrmVok"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="408" width="727" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSA7uzrmVok"></iframe>
 </div>
 <h4>ST Featured Article</h4>
 <p></p>
