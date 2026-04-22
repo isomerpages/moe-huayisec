@@ -11,6 +11,9 @@ school’s signature Learning for Life Programme (LLP). All Hua Yians are
 given the opportunity to develop skills, dispositions and talents to equip
 them with the skills and support required to lead others as well as to
 serve the community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL.jpg">
+</div>
 <h4>Programme</h4>
 <p>DSA students will be given comprehensive support to develop their ability
 and interests in taking up leadership roles, and to achieve a well-rounded
