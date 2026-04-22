@@ -6,15 +6,11 @@ third_nav_title: Talent Areas
 variant: tiptap
 ---
 <h2>Student Leadership</h2>
-<p>Since 2016, Hua Yi has embarked on a Community and Youth Leadership programme
-as our school’s signature Learning for Life Programme (LLP). All Hua Yians
-are given the opportunity to develop skills, dispositions and talents to
-equip them with the skills and support required to lead others as well
-as to serve the community.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Student_Leadership_3.jpg">
-</div>
+<p>Hua Yi has embarked on a Community and Youth Leadership programme as our
+school’s signature Learning for Life Programme (LLP). All Hua Yians are
+given the opportunity to develop skills, dispositions and talents to equip
+them with the skills and support required to lead others as well as to
+serve the community.</p>
 <h4>Programme</h4>
 <p>DSA students will be given comprehensive support to develop their ability
 and interests in taking up leadership roles, and to achieve a well-rounded
@@ -23,28 +19,22 @@ education in Hua Yi.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Emplaced on a Student Leader mentoring programme to support their transition
-into possible leadership roles&nbsp; &nbsp;</p>
+into possible leadership roles.</p>
 </li>
 <li>
 <p>Early enrolment in the school’s LLP Tier 2 programme to equip them with
 the skills and knowledge to facilitate their peers’ learning in the understanding
-of the Leadership Challenge Model&nbsp; &nbsp;</p>
+of the Leadership Challenge Model.</p>
 </li>
 <li>
 <p>Exposure to varied leadership development experiences including participation
 in external student leader conferences, leadership workshops, facilitation
-and co-planning of school-based events</p>
+and co-planning of school-based events.</p>
 </li>
 <li>
-<p>Opportunities to interact with overseas student leaders</p>
+<p>Opportunities to interact with overseas student leaders.</p>
 </li>
 </ul>
-<p>Shoutout to all primary sixers: If you demonstrate good leadership abilities,
-and you're looking for a comprehensive support to develop your passion
-and leadership abilities, as well as to develop as an active contributor
-in the community, look no further, Hua Yi’s distinctive leadership programme
-- <strong>Nuclei:</strong> Nurturing Community Leaders to have Empathy and
-Resilience is for you!</p>
 <h4>Criteria</h4>
 <ul data-tight="true" class="tight">
 <li>
