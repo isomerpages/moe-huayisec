@@ -6,45 +6,65 @@ third_nav_title: Talent Areas
 variant: tiptap
 ---
 <h2>Physical Sports</h2>
-<p>DSA Talent Areas in Physical Sports (for 2025):</p>
-<p>• Badminton (Boys &amp; Girls)</p>
-<p>• Basketball (Boys)</p>
-<p>• Netball (Girls)</p>
-<p>• Track &amp; Field (Boys &amp; Girls)</p>
-<p>• Volleyball (Girls)</p>
+<p></p>
 <p>Sports participation plays a significant role in students’ character development
 and holistic education. Hua Yi has a long history of sporting excellence,
 with our volleyball girls attaining 2nd runner-up in the 2025 West Zone
-‘B’ Division Girls &amp; 2025 National ‘B’ Division Girls Volleyball Championships
-and our basketball boys being shortlisted for national trials.</p>
-<p>P6 students with a flair for Volleyball, Basketball, Badminton, Netball
-or Track &amp; Field can seek admission to Hua Yi through the DSA-Sec Exercise.
-DSA students will be given comprehensive support to develop their ability
-and interests in taking up leadership roles, and to achieve a well-rounded
-education in Hua Yi.</p>
+B Division Girls &amp; 2025 National B Division Girls Volleyball Championships
+and our Football Boys emerging as Champions in the 2025 National B Division
+Boys League 4 Championship.</p>
+<p>Primary 6 students with a flair for Badminton, Basketball, Football, Netball,
+Track &amp; Field or Volleyball can seek admission to Hua Yi through the
+DSA-Sec Exercise. DSA students will be given comprehensive support to develop
+their ability and interests in taking up leadership roles, and to achieve
+a well-rounded education in Hua Yi.</p>
+<p><em>DSA Talent Areas in Sports and Games (for 2026):</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Badminton (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Basketball (Boys)</p>
+</li>
+<li>
+<p>Football (Boys)</p>
+</li>
+<li>
+<p>Netball (Girls)</p>
+</li>
+<li>
+<p>Track &amp; Field (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Volleyball (Girls)</p>
+<p></p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Sports_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BADMINTON.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Sports_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Sports_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FB.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NB.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TF.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Sports_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Sports_5.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Sports_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VB.jpg">
 </div>
 <h4>Programme</h4>
 <p>DSA students will be given comprehensive support to develop their ability
@@ -95,19 +115,22 @@ will be a good fit for the school.</p>
 <p>The trials are conducted based on the sports-specific skills.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Badminton: Service, Returning Shot &amp; Footwork</p>
+</li>
+<li>
 <p>Basketball: Passing, Dribbling, Shooting &amp; Lay-Up</p>
 </li>
 <li>
-<p>Volleyball: Service, Setting &amp; Spiking</p>
-</li>
-<li>
-<p>Badminton: Service, Returning Shot &amp; Footwork</p>
+<p>Football: Passing, Dribbling &amp; Shooting</p>
 </li>
 <li>
 <p>Netball: Passing, Shooting &amp; Footwork</p>
 </li>
 <li>
 <p>Track &amp; Field: Sprints, Distance Running</p>
+</li>
+<li>
+<p>Volleyball: Service, Setting &amp; Spiking</p>
 </li>
 </ul>
 </li>

@@ -5,32 +5,31 @@ description: ""
 variant: tiptap
 ---
 <h2>Introduction</h2>
-<p>At Hua Yi Secondary School, we believe that all students have different
-gifts and abilities to make a difference to society.</p>
-<p>All students will be holistically developed, imbued with strong moral
-values and acquire a strong foundation in the knowledge, skills and competencies
-to overcome the challenges of a volatile, uncertain, complex and ambiguous
-(VUCA) world.</p>
-<p>Hua Yians will be developed as:
-<br>a. Passionate Learners who take responsibility and are motivated life-long
-learners.
-<br>b. Resilient Leaders who are courageous and make difficult decisions in
-the best interests of all
-<br>c. Empathetic Contributors who willingly step forward to help others and
-make a difference.
-<br>d. Glocalised Citizens who understand contemporary trends and issues,
-staying rooted to Singapore and relevant to the world.</p>
+<p>At Hua Yi Secondary School, we believe that all students are unpolished
+gems who have different gifts and abilities. All can learn and grow, have
+the potential to excel, and eventually, will make a difference in society.
+These beliefs guide the school in the design and implementation of programmes
+aimed towards developing Hua Yians to be:</p>
+<p><em>a.&nbsp;</em>&nbsp;&nbsp;&nbsp;&nbsp; <em>Passionate Learners who take responsibility and are motivated life-long learners.</em>
+</p>
+<p><em>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resilient Leaders who have the courage and flexibility to make difficult decisions in the best interests of others.</em>
+</p>
+<p><em>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Empathetic Contributors who demonstrate the willingness to help others by stepping forward to make a difference.</em>
+</p>
+<p><em>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Glocalised Citizens who actively pursue understanding of contemporary trends and issues to stay rooted to Singapore and relevant to the world.</em>
+</p>
+<p></p>
 <p>Hua Yi welcomes prospective students with passion and talents from various
 fields, representing the different aspects of our holistic curriculum,
 to join the Hua Yi family through the Direct School Admission-Secondary
 (DSA-Sec) Exercise.</p>
-<p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSA_Intro.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/DSA_Poster_3.png">
 </div>
 <h4>School Publicity Video&nbsp;</h4>
 <div class="iframe-wrapper">
-<iframe height="408" width="727" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSA7uzrmVok"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="408" width="727" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hSA7uzrmVok"></iframe>
 </div>
 <h4>ST Featured Article</h4>
 <p></p>
@@ -56,10 +55,9 @@ Yi and the volleyball coach, I was convinced that the training culture
 and developmental opportunities were suited for me. Now, as a Secondary
 Four student, I have come to the realisation that opportunities in Hua
 Yi have helped me build a positive mindset in face of the different challenges
-over the</p>
-<p></p>
+over the years.</p>
 <p></p>
 <p><em>The selection criteria and process for the talent areas will be updated from early May. For more information on DSA-Sec, please refer to the MOE website at </em>
 <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
-<p>years.</p>
+<p></p>
