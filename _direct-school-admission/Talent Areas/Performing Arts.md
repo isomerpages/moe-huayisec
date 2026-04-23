@@ -60,6 +60,21 @@ combined training and performances such as the school.</p>
 and interests in taking up leadership roles, and to achieve a well-rounded
 education in Hua Yi.</p>
 <h4>Highlights</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Emplaced on a talent development programme</p>
+</li>
+<li>
+<p>Exposure to varied leadership development experiences</p>
+</li>
+<li>
+<p>Exposure to multiple and varied art forms including learning journeys
+and viewing of public performances</p>
+</li>
+</ul>
+<p>Opportunities to showcase their talents at school-based and public platforms
+including the annual Xin Yao competition and the combined aesthetics community
+performance at Ng Teng Fong Hospital.</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/DSA PA Postcard.png">
 </div>
