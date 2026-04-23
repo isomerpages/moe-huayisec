@@ -5,8 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h4>General Enquiries</h4>
-<p>General Office, 6563 4568</p>
-<p>DSA Enquiries</p>
+<p><strong>General Office </strong>
+</p>
+<p>Contact Num:<strong> </strong>+65634568</p>
+<p></p>
+<p><strong>DSA Enquiries</strong>
+</p>
 <p>For general admission enquiries, please contact:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -18,7 +22,9 @@ description: ""
 </p>
 </li>
 </ul>
-<p>Directions to Hua Yi</p>
+<p></p>
+<p><strong>Directions to Hua Yi</strong>
+</p>
 <p><strong>Bus Services</strong>
 <br>Buses 49, 98, 99, 157, 185, 187, 198, 334, 335, 502</p>
 <p><strong>MRT Stations</strong>
