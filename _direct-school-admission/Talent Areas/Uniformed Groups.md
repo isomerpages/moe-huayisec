@@ -6,6 +6,11 @@ third_nav_title: Talent Areas
 variant: tiptap
 ---
 <h2>Uniformed Groups</h2>
+<p>Hua Yi Secondary School offers its DSA under Uniformed Groups (UG) and
+is focused on developing&nbsp;leadership opportunities in the UG. Hua Yians
+in the UG will enjoy opportunities to develop skills, dispositions, and
+talents to equip them with the skills and support required to lead others
+as well as to serve the community.</p>
 <p><em>DSA Talent Areas in Uniformed Groups (for 2026):</em>
 </p>
 <ul data-tight="true" class="tight">
@@ -20,11 +25,6 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<p>Hua Yi Secondary School offers its DSA under Uniformed Groups (UG) and
-is focused on developing&nbsp;leadership opportunities in the UG. Hua Yians
-in the UG will enjoy opportunities to develop skills, dispositions, and
-talents to equip them with the skills and support required to lead others
-as well as to serve the community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC.jpg">
