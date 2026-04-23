@@ -7,14 +7,11 @@ description: ""
 <p><strong>1.&nbsp;&nbsp;&nbsp; What is DSA-Sec?</strong>
 <br>DSA-Sec is an admission exercise to allow participating schools to select
 some Primary Six students for admission to Secondary One based on their
-achievements and talents before the PSLE results are released.
-<br>
-</p>
+achievements and talents before the PSLE results are released.</p>
 <p>For students, the DSA-Sec Exercise provides them the opportunity to demonstrate
 a more diverse range of achievements and talents when seeking admission
-to secondary schools.
-<br>
-<br>Students successfully allocated to a school through the DSA-Sec will not
+to secondary schools.</p>
+<p>Students successfully allocated to a school through the DSA-Sec will not
 be allowed to participate in the Secondary 1 (S1) Posting to opt for secondary
 schools or to transfer to another school after the release of the PSLE
 results. Students who are not ready to commit to studying in a particular
@@ -27,15 +24,13 @@ Posting instead, in which students are admitted based on their PSLE scores.
 in the DSA-Sec school. The session may consist of interview components
 and/or performance tasks (e.g. demonstration of skills such as the applicant’s
 individual movement ability for Sports, or performances of voice, dance
-and/or instruments for Performing Arts).
-<br>
-<br>For shortlisted students, the DSA-Sec school may request for the submission
+and/or instruments for Performing Arts).</p>
+<p>For shortlisted students, the DSA-Sec school may request for the submission
 of additional documents such as write-ups (e.g. personal statement, short
 essay), or CCA/VIA record.
 <br>
 </p>
 <p><strong>3.&nbsp;&nbsp;&nbsp; What happens after my child has submitted a DSA application?</strong>
-<br>
 </p>
 <p><u>Performing Arts/Sports and Games</u>
 <br><strong><u>Short-listed applicants</u></strong>&nbsp;will be invited to
@@ -51,9 +46,7 @@ suitability.
 <br><u>Student Leadership/Uniformed Groups</u>&nbsp;
 <br><strong><u>Short-listed applicants</u></strong>&nbsp;for Student Leadership
 or Uniformed Groups will be invited to attend an interview by a panel of
-staff members to determine if they will be a good fit for the school.
-<br>
-</p>
+staff members to determine if they will be a good fit for the school.</p>
 <p><strong>4.&nbsp;&nbsp;&nbsp; How will the applicants be short-listed?</strong>
 <br>Applicants will be shortlisted based on their achievements and experience
 in the selected talent area. Students should possess personal qualities
@@ -61,7 +54,6 @@ and strengths that are indicative of their potential in the relevant talent
 areas. Applicants should include in their application any relevant certificates
 or documentation that indicates their competencies or skills relevant to
 their selected talent area.
-<br>
 <br>
 </p>
 <p><strong>5.&nbsp;&nbsp;&nbsp; After my child has submitted the application form, when will my child know if he/she has been short-listed for the interviews?</strong>
@@ -74,8 +66,7 @@ July to attend an interview/audition/sports trial.
 </p>
 <p>At the Audition, applicants’ level of proficiency in the relevant talent
 areas will be assessed.</p>
-<p>
-<br><u>Sports and Games&nbsp;</u>
+<p><u>Sports and Games&nbsp;</u>
 </p>
 <p>At the selection trials, applicants’ level of proficiency for the specific
 sport will be assessed. Applicants are to be dressed in appropriate sports
@@ -88,23 +79,18 @@ to 12 August.
 <br>
 <br>All short-listed applicants will receive a reply of the selection outcome
 via email between 17 and 28 August.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>8.&nbsp;&nbsp;&nbsp; What happens after an applicant receives an offer?</strong>
 <br>Applicants with at least one confirmed offer or are on the waiting list
 of at least one school that they applied for will get a School Preference
 Form from their respective primary school. Applicants will then submit
 their ranked school preferences via the DSA-Sec Internet System or through
-their primary school.
-<br>
-<br>Applicants may also withdraw from the DSA-Sec Exercise at this stage.
+their primary school.</p>
+<p>Applicants may also withdraw from the DSA-Sec Exercise at this stage.
 This means that they will go through the S1 Posting Exercise, together
 with other non-DSA students.
 <br>
 </p>
 <p><strong>9.&nbsp;&nbsp;&nbsp; When will applicants be informed of their DSA posting results?</strong>
-</p>
-<p>
 <br>Applicants will receive their DSA results, together with their PSLE results,
 from their primary schools. If they are allocated a DSA school, they will
 not be allowed to change schools or participate in the S1 Posting Exercise.
@@ -117,22 +103,16 @@ to secondary school.
 <br>
 </p>
 <p><strong>10. If my child is offered a DSA-Sec place in a secondary school, does my child have to meet the school’s indicative cut-off point for Secondary One posting?</strong>
-</p>
-<p>
 <br>To be successfully admitted to a DSA-Sec school, your child's Primary
 School Leaving Examination (PSLE) results must qualify them for a course
 that the school offers.
 <br>
 </p>
 <p><strong>11. How many applicants will be admitted under the DSA exercise for Hua Yi Sec School?</strong>
-</p>
-<p>
 <br>About 20% of the 2027 Secondary One cohort.
 <br>
 </p>
 <p><strong>12. How many schools can my child apply to through the DSA-Sec portal?</strong>
-</p>
-<p>
 <br>Your child can indicate up to three choices during the application. For
 each choice, your child needs to choose a secondary school and a talent
 area from that school.
@@ -145,8 +125,6 @@ the time and effort participating in multiple trials and interviews.
 <br>
 </p>
 <p><strong>13. How many years do the DSA applicants need to commit to the CCA in Hua Yi?</strong>
-</p>
-<p>
 <br>They are required to honour the commitment to the allocated CCA for the
 entire duration of their schooling years in Hua Yi.
 <br>
@@ -163,9 +141,8 @@ in.
 commit to the DSA-Sec school that is allocated to them. If your child is
 successfully admitted via DSA-Sec, they will not be allowed to transfer
 to another school or participate in the Secondary 1 posting to opt for
-secondary schools after the release of PSLE results.
-<br>
-<br>If you do not wish your child to commit to the DSA school, you should
+secondary schools after the release of PSLE results.</p>
+<p>If you do not wish your child to commit to the DSA school, you should
 not submit any school preference during the School Preference Submission.
 <br>
 </p>
@@ -174,16 +151,13 @@ not submit any school preference during the School Preference Submission.
 into the school via DSA-Sec. If the school has enough remaining DSA-Sec
 places after the other students given Confirmed Offers have made their
 choices, your child will be allocated to the school, provided that his/her
-PSLE results qualify him/her for an academic course offered by the school.
-<br>
-<br>If your child is successfully admitted, he/she will not be allowed to
+PSLE results qualify him/her for an academic course offered by the school.</p>
+<p>If your child is successfully admitted, he/she will not be allowed to
 transfer to another school after the release of PSLE results or participate
 in Secondary 1 Posting to opt for secondary schools.
 <br>
 </p>
 <p><strong>17. What should I do if my child’s application is unsuccessful in the DSA-Sec?</strong>
-</p>
-<p>
 <br>If your child is currently studying in an MOE school and unsuccessful
 in DSA-Sec, they will participate in the centralised S1 Posting.
 <br>
