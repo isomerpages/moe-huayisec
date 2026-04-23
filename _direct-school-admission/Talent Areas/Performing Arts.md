@@ -31,9 +31,11 @@ combined training and performances such as the school.</p>
 <li>
 <p>Modern Dance (Dance-International)</p>
 </li>
+<li>
+<p>Show Choir</p>
+<p></p>
+</li>
 </ul>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD.jpg">
 </div>
