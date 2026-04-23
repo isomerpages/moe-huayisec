@@ -6,6 +6,18 @@ third_nav_title: Talent Areas
 variant: tiptap
 ---
 <h2>Physical Sports</h2>
+<p></p>
+<p>Sports participation plays a significant role in students’ character development
+and holistic education. Hua Yi has a long history of sporting excellence,
+with our volleyball girls attaining 2nd runner-up in the 2025 West Zone
+B Division Girls &amp; 2025 National B Division Girls Volleyball Championships
+and our Football Boys emerging as Champions in the 2025 National B Division
+Boys League 4 Championship.</p>
+<p>Primary 6 students with a flair for Badminton, Basketball, Football, Netball,
+Track &amp; Field or Volleyball can seek admission to Hua Yi through the
+DSA-Sec Exercise. DSA students will be given comprehensive support to develop
+their ability and interests in taking up leadership roles, and to achieve
+a well-rounded education in Hua Yi.</p>
 <p><em>DSA Talent Areas in Sports and Games (for 2026):</em>
 </p>
 <ul data-tight="true" class="tight">
@@ -26,21 +38,9 @@ variant: tiptap
 </li>
 <li>
 <p>Volleyball (Girls)</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<p>Sports participation plays a significant role in students’ character development
-and holistic education. Hua Yi has a long history of sporting excellence,
-with our volleyball girls attaining 2nd runner-up in the 2025 West Zone
-B Division Girls &amp; 2025 National B Division Girls Volleyball Championships
-and our Football Boys emerging as Champions in the 2025 National B Division
-Boys League 4 Championship.</p>
-<p>Primary 6 students with a flair for Badminton, Basketball, Football, Netball,
-Track &amp; Field or Volleyball can seek admission to Hua Yi through the
-DSA-Sec Exercise. DSA students will be given comprehensive support to develop
-their ability and interests in taking up leadership roles, and to achieve
-a well-rounded education in Hua Yi.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BADMINTON.jpg">
