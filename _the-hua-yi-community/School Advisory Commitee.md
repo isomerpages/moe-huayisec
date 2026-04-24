@@ -46,7 +46,8 @@ variant: tiptap
 <br>Ms Serene Ong
 <br>Mr Patrick Koh
 <br>Mr Robin Soo
-<br>Mr Scott Cham Mr Tan Chor Meng</p>
+<br>Mr Scott Cham
+<br>Mr Tan Chor Meng</p>
 </td>
 </tr>
 <tr>
