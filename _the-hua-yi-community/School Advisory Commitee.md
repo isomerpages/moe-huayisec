@@ -47,6 +47,7 @@ variant: tiptap
 <br>Mr Patrick Koh
 <br>Mr Robin Soo
 <br>Mr Scott Cham</p>
+<p>Mr Tan Chor Meng</p>
 </td>
 </tr>
 <tr>
