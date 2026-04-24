@@ -23,6 +23,10 @@ variant: tiptap
 <p><a href="/files/2026 Files/Hua_Yi_Sec_1_Outdoor_Adventue_Camp_2026_Parents_Briefing_Slides_10_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Sec 1 Outdoor Adventure Camp 2026 Parents Briefing Slides_10 Mar</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2026_CWA2_Timetable_FINAL_with_venues.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4-G1 Coordinated WA2 Schedule</a>
+</p>
+</li>
 </ul>
 <h4>NON-ACADEMIC</h4>
 <ul data-tight="true" class="tight">
