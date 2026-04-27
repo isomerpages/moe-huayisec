@@ -1,11 +1,11 @@
 ---
-title: Physical Sports
-permalink: /direct-school-admission/Talent-Areas/physical-sports/
+title: Sports and Games
+permalink: /direct-school-admission/talent-areas/physical-sports/
 description: ""
 third_nav_title: Talent Areas
 variant: tiptap
 ---
-<h2>Physical Sports</h2>
+<h2>Sports and Games</h2>
 <p></p>
 <p>Sports participation plays a significant role in students’ character development
 and holistic education. Hua Yi has a long history of sporting excellence,

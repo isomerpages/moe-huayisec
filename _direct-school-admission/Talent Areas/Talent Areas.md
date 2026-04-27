@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/direct-school-admission/Talent-Areas/physical-sports/" rel="noopener noreferrer nofollow" target="_blank">Physical Sports</a>
+<p><a href="/direct-school-admission/Talent-Areas/physical-sports/" rel="noopener noreferrer nofollow" target="_blank">Sports and Games</a>
 </p>
 </li>
 <li>
