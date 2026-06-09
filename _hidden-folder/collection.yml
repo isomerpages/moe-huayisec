@@ -1,5 +1,4 @@
 collections:
   hidden-folder:
     output: true
-    order:
-      - Staff (by Departments) v2.md
+    order: []
