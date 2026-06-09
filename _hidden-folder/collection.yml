@@ -2,4 +2,5 @@ collections:
   hidden-folder:
     output: true
     order:
+      - English.md
       - School Management Committee.md
