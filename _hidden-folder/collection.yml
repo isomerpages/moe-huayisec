@@ -2,14 +2,14 @@ collections:
   hidden-folder:
     output: true
     order:
-      - Executive & Administrative Staff.md
-      - Character & Citizenship Education Committee.md
-      - Infocomm Technology.md
-      - PE & CCA & Aesthetics.md
-      - Craft & Technology.md
-      - Humanities.md
-      - Science.md
-      - Mathematics.md
-      - Mother Tongue.md
-      - English.md
       - School Management Committee.md
+      - English.md
+      - Mother Tongue.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Craft & Technology.md
+      - PE & CCA & Aesthetics.md
+      - Infocomm Technology.md
+      - Character & Citizenship Education Committee.md
+      - Executive & Administrative Staff.md
