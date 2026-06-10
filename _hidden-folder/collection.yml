@@ -2,5 +2,6 @@ collections:
   hidden-folder:
     output: true
     order:
+      - Mother Tongue.md
       - English.md
       - School Management Committee.md
