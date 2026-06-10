@@ -2,6 +2,7 @@ collections:
   hidden-folder:
     output: true
     order:
+      - Staff (by Departments) v2.md
       - Executive & Administrative Staff.md
       - Character & Citizenship Education Committee.md
       - Infocomm Technology.md
