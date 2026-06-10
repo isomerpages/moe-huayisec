@@ -2,6 +2,7 @@ collections:
   hidden-folder:
     output: true
     order:
+      - PE & CCA & Aesthetics.md
       - Craft & Technology.md
       - Humanities.md
       - Science.md
