@@ -2,7 +2,6 @@
 title: PE & CCA & Aesthetics
 permalink: /who-we-are/our-people/staff-by-departments/pe-cca-aesthetics/
 description: ""
-third_nav_title: Staff (By Departments)
 variant: tiptap
 ---
 <h2>PE/ CCA/ Aesthetics</h2>

@@ -2,7 +2,6 @@
 title: Science
 permalink: /who-we-are/our-people/staff-by-departments/sci/
 description: ""
-third_nav_title: Staff (By Departments)
 variant: tiptap
 ---
 <h2>Science</h2>

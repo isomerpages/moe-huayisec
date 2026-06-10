@@ -2,7 +2,6 @@
 title: Mathematics
 permalink: /who-we-are/our-people/staff-by-departments/math/
 description: ""
-third_nav_title: Staff (By Departments)
 variant: tiptap
 ---
 <h2>Mathematics</h2>

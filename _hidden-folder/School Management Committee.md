@@ -2,7 +2,6 @@
 title: School Management Committee
 permalink: /who-we-are/our-people/staff-by-departments/smc/
 description: ""
-third_nav_title: Staff (By Departments)
 variant: tiptap
 ---
 <h2>School Management Comittee</h2>

@@ -2,7 +2,6 @@
 title: Craft & Technology
 permalink: /who-we-are/our-people/staff-by-departments/cnt/
 description: ""
-third_nav_title: Staff (By Departments)
 variant: tiptap
 ---
 <h2>Craft &amp; Technology</h2>

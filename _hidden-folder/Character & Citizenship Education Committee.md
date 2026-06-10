@@ -2,7 +2,6 @@
 title: Character & Citizenship Education Committee
 permalink: /who-we-are/our-people/staff-by-departments/ccec/
 description: ""
-third_nav_title: Staff (By Departments)
 variant: tiptap
 ---
 <h2>Character &amp; Citizenship Education Committee</h2>

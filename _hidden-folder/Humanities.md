@@ -2,7 +2,6 @@
 title: Humanities
 permalink: /who-we-are/our-people/staff-by-departments/humanities/
 description: ""
-third_nav_title: Staff (By Departments)
 variant: tiptap
 ---
 <h2>Humanities</h2>

@@ -2,7 +2,6 @@
 title: Infocomm Technology
 permalink: /who-we-are/our-people/staff-by-departments/ict/
 description: ""
-third_nav_title: Staff (By Departments)
 variant: tiptap
 ---
 <h2>Infocomm Technology</h2>
