@@ -2,6 +2,7 @@ collections:
   hidden-folder:
     output: true
     order:
+      - Executive & Administrative Staff.md
       - Character & Citizenship Education Committee.md
       - Infocomm Technology.md
       - PE & CCA & Aesthetics.md
