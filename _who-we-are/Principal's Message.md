@@ -45,3 +45,14 @@ we thoughtfully integrate technology into learning. Our students use digital
 tools for collaboration, creativity, and innovation, while our clear school
 routines help them build focus, balance, and responsibility — essential
 traits for success in school and beyond.</p>
+<p>A school thrives because of its people. At Hua Yi, our passionate teachers,
+supportive parents, and devoted alumni come together to create a nurturing
+and inspiring environment where students can thrive. As we mark our 70th
+year, we honour our heritage while embracing the future with confidence
+and purpose. Together, we will continue to care, grow, and build a united
+community ready to create the next chapter of the Hua Yi story.</p>
+<p>Thank you for visiting our website.</p>
+<p>Warm regards,</p>
+<p>Dr Lim Siew Yee
+<br>Principal
+<br>Hua Yi Secondary School</p>
