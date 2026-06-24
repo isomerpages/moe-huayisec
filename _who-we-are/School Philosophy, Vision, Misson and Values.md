@@ -1,10 +1,19 @@
 ---
-title: Vision, Mission, Values
+title: School Philosophy, Vision, Misson and Values
 permalink: /who-we-are/our-identity/vision-mission-values/
 description: ""
 variant: tiptap
 ---
-<h2>Vision, Mission, Values</h2>
+<h2>School Philosophy, Vision, Misson and Values:</h2>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Philosophy_v6.png">
+</div>
 <p>
 <br>
 </p>
