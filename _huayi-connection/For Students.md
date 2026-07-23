@@ -20,6 +20,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://online.fliphtml5.com/imxpa/HuaYiSec_HB26_144129_Ebook/#p=1" rel="noopener nofollow" target="_blank">2026 N and O Prelims Timetable</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2026 Files/Hua_Yi_Sec_1_Outdoor_Adventue_Camp_2026_Parents_Briefing_Slides_10_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Hua Yi Sec 1 Outdoor Adventure Camp 2026 Parents Briefing Slides_10 Mar</a>
 </p>
 </li>
