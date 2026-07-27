@@ -16,11 +16,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026 Files/2026_N_O_Prelims_Timetable_7_July_FINAL__for_website_.pdf" rel="noopener nofollow" target="_blank">2026 N and O Prelims Timetable</a>
+<p><a href="/files/2026 Files/2026_WA3_Schedule_docx_updated24July.pdf" rel="noopener nofollow" target="_blank">2026 WA3 Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2026 Files/2026_WA3_Schedule.pdf" rel="noopener nofollow" target="_blank">2026 WA3 Schedule</a>
+<p><a href="/files/2026 Files/2026_N_O_Prelims_Timetable_7_July_FINAL__for_website_.pdf" rel="noopener nofollow" target="_blank">2026 N and O Prelims Timetable</a>
 </p>
 </li>
 <li>
