@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026 Files/2026_N_O_Prelims_Timetable_4_August_2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1-3 Summative Review Timetable</a>
+<p><a href="/files/2026_Summative_Review_Timetable_updated_7_August.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1-3 Summative Review Timetable</a>
 </p>
 </li>
 <li>
