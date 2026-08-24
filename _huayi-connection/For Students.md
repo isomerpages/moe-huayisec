@@ -16,11 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026 Files/2026_SR_Timetable_21_August__Final_with_venues_.pdf" rel="noopener nofollow" target="_blank">2026 SR Timetable_21 August</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2026_Summative_Review_Timetable_updated_7_August.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1-3 Summative Review Timetable</a>
+<p><a href="/files/2026 Files/2026_SR_Timetable_21_August__Final_with_venues_.pdf" rel="noopener nofollow" target="_blank">2026 SR Timetable</a>
 </p>
 </li>
 <li>
